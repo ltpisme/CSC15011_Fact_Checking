@@ -29,4 +29,4 @@ def build_kb_cache(json_path, output_npy_path):
 
 if __name__ == "__main__":
     # Thay đường dẫn file của bạn vào đây
-    build_kb_cache("../knowledge_base.json", "kb_embeddings.npy")
+    build_kb_cache("../data/knowledge_base.json", "../data/kb_embeddings.npy")
