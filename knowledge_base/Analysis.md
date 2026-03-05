@@ -1,23 +1,23 @@
 # Analysis of link:
 
 ## Number of link:
-- Total number of links: 2338
-1. **vnexpress**: 30
-2. **baochinhphu**: 12
-3. **dantri**: 268
-4. **kenh14**: 3
-5. **laodong**: 132
-6. **nguoilaodong**: 39
-7. **nhandan**: 2
-8. **quandoinhandan**: 5
-9. **thanhnien**: 468
-10. **tienphong**: 6
-11. **tuoitre**: 655
-12. **vietnam**: 6
-13. **vietnamnet**: 328
-15. **vov**: 19
-16. **vtcnews**: 21
-17. **vtv**: 343
+- Total number of links: 3374 
+1. **vnexpress**: 1066 - **Van** 
+2. **baochinhphu**: 12 - **Van**
+3. **dantri**: 268 - **Van**
+4. **kenh14**: 3 - **Van**
+5. **laodong**: 132 - **Bao**
+6. **nguoilaodong**: 39 - **Bao**
+7. **nhandan**: 2 - **Bao**
+8. **quandoinhandan**: 5 - **Bao**
+9. **thanhnien**: 468 - **Phong**
+10. **tienphong**: 6 - **Phong**
+11. **tuoitre**: 655 - **Phong**
+12. **vietnam**: 6 - **Phong**
+13. **vietnamnet**: 328 - **Kien**
+15. **vov**: 19 - **Kien**
+16. **vtcnews**: 21 - **Kien**
+17. **vtv**: 343 - **Kien**
 
 
 
