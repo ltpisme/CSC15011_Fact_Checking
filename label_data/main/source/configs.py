@@ -8,6 +8,27 @@ Cấu trúc gồm 2 giai đoạn chính:
     1. Claim Generation: Chiến thuật tạo Luận điểm từ văn bản gốc (Seed Context).
     2. Labelling (Voting Phase): Quy tắc dán nhãn SUPPORTED/REFUTED/NEI dựa trên bằng chứng.
 """
+import os
+from pathlib import Path
+from dotenv import load_dotenv
+
+
+BASE_DIR = Path(__file__).resolve().parent.parent.parent.parent
+
+load_dotenv(BASE_DIR / ".env")
+
+
+KB_RELATIVE_PATH = os.getenv("KNOWLEDGE_BASE_PATH", "data/knowledge_base.json")
+KB_EMBED_RELATIVE_PATH = os.getenv("KNOWLEDGE_EMBED_BASE_PATH")
+OUTPUT_RELATIVE_PATH = os.getenv("OUTPUT_PATH", "label_data/main/data/output_dataset.json")
+KB_PATH = BASE_DIR / KB_RELATIVE_PATH
+KB_EMBED_PATH = BASE_DIR / KB_EMBED_RELATIVE_PATH
+OUTPUT_PATH = BASE_DIR / OUTPUT_RELATIVE_PATH
+
+
+
+
+
 
 LIST_OF_MODELS = {
     "generator": "google/gemini-2.5-flash-lite",
@@ -82,10 +103,10 @@ CÁC BẰNG CHỨNG (EVIDENCES):
 [3] {evidence_3}
 
 YÊU CẦU:
-Thực hiện phân tích logic ngắn gọn và đưa ra nhãn cuối cùng. Trả về DUY NHẤT một khối JSON theo cấu trúc sau:
+Thực hiện phân tích logic và đưa ra nhãn cuối cùng. Trả về DUY NHẤT một khối JSON theo cấu trúc sau:
 {{
-    "suy_luan": "Trích dẫn bằng chứng [1, 2 hoặc 3] và phân tích logic tại đây",
-    "nhan": "SUPPORTED/REFUTED/NEI"
+    "nhan": "SUPPORT/REFUTED/NEI",
+    "trich_dan": "Trích nguyên văn câu hoặc cụm từ quan trọng nhất từ bằng chứng ủng hộ quyết định của bạn"
 }}
 """
 

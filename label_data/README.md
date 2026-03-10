@@ -1,180 +1,99 @@
 # label_data — Pipeline Tạo & Dán Nhãn Dữ Liệu Fact-checking
 
-Thư mục này chứa toàn bộ pipeline để **tự động tạo và dán nhãn dữ liệu** cho bài toán kiểm chứng thông tin (Fact-checking) tiếng Việt. Pipeline được xây dựng theo kiến trúc RAG (Retrieval-Augmented Generation) kết hợp cơ chế **LLM Voting** để đảm bảo chất lượng nhãn.
-
----
-
 ## Cấu trúc thư mục
 
 ```
 label_data/
-├── demo/                        # Phiên bản thử nghiệm (prototype)
+├── pyproject.toml               # Cấu hình dự án & dependencies (uv)
+├── .python-version              # Phiên bản Python
+├── demo/                        # Phiên bản prototype
 │   ├── create_kb.py             # Crawl bài báo & xây dựng Knowledge Base
-│   ├── generate_data.py         # Pipeline tạo + dán nhãn claim (TF-IDF retrieval)
+│   ├── generate_data.py         # Pipeline tạo + dán nhãn claim (dùng TF-IDF)
 │   ├── knowledge_base.json      # Knowledge Base đầu ra
-│   └── tiered_factcheck_dataset.json  # Dataset đã gán nhãn
+│   └── tiered_factcheck_dataset.json  # Dataset mẫu đã gán nhãn
 │
-└── main/                        # Phiên bản chính thức (production)
-    ├── pyproject.toml           # Cấu hình dự án & dependencies
+└── main/                        # Pipeline chính thức
     ├── data/
-    │   └── kb_embeddings.npy    # Cache embedding BGE-M3 (pre-computed)
+    │   ├── knowledge_base.json  # Knowledge Base
+    │   ├── kb_embeddings.npy    # Cache vector BGE-M3 (pre-computed)
+    │   └── output_dataset.json  # Dataset output (được ghi dần sau mỗi claim)
     └── source/
-        ├── configs.py           # Quản lý tập trung prompts & cấu hình model
-        ├── build_cache_bge-m3.py  # Xây dựng cache embedding BGE-M3
-        ├── content_retrieval.py   # Module truy xuất bằng chứng (BGE-M3 & TF-IDF)
+        ├── configs.py           # Prompts, đường dẫn, danh sách model
+        ├── build_cache_bge-m3.py  # Build cache embedding cho Knowledge Base
+        ├── content_retrieval.py   # Truy xuất bằng chứng (BGE-M3 + TF-IDF)
         └── main.py              # Pipeline chính
 ```
 
 ---
 
-## Tổng quan Pipeline
+## Chức năng các file Python
 
-Pipeline hoạt động theo **3 giai đoạn chính**:
+### `demo/create_kb.py`
+Crawl danh sách URL từ file `newspaper_url.txt`, trích xuất nội dung bằng **Trafilatura**, chia thành các chunk (~1500 ký tự) bằng `RecursiveCharacterTextSplitter`, lưu vào `knowledge_base.json`.
 
-```
-[Bài báo Online]
-      │
-      ▼
-┌─────────────────┐
-│  1. Xây dựng KB │  Crawl → Chunking → knowledge_base.json
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────┐
-│  2. Sinh Claim  │  Seed Context → LLM Generator → {SUPPORTED, REFUTED, NEI}
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────┐
-│  3. Dán nhãn    │  Retrieval (BGE-M3/TF-IDF) → LLM Voting (3 models)
-└─────────────────┘
-```
+### `demo/generate_data.py`
+Phiên bản prototype của pipeline chính. Dùng **TF-IDF** để truy xuất bằng chứng, không cần cache embedding. Thích hợp để thử nghiệm nhanh.
 
-### Giai đoạn 1 — Xây dựng Knowledge Base
+### `main/source/configs.py`
+Quản lý tập trung toàn bộ cấu hình: system prompts, user prompt templates cho giai đoạn sinh claim và voting, danh sách model, và các đường dẫn file (KB, embedding cache, output).
 
-- **Script:** `demo/create_kb.py`
-- Đọc danh sách URL từ file `newspaper_url.txt`
-- Sử dụng **Trafilatura** để crawl và trích xuất nội dung bài báo
-- Chia nhỏ văn bản thành các chunk (~1500 ký tự) bằng `RecursiveCharacterTextSplitter`
-- Lưu kết quả vào `knowledge_base.json` (hỗ trợ ghi nối tiếp)
+### `main/source/build_cache_bge-m3.py`
+Load `knowledge_base.json`, encode toàn bộ text bằng model `BAAI/bge-m3`, lưu ma trận vector ra `kb_embeddings.npy`. Chỉ cần chạy một lần khi KB thay đổi.
 
-### Giai đoạn 2 — Sinh Claim
+### `main/source/content_retrieval.py`
+Truy xuất top-K đoạn bằng chứng liên quan tới một claim. Hỗ trợ 2 phương pháp:
+- **`retrieve_bge_m3()`** — Dense retrieval dùng cosine similarity trên cache `.npy` (model được lazy-load dưới dạng singleton)
+- **`retrieve_top_k()`** — Sparse retrieval dùng TF-IDF
+- **`compare_retrieval()`** — So sánh kết quả của hai phương pháp
 
-- **Script:** `main/source/main.py`
-- Chọn ngẫu nhiên một đoạn văn (**Seed Context**) từ Knowledge Base
-- Gọi LLM Generator (`google/gemini-2.5-flash-lite`) để tạo **3 claims** với 3 nhãn:
-  - `SUPPORTED` — Thông tin khớp hoàn toàn với văn bản gốc
-  - `REFUTED` — Thông tin bị sai lệch (thay đổi số liệu, đảo ngược hành động…)
-  - `NEI` — Thông tin liên quan đến thực thể nhưng không đủ bằng chứng kiểm chứng
-
-### Giai đoạn 3 — Truy xuất & Dán nhãn (LLM Voting)
-
-- **Module Retrieval** (`main/source/content_retrieval.py`) hỗ trợ 2 phương pháp:
-
-  | Phương pháp | Mô hình | Ưu điểm |
-  |-------------|---------|---------|
-  | **Dense** | `BAAI/bge-m3` | Tìm kiếm ngữ nghĩa đa ngôn ngữ |
-  | **Sparse** | TF-IDF (sklearn) | Chính xác với thực thể, tên riêng, số liệu |
-
-- **Voting Phase:** 3 LLM voter chấm nhãn độc lập dựa trên bằng chứng được truy xuất, nhãn cuối cùng được quyết định bằng **majority voting**:
-
-  | Vai trò | Model |
-  |---------|-------|
-  | Voter 1 | `openai/gpt-4o-mini` |
-  | Voter 2 | `qwen/qwen-2.5-72b-instruct` |
-  | Voter 3 | `mistralai/mistral-small-24b-instruct-2501` |
+### `main/source/main.py`
+Pipeline chính, chạy end-to-end:
+1. **Sinh claim** — Chọn ngẫu nhiên seed context từ KB, gọi LLM generator tạo 3 claims (`SUPPORT` / `REFUTED` / `NEI`)
+2. **Truy xuất bằng chứng** — Dùng BGE-M3 lấy top-3 đoạn liên quan
+3. **LLM Voting** — 3 model voter chấm nhãn độc lập, kết quả cuối theo majority vote kèm QC metadata (`HIGH/MEDIUM/LOW_CONFIDENCE`, `TYPE_A/B/C`)
+4. **Lưu kết quả** — Ghi vào `output_dataset.json` ngay sau mỗi claim (atomic write qua `.tmp`). Nếu chạy lại, các claim đã xử lý sẽ được bỏ qua tự động.
 
 ---
 
-## Cài đặt (thư mục `main/`)
-
-Dự án sử dụng **uv** để quản lý môi trường ảo.
+## Cài đặt
 
 ```bash
-# Tạo môi trường ảo và cài dependencies
-cd label_data/main
+cd label_data
 uv sync
 ```
 
-**Các thư viện chính:**
-
-| Thư viện | Mục đích |
-|---------|---------|
-| `flagembedding` | Mô hình BGE-M3 để tính embedding |
-| `numpy` | Tính toán cosine similarity trên ma trận embedding |
-| `python-dotenv` | Nạp biến môi trường (API key, đường dẫn KB) |
-| `trafilatura` | Crawl & trích xuất nội dung bài báo |
-| `langchain-text-splitters` | Chia văn bản thành chunk |
-| `scikit-learn` | TF-IDF vectorizer |
-
----
-
-## Cấu hình
-
-Tạo file `.env` trong thư mục `main/` với nội dung:
+Tạo file `.env` tại thư mục gốc của repo:
 
 ```env
 API_KEY=your_openrouter_api_key
-KNOWLEDGE_BASE_PATH=../path/to/knowledge_base.json
+KNOWLEDGE_BASE_PATH=label_data/main/data/knowledge_base.json
+KNOWLEDGE_EMBED_BASE_PATH=label_data/main/data/kb_embeddings.npy
+OUTPUT_PATH=label_data/main/data/output_dataset.json
 ```
-
-> API key lấy từ [OpenRouter](https://openrouter.ai/) — nền tảng tổng hợp nhiều LLM qua một endpoint duy nhất.
 
 ---
 
-## Sử dụng
+## Cách chạy
 
-
-
-### 1. Build cache embedding BGE-M3 (chạy một lần)
+### 1. Build cache embedding (chỉ cần chạy 1 lần)
 
 ```bash
-cd main
-python source/build_cache_bge-m3.py
+cd label_data/main/source
+uv run build_cache_bge-m3.py
 ```
-
-Cache được lưu tại `data/kb_embeddings.npy`, tái sử dụng cho các lần chạy tiếp theo.
 
 ### 2. Chạy pipeline chính
 
 ```bash
-cd main
-python source/main.py
+cd label_data/main/source
+uv run main.py
 ```
 
----
+Pipeline sẽ tự động nối tiếp từ điểm dừng nếu `output_dataset.json` đã tồn tại.
 
-## Định dạng dữ liệu đầu ra (chưa chốt)
+### 3. Chạy prototype (không cần cache)
 
-File `tiered_factcheck_dataset.json` chứa danh sách các mẫu có cấu trúc:
-
-```json
-[
-  {
-    "claim": "Tòa án Ôn Châu tuyên án tử hình 11 người vào ngày 29/1/2026.",
-    "label": "SUPPORTED",
-    "evidence": [
-      {
-        "text": "...(đoạn bằng chứng liên quan)...",
-        "source": "https://..."
-      }
-    ],
-    "voting_results": {
-      "gpt-4o-mini": "SUPPORTED",
-      "qwen-2.5-72b": "SUPPORTED",
-      "mistral-small": "SUPPORTED"
-    }
-  }
-]
+```bash
+cd label_data/demo
+python generate_data.py
 ```
-
----
-
-## So sánh Demo vs Main
-
-| Tiêu chí | `demo/` | `main/` |
-|----------|---------|---------|
-| Retrieval | TF-IDF | BGE-M3 + TF-IDF (so sánh) |
-| Cấu hình | Hardcode trong file | Tập trung tại `configs.py` + `.env` |
-| Prompts | Inline trong code | Module riêng (`configs.py`) |
-| Mục đích | Thử nghiệm nhanh | Production-ready |

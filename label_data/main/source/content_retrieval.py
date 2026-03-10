@@ -14,11 +14,28 @@ Note: Kết quả so sánh giữa hai mô hình giúp tinh chỉnh chiến lư�
 
 
 import json
+import re
+
 import numpy as np
 from FlagEmbedding import BGEM3FlagModel
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-import re
+
+from configs import KB_PATH, KB_EMBED_PATH
+
+_bge_model: BGEM3FlagModel | None = None
+
+
+def _get_bge_model() -> BGEM3FlagModel:
+    """Lazy-load BGE-M3 model as a module-level singleton."""
+    global _bge_model
+    if _bge_model is None:
+        _bge_model = BGEM3FlagModel("BAAI/bge-m3", use_fp16=True)
+    return _bge_model
+
+
+
+
 
 
 def retrieve_top_k(claim, kb_data, k=3):
@@ -29,35 +46,33 @@ def retrieve_top_k(claim, kb_data, k=3):
     cosine_similarities = cosine_similarity(claim_vector, vectors).flatten()
     related_indices = cosine_similarities.argsort()[-k:][::-1]
     
-    return [{"text": kb_data[idx]['text'][:400], "source": kb_data[idx].get('source', 'Unknown')} for idx in related_indices]
+    return [{"id": kb_data[idx]['id'], "text": kb_data[idx]['text'][:400], "source": kb_data[idx].get('source', 'Unknown')} for idx in related_indices]
 
 
-def retrieve_bge_m3(claim, kb_data, kb_embeddings, k=3):
-    # 1. Encode duy nhất câu Claim (rất nhanh)
-    claim_vec = model.encode([claim])['dense_vecs']
+def retrieve_bge_m3(claim: str, kb_data: list[dict], kb_embeddings: np.ndarray, k: int = 3) -> list[dict]:
+    model = _get_bge_model()
+    claim_vec = model.encode([claim])["dense_vecs"]
     
-    # 2. Tính Cosine Similarity bằng ma trận (tốc độ ánh sáng)
     # Tích vô hướng giữa vector claim (1, dim) và ma trận KB (N, dim)
     similarities = np.dot(claim_vec, kb_embeddings.T).flatten()
-    
-    # 3. Lấy Top K indices
     top_k_indices = similarities.argsort()[-k:][::-1]
-    
-    # 4. Trả về nội dung đầy đủ (không cắt [:200] để LLM có đủ dữ liệu)
-    results = []
-    for idx in top_k_indices:
-        results.append({
-            "text": kb_data[idx]['text'],
-            "source": kb_data[idx].get('source', 'Unknown'),
-            "score": float(similarities[idx])
-        })
-    return results
+
+    return [
+        {
+            "id": kb_data[idx]["id"],
+            "text": kb_data[idx]["text"],
+            "source": kb_data[idx].get("source", "Unknown"),
+            "score": float(similarities[idx]),
+        }
+        for idx in top_k_indices
+    ]
 
 def compare_retrieval(claim, kb_data, kb_embeddings, k=3):
     # Lấy kết quả từ 2 phương pháp
     res_bge = retrieve_bge_m3(claim, kb_data, kb_embeddings, k=k)
     res_tfidf = retrieve_top_k(claim, kb_data, k=k)
 
+  
     # Trích xuất ID hoặc Text để so sánh (giả sử mỗi item có 'id')
     set_bge = {item['id'] for item in res_bge}
     set_tfidf = {item['id'] for item in res_tfidf}
@@ -90,10 +105,10 @@ def compare_retrieval(claim, kb_data, kb_embeddings, k=3):
 # --- CHẠY THỬ NGHIỆM ---
 if __name__ == "__main__":
     test_claim = "Quan hệ VN - EU đã được nâng cấp lên doi tac Chiến lược toàn diện rồi bạn"
-    kb_path = "../knowledge_base.json"
-    with open(kb_path, "r", encoding="utf-8") as f:
+   
+    with open(KB_PATH, "r", encoding="utf-8") as f:
         kb_data = json.load(f)
     model = BGEM3FlagModel('BAAI/bge-m3', use_fp16=True)
-    kb_embeddings = np.load("kb_embeddings.npy")
+    kb_embeddings = np.load(KB_EMBED_PATH)
     compare_retrieval(test_claim, kb_data, kb_embeddings)
    
