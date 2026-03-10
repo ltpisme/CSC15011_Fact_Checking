@@ -6,7 +6,7 @@
 2. **baochinhphu**: 12 - **Van**
 3. **dantri**: 268 - **Van**
 4. **kenh14**: 3 - **Van**
-5. **laodong**: 132 - **Bao**
+5. **laodong**: 131 - **Bao**
 6. **nguoilaodong**: 39 - **Bao**
 7. **nhandan**: 2 - **Bao**
 8. **quandoinhandan**: 5 - **Bao**
