@@ -12,6 +12,7 @@ import logging
 import random
 import re
 from collections import Counter
+from datetime import datetime, timezone
 
 import numpy as np
 import requests
@@ -27,6 +28,8 @@ from configs import (
     KB_PATH,
     KB_EMBED_PATH,
     OUTPUT_PATH,
+    FAILED_LOG_PATH,
+    CLAIM_PATH
 )
 from content_retrieval import retrieve_bge_m3, retrieve_hybrid_bge
 
@@ -173,24 +176,69 @@ def _save_all_results(results: list[dict]) -> None:
     tmp_path.replace(OUTPUT_PATH)
 
 
+def _load_failed_log() -> list[dict]:
+    """Load danh sách các claim đã thất bại từ lần chạy trước."""
+    if not FAILED_LOG_PATH.exists():
+        return []
+    try:
+        with open(FAILED_LOG_PATH, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except (json.JSONDecodeError, KeyError):
+        logger.warning("Failed log file is corrupt, starting fresh.")
+        return []
+
+
+def _save_failed_log(failed: list[dict]) -> None:
+    """Ghi danh sách claim thất bại ra file một cách an toàn (Atomic Write)."""
+    if not failed:
+        return
+    FAILED_LOG_PATH.parent.mkdir(parents=True, exist_ok=True)
+    tmp_path = FAILED_LOG_PATH.with_suffix(".tmp")
+    with open(tmp_path, "w", encoding="utf-8") as f:
+        json.dump(failed, f, ensure_ascii=False, indent=4)
+    tmp_path.replace(FAILED_LOG_PATH)
+
+
 def run_factcheck_pipeline(n=2500, batch_size=20) -> list[dict]:
+
+
+
+
+    """Load Knowledge Base"""
     with open(KB_PATH, "r", encoding="utf-8") as f:
         kb_data = json.load(f)
     kb_embeddings = np.load(KB_EMBED_PATH)
+    """Load Context to generate Claim data"""
+    with open(CLAIM_PATH, "r", encoding="utf-8") as f:
+        claim_data = [json.loads(line) for line in f if line.strip()]
+    
+
+
+
+
+
 
     results, processed_claims = _load_existing_results()
-    
+    failed_logs = _load_failed_log()
+
     # Biến tạm để theo dõi số lượng claim mới thêm vào trong phiên chạy này
     new_claims_count = 0
 
     for i in range(n):
         # Đảm bảo mỗi vòng lặp lấy một context ngẫu nhiên mới
-        seed_context = random.choice(kb_data)
+        seed_context = random.choice(claim_data)
         logger.info(f"Vòng {i+1}/{n} - Context: {seed_context['text'][:50]}...")
 
         claims = generate_claims(seed_context["text"])
         if not claims:
             logger.warning("Không có claim nào được tạo, bỏ qua vòng này.")
+            failed_logs.append({
+                "claim": None,
+                "seed_context": seed_context["text"][:200],
+                "stage": "claim_generation",
+                "error": "LLM trả về danh sách claims rỗng",
+                "timestamp": datetime.now(timezone.utc).isoformat(),
+            })
             continue
 
         for claim_data in claims:
@@ -199,33 +247,58 @@ def run_factcheck_pipeline(n=2500, batch_size=20) -> list[dict]:
             if claim_text in processed_claims:
                 continue
 
-            # Xử lý Fact-check
-            evidences = retrieve_hybrid_bge(claim_text, kb_data, kb_embeddings)
-            voting_result = vote_on_claim(claim_text, evidences)
+            try:
+                # Bước 1: Truy xuất bằng chứng
+                evidences = retrieve_hybrid_bge(claim_text, kb_data, kb_embeddings)
 
-            result = {
-                "claim": claim_text,
-                "final_label": voting_result["final_label"],
-                "status": voting_result["status"],
-                "qc_tag": voting_result["qc_tag"],
-                "consensus_score": voting_result["consensus_score"],
-                "evidence": [{"text": e["text"], "source": e["source"]} for e in evidences],
-                "voter_details": voting_result["voter_details"],
-            }
+                # Bước 2: Voting
+                voting_result = vote_on_claim(claim_text, evidences)
 
-            # Thêm vào list results trong bộ nhớ
-            results.append(result)
-            processed_claims.add(claim_text)
-            new_claims_count += 1
+                # Nếu tất cả voters thất bại, không lưu vào dataset chính
+                if voting_result["consensus_score"].startswith("0/"):
+                    logger.warning("Tất cả voters thất bại cho claim: %s", claim_text[:80])
+                    failed_logs.append({
+                        "claim": claim_text,
+                        "stage": "voting",
+                        "error": "Tất cả voters trả về lỗi, không có nhãn đáng tin cậy",
+                        "timestamp": datetime.now(timezone.utc).isoformat(),
+                    })
+                    continue
+
+                result = {
+                    "claim": claim_text,
+                    "final_label": voting_result["final_label"],
+                    "status": voting_result["status"],
+                    "qc_tag": voting_result["qc_tag"],
+                    "consensus_score": voting_result["consensus_score"],
+                    "evidence": [{"text": e["text"], "source": e["source"]} for e in evidences],
+                    "voter_details": voting_result["voter_details"],
+                }
+
+                # Thêm vào list results trong bộ nhớ
+                results.append(result)
+                processed_claims.add(claim_text)
+                new_claims_count += 1
+
+            except Exception as e:
+                logger.error("Lỗi khi xử lý claim '%s': %s", claim_text[:80], e)
+                failed_logs.append({
+                    "claim": claim_text,
+                    "stage": "processing",
+                    "error": str(e),
+                    "timestamp": datetime.now(timezone.utc).isoformat(),
+                })
 
             # KIỂM TRA BATCH: Lưu file sau mỗi 'batch_size' claim mới
-            if new_claims_count % batch_size == 0:
+            if new_claims_count > 0 and new_claims_count % batch_size == 0:
                 _save_all_results(results)
-                logger.info(f"--- Đã lưu Batch: Tổng cộng {len(results)} claims ---")
+                _save_failed_log(failed_logs)
+                logger.info(f"--- Đã lưu Batch: Tổng cộng {len(results)} claims, {len(failed_logs)} lỗi ---")
 
-    # Lưu lần cuối để tránh sót các claim lẻ ở cuối (ví dụ claim thứ 7501)
+    # Lưu lần cuối để tránh sót các claim lẻ ở cuối
     _save_all_results(results)
-    logger.info(f"Pipeline hoàn tất. Tổng cộng: {len(results)} claims.")
+    _save_failed_log(failed_logs)
+    logger.info(f"Pipeline hoàn tất. Tổng cộng: {len(results)} claims, {len(failed_logs)} lỗi.")
     return results
 
 
