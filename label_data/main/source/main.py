@@ -28,7 +28,7 @@ from configs import (
     KB_EMBED_PATH,
     OUTPUT_PATH,
 )
-from content_retrieval import retrieve_bge_m3
+from content_retrieval import retrieve_bge_m3, retrieve_hybrid_bge
 
 load_dotenv()
 
@@ -162,70 +162,72 @@ def _load_existing_results() -> tuple[list[dict], set[str]]:
         return [], set()
 
 
-def _append_and_save(results: list[dict], new_result: dict) -> None:
-    """Append new_result to results list and overwrite the output file atomically."""
-    results.append(new_result)
+def _save_all_results(results: list[dict]) -> None:
+    """Ghi toàn bộ list results vào file một cách an toàn (Atomic Write)."""
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     tmp_path = OUTPUT_PATH.with_suffix(".tmp")
+    
     with open(tmp_path, "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=4)
+    
     tmp_path.replace(OUTPUT_PATH)
 
 
-def run_factcheck_pipeline() -> list[dict]:
+def run_factcheck_pipeline(n=2500, batch_size=20) -> list[dict]:
     with open(KB_PATH, "r", encoding="utf-8") as f:
         kb_data = json.load(f)
     kb_embeddings = np.load(KB_EMBED_PATH)
 
-    # Load prior progress
     results, processed_claims = _load_existing_results()
+    
+    # Biến tạm để theo dõi số lượng claim mới thêm vào trong phiên chạy này
+    new_claims_count = 0
 
-    # Step 1: Generate claims from a random seed context
-    seed_context = random.choice(kb_data)
-    logger.info("Seed context: %s...", seed_context["text"][:100])
+    for i in range(n):
+        # Đảm bảo mỗi vòng lặp lấy một context ngẫu nhiên mới
+        seed_context = random.choice(kb_data)
+        logger.info(f"Vòng {i+1}/{n} - Context: {seed_context['text'][:50]}...")
 
-    claims = generate_claims(seed_context["text"])
-    if not claims:
-        logger.error("No claims generated. Aborting pipeline.")
-        return results
-
-    for claim_data in claims:
-        claim_text = claim_data["claim"]
-
-        if claim_text in processed_claims:
-            logger.info("Skipping already-processed claim: %s...", claim_text[:60])
+        claims = generate_claims(seed_context["text"])
+        if not claims:
+            logger.warning("Không có claim nào được tạo, bỏ qua vòng này.")
             continue
 
-        # Step 2: Retrieve relevant evidence
-        evidences = retrieve_bge_m3(claim_text, kb_data, kb_embeddings)
+        for claim_data in claims:
+            claim_text = claim_data["claim"]
 
-        # Step 3: Multi-model voting
-        voting_result = vote_on_claim(claim_text, evidences)
+            if claim_text in processed_claims:
+                continue
 
-        result = {
-            "claim": claim_text,
-            "final_label": voting_result["final_label"],
-            "status": voting_result["status"],
-            "qc_tag": voting_result["qc_tag"],
-            "consensus_score": voting_result["consensus_score"],
-            "evidence": [
-                {"text": e["text"], "source": e["source"]} for e in evidences
-            ],
-            "voter_details": voting_result["voter_details"],
-        }
+            # Xử lý Fact-check
+            evidences = retrieve_hybrid_bge(claim_text, kb_data, kb_embeddings)
+            voting_result = vote_on_claim(claim_text, evidences)
 
-        _append_and_save(results, result)
-        processed_claims.add(claim_text)
-        logger.info(
-            "[%s] %s | %s",
-            voting_result["final_label"],
-            voting_result["consensus_score"],
-            claim_text[:80],
-        )
+            result = {
+                "claim": claim_text,
+                "final_label": voting_result["final_label"],
+                "status": voting_result["status"],
+                "qc_tag": voting_result["qc_tag"],
+                "consensus_score": voting_result["consensus_score"],
+                "evidence": [{"text": e["text"], "source": e["source"]} for e in evidences],
+                "voter_details": voting_result["voter_details"],
+            }
 
-    logger.info("Pipeline done. Total: %d claims in %s", len(results), OUTPUT_PATH)
+            # Thêm vào list results trong bộ nhớ
+            results.append(result)
+            processed_claims.add(claim_text)
+            new_claims_count += 1
+
+            # KIỂM TRA BATCH: Lưu file sau mỗi 'batch_size' claim mới
+            if new_claims_count % batch_size == 0:
+                _save_all_results(results)
+                logger.info(f"--- Đã lưu Batch: Tổng cộng {len(results)} claims ---")
+
+    # Lưu lần cuối để tránh sót các claim lẻ ở cuối (ví dụ claim thứ 7501)
+    _save_all_results(results)
+    logger.info(f"Pipeline hoàn tất. Tổng cộng: {len(results)} claims.")
     return results
 
 
 if __name__ == "__main__":
-    run_factcheck_pipeline()
+    run_factcheck_pipeline(1, 1)

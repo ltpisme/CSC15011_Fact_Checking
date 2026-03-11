@@ -41,10 +41,11 @@ Quản lý tập trung toàn bộ cấu hình: system prompts, user prompt templ
 Load `knowledge_base.json`, encode toàn bộ text bằng model `BAAI/bge-m3`, lưu ma trận vector ra `kb_embeddings.npy`. Chỉ cần chạy một lần khi KB thay đổi.
 
 ### `main/source/content_retrieval.py`
-Truy xuất top-K đoạn bằng chứng liên quan tới một claim. Hỗ trợ 2 phương pháp:
-- **`retrieve_bge_m3()`** — Dense retrieval dùng cosine similarity trên cache `.npy` (model được lazy-load dưới dạng singleton)
-- **`retrieve_top_k()`** — Sparse retrieval dùng TF-IDF
-- **`compare_retrieval()`** — So sánh kết quả của hai phương pháp
+Truy xuất top-K đoạn bằng chứng liên quan tới một claim. Hỗ trợ 3 chiến lược:
+- **`retrieve_top_k()`** — Sparse retrieval dùng TF-IDF (sklearn). Không cần model hay cache, phù hợp kiểm thử nhanh và bắt chính xác thực thể (tên, số liệu).
+- **`retrieve_bge_m3()`** — Dense retrieval dùng cosine similarity trên cache `.npy`; model `BAAI/bge-m3` được lazy-load dưới dạng singleton.
+- **`retrieve_hybrid_bge()`** — Two-stage retrieval: BM25 (ViTokenizer) lọc n ứng viên trước, BGE-M3 rerank lấy k kết quả cuối. Cân bằng giữa chính xác thực thể và hiểu ngữ nghĩa.
+- **`compare_retrieval()`** — In bảng so sánh song song kết quả BGE-M3 vs TF-IDF để đánh giá chiến lược retrieval.
 
 ### `main/source/main.py`
 Pipeline chính, chạy end-to-end:
