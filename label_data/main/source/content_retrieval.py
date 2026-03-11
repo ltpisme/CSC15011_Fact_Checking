@@ -29,6 +29,7 @@ Note: `compare_retrieval()` xuất bảng so sánh song song BGE-M3 vs TF-IDF, d
 
 import json
 import re
+import random
 
 import numpy as np
 
@@ -45,13 +46,15 @@ from pyvi import ViTokenizer
 
 
 
-from configs import KB_PATH, KB_EMBED_PATH
+from configs import KB_PATH, KB_EMBED_PATH, BASE_DIR
+
+KB_VNEXPRESS_PATH = BASE_DIR / "label_data/main/data/KB_vnexpress.jsonl"
 
 
 
 
 
-def retrieve_top_k(claim, kb_data, k=3):
+def retrieve_tfidf(claim, kb_data, k=3):
     """
         Sử dụng TF-IDF
     """
@@ -62,7 +65,15 @@ def retrieve_top_k(claim, kb_data, k=3):
     cosine_similarities = cosine_similarity(claim_vector, vectors).flatten()
     related_indices = cosine_similarities.argsort()[-k:][::-1]
     
-    return [{"id": kb_data[idx]['id'], "text": kb_data[idx]['text'][:400], "source": kb_data[idx].get('source', 'Unknown')} for idx in related_indices]
+    return [
+        {
+            "id": kb_data[idx]["id"],
+            "text": kb_data[idx]["text"],
+            "source": kb_data[idx].get("source", "Unknown"),
+            "score": float(cosine_similarities[idx]),
+        }
+        for idx in related_indices
+    ]
 
 
 
@@ -153,48 +164,135 @@ def retrieve_hybrid_bge(claim: str, kb_data: list[dict], kb_embeddings: np.ndarr
 
 
 
-def compare_retrieval(claim, kb_data, kb_embeddings, k=3):
-    # Lấy kết quả từ 2 phương pháp
-    res_bge = retrieve_bge_m3(claim, kb_data, kb_embeddings, k=k)
-    res_tfidf = retrieve_top_k(claim, kb_data, k=k)
+def compare_retrieval(kb_data: list[dict], kb_embeddings: np.ndarray, n_claims: int = 10, k: int = 3):
+    """So sánh 3 phương pháp retrieval (TF-IDF, BGE-M3, Hybrid) trên n_claims được lấy ngẫu nhiên từ KB_vnexpress."""
+    with open(KB_VNEXPRESS_PATH, "r", encoding="utf-8") as f:
+        vnexpress_data = [json.loads(line) for line in f if line.strip()]
 
-  
-    # Trích xuất ID hoặc Text để so sánh (giả sử mỗi item có 'id')
-    set_bge = {item['id'] for item in res_bge}
-    set_tfidf = {item['id'] for item in res_tfidf}
+    sample_claims = random.sample(vnexpress_data, min(n_claims, len(vnexpress_data)))
 
-    # Tìm các phần tử chung
-    common_ids = set_bge.intersection(set_tfidf)
-    overlap_count = len(common_ids)
+    total_overlap_tfidf_bge = 0
+    total_overlap_tfidf_hybrid = 0
+    total_overlap_bge_hybrid = 0
 
-    print(f"\n[SO SÁNH KẾT QUẢ CHO CLAIM]: {claim}")
-    print(f"{'='*60}")
-    print(f"Số lượng bằng chứng trùng lặp: {overlap_count}/{k}")
+    for idx, item in enumerate(sample_claims):
+        claim = item["text"][:200]  # Dùng 200 ký tự đầu làm claim
+        print(f"\n{'='*80}")
+        print(f"[CLAIM {idx+1}/{n_claims}]: {claim[:100]}...")
+        print(f"{'='*80}")
+
+        res_tfidf  = retrieve_tfidf(claim, kb_data, k=k)
+        res_bge    = retrieve_bge_m3(claim, kb_data, kb_embeddings, k=k)
+        res_hybrid = retrieve_hybrid_bge(claim, kb_data, kb_embeddings, k=k)
+
+        ids_tfidf  = {r["id"] for r in res_tfidf}
+        ids_bge    = {r["id"] for r in res_bge}
+        ids_hybrid = {r["id"] for r in res_hybrid}
+
+        overlap_tfidf_bge    = len(ids_tfidf & ids_bge)
+        overlap_tfidf_hybrid = len(ids_tfidf & ids_hybrid)
+        overlap_bge_hybrid   = len(ids_bge & ids_hybrid)
+
+        total_overlap_tfidf_bge    += overlap_tfidf_bge
+        total_overlap_tfidf_hybrid += overlap_tfidf_hybrid
+        total_overlap_bge_hybrid   += overlap_bge_hybrid
+
+        # Bảng kết quả
+        print(f"\n{'Hạng':<5} | {'TF-IDF (score)':<40} | {'BGE-M3 (score)':<40} | {'Hybrid (dense|sparse)':<45}")
+        print(f"{'-'*140}")
+        for i in range(k):
+            src_tfidf  = res_tfidf[i]["source"][:35]
+            src_bge    = res_bge[i]["source"][:35]
+            src_hybrid = res_hybrid[i]["source"][:35]
+            sc_tfidf   = f"{res_tfidf[i]['score']:.4f}"
+            sc_bge     = f"{res_bge[i]['score']:.4f}"
+            sc_hybrid  = f"{res_hybrid[i]['score_dense']:.4f}|{res_hybrid[i]['score_sparse']:.4f}"
+            print(f"{i+1:<5} | {src_tfidf+' ('+sc_tfidf+')':<40} | {src_bge+' ('+sc_bge+')':<40} | {src_hybrid+' ('+sc_hybrid+')':<45}")
+
+        print(f"\n  Overlap TF-IDF ∩ BGE-M3   : {overlap_tfidf_bge}/{k}")
+        print(f"  Overlap TF-IDF ∩ Hybrid   : {overlap_tfidf_hybrid}/{k}")
+        print(f"  Overlap BGE-M3 ∩ Hybrid   : {overlap_bge_hybrid}/{k}")
+
+    print(f"\n{'='*80}")
+    print(f"TỔNG KẾT ({n_claims} claims, top-{k}):")
+    print(f"  Trung bình overlap TF-IDF ∩ BGE-M3 : {total_overlap_tfidf_bge/n_claims:.2f}/{k}")
+    print(f"  Trung bình overlap TF-IDF ∩ Hybrid : {total_overlap_tfidf_hybrid/n_claims:.2f}/{k}")
+    print(f"  Trung bình overlap BGE-M3 ∩ Hybrid : {total_overlap_bge_hybrid/n_claims:.2f}/{k}")
+    print(f"{'='*80}")
+
+
+def export_retrieval_results(kb_data: list[dict], kb_embeddings: np.ndarray, generate_claims_fn, n_contexts: int = 10, k: int = 3, output_dir: str = "."):
+    """Xuất kết quả retrieval của 3 phương pháp ra 3 file JSON riêng biệt.
     
-    # In bảng so sánh tiêu đề/nguồn
-    print(f"\n{'Hạng':<5} | {'BGE-M3 (Ngữ nghĩa)':<25} | {'TF-IDF (Từ khóa)':<25}")
-    print(f"{'-'*60}")
-    for i in range(k):
-        source_bge = re.search(r'https?://([^/]+)', res_bge[i]['source']).group(1)
-        source_tfidf = re.search(r'https?://([^/]+)', res_tfidf[i]['source']).group(1)
-        
-        # Đánh dấu nếu trùng
-        mark = " (V)" if res_bge[i]['id'] in common_ids and res_bge[i]['id'] == res_tfidf[i]['id'] else ""
-        
-        print(f"{i+1:<5} | {source_bge:<25} | {source_tfidf:<25}{mark}")
+    Args:
+        generate_claims_fn: hàm generate_claims từ main.py, truyền vào để tránh circular import.
+    """
+    from pathlib import Path
 
-    if overlap_count == 0:
-        print("\n-> Nhận xét: Hai phương pháp đưa ra kết quả hoàn toàn khác nhau.")
-    elif overlap_count == k:
-        print("\n-> Nhận xét: Hai phương pháp thống nhất hoàn toàn về tập dữ liệu.")
-    #
+    output_dir = Path(output_dir)
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    with open(KB_VNEXPRESS_PATH, "r", encoding="utf-8") as f:
+        vnexpress_data = [json.loads(line) for line in f if line.strip()]
+
+    seed_contexts = random.sample(vnexpress_data, min(n_contexts, len(vnexpress_data)))
+
+    tfidf_results  = []
+    bge_results    = []
+    hybrid_results = []
+
+    claim_count = 0
+    for ctx_idx, item in enumerate(seed_contexts):
+        seed_text = item["text"]
+        print(f"[Context {ctx_idx+1}/{n_contexts}] Đang sinh claim từ: {seed_text[:80]}...")
+
+        claims = generate_claims_fn(seed_text)
+        if not claims:
+            print(f"  -> Không sinh được claim, bỏ qua.")
+            continue
+
+        for claim_item in claims:
+            claim_text = claim_item.get("claim", "")
+            if not claim_text:
+                continue
+
+            claim_count += 1
+            print(f"  [{claim_count}] Retrieval cho: {claim_text[:80]}...")
+
+            res_tfidf  = retrieve_tfidf(claim_text, kb_data, k=k)
+            res_bge    = retrieve_bge_m3(claim_text, kb_data, kb_embeddings, k=k)
+            res_hybrid = retrieve_hybrid_bge(claim_text, kb_data, kb_embeddings, k=k)
+
+            entry = {
+                "claim_id": f"ctx{ctx_idx+1}_claim{claim_count}",
+                "claim": claim_text,
+                "label": claim_item.get("label", ""),
+                "seed_context_id": item.get("id", f"ctx_{ctx_idx+1}"),
+            }
+
+            tfidf_results.append({**entry, "evidences": res_tfidf})
+            bge_results.append({**entry, "evidences": res_bge})
+            hybrid_results.append({**entry, "evidences": res_hybrid})
+
+    files = {
+        "tfidf_retrieval.json": tfidf_results,
+        "bge-m3_retrieval.json": bge_results,
+        "hybrid_retrieval.json": hybrid_results,
+    }
+
+    for filename, data in files.items():
+        path = output_dir / filename
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+        print(f"Đã xuất: {path}")
+
+
 # --- CHẠY THỬ NGHIỆM ---
 if __name__ == "__main__":
-    test_claim = "Quan hệ VN - EU đã được nâng cấp lên doi tac Chiến lược toàn diện rồi bạn"
-   
+    from main import generate_claims
+
     with open(KB_PATH, "r", encoding="utf-8") as f:
-        kb_data = json.load(f)
-    model = BGEM3FlagModel('BAAI/bge-m3', use_fp16=True)
+        kb_data = [json.loads(line) for line in f if line.strip()]
     kb_embeddings = np.load(KB_EMBED_PATH)
-    compare_retrieval(test_claim, kb_data, kb_embeddings)
+    export_retrieval_results(kb_data, kb_embeddings, generate_claims_fn=generate_claims, n_contexts=10, k=3, output_dir=".")
    

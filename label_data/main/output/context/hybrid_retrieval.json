@@ -1,0 +1,872 @@
+[
+  {
+    "claim_id": "ctx1_claim1",
+    "claim": "Tàu Thần Châu-21 được phóng lúc 23h44 ngày 31/10 bằng tên lửa Trường Chinh-2F từ trung tâm Tửu Tuyền.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_957_chunk_1",
+    "evidences": [
+      {
+        "id": "dt_127_chunk_2",
+        "text": "Thông tin không nêu rõ thời điểm diễn ra các cuộc thử nghiệm, nhưng cho biết rằng J-35 đã hoàn thành nhiệm vụ trước khi được triển khai trong cuộc duyệt binh Ngày Chiến thắng tại Bắc Kinh hôm 3/9. CCTV cũng chiếu cảnh máy bay chiến đấu tàng hình được phóng bằng máy phóng từ sàn đáp phẳng của tàu sân bay Phúc Kiến.\n\nPhúc Kiến là tàu sân bay cất cánh bằng máy phóng đầu tiên do Trung Quốc thiết kế và chế tạo, sử dụng boong phẳng, trang bị hệ thống máy phóng điện từ và dây hãm, lượng giãn nước đầy tải hơn 80.000 tấn. Nó được trang bị 3 máy phóng điện từ tiên tiến, là tàu sân bay thứ hai trên thế giới được trang bị thiết bị này sau các tàu lớp Gerald Ford của Mỹ.\n\nTàu Phúc Kiến được hạ thủy vào tháng 6/2022 và bắt đầu thử nghiệm trên biển vào tháng 5/2024. Nó đã hoàn thành 8 lần thử nghiệm trên biển trước khi rời xưởng đóng tàu ở Thượng Hải vào ngày 10/9 cho chuyến thử nghiệm trên biển thứ 9 và cũng là lần cuối cùng trước khi đi vào hoạt động.",
+        "score_dense": 0.3959910273551941,
+        "score_sparse": 23.59151018554175,
+        "source": "dantri"
+      },
+      {
+        "id": "tt_187_chunk_1",
+        "text": "Sau đó ngày 21-12-2024, dự án cầu Phong Châu mới được Bộ Xây dựng chủ trì khởi công. Dự án đầu tư xây dựng cầu Phong Châu mới có chiều dài hơn 652m, rộng 20,5m, với 4 làn xe cơ giới, xây dựng theo quy mô vĩnh cửu với tổng mức đầu tư hơn 635 tỉ đồng. Cầu thi công theo phương pháp dầm bê tông cốt thép và bê tông cốt thép dự ứng lực, phần cầu chính gồm 3 nhịp dầm liên tục, thi công bằng phương pháp đúc hẫng cân bằng, mố, trụ bằng bê tông cốt thép, móng cọc khoan nhồi. Ngày 6-3, trong chuyến thăm và kiểm tra thi công cầu Phong Châu mới, Đại tướng Phan Văn Giang, bộ trưởng Bộ Quốc phòng, đã yêu cầu đẩy nhanh tiến độ, tăng cường nhân lực và trang thiết bị để sớm hoàn thành công trình, bảo đảm chất lượng và đáp ứng nhu cầu đi lại của người dân. Lữ đoàn Công binh 249 tiếp tục đảm nhận nhiệm vụ vận hành an toàn hệ thống cầu phao và phà quân sự Phong Châu trong thời gian chờ cầu mới hoàn thiện. Ngày 22-6, Thủ tướng Phạm Minh Chính yêu cầu tỉnh Phú Thọ, Bộ Quốc phòng hoàn thành cầu Phong Châu mới trước ngày 31-10.",
+        "score_dense": 0.3773805499076843,
+        "score_sparse": 22.81996925945334,
+        "source": "tuoitre"
+      },
+      {
+        "id": "tn_396_chunk_0",
+        "text": "Như đã nói, chưa rõ tính năng cụ thể của dòng chiến đấu cơ thế hệ 6 (tạm gọi là J-36) của vừa được trình diễn hồi cuối tháng 12 vừa qua. Đến nay, với 2 dòng J-20 và J-35 Trung Quốc hiện nằm trong số ít quốc gia sản xuất thế hệ 5 tàng hình. Trong số này, dòng J-35 đến nay vẫn chưa được biên chế hàng loạt. Thực tế, J-35 được phát triển từ nguyên mẫu của dòng FC-31 được bay thử từ năm 2012. Thế nhưng, đến 9 năm sau, vào năm 2021 thì J-35 mới được bay thử. Được xem là phiên bản chuyên dụng cho hải quân, J-35 được thiết kế bộ cánh có thể xếp lại và có thể sử dụng bộ đẩy trên tàu sân bay để hỗ trợ cất cánh. Còn phiên bản J-35A của dòng J-35 dành cho không quân thì chỉ mới được bay thử vào cuối năm 2023. Vì thế, nếu theo lộ trình mất ít nhất từ 5 - 7 năm cho quá trình từ lúc bay thử lần đầu đến lúc triển khai hàng loạt, thì Trung Quốc vẫn cần thêm thời gian để đạt đến bước triển khai hàng loạt J-35. Về phía , nước này đã phát triển đến 3 phiên bản của F-35 gồm phiên bản cơ bản cất/hạ cánh theo điều kiện thông thường, phiên bản cất cánh đường băng ngắn/hạ cánh thẳng đứng, phiên bản cất cánh với bộ đẩy và hạ cánh đường băng ngắn dành cho tàu sân bay.",
+        "score_dense": 0.40912169218063354,
+        "score_sparse": 22.645078854380383,
+        "source": "thanhnien"
+      }
+    ]
+  },
+  {
+    "claim_id": "ctx1_claim2",
+    "claim": "Tàu Thần Châu-21 được phóng lúc 23h44 ngày 30/10 bằng tên lửa Trường Chinh-3F từ trung tâm Tửu Tuyền.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_957_chunk_1",
+    "evidences": [
+      {
+        "id": "dt_127_chunk_2",
+        "text": "Thông tin không nêu rõ thời điểm diễn ra các cuộc thử nghiệm, nhưng cho biết rằng J-35 đã hoàn thành nhiệm vụ trước khi được triển khai trong cuộc duyệt binh Ngày Chiến thắng tại Bắc Kinh hôm 3/9. CCTV cũng chiếu cảnh máy bay chiến đấu tàng hình được phóng bằng máy phóng từ sàn đáp phẳng của tàu sân bay Phúc Kiến.\n\nPhúc Kiến là tàu sân bay cất cánh bằng máy phóng đầu tiên do Trung Quốc thiết kế và chế tạo, sử dụng boong phẳng, trang bị hệ thống máy phóng điện từ và dây hãm, lượng giãn nước đầy tải hơn 80.000 tấn. Nó được trang bị 3 máy phóng điện từ tiên tiến, là tàu sân bay thứ hai trên thế giới được trang bị thiết bị này sau các tàu lớp Gerald Ford của Mỹ.\n\nTàu Phúc Kiến được hạ thủy vào tháng 6/2022 và bắt đầu thử nghiệm trên biển vào tháng 5/2024. Nó đã hoàn thành 8 lần thử nghiệm trên biển trước khi rời xưởng đóng tàu ở Thượng Hải vào ngày 10/9 cho chuyến thử nghiệm trên biển thứ 9 và cũng là lần cuối cùng trước khi đi vào hoạt động.",
+        "score_dense": 0.375811368227005,
+        "score_sparse": 23.59151018554175,
+        "source": "dantri"
+      },
+      {
+        "id": "tn_275_chunk_0",
+        "text": "Mỹ đã phóng một tên lửa đạn đạo liên lục địa vào ngày 5. 11 sau khi Tổng thống Donald Trump ra lệnh khôi phục thử hạt nhân sau hơn 30 năm. Bộ Chỉ huy tấn công toàn cầu Không quân Mỹ (AFGSC) thông báo đã phóng thử một ( ) Minuteman III không mang đầu đạn hạt nhân từ căn cứ lực lượng không gian Vandenberg ở bang California vào hôm 5. 11, theo thông báo trên trang web của căn cứ. Cuộc thử nghiệm mang mật danh GT 254 nhằm đánh giá độ tin cậy, sẵn sàng tác chiến và độ chính xác của ICBM. Minuteman III là ICBM được phóng từ hầm ngầm (silo). Một phi đội trên máy bay chỉ huy E-6B Mercury đã kích hoạt lệnh phóng thông qua Hệ thống kiểm soát phóng tên lửa trên không (ALCS). Đây là hệ thống kiểm soát và chỉ huy dự phòng cho lực lượng . Phương tiện tái nhập quỹ đạo của quả tên lửa đã bay xấp xỉ 6. 759 km và rơi xuống mục tiêu tại bãi thử phòng thủ tên lửa đạn đạo Ronald Reagan trên đảo Kwajalein thuộc Quần đảo Marshall. Người phát ngôn Dmitry Peskov của Điện Kremlin xác nhận Mỹ đã thông báo trước cho Nga về kế hoạch phóng tên lửa theo quy định quốc tế và Moscow cũng đã thông báo cho các nước khác, theo đài RT.",
+        "score_dense": 0.3645000457763672,
+        "score_sparse": 23.125711348357353,
+        "source": "thanhnien"
+      },
+      {
+        "id": "tn_315_chunk_2",
+        "text": "Đây là lần đầu tiên Nga sử dụng tên lửa bội siêu âm Kinzhal để tập kích Ukraine sau nhiều tháng. Starokostiantyniv là nơi có căn cứ không quân quan trọng của Ukraine, và là điểm đóng quân của phi đội cường kích Su-24M trang bị tên lửa dẫn đường Storm Shadow/SCALP-EG được Anh và Pháp viện trợ. Truyền thông Ukraine sau đó thông báo ít nhất ba tiếng nổ lớn đã vang lên gần sân bay quốc tế Zhulyany ở , nơi triển khai trận địa tên lửa phòng không Patriot. Cơ quan quân sự thủ đô Ukraine cho hay tiêm kích MiG-31K Nga đã phóng tên lửa Kinzhal về phía thành phố và kêu gọi người dân tìm nơi trú ẩn. Phát ngôn viên Ignat thì cho biết phòng không Ukraine đã bắn rơi một tên lửa Nga. Ở hướng ngược lại, giới chức “Cộng hòa Nhân dân Donetsk” tự xưng cho biết quân đội Ukraine rạng sáng 15. 12 phóng ba quả tên lửa vào thành phố Mariupol ở tỉnh Donetsk. Thông báo không đề cập mục tiêu bị tấn công, thiệt hại liên quan hay loại tên lửa mà phía Ukraine sử dụng. Tuy nhiên, một tài khoản Telegram của Nga chuyên đưa tin về Mariupol cho hay vụ tập kích dường như được tiến hành bằng , loại vũ khí tấn công có tầm bắn xa nhất trong biên chế quân đội Ukraine hiện nay.",
+        "score_dense": 0.40045166015625,
+        "score_sparse": 24.854306959829408,
+        "source": "thanhnien"
+      }
+    ]
+  },
+  {
+    "claim_id": "ctx1_claim3",
+    "claim": "Hệ thống lò nướng không gian sử dụng công nghệ xúc tác ở nhiệt độ thấp và lọc đa tầng.",
+    "label": "NEI",
+    "seed_context_id": "vne_957_chunk_1",
+    "evidences": [
+      {
+        "id": "dt_156_chunk_2",
+        "text": "Lò được trang bị công nghệ kiểm soát nhiệt độ chính xác, thu gom cặn, xúc tác ở nhiệt độ cao và lọc nhiều lớp. Với những tính năng này, chiếc lò giúp thức ăn được nướng nhưng không tạo khói, vẫn đáp ứng tiêu chuẩn về phát thải dầu mỡ của trạm vũ trụ.\n\nHệ thống lọc và lò nướng cũng đã trải qua quá trình thử nghiệm nghiêm ngặt, đảm bảo đủ điều kiện hoạt động trong  môi trường  không gian và có thể vận hành ổn định liên tục tới 500 chu kỳ.\n\nViệc phi hành gia có thể tự tay nấu nướng đánh dấu một bước tiến mới trong hệ thống hỗ trợ sự sống của trạm vũ trụ Trung Quốc. Theo trung tâm này, nhiệm vụ Thần Châu 21 đã mở rộng thực đơn lên hơn 190 món ăn, với chu kỳ thay đổi món trong 10 ngày.\n\nTheo truyền thông Trung Quốc, các phi hành gia giờ đây có thể chế biến nhiều nguyên liệu như rau tươi, hạt, bánh, thịt và thậm chí là bánh mì ngay trên quỹ đạo.",
+        "score_dense": 0.5767213702201843,
+        "score_sparse": 59.42463516322696,
+        "source": "dantri"
+      },
+      {
+        "id": "tn_274_chunk_0",
+        "text": "Dù không có đầy đủ nguyên liệu, các phi hành gia trên trạm vũ trụ Thiên Cung của Trung Quốc chắc chắn đang được thưởng thức những món ăn ngon lành. Một lò nướng mới được chuyển đến của Trung Quốc đã nhanh chóng được đưa vào sử dụng. Trong một video do Trung tâm Phi hành gia Trung Quốc (ACC) công bố, 6 nhà du hành vũ trụ Trung Quốc đang nướng cánh gà trong một lò nướng đặc biệt, trông như một tủ treo tường trạm vũ trụ. Lò nướng này không chỉ là một minh chứng mạnh mẽ cho vi trọng lực (thực chất hoạt động giống như một chiếc nồi chiên không dầu), mà còn mang đến hương vị quê nhà nồng ấm cho các phi hành gia sống trên trạm. Ông Kang Guohua, thành viên cấp cao của Hiệp hội Du hành Vũ trụ Trung Quốc và là giáo sư kỹ thuật hàng không vũ trụ tại Đại học Hàng không và Vũ trụ Nam Kinh, cho biết những tiện nghi như bữa ăn nóng rất quan trọng để giữ cho các phi hành gia “an tâm” về mặt tâm lý. Theo Trung tâm Phi hành gia Trung Quốc, lò nướng hoạt động mà không gây áp lực lên lưới điện của Thiên Cung và được thiết kế để cung cấp điều kiện nướng ổn định, không khói trong môi trường vi trọng lực của trạm.",
+        "score_dense": 0.5162109136581421,
+        "score_sparse": 30.077454755071603,
+        "source": "thanhnien"
+      },
+      {
+        "id": "tn_274_chunk_1",
+        "text": "Những điều kiện như vậy là cần thiết trên các trạm quỹ đạo như Thiên Cung và Trạm Vũ trụ Quốc tế (ISS), nơi phụ thuộc vào các hệ thống hỗ trợ sự sống được bảo trì nghiêm ngặt và các quy trình an toàn nghiêm ngặt. Nấu ăn trong điều kiện vi trọng lực khác với nấu ăn trên trái đất. Thời điểm lý tưởng nhất để thưởng thức món cánh gà là 28 phút bên trong lò nướng kín. Tờ đã so sánh này với cột mốc được ghi nhận trên ISS vào năm 2019, khi các phi hành gia NASA nướng bánh quy trong không gian bằng lò nướng Zero G nguyên mẫu. Thử nghiệm đó cho thấy việc nướng bánh trên quỹ đạo mất nhiều thời gian hơn trên trái đất. Tuy nhiên, lò nướng Zero G chỉ được sử dụng tạm thời, còn lò nướng của Trung Quốc đã được tích hợp vào hệ thống của Thiên Cung và được chứng nhận có thể sử dụng tới 500 lần. Phi hành đoàn Thần Châu 21 đã được phóng lên Thiên Cung vào ngày 31. 10 và sẽ ở lại trên Thiên Cung trong khoảng 6 tháng. Bộ ba này sẽ thay thế các phi hành gia , những người sắp trở về trái đất sau hơn 6 tháng sống trong không gian.",
+        "score_dense": 0.4623793959617615,
+        "score_sparse": 39.78819143386877,
+        "source": "thanhnien"
+      }
+    ]
+  },
+  {
+    "claim_id": "ctx2_claim4",
+    "claim": "Vào ngày 13/1, Phó giám đốc Sở Giao thông Vận tải TP HCM Bùi Hòa An cho biết lưu lượng xe trên các tuyến đường ở TP HCM đã tăng 2,8-11,4% so với cùng kỳ.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_19_chunk_1",
+    "evidences": [
+      {
+        "id": "tt_249_chunk_2",
+        "text": "Liên quan vấn đề này, ông Đỗ Ngọc Hải - trưởng phòng quản lý bảo trì và khai thác công trình (thuộc Sở Giao thông vận tải TP.HCM) - cho biết ở khu vực trung tâm thành phố, lượng xe đi lại tính từ đầu năm 2025 đến nay đã tăng hơn 11%. Con số này đã cho thấy nhu cầu đi lại của người dân dịp cận Tết rất cao. Đồng thời thời gian qua thành phố có tổ chức nhiều lễ hội, nên xe cộ được điều tiết dồn vào một số tuyến đường. Có một số ý kiến cho rằng nguyên nhân gây ùn ứ giao thông hiện nay phần lớn do người dân tuân thủ nghị định 168 là chưa đúng. Thực tế nghị định này đã giúp thành phố đạt tích cực về nhiều mặt, tình hình trật tự tốt hơn, người dân ít vi phạm hơn… Để giảm ùn ứ giao thông trong dịp này, Sở Giao thông vận tải đã và đang phối hợp với lực lượng cảnh sát giao thông rà soát từng nút giao để gắn đèn tín hiệu rẽ phải cho xe hai bánh. Tại các vị trí này, các pha đèn phải được rà soát kỹ lưỡng, đảm bảo hiệu quả cho nhiều nút giao liền kề.",
+        "score_dense": 0.5395512580871582,
+        "score_sparse": 46.1173985083929,
+        "source": "tuoitre"
+      },
+      {
+        "id": "tt_251_chunk_0",
+        "text": "Cận Tết, nhu cầu vận chuyển hàng hóa và đi lại tăng khiến tình hình giao thông căng thẳng. Trong bối cảnh nghị định 168 của Chính phủ được áp dụng với nhiều quy định xử phạt nghiêm khắc, giải pháp giảm nhiệt giao thông đang được dư luận quan tâm. Và nhận diện được sự căng thẳng ấy, chiều hôm qua (13-1), Phó chủ tịch UBND TP.HCM Bùi Xuân Cường đã chủ trì buổi họp bàn giải pháp ở các \"điểm nóng\" giao thông trên địa bàn. Trong đó, tập trung giải quyết nỗi lo ùn tắc cuối năm và nhu cầu đi lại qua một số khu vực trọng điểm như sân bay Tân Sơn Nhất , cảng Cát Lái - Phú Hữu, các bến xe, nhà ga... sân bay Tân Sơn Nhất \"Vạ vật\" di chuyển dịp cuối năm Những ngày qua, phóng viên Tuổi Trẻ đã hòa vào dòng người lưu thông ở nhiều cung đường nội thành, các nút giao thông cho đến đường dẫn vào cửa ngõ của TP.HCM. Có mặt trong khung giờ từ 7h - 9h và 17h - 19h tại nút giao An Phú - một trong những điểm giao thông huyết mạch kết nối TP.HCM với các tỉnh miền Đông qua cao tốc TP.HCM - Long Thành - Dầu Giây, chúng tôi nhiều phen mướt mồ hôi giữa dòng xe ken đặc cùng tiếng còi xe réo inh ỏi.",
+        "score_dense": 0.5386576652526855,
+        "score_sparse": 41.953362190105366,
+        "source": "tuoitre"
+      },
+      {
+        "id": "tn_29_chunk_0",
+        "text": "Sở Xây dựng TP.HCM vừa đề xuất UBND TP.HCM chấp thuận chủ trương nghiên cứu đầu tư dự án nâng cấp, mở rộng đường Nguyễn Tất Thành - tuyến giao thông huyết mạch kết nối khu Nam với trung tâm thành phố. Theo Sở Xây dựng, đường Nguyễn Tất Thành hiện có chiều dài gần 2 km, mặt cắt ngang chỉ từ 8 - 14 m, trong khi theo quy hoạch, lộ giới tuyến đường này từ 30 - 40 m. Là tuyến đường nối trung tâm TP.HCM với khu Nam (quận 4, 7 và huyện Nhà Bè trước đây), đường Nguyễn Tất Thành hiện đang trong tình trạng quá tải, thường xuyên xảy ra ùn tắc, đặc biệt vào giờ cao điểm. Lưu lượng phương tiện trên đường Nguyễn Tất Thành hiện vượt 140% công suất thiết kế, biến nơi đây thành điểm ùn tắc nghiêm trọng nhất thành phố. Năm 2024, tuyến đường này đứng đầu danh sách các đường ùn tắc giao thông nhất thành phố với 811 lần. Như vậy, bình quân mỗi ngày, trên đường này xảy ra 3 lần ùn tắc giao thông. Sở Xây dựng kiến nghị UBND TP.HCM sớm chấp thuận chủ trương nghiên cứu đầu tư dự án trong tháng 10. 2025, đồng thời giao Sở Tài chính tham mưu bố trí vốn chuẩn bị đầu tư và giao Ban Quản lý dự án đầu tư xây dựng các công trình giao thông làm chủ đầu tư thực hiện công tác chuẩn bị dự án.",
+        "score_dense": 0.5508805513381958,
+        "score_sparse": 43.092074920365114,
+        "source": "thanhnien"
+      }
+    ]
+  },
+  {
+    "claim_id": "ctx2_claim5",
+    "claim": "Vào ngày 13/1, Giám đốc Sở Giao thông Vận tải TP HCM Bùi Hòa An cho biết lưu lượng xe ở các tuyến đường trên địa bàn đã tăng 17-20% so với cùng kỳ.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_19_chunk_1",
+    "evidences": [
+      {
+        "id": "tt_249_chunk_2",
+        "text": "Liên quan vấn đề này, ông Đỗ Ngọc Hải - trưởng phòng quản lý bảo trì và khai thác công trình (thuộc Sở Giao thông vận tải TP.HCM) - cho biết ở khu vực trung tâm thành phố, lượng xe đi lại tính từ đầu năm 2025 đến nay đã tăng hơn 11%. Con số này đã cho thấy nhu cầu đi lại của người dân dịp cận Tết rất cao. Đồng thời thời gian qua thành phố có tổ chức nhiều lễ hội, nên xe cộ được điều tiết dồn vào một số tuyến đường. Có một số ý kiến cho rằng nguyên nhân gây ùn ứ giao thông hiện nay phần lớn do người dân tuân thủ nghị định 168 là chưa đúng. Thực tế nghị định này đã giúp thành phố đạt tích cực về nhiều mặt, tình hình trật tự tốt hơn, người dân ít vi phạm hơn… Để giảm ùn ứ giao thông trong dịp này, Sở Giao thông vận tải đã và đang phối hợp với lực lượng cảnh sát giao thông rà soát từng nút giao để gắn đèn tín hiệu rẽ phải cho xe hai bánh. Tại các vị trí này, các pha đèn phải được rà soát kỹ lưỡng, đảm bảo hiệu quả cho nhiều nút giao liền kề.",
+        "score_dense": 0.49721983075141907,
+        "score_sparse": 44.166479024614816,
+        "source": "tuoitre"
+      },
+      {
+        "id": "tt_251_chunk_0",
+        "text": "Cận Tết, nhu cầu vận chuyển hàng hóa và đi lại tăng khiến tình hình giao thông căng thẳng. Trong bối cảnh nghị định 168 của Chính phủ được áp dụng với nhiều quy định xử phạt nghiêm khắc, giải pháp giảm nhiệt giao thông đang được dư luận quan tâm. Và nhận diện được sự căng thẳng ấy, chiều hôm qua (13-1), Phó chủ tịch UBND TP.HCM Bùi Xuân Cường đã chủ trì buổi họp bàn giải pháp ở các \"điểm nóng\" giao thông trên địa bàn. Trong đó, tập trung giải quyết nỗi lo ùn tắc cuối năm và nhu cầu đi lại qua một số khu vực trọng điểm như sân bay Tân Sơn Nhất , cảng Cát Lái - Phú Hữu, các bến xe, nhà ga... sân bay Tân Sơn Nhất \"Vạ vật\" di chuyển dịp cuối năm Những ngày qua, phóng viên Tuổi Trẻ đã hòa vào dòng người lưu thông ở nhiều cung đường nội thành, các nút giao thông cho đến đường dẫn vào cửa ngõ của TP.HCM. Có mặt trong khung giờ từ 7h - 9h và 17h - 19h tại nút giao An Phú - một trong những điểm giao thông huyết mạch kết nối TP.HCM với các tỉnh miền Đông qua cao tốc TP.HCM - Long Thành - Dầu Giây, chúng tôi nhiều phen mướt mồ hôi giữa dòng xe ken đặc cùng tiếng còi xe réo inh ỏi.",
+        "score_dense": 0.5112645626068115,
+        "score_sparse": 41.52595735971664,
+        "source": "tuoitre"
+      },
+      {
+        "id": "tt_273_chunk_8",
+        "text": "Có được điều trên, sự góp sức của tuyến cao tốc duy nhất nối các tỉnh miền Tây với TP.HCM đóng vai trò rất lớn. Đại diện Tập đoàn Đèo Cả (đơn vị quản lý, khai thác tuyến cao tốc Trung Lương - Mỹ Thuận) cho biết ngày thường tuyến đường này có khoảng 20. 000 - 30. 000 lượt xe qua lại. Còn những ngày Tết, lượng xe có thể lên đến 50. 000 lượt mỗi ngày đêm. Tuy nhiên, tuyến đường vẫn có thể đáp ứng được. Nhờ lượng ô tô rất lớn chạy vào đường cao tốc nên quốc lộ 1 (đoạn qua TP.HCM, Long An, Tiền Giang, Vĩnh Long... ) không còn tình trạng quá tải như trước, xe máy của người dân đi lại trong dịp Tết cũng thông thoáng hơn. Trong khi đó, Đội CSGT đường bộ cao tốc số 7 cho biết trong dịp Tết đã huy động 100% quân số, sử dụng toàn bộ phương tiện sẵn có, bố trí lực lượng CSGT ở 8 nút giao cắt trên toàn tuyến, sẵn sàng hỗ trợ trên tuyến cao tốc TP.HCM - Trung Lương - Mỹ Thuận - Cần Thơ và giải quyết nhanh chóng các sự cố, giao thông không bị ùn tắc.",
+        "score_dense": 0.5481992959976196,
+        "score_sparse": 40.660151354927834,
+        "source": "tuoitre"
+      }
+    ]
+  },
+  {
+    "claim_id": "ctx2_claim6",
+    "claim": "Theo ông Bùi Hòa An, từ dữ liệu quan trắc cho thấy tình trạng ùn tắc giao thông tại các tuyến đường ở trung tâm TP HCM tăng khoảng 17% sau khi Nghị định 168 có hiệu lực.",
+    "label": "NEI",
+    "seed_context_id": "vne_19_chunk_1",
+    "evidences": [
+      {
+        "id": "tt_249_chunk_0",
+        "text": "Chiều 16-1, TP.HCM tổ chức họp báo về kinh tế - xã hội trên địa bàn TP.HCM. Trong đó nội dung liên quan đến kẹt xe, nghị định 168 được báo chí quan tâm và được phản hồi cụ thể. Ông Nguyễn Thành Lợi - phó trưởng Ban chuyên trách Ban An toàn giao thông TP.HCM - cho biết những ngày qua, sau khi áp dụng nghị định 168, tình hình trật tự an toàn giao thông có chuyển biến tích cực, ý thức đi đường của người dân được nâng cao. Tuy nhiên tình trạng kẹt xe - ùn ứ có phát sinh. kẹt xe Cụ thể hơn, tình trạng vi phạm giao thông như chạy xe lên vỉa hè, vượt đèn đỏ, không chấp hành tín hiệu đèn giao thông giảm nhiều. Số vụ tai nạn giao thông giảm sâu. Bên cạnh đó, tình trạng kẹt xe có xảy ra thường xuyên trên các tuyến đường trọng điểm và hầu hết các khung giờ trong ngày. \"Khi nâng mức chế tài vi phạm giao thông từ nghị định 168, người dân không đi lên vỉa hè nên lòng đường đông đúc hơn, trong khi chiều rộng mặt đường vẫn vậy gây áp lực giao thông. Xe tập trung dưới lòng đường chờ đèn đỏ, khi đường không phình ngang thì phải kéo dài dòng ùn tắc\", ông Lợi nói.",
+        "score_dense": 0.7375526428222656,
+        "score_sparse": 49.25610854159925,
+        "source": "tuoitre"
+      },
+      {
+        "id": "tt_249_chunk_2",
+        "text": "Liên quan vấn đề này, ông Đỗ Ngọc Hải - trưởng phòng quản lý bảo trì và khai thác công trình (thuộc Sở Giao thông vận tải TP.HCM) - cho biết ở khu vực trung tâm thành phố, lượng xe đi lại tính từ đầu năm 2025 đến nay đã tăng hơn 11%. Con số này đã cho thấy nhu cầu đi lại của người dân dịp cận Tết rất cao. Đồng thời thời gian qua thành phố có tổ chức nhiều lễ hội, nên xe cộ được điều tiết dồn vào một số tuyến đường. Có một số ý kiến cho rằng nguyên nhân gây ùn ứ giao thông hiện nay phần lớn do người dân tuân thủ nghị định 168 là chưa đúng. Thực tế nghị định này đã giúp thành phố đạt tích cực về nhiều mặt, tình hình trật tự tốt hơn, người dân ít vi phạm hơn… Để giảm ùn ứ giao thông trong dịp này, Sở Giao thông vận tải đã và đang phối hợp với lực lượng cảnh sát giao thông rà soát từng nút giao để gắn đèn tín hiệu rẽ phải cho xe hai bánh. Tại các vị trí này, các pha đèn phải được rà soát kỹ lưỡng, đảm bảo hiệu quả cho nhiều nút giao liền kề.",
+        "score_dense": 0.5733004808425903,
+        "score_sparse": 42.09605908443297,
+        "source": "tuoitre"
+      },
+      {
+        "id": "tt_251_chunk_4",
+        "text": "\"Cuối năm, lượng xe cộ giao hàng tăng nên thường xuyên ùn tắc, nhưng năm nay có vẻ nghiêm trọng hơn. Khi bị kẹt xe, tài xế xe vận tải không chỉ đối mặt với việc mệt mỏi, còn lo trễ giờ, lo bị doanh nghiệp phạt... Đối với nhóm hàng tươi sống thì còn sợ hư hỏng phải chịu trách nhiệm\", một tài xế xe đông lạnh nói. Khẳng định nghị định 168 xử phạt nghiêm là điều cần thiết, tuy nhiên tài xế này mong các cơ quan chức năng sớm giải quyết câu chuyện ùn tắc để việc kinh doanh vận tải được thuận lợi. Đặc biệt dịp cận Tết ai cũng hối hả đi lại, mua bán hàng hóa. Trao đổi với Tuổi Trẻ, ông Bùi Văn Quản, chủ tịch Hiệp hội Vận tải hàng hóa TP.HCM, cũng khẳng định việc xử phạt nghiêm các hành vi cố ý vi phạm giao thông để lập lại trật tự an toàn giao thông ở TP.HCM là cần thiết. vi phạm giao thông Tuy vậy về tình trạng ùn tắc, ông Quản cho rằng nếu không kịp thời giải quyết sẽ ảnh hưởng lớn tới người dân, doanh nghiệp trong thời điểm Tết cận kề. \"Cho nên các đơn vị chức năng phải tăng cường giải pháp kéo giảm ùn tắc giao thông , rà soát điều chỉnh hệ thống đèn tín hiệu phù hợp.",
+        "score_dense": 0.6242666840553284,
+        "score_sparse": 40.620998282418014,
+        "source": "tuoitre"
+      }
+    ]
+  },
+  {
+    "claim_id": "ctx3_claim7",
+    "claim": "Hợp tác xã vận tải 19/5 đang thiếu hụt khoảng 70 tài xế.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_56_chunk_2",
+    "evidences": [
+      {
+        "id": "nd_1_chunk_2",
+        "text": "Tình hình tương tự cũng xảy ra tại Hợp tác xã vận tải 19-5, Công ty Bảo Yến và các đơn vị vận tải tham gia vận chuyển, phục vụ hành khách bằng xe buýt. Đại diện Công ty Bảo Yến cho biết, công ty đang thiếu khoảng 20 lái xe buýt nên đã thông báo tuyển dụng ngay. Số lượng lái xe tuyển dụng chủ yếu bù vào số thiếu hụt do Luật Trật tự, an toàn giao thông đường bộ mới quy định lái xe chỉ được lái xe 48 giờ một tuần và 10 giờ một ngày. “Quy định này yêu cầu thời gian lái xe khá “chặt” trong khi Luật Lao động cho phép người lao động làm việc, kể cả tăng cao từ 200-300 giờ/năm. Do đó, Công ty Bảo Yến đang rốt ráo tuyển dụng lái xe buýt, bảo đảm duy trì hoạt động vận tải của thành phố” - bộ phận nhân sự Công ty Bảo Yến thông tin.",
+        "score_dense": 0.6558787822723389,
+        "score_sparse": 31.262564873461105,
+        "source": "nhandan"
+      },
+      {
+        "id": "tt_286_chunk_2",
+        "text": "nhu cầu đi lại Từ giữa năm 2024, Sở Giao thông vận tải TP.HCM đã dự báo sẽ xảy ra tình trạng nêu trên. Do đó sở đã chỉ đạo Trung tâm Quản lý giao thông công cộng TPHCM làm việc với các đơn vị vận tải, để các đơn vị chủ động trong việc tuyển dụng, bố trí lái xe phù hợp. Đồng thời nhiều tài xế đã đăng ký thi nâng hạng giấy phép lái xe. Đến nay, TP.HCM ghi nhận số lượng tài xế đã đăng ký thi nâng hạng giấy phép lái xe là 81 lái xe, số lượng tài xế đã tuyển dụng mới là 39. Vừa qua, Sở Giao thông vận tải TP.HCM tổ chức họp với đơn vị vận tải và chỉ đạo các bộ phận liên quan tạo điều kiện cho các lái xe tham gia các khóa học nâng hạng giấy phép lái xe theo quy định trong thời gian sớm nhất. Trong đó tạo điều kiện mở lớp, đào tạo, cấp bằng lái nhằm giải quyết tình trạng thiếu tài xế xe buýt trong thời gian tới.",
+        "score_dense": 0.454057514667511,
+        "score_sparse": 14.849742699334023,
+        "source": "tuoitre"
+      },
+      {
+        "id": "tt_286_chunk_0",
+        "text": "Đó là vấn đề nhiều người dân, bạn đọc quan tâm trước thực trạng thiếu hàng trăm tài xế xe buýt ở TP.HCM hiện nay. Một số bạn đọc Tuổi Trẻ Online lo lắng việc thiếu tài xế xe buýt sẽ ảnh hưởng tới hoạt động các tuyến buýt, cắt lịch trình chạy khiến người dân đi lại không thuận tiện. tài xế xe buýt Mới đây, Sở Giao thông vận tải TP.HCM báo cáo UBND TP.HCM về hoạt động vận tải hành khách công cộng bằng xe buýt khi thực hiện Luật Trật tự, an toàn giao thông đường bộ . giao thông đường bộ Theo Sở Giao thông vận tải TP.HCM, hiện TP.HCM có khoảng 2. 221 xe buýt hoạt động trên 138 tuyến. Trong đó nhóm xe trung bình 41 - 60 chỗ có 853 xe (chiếm 39%). Trung tâm Quản lý giao thông công cộng TP.HCM đã thống kê năm 2024 có khoảng 601 tài xế có giấy phép lái xe hạng D (theo Luật Giao thông đường bộ 2008) được bố trí hoạt động trên các tuyến xe buýt có sức chứa 30 - 47 chỗ, bao gồm 20 - 26 chỗ ngồi và 14 - 21 chỗ đứng. Vừa qua, khi Luật Trật tự, an toàn giao thông đường bộ có hiệu lực quy định giấy phép lái xe hạng D2 cấp cho tài xế ô tô chở người (kể cả xe buýt) đến 29 chỗ (không kể chỗ của người lái xe) và hạng D cấp cho tài xế ô tô chở người (kể cả xe buýt) trên 29 chỗ (không kể chỗ của người lái xe).",
+        "score_dense": 0.47295767068862915,
+        "score_sparse": 15.699315975531647,
+        "source": "tuoitre"
+      }
+    ]
+  },
+  {
+    "claim_id": "ctx3_claim8",
+    "claim": "Đại diện Hợp tác xã vận tải 19/5 cho biết đang thiếu hụt khoảng 80 tài xế, chiếm gần 20% tổng số lái xe.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_56_chunk_2",
+    "evidences": [
+      {
+        "id": "nd_1_chunk_2",
+        "text": "Tình hình tương tự cũng xảy ra tại Hợp tác xã vận tải 19-5, Công ty Bảo Yến và các đơn vị vận tải tham gia vận chuyển, phục vụ hành khách bằng xe buýt. Đại diện Công ty Bảo Yến cho biết, công ty đang thiếu khoảng 20 lái xe buýt nên đã thông báo tuyển dụng ngay. Số lượng lái xe tuyển dụng chủ yếu bù vào số thiếu hụt do Luật Trật tự, an toàn giao thông đường bộ mới quy định lái xe chỉ được lái xe 48 giờ một tuần và 10 giờ một ngày. “Quy định này yêu cầu thời gian lái xe khá “chặt” trong khi Luật Lao động cho phép người lao động làm việc, kể cả tăng cao từ 200-300 giờ/năm. Do đó, Công ty Bảo Yến đang rốt ráo tuyển dụng lái xe buýt, bảo đảm duy trì hoạt động vận tải của thành phố” - bộ phận nhân sự Công ty Bảo Yến thông tin.",
+        "score_dense": 0.6995206475257874,
+        "score_sparse": 50.467616017038516,
+        "source": "nhandan"
+      },
+      {
+        "id": "tt_286_chunk_2",
+        "text": "nhu cầu đi lại Từ giữa năm 2024, Sở Giao thông vận tải TP.HCM đã dự báo sẽ xảy ra tình trạng nêu trên. Do đó sở đã chỉ đạo Trung tâm Quản lý giao thông công cộng TPHCM làm việc với các đơn vị vận tải, để các đơn vị chủ động trong việc tuyển dụng, bố trí lái xe phù hợp. Đồng thời nhiều tài xế đã đăng ký thi nâng hạng giấy phép lái xe. Đến nay, TP.HCM ghi nhận số lượng tài xế đã đăng ký thi nâng hạng giấy phép lái xe là 81 lái xe, số lượng tài xế đã tuyển dụng mới là 39. Vừa qua, Sở Giao thông vận tải TP.HCM tổ chức họp với đơn vị vận tải và chỉ đạo các bộ phận liên quan tạo điều kiện cho các lái xe tham gia các khóa học nâng hạng giấy phép lái xe theo quy định trong thời gian sớm nhất. Trong đó tạo điều kiện mở lớp, đào tạo, cấp bằng lái nhằm giải quyết tình trạng thiếu tài xế xe buýt trong thời gian tới.",
+        "score_dense": 0.503463089466095,
+        "score_sparse": 26.75281960489015,
+        "source": "tuoitre"
+      },
+      {
+        "id": "tt_286_chunk_0",
+        "text": "Đó là vấn đề nhiều người dân, bạn đọc quan tâm trước thực trạng thiếu hàng trăm tài xế xe buýt ở TP.HCM hiện nay. Một số bạn đọc Tuổi Trẻ Online lo lắng việc thiếu tài xế xe buýt sẽ ảnh hưởng tới hoạt động các tuyến buýt, cắt lịch trình chạy khiến người dân đi lại không thuận tiện. tài xế xe buýt Mới đây, Sở Giao thông vận tải TP.HCM báo cáo UBND TP.HCM về hoạt động vận tải hành khách công cộng bằng xe buýt khi thực hiện Luật Trật tự, an toàn giao thông đường bộ . giao thông đường bộ Theo Sở Giao thông vận tải TP.HCM, hiện TP.HCM có khoảng 2. 221 xe buýt hoạt động trên 138 tuyến. Trong đó nhóm xe trung bình 41 - 60 chỗ có 853 xe (chiếm 39%). Trung tâm Quản lý giao thông công cộng TP.HCM đã thống kê năm 2024 có khoảng 601 tài xế có giấy phép lái xe hạng D (theo Luật Giao thông đường bộ 2008) được bố trí hoạt động trên các tuyến xe buýt có sức chứa 30 - 47 chỗ, bao gồm 20 - 26 chỗ ngồi và 14 - 21 chỗ đứng. Vừa qua, khi Luật Trật tự, an toàn giao thông đường bộ có hiệu lực quy định giấy phép lái xe hạng D2 cấp cho tài xế ô tô chở người (kể cả xe buýt) đến 29 chỗ (không kể chỗ của người lái xe) và hạng D cấp cho tài xế ô tô chở người (kể cả xe buýt) trên 29 chỗ (không kể chỗ của người lái xe).",
+        "score_dense": 0.6602596044540405,
+        "score_sparse": 33.67698286529561,
+        "source": "tuoitre"
+      }
+    ]
+  },
+  {
+    "claim_id": "ctx3_claim9",
+    "claim": "Sở Giao thông Vận tải TP HCM đã chỉ đạo Trung tâm Quản lý giao thông công cộng làm việc với các đơn vị vận tải chủ động tuyển dụng, bố trí lái xe phù hợp theo quy định của Luật Trật tự, an toàn giao thông đường bộ.",
+    "label": "NEI",
+    "seed_context_id": "vne_56_chunk_2",
+    "evidences": [
+      {
+        "id": "nd_1_chunk_3",
+        "text": "Tạo điều kiện cho đào tạo, sát hạch\nTheo Trung tâm Quản lý Giao thông công cộng thành phố, sau khi Luật Trật tự, an toàn giao thông đường bộ 2024 được ban hành, trung tâm đã chủ động làm việc với các đơn vị kinh doanh vận tải bằng xe buýt để thống kê số lượng lái xe bị tác động, đồng thời báo cáo đề xuất Sở Giao thông vận tải các giải pháp hỗ trợ. Sở Giao thông vận tải đã chỉ đạo Trung tâm Quản lý Giao thông công cộng làm việc với các đơn vị kinh doanh vận tải để các đơn vị chủ động công tác tuyển dụng, bố trí lái xe cho phù hợp quy định; đồng thời chỉ đạo Phòng Quản lý Sát hạch và cấp giấy phép lái xe tạo điều kiện cho các lái xe buýt tham gia các khóa học nâng hạng Giấy phép lái xe trong thời gian sớm nhất.",
+        "score_dense": 0.7998718023300171,
+        "score_sparse": 114.29533703367564,
+        "source": "nhandan"
+      },
+      {
+        "id": "tt_286_chunk_2",
+        "text": "nhu cầu đi lại Từ giữa năm 2024, Sở Giao thông vận tải TP.HCM đã dự báo sẽ xảy ra tình trạng nêu trên. Do đó sở đã chỉ đạo Trung tâm Quản lý giao thông công cộng TPHCM làm việc với các đơn vị vận tải, để các đơn vị chủ động trong việc tuyển dụng, bố trí lái xe phù hợp. Đồng thời nhiều tài xế đã đăng ký thi nâng hạng giấy phép lái xe. Đến nay, TP.HCM ghi nhận số lượng tài xế đã đăng ký thi nâng hạng giấy phép lái xe là 81 lái xe, số lượng tài xế đã tuyển dụng mới là 39. Vừa qua, Sở Giao thông vận tải TP.HCM tổ chức họp với đơn vị vận tải và chỉ đạo các bộ phận liên quan tạo điều kiện cho các lái xe tham gia các khóa học nâng hạng giấy phép lái xe theo quy định trong thời gian sớm nhất. Trong đó tạo điều kiện mở lớp, đào tạo, cấp bằng lái nhằm giải quyết tình trạng thiếu tài xế xe buýt trong thời gian tới.",
+        "score_dense": 0.7133370637893677,
+        "score_sparse": 94.48741830829083,
+        "source": "tuoitre"
+      },
+      {
+        "id": "nd_1_chunk_4",
+        "text": "Theo ông Phạm Vương Bảo, Phó Giám đốc Trung tâm Quản lý giao thông công cộng, hiện có tám đơn vị kinh doanh vận tải bằng xe buýt trên địa bàn thành phố đã chủ động được số lượng lái xe, bảo đảm hoạt động ổn định trên các tuyến được đảm nhận và sáu đơn vị vẫn còn thiếu khoảng 250 lái xe. Việc này có ảnh hưởng nhất định đến hoạt động của các tuyến xe buýt. Sau khi thực hiện các giải pháp hỗ trợ, các đơn vị kinh doanh vận tải đã tổ chức cho 81 lái xe tham gia thi nâng hạng giấy phép lái xe và tuyển dụng mới 39 người. Trong điều kiện đơn vị không đủ số lượng lái xe để tổ chức hoạt động tuyến theo kế hoạch, trung tâm đã có phương án để chủ động điều phối nhằm ổn định hoạt động của hệ thống xe buýt, không làm ảnh hưởng việc đi lại của người dân.",
+        "score_dense": 0.6367391347885132,
+        "score_sparse": 69.25287089214444,
+        "source": "nhandan"
+      }
+    ]
+  },
+  {
+    "claim_id": "ctx4_claim10",
+    "claim": "Bộ Tài chính Mỹ cập nhật báo cáo tình hình tài chính quốc gia vào ngày 22/10, cho thấy tổng nợ công của chính phủ vượt mốc 38.000 tỷ USD.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_946_chunk_0",
+    "evidences": [
+      {
+        "id": "tn_270_chunk_0",
+        "text": "Đài CBS News hôm qua dẫn dữ liệu của Bộ Tài chính Mỹ cho thấy nợ công nước này lần đầu vượt ngưỡng 38. 000 tỉ USD trong bối cảnh chính phủ vẫn chưa mở cửa lại. Việc chính phủ đóng cửa có thể khiến nợ công tiếp tục tăng vì gây trì hoãn hoạt động kinh tế và gián đoạn các quyết định tài khóa, trong khi việc ngừng và khởi động lại các chương trình liên bang cũng tốn chi phí thực hiện. \"Việc chạm mốc 38. 000 tỉ USD vào thời điểm chính phủ đóng cửa là dấu hiệu đáng lo ngại mới nhất cho thấy các nhà lập pháp đang không thực hiện đúng trách nhiệm tài chính của họ\", CBS News dẫn lời ông Michael A. Peterson, Giám đốc điều hành Quỹ Peter G. Peterson (New York). Ông Peterson cho hay vừa vượt ngưỡng 37. 000 tỉ USD cách đây 2 tháng, và tốc độ nợ công của Mỹ đang tăng nhanh đến gấp đôi so với mức tăng từ năm 2000. AFP hôm qua cũng đưa tin về việc các công chức của chính quyền liên bang Mỹ phải xếp hàng nhận viện trợ thực phẩm ở bang Maryland, ngay cạnh thủ đô Washington D.C. Theo ước tính của giới truyền thông, đến nay có hơn 600.",
+        "score_dense": 0.7935319542884827,
+        "score_sparse": 36.357754911039194,
+        "source": "thanhnien"
+      },
+      {
+        "id": "tn_270_chunk_1",
+        "text": "000 nhân viên liên bang bị ảnh hưởng bởi tình trạng chính phủ đóng cửa. Trong bối cảnh này, Mike Johnson hôm 22. 10 thừa nhận thông điệp của đảng Cộng hòa đang trở nên lạc hậu, và có lẽ cần phải điều chỉnh lại chiến lược. Sau đó trong ngày, lãnh đạo phe thiểu số tại Hạ viện Hakeem Jeffries (đảng Dân chủ) cho hay ông hy vọng bế tắc hiện tại có thể được giải quyết vào cuối tháng này, nhưng theo giới quan sát, điều này là không dễ dàng vì phía Dân chủ cũng vẫn chưa tỏ dấu hiệu sẽ nhượng bộ về các yêu cầu của mình. nợ công của Mỹ nợ công Chủ tịch Hạ viện Mỹ",
+        "score_dense": 0.40461117029190063,
+        "score_sparse": 26.007419388682873,
+        "source": "thanhnien"
+      },
+      {
+        "id": "tt_573_chunk_1",
+        "text": "Theo dữ liệu của Bộ Tài chính Mỹ, chính phủ liên bang hiện gánh trên mình khoản nợ công hơn 36 ngàn tỉ USD. Chương trình thị thực mới này có thể đánh dấu sự thay đổi đáng kể trong chính sách nhập cư của Mỹ. Tuy nhiên Mỹ không phải là nơi đầu tiên phát hành \"thẻ vàng\". thị thực mới Theo Hãng tin AP, một số quốc gia châu Âu như Áo, Bỉ, Latvia, Malta, Bồ Đào nha, Bulgaria, Litva, Thụy Sĩ, Hy Lạp, Anh cũng như một số quốc gia khác đã cung cấp “thị thực vàng”. Đây là thị thực định cư được xét cấp cho các cá nhân hoặc nhà đầu tư nước ngoài khi họ đã đầu tư một khoản tiền nhất định vào quốc gia ban hành loại visa này. nhà đầu tư nước ngoài Khi có thị thực vàng, cả cá nhân này và gia đình của họ đều có đủ điều kiện xin giấy phép cư trú vĩnh viễn trong trường hợp người này đáp ứng được các điều kiện của chính phủ.",
+        "score_dense": 0.4360808730125427,
+        "score_sparse": 26.596472551254315,
+        "source": "tuoitre"
+      }
+    ]
+  },
+  {
+    "claim_id": "ctx4_claim11",
+    "claim": "Ủy ban Kinh tế Hỗn hợp (JEC) của quốc hội Mỹ ước tính nợ công tăng trung bình 69.713 USD mỗi ngày suốt năm qua.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_946_chunk_0",
+    "evidences": [
+      {
+        "id": "tn_270_chunk_0",
+        "text": "Đài CBS News hôm qua dẫn dữ liệu của Bộ Tài chính Mỹ cho thấy nợ công nước này lần đầu vượt ngưỡng 38. 000 tỉ USD trong bối cảnh chính phủ vẫn chưa mở cửa lại. Việc chính phủ đóng cửa có thể khiến nợ công tiếp tục tăng vì gây trì hoãn hoạt động kinh tế và gián đoạn các quyết định tài khóa, trong khi việc ngừng và khởi động lại các chương trình liên bang cũng tốn chi phí thực hiện. \"Việc chạm mốc 38. 000 tỉ USD vào thời điểm chính phủ đóng cửa là dấu hiệu đáng lo ngại mới nhất cho thấy các nhà lập pháp đang không thực hiện đúng trách nhiệm tài chính của họ\", CBS News dẫn lời ông Michael A. Peterson, Giám đốc điều hành Quỹ Peter G. Peterson (New York). Ông Peterson cho hay vừa vượt ngưỡng 37. 000 tỉ USD cách đây 2 tháng, và tốc độ nợ công của Mỹ đang tăng nhanh đến gấp đôi so với mức tăng từ năm 2000. AFP hôm qua cũng đưa tin về việc các công chức của chính quyền liên bang Mỹ phải xếp hàng nhận viện trợ thực phẩm ở bang Maryland, ngay cạnh thủ đô Washington D.C. Theo ước tính của giới truyền thông, đến nay có hơn 600.",
+        "score_dense": 0.5544939637184143,
+        "score_sparse": 36.85999363256975,
+        "source": "thanhnien"
+      },
+      {
+        "id": "tt_415_chunk_2",
+        "text": "CRFB cũng cảnh báo rằng nếu chi trả cổ tức hằng năm, nợ công có thể tăng lên 134% GDP vào năm 2035, thay vì 120% như dự báo hiện tại - nghĩa là việc sử dụng toàn bộ tiền thuế quan để chi trả sẽ khiến nợ công tăng thêm, trái ngược mục tiêu của ông Trump. Ngoài ra, Trung tâm Chính sách thuế ước tính thuế quan sẽ khiến mỗi hộ gia đình Mỹ chịu thêm khoảng 2. 600 USD chi phí vào năm 2026, làm giảm tác dụng của khoản cổ tức. Thuế quan thực chất do các nhà nhập khẩu Mỹ đóng, và họ thường chuyển chi phí này sang người tiêu dùng thông qua việc tăng giá hàng hóa - trái ngược tuyên bố của ông Trump cho rằng các nước khác phải trả.",
+        "score_dense": 0.6539781093597412,
+        "score_sparse": 36.271101364552244,
+        "source": "tuoitre"
+      },
+      {
+        "id": "tn_270_chunk_1",
+        "text": "000 nhân viên liên bang bị ảnh hưởng bởi tình trạng chính phủ đóng cửa. Trong bối cảnh này, Mike Johnson hôm 22. 10 thừa nhận thông điệp của đảng Cộng hòa đang trở nên lạc hậu, và có lẽ cần phải điều chỉnh lại chiến lược. Sau đó trong ngày, lãnh đạo phe thiểu số tại Hạ viện Hakeem Jeffries (đảng Dân chủ) cho hay ông hy vọng bế tắc hiện tại có thể được giải quyết vào cuối tháng này, nhưng theo giới quan sát, điều này là không dễ dàng vì phía Dân chủ cũng vẫn chưa tỏ dấu hiệu sẽ nhượng bộ về các yêu cầu của mình. nợ công của Mỹ nợ công Chủ tịch Hạ viện Mỹ",
+        "score_dense": 0.5986108779907227,
+        "score_sparse": 26.92321747754887,
+        "source": "thanhnien"
+      }
+    ]
+  },
+  {
+    "claim_id": "ctx4_claim12",
+    "claim": "Kent Smetters, chuyên gia từ Đại học Pennsylvania, cảnh báo gánh nợ gia tăng theo thời gian cuối cùng sẽ dẫn đến lạm phát cao hơn, làm xói mòn sức mua của người Mỹ theo quy định của Luật Ngân sách Liên bang.",
+    "label": "NEI",
+    "seed_context_id": "vne_946_chunk_0",
+    "evidences": [
+      {
+        "id": "dt_245_chunk_2",
+        "text": "Một là tăng giá hàng hóa và áp lực lạm phát.  Chính sách thuế đối ứng của OBB, với mức thuế 10% áp dụng cho tất cả hàng nhập khẩu và lên tới hơn 40% cho một số quốc gia có thặng dư thương mại lớn với Mỹ, được dự báo sẽ làm tăng giá hàng hóa tiêu dùng tại nước này. Theo nghiên cứu của Đại học Princeton, người tiêu dùng Mỹ có thể phải chi thêm trung bình 3.800 USD mỗi năm do giá cả tăng cao, đặc biệt với các mặt hàng như điện tử, dệt may và thực phẩm nhập khẩu.\n\nBà Christine Lagarde, Chủ tịch Ngân hàng Trung ương châu Âu, cảnh báo tại một sự kiện ở Ireland ngày 2/4: “Chính sách thuế quan của Mỹ sẽ làm tăng giá hàng hóa trên toàn cầu, gây áp lực lạm phát và làm suy giảm tổng cầu. Người lao động Mỹ, đặc biệt là những người có thu nhập thấp, sẽ chịu thiệt hại nặng nề nhất”. Các mặt hàng như điện thoại thông minh, quần áo, và đồ gia dụng, vốn phụ thuộc nhiều vào nhập khẩu từ châu Á, dự kiến sẽ tăng giá từ 15-20% trong vòng 6 tháng tới.",
+        "score_dense": 0.5173712372779846,
+        "score_sparse": 47.69282191174389,
+        "source": "dantri"
+      },
+      {
+        "id": "tn_270_chunk_0",
+        "text": "Đài CBS News hôm qua dẫn dữ liệu của Bộ Tài chính Mỹ cho thấy nợ công nước này lần đầu vượt ngưỡng 38. 000 tỉ USD trong bối cảnh chính phủ vẫn chưa mở cửa lại. Việc chính phủ đóng cửa có thể khiến nợ công tiếp tục tăng vì gây trì hoãn hoạt động kinh tế và gián đoạn các quyết định tài khóa, trong khi việc ngừng và khởi động lại các chương trình liên bang cũng tốn chi phí thực hiện. \"Việc chạm mốc 38. 000 tỉ USD vào thời điểm chính phủ đóng cửa là dấu hiệu đáng lo ngại mới nhất cho thấy các nhà lập pháp đang không thực hiện đúng trách nhiệm tài chính của họ\", CBS News dẫn lời ông Michael A. Peterson, Giám đốc điều hành Quỹ Peter G. Peterson (New York). Ông Peterson cho hay vừa vượt ngưỡng 37. 000 tỉ USD cách đây 2 tháng, và tốc độ nợ công của Mỹ đang tăng nhanh đến gấp đôi so với mức tăng từ năm 2000. AFP hôm qua cũng đưa tin về việc các công chức của chính quyền liên bang Mỹ phải xếp hàng nhận viện trợ thực phẩm ở bang Maryland, ngay cạnh thủ đô Washington D.C. Theo ước tính của giới truyền thông, đến nay có hơn 600.",
+        "score_dense": 0.6589831113815308,
+        "score_sparse": 42.27961895164102,
+        "source": "thanhnien"
+      },
+      {
+        "id": "tt_374_chunk_2",
+        "text": "Giới chuyên gia cảnh báo ngân sách này sẽ tác động lớn đến hệ thống an sinh xã hội và gọi đây là \"dự luật khắc nghiệt nhất từng thấy trong 40 năm qua kể từ khi vấn đề thâm hụt ngân sách nổi lên\". Các tác giả kêu gọi California cần có \"hành động táo bạo\" hơn, trong đó có áp dụng thuế thu nhập doanh nghiệp theo lũy tiến, xóa bỏ một số ưu đãi thuế doanh nghiệp và nhiều biện pháp khác. \"Để California trở thành nơi mọi người đều có cơ hội phát triển - bất kể chủng tộc, giới tính hay bản sắc khác - các nhà lãnh đạo phải hành động quyết liệt nhằm kiềm chế đà gia tăng nghèo đói, đồng thời đưa ra tầm nhìn khác biệt so với định hướng mà liên bang áp đặt trong những tháng gần đây\", báo cáo nhấn mạnh.",
+        "score_dense": 0.5331742763519287,
+        "score_sparse": 41.774090871046134,
+        "source": "tuoitre"
+      }
+    ]
+  },
+  {
+    "claim_id": "ctx5_claim13",
+    "claim": "Nghị định 159/2025 hướng dẫn thi hành Luật Bảo hiểm xã hội về bảo hiểm xã hội tự nguyện có hiệu lực từ ngày 1/7.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_266_chunk_1",
+    "evidences": [
+      {
+        "id": "ld_94_chunk_0",
+        "text": "Hiện nay, chính sách hỗ trợ người cao tuổi được thực hiện theo Nghị định số 20/2021/NĐ-CP; sửa đổi, bổ sung bởi Nghị định số 76/2024/NĐ-CP. Từ ngày 1. 7, Luật Bảo hiểm xã hội năm 2024 có hiệu lực, bổ sung thêm trợ cấp hưu trí xã hội dành cho người cao tuổi. Chính phủ đã có dự thảo Nghị định quy định chi tiết và hướng dẫn thi hành một số điều của Luật Bảo hiểm xã hội năm 2024 về trợ cấp hưu trí xã hội. Theo dự thảo, có 2 nhóm người cao tuổi được hưởngtrợ cấp hưu trí xã hội. Thứ nhất là nhóm từ đủ 75 tuổi trở lên; không hưởng lương hưu hoặc trợ cấp bảo hiểm xã hội hằng tháng. Thứ hai là nhóm từ đủ 70 tuổi đến dưới 75 tuổi thuộc hộ nghèo, hộ cận nghèo; không hưởng lương hưu hoặc trợ cấp bảo hiểm xã hội hằng tháng. Như vậy, từ ngày 1.",
+        "score_dense": 0.696776270866394,
+        "score_sparse": 61.39554856005236,
+        "source": "laodong"
+      },
+      {
+        "id": "tn_112_chunk_3",
+        "text": "Riêng đối với nội dung về thời gian đóng BHXH để xác định người tham gia BHXH tự nguyện đủ điều kiện hưởng lương hưu theo quy định tại luật BHXH và tính mức lương hưu đối với người tham gia BHXH tự nguyện đang thực hiện theo một trong các phương thức đóng sau: 3 tháng/lần; 6 tháng/lần; 12 tháng/lần; 1 lần cho nhiều năm về sau thì cần phải làm rõ hơn để tránh phát sinh nhiều cách hiểu khác nhau trong quá trình thực hiện. Do vậy, Cục Tiền lương và Bảo hiểm xã hội đề xuất nội dung hướng dẫn cụ thể hơn theo hướng thời gian đóng BHXH đối với người tham gia BHXH tự nguyện đang trong quá trình thực hiện theo một trong các phương thức đóng nêu trên, được tính tại thời điểm người tham gia BHXH tự nguyện thực hiện xong phương thức đóng đã chọn. Các quy định tại thông tư này dự kiến được áp dụng từ ngày 1. 7. 2025. lương hưu luật Lao động lao động Quy định thời điểm hưởng lương hưu với từng trường hợp cụ thể Làm rõ hơn thời gian đóng BHXH tự nguyện để đủ điều kiện hưởng lương hưu",
+        "score_dense": 0.5759963989257812,
+        "score_sparse": 42.952183643190274,
+        "source": "thanhnien"
+      },
+      {
+        "id": "tn_112_chunk_2",
+        "text": "Đối với trường hợp người tham gia BHXH tự nguyện đã đóng theo phương thức 3 tháng/lần; 6 tháng/lần; 12 tháng/lần hoặc 1 lần cho nhiều năm về sau, Bộ Nội vụ đề xuất thời điểm xét điều kiện về thời gian đóng BHXH theo 2 phương án: Phương án 1: tháng cuối cùng của phương thức đóng mà người tham gia BHXH tự nguyện đã đóng (cho dù trước đó người lao động đã đủ điều kiện về tuổi đời và thời gian đóng). Phương án: tháng người tham gia BHXH tự nguyện đủ điều kiện về tuổi đời và có yêu cầu hưởng lương hưu (khi đó phát sinh 2 trường hợp: ghi nhận thời gian đóng đến thời điểm đề nghị + hoàn trả lại số tháng đã đóng sau đó hoặc ghi nhận thời gian đã đóng tính đến hết phương thức đóng). Về tính mức hưởng lương hưu, qua rà soát của Cục Tiền lương và BHXH (Bộ Nội vụ), các quy định tại luật BHXH và dự thảo Nghị định quy định chi tiết luật BHXH về BHXH tự nguyện đã quy định cụ thể vấn đề này và đảm bảo cho việc triển khai thực hiện. Do đó, về cơ bản nội dung này chỉ trích dẫn lại quy định của luật BHXH và dự thảo nghị định.",
+        "score_dense": 0.611072301864624,
+        "score_sparse": 29.350323654306834,
+        "source": "thanhnien"
+      }
+    ]
+  },
+  {
+    "claim_id": "ctx5_claim14",
+    "claim": "Lao động tham gia BHXH tự nguyện trước ngày 1/1/2021, có từ đủ 20 năm đóng trở lên nếu có nguyện vọng thì được hưởng lương hưu khi đủ 60 tuổi với nữ, 55 tuổi với nam.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_266_chunk_1",
+    "evidences": [
+      {
+        "id": "tn_112_chunk_1",
+        "text": "1. 2021 và đủ 20 năm đóng BHXH tự nguyện trở lên, thời điểm hưởng lương hưu được tính từ ngày đầu tiên của tháng liền kề sau tháng đủ 60 tuổi đối với nam, đủ 55 tuổi đối với nữ, trừ trường hợp người tham gia BHXH tự nguyện có nguyện vọng hưởng lương hưu theo quy định tại điều 98 của luật BHXH. Trường hợp thời điểm hưởng lương hưu theo quy định được xác định trước ngày 1. 7. 2025 thì thời điểm hưởng lương hưu là từ ngày 1. 7. 2025. Trường hợp không xác định được ngày, tháng sinh (chỉ có năm sinh) thì thời điểm hưởng lương hưu được tính từ ngày đầu tiên của tháng liền kề sau tháng đủ điều kiện hưởng lương hưu theo quy định. Trong đó, tháng đủ tuổi nghỉ hưu được xác định trên cơ sở lấy ngày 1 tháng 1 của năm sinh để làm căn cứ xác định tuổi của người . Về điều kiện hưởng lương hưu đối với người tham gia BHXH tự nguyện, dự thảo nêu rõ thực hiện theo quy định tại điều 98 của luật BHXH. Cụ thể, người tham gia BHXH tự nguyện được hưởng lương hưu khi đủ tuổi nghỉ hưu theo quy định tại bộ luật Lao động và có thời gian đóng BHXH từ đủ 15 năm trở lên.",
+        "score_dense": 0.893528938293457,
+        "score_sparse": 134.30005739420085,
+        "source": "thanhnien"
+      },
+      {
+        "id": "dt_61_chunk_1",
+        "text": "Người tham gia BHXH tự nguyện trước ngày 1/1/2021 có thêm đặc quyền được hưởng lương hưu sớm hơn tuổi nghỉ hưu quy định (Ảnh: BHXH TPHCM).\n\nTheo BHXH Việt Nam, một trong những quy định mới có hiệu lực từ ngày 1/7 tác động tích cực đến quyền lợi của người tham gia BHXH tự nguyện là điều kiện để hưởng chế độ hưu trí.\n\nĐiều kiện hưởng lương hưu dành cho người tham gia BHXH tự nguyện được quy định tại Điều 98 Luật BHXH.\n\nTheo đó, người tham gia BHXH tự nguyện được hưởng lương hưu khi đủ tuổi nghỉ hưu và có thời gian đóng BHXH từ đủ 15 năm trở lên, ít hơn 5 năm so với quy định cũ.\n\nKhoản 2 Điều 169 của Bộ luật Lao động quy định, tuổi nghỉ hưu của người lao động trong điều kiện lao động bình thường được điều chỉnh theo lộ trình cho đến khi đủ 62 tuổi đối với lao động nam vào năm 2028 và đủ 60 tuổi đối với lao động nữ vào năm 2035.",
+        "score_dense": 0.8735406398773193,
+        "score_sparse": 130.10834625147493,
+        "source": "dantri"
+      },
+      {
+        "id": "dt_61_chunk_2",
+        "text": "Kể từ năm 2021, tuổi nghỉ hưu của người lao động trong điều kiện lao động bình thường là đủ 60 tuổi 3 tháng đối với lao động nam và đủ 55 tuổi 4 tháng đối với lao động nữ. Sau đó, cứ mỗi năm tăng thêm 3 tháng đối với lao động nam và 4 tháng đối với lao động nữ.\n\nNhư vậy, theo lộ trình tăng tuổi nghỉ hưu trên, tuổi nghỉ hưu trong năm 2025 của lao động nam là 61 tuổi 3 tháng, lao động nữ là 56 tuổi 8 tháng.\n\nTuy nhiên, Khoản 9 Điều 141 Luật BHXH quy định điều khoản chuyển tiếp dành cho những người đã tham gia BHXH tự nguyện trước ngày 1/1/2021.\n\nTheo đó, những người đã tham gia BHXH tự nguyện trước ngày 1/1/2021 và có đủ 20 năm đóng BHXH tự nguyện trở lên thì được hưởng lương hưu khi đủ 60 tuổi đối với nam, đủ 55 tuổi đối với nữ; tức là thấp hơn tuổi nghỉ hưu quy định tại Khoản 2 Điều 169 của Bộ luật Lao động.\n\nNghị định 159/2025/NĐ-CP quy định chi tiết và hướng dẫn thi hành một số điều của Luật BHXH về BHXH tự nguyện hướng dẫn chi tiết hơn quy định này tại Điều 13.",
+        "score_dense": 0.8781628608703613,
+        "score_sparse": 134.27957732614283,
+        "source": "dantri"
+      }
+    ]
+  },
+  {
+    "claim_id": "ctx5_claim15",
+    "claim": "Theo Luật Bảo hiểm xã hội sửa đổi, nam giới đủ 61 tuổi 3 tháng vào năm 2028 sẽ được nghỉ hưu.",
+    "label": "NEI",
+    "seed_context_id": "vne_266_chunk_1",
+    "evidences": [
+      {
+        "id": "dt_61_chunk_2",
+        "text": "Kể từ năm 2021, tuổi nghỉ hưu của người lao động trong điều kiện lao động bình thường là đủ 60 tuổi 3 tháng đối với lao động nam và đủ 55 tuổi 4 tháng đối với lao động nữ. Sau đó, cứ mỗi năm tăng thêm 3 tháng đối với lao động nam và 4 tháng đối với lao động nữ.\n\nNhư vậy, theo lộ trình tăng tuổi nghỉ hưu trên, tuổi nghỉ hưu trong năm 2025 của lao động nam là 61 tuổi 3 tháng, lao động nữ là 56 tuổi 8 tháng.\n\nTuy nhiên, Khoản 9 Điều 141 Luật BHXH quy định điều khoản chuyển tiếp dành cho những người đã tham gia BHXH tự nguyện trước ngày 1/1/2021.\n\nTheo đó, những người đã tham gia BHXH tự nguyện trước ngày 1/1/2021 và có đủ 20 năm đóng BHXH tự nguyện trở lên thì được hưởng lương hưu khi đủ 60 tuổi đối với nam, đủ 55 tuổi đối với nữ; tức là thấp hơn tuổi nghỉ hưu quy định tại Khoản 2 Điều 169 của Bộ luật Lao động.\n\nNghị định 159/2025/NĐ-CP quy định chi tiết và hướng dẫn thi hành một số điều của Luật BHXH về BHXH tự nguyện hướng dẫn chi tiết hơn quy định này tại Điều 13.",
+        "score_dense": 0.7404142618179321,
+        "score_sparse": 50.827172592621906,
+        "source": "dantri"
+      },
+      {
+        "id": "tt_80_chunk_0",
+        "text": "Từ năm 2026, có nhiều quy định mới về tăng tuổi nghỉ hưu, điều kiện hưởng và cách tính lương hưu. Gửi thắc mắc đến Tuổi Trẻ Online , nhiều bạn muốn biết về hưu sớm có bị trừ phần trăm tỉ lệ nhận lương hưu khi Luật Bảo hiểm xã hội mới có hiệu lực từ 1-7-2025 và tuổi nghỉ hưu sẽ thay đổi ra sao vào năm 2026. lương hưu Tăng tuổi nghỉ hưu thế nào? Bảo hiểm xã hội Việt Nam cho hay theo Luật Bảo hiểm xã hội mới có hiệu lực từ 1-7-2025, người lao động làm việc trong điều kiện bình thường hưởng lương hưu nếu đáp ứng hai điều kiện tiên quyết là đóng bảo hiểm xã hội đủ 15 năm trở lên và đến tuổi về hưu, tức giảm 5 năm tối thiểu so với trước. Bộ luật Lao động 2019 nêu rõ tuổi nghỉ hưu của người lao động trong điều kiện bình thường tăng từ 60 lên 62 tuổi với nam, và từ 55 lên 60 tuổi với nữ. tuổi nghỉ hưu Từ năm 2021, mỗi năm tăng thêm 3 tháng với nam và 4 tháng với nữ cho tới khi nam đủ 62 tuổi vào năm 2028, nữ đủ 60 tuổi vào năm 2035. Như vậy đến năm 2026, tuổi nghỉ hưu của nam là 61 tuổi 6 tháng, còn với nữ là 57 tuổi.",
+        "score_dense": 0.6384263038635254,
+        "score_sparse": 62.75452135496326,
+        "source": "tuoitre"
+      },
+      {
+        "id": "tn_112_chunk_1",
+        "text": "1. 2021 và đủ 20 năm đóng BHXH tự nguyện trở lên, thời điểm hưởng lương hưu được tính từ ngày đầu tiên của tháng liền kề sau tháng đủ 60 tuổi đối với nam, đủ 55 tuổi đối với nữ, trừ trường hợp người tham gia BHXH tự nguyện có nguyện vọng hưởng lương hưu theo quy định tại điều 98 của luật BHXH. Trường hợp thời điểm hưởng lương hưu theo quy định được xác định trước ngày 1. 7. 2025 thì thời điểm hưởng lương hưu là từ ngày 1. 7. 2025. Trường hợp không xác định được ngày, tháng sinh (chỉ có năm sinh) thì thời điểm hưởng lương hưu được tính từ ngày đầu tiên của tháng liền kề sau tháng đủ điều kiện hưởng lương hưu theo quy định. Trong đó, tháng đủ tuổi nghỉ hưu được xác định trên cơ sở lấy ngày 1 tháng 1 của năm sinh để làm căn cứ xác định tuổi của người . Về điều kiện hưởng lương hưu đối với người tham gia BHXH tự nguyện, dự thảo nêu rõ thực hiện theo quy định tại điều 98 của luật BHXH. Cụ thể, người tham gia BHXH tự nguyện được hưởng lương hưu khi đủ tuổi nghỉ hưu theo quy định tại bộ luật Lao động và có thời gian đóng BHXH từ đủ 15 năm trở lên.",
+        "score_dense": 0.7878638505935669,
+        "score_sparse": 44.524360149570136,
+        "source": "thanhnien"
+      }
+    ]
+  },
+  {
+    "claim_id": "ctx6_claim16",
+    "claim": "Vào lúc 19h ngày 1/11, ông Lê Nguyễn Anh Kha nghe tiếng nổ từ dãy núi cách nhà 5 km.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_443_chunk_1",
+    "evidences": [
+      {
+        "id": "tt_38_chunk_0",
+        "text": "Vài giờ sau vụ cháy nhà, ông Thành vẫn không thể quên được âm thanh ám ảnh vọng ra từ căn nhà hàng xóm. Tiếng kêu cứu không thể xác định vọng ra từ tầng mấy, chỉ kéo dài 1 phút rồi im bặt. Gần 5 tiếng sau vụ cháy nhà tại số 9, hẻm 12 ngách 17 ngõ 180 Kim Hoa (phường Văn Miếu - Quốc Tử Giám, Hà Nội), nhiều người sống trong con ngõ nhỏ vẫn vẫn bàng hoàng, chưa thể tin rằng gia đình hàng xóm của mình đã tử vong. cháy Người đàn ông sống cách căn nhà khoảng 50m cho biết khoảng hơn 5h cùng ngày, ông và những hộ liền kề phát hiện vụ hỏa hoạn. Mọi người vội chạy đến hiện trường và hô hoán cho những người khác biết. \"Tôi đinh ninh phải cố gắng phá cửa để người bên trong còn thoát ra, nhưng lúc này lửa bùng to ở tầng 1, không thể làm gì khác\", ông kể lại. Ông Thành (nhà cách đó 20m) vội vã huy động mọi người dập lửa. Người dân gom được khoảng 30 bình chữa cháy mini, tập trung xịt thẳng vào tầng 1 với nỗ lực kìm chế ngọn lửa và chờ lực lượng chức năng tiếp cận. Nhiều người khác đứng trên ban công, mái nhà bên cạnh dùng xô, chậu hắt nước vào.",
+        "score_dense": 0.4992859959602356,
+        "score_sparse": 24.444615105514014,
+        "source": "tuoitre"
+      },
+      {
+        "id": "nld_11_chunk_1",
+        "text": "Cùng tham gia chữa cháy ban đầu, ông Nguyễn Đức Minh (hàng xóm nhà bị cháy) cho biết khoảng 5 giờ 45 phút, nghe hàng xóm hô hoán có cháy, gia đình ông lập tức gọi cứu hỏa, đồng thời mang bình chữa cháy cùng các vật dụng chứa nước sang hỗ trợ dập lửa. Sau khoảng 10 phút phá được cửa, toàn bộ tầng 1 và các xe bên trong đã bị cháy rụi. Bà Nguyễn Thị Dương Liễu, bàng hoàng kể lại khi chạy tới hiện trường, lửa đã ngùn ngụt bốc lên tầng 4 và tầng tum. Lúc đó, người dân không còn nghe thấy tiếng kêu cứu của người trong nhà nữa. Lực lượng chức năng phong toả hiện trường vụ cháy\nBà Liễu cho biết thêm: \"Chúng tôi dùng khoan và búa đập cửa tầng 1. Sau khi phá được cửa, mọi người dùng bình cứu hỏa dập được lửa ở tầng 1, nhưng ngọn lửa tiếp tục bốc lên tầng tum nên không ai dám tiến sâu vào. Khoảng 5 giờ 30 phút, một hàng xóm khác vẫn còn nghe thấy tiếng kêu cứu rất lớn của 2 nạn nhân\".",
+        "score_dense": 0.5358426570892334,
+        "score_sparse": 27.55690838719598,
+        "source": "nguoilaodong"
+      },
+      {
+        "id": "dt_24_chunk_1",
+        "text": "6h sáng 11/10, ông Nguyễn Đức Minh (phố Kim Hoa, phường Văn Miếu - Quốc Tử Giám, Hà Nội) nghe thấy tiếng nổ nhỏ phía trong ngõ, kèm tiếng hò hét. Ngay lập tức, ông chạy ra và nhìn thấy ngôi nhà hàng xóm đang bốc cháy dữ dội.\n\nĐám cháy xuất hiện khoảng 5h36 tại ngôi nhà gồm 4 tầng và 1 tum nằm trong ngõ 180 phố Kim Hoa, khiến cả 5 người trong gia đình thiệt mạng.\n\nCăn nhà xảy ra vụ cháy khiến 5 người tử vong (Ảnh: Công an Hà Nội).\n\nTại hiện trường, phóng viên  Dân trí  ghi nhận công an đã phong tỏa kín các lối vào ngôi nhà để phục vụ công tác khám nghiệm.\n\nLà một nhân chứng trực tiếp chứng kiến vụ hỏa hoạn và tham gia cứu hộ, ông Nguyễn Đức Minh kể lại khi phát hiện vụ việc, ông cùng vài người khác dùng nhiều bình chữa cháy và các nguồn nước có sẵn để dập lửa tại khu vực để xe tầng 1.\n\n\"Lúc này lửa bùng lên rất lớn, nhiều xe máy bị thiêu rụi. Sau khoảng 10 phút, chúng tôi phá được cửa sắt nhưng khói kèm lửa đã lên hết tầng cao\", ông Minh nói.",
+        "score_dense": 0.5027735233306885,
+        "score_sparse": 32.32453934503173,
+        "source": "dantri"
+      }
+    ]
+  },
+  {
+    "claim_id": "ctx6_claim17",
+    "claim": "Vào lúc 19h ngày 2/11, ông Lê Nguyễn Anh Kha nghe tiếng nổ từ dãy núi cách nhà 5 km.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_443_chunk_1",
+    "evidences": [
+      {
+        "id": "tt_38_chunk_0",
+        "text": "Vài giờ sau vụ cháy nhà, ông Thành vẫn không thể quên được âm thanh ám ảnh vọng ra từ căn nhà hàng xóm. Tiếng kêu cứu không thể xác định vọng ra từ tầng mấy, chỉ kéo dài 1 phút rồi im bặt. Gần 5 tiếng sau vụ cháy nhà tại số 9, hẻm 12 ngách 17 ngõ 180 Kim Hoa (phường Văn Miếu - Quốc Tử Giám, Hà Nội), nhiều người sống trong con ngõ nhỏ vẫn vẫn bàng hoàng, chưa thể tin rằng gia đình hàng xóm của mình đã tử vong. cháy Người đàn ông sống cách căn nhà khoảng 50m cho biết khoảng hơn 5h cùng ngày, ông và những hộ liền kề phát hiện vụ hỏa hoạn. Mọi người vội chạy đến hiện trường và hô hoán cho những người khác biết. \"Tôi đinh ninh phải cố gắng phá cửa để người bên trong còn thoát ra, nhưng lúc này lửa bùng to ở tầng 1, không thể làm gì khác\", ông kể lại. Ông Thành (nhà cách đó 20m) vội vã huy động mọi người dập lửa. Người dân gom được khoảng 30 bình chữa cháy mini, tập trung xịt thẳng vào tầng 1 với nỗ lực kìm chế ngọn lửa và chờ lực lượng chức năng tiếp cận. Nhiều người khác đứng trên ban công, mái nhà bên cạnh dùng xô, chậu hắt nước vào.",
+        "score_dense": 0.5060956478118896,
+        "score_sparse": 22.63862606097706,
+        "source": "tuoitre"
+      },
+      {
+        "id": "dt_24_chunk_1",
+        "text": "6h sáng 11/10, ông Nguyễn Đức Minh (phố Kim Hoa, phường Văn Miếu - Quốc Tử Giám, Hà Nội) nghe thấy tiếng nổ nhỏ phía trong ngõ, kèm tiếng hò hét. Ngay lập tức, ông chạy ra và nhìn thấy ngôi nhà hàng xóm đang bốc cháy dữ dội.\n\nĐám cháy xuất hiện khoảng 5h36 tại ngôi nhà gồm 4 tầng và 1 tum nằm trong ngõ 180 phố Kim Hoa, khiến cả 5 người trong gia đình thiệt mạng.\n\nCăn nhà xảy ra vụ cháy khiến 5 người tử vong (Ảnh: Công an Hà Nội).\n\nTại hiện trường, phóng viên  Dân trí  ghi nhận công an đã phong tỏa kín các lối vào ngôi nhà để phục vụ công tác khám nghiệm.\n\nLà một nhân chứng trực tiếp chứng kiến vụ hỏa hoạn và tham gia cứu hộ, ông Nguyễn Đức Minh kể lại khi phát hiện vụ việc, ông cùng vài người khác dùng nhiều bình chữa cháy và các nguồn nước có sẵn để dập lửa tại khu vực để xe tầng 1.\n\n\"Lúc này lửa bùng lên rất lớn, nhiều xe máy bị thiêu rụi. Sau khoảng 10 phút, chúng tôi phá được cửa sắt nhưng khói kèm lửa đã lên hết tầng cao\", ông Minh nói.",
+        "score_dense": 0.47271883487701416,
+        "score_sparse": 30.735384514216847,
+        "source": "dantri"
+      },
+      {
+        "id": "nld_11_chunk_1",
+        "text": "Cùng tham gia chữa cháy ban đầu, ông Nguyễn Đức Minh (hàng xóm nhà bị cháy) cho biết khoảng 5 giờ 45 phút, nghe hàng xóm hô hoán có cháy, gia đình ông lập tức gọi cứu hỏa, đồng thời mang bình chữa cháy cùng các vật dụng chứa nước sang hỗ trợ dập lửa. Sau khoảng 10 phút phá được cửa, toàn bộ tầng 1 và các xe bên trong đã bị cháy rụi. Bà Nguyễn Thị Dương Liễu, bàng hoàng kể lại khi chạy tới hiện trường, lửa đã ngùn ngụt bốc lên tầng 4 và tầng tum. Lúc đó, người dân không còn nghe thấy tiếng kêu cứu của người trong nhà nữa. Lực lượng chức năng phong toả hiện trường vụ cháy\nBà Liễu cho biết thêm: \"Chúng tôi dùng khoan và búa đập cửa tầng 1. Sau khi phá được cửa, mọi người dùng bình cứu hỏa dập được lửa ở tầng 1, nhưng ngọn lửa tiếp tục bốc lên tầng tum nên không ai dám tiến sâu vào. Khoảng 5 giờ 30 phút, một hàng xóm khác vẫn còn nghe thấy tiếng kêu cứu rất lớn của 2 nạn nhân\".",
+        "score_dense": 0.5291076302528381,
+        "score_sparse": 26.63392683423628,
+        "source": "nguoilaodong"
+      }
+    ]
+  },
+  {
+    "claim_id": "ctx6_claim18",
+    "claim": "Ông Lê Nguyễn Anh Kha, 46 tuổi, trú tại xã Tuy Phong, có con gái 13 tuổi tên là Lê Thị Bích Thảo đã tử vong do vỡ hồ nước trên núi.",
+    "label": "NEI",
+    "seed_context_id": "vne_443_chunk_1",
+    "evidences": [
+      {
+        "id": "dt_35_chunk_2",
+        "text": "UBND xã Tuy Phong đã tham mưu Đảng ủy thăm hỏi, hỗ trợ  17 hộ gia đình bị thiệt hại;  đồng thời làm việc với Công ty TNHH Trang trại Việt Phong Phú để hỗ trợ ban đầu 40 triệu đồng cho 20 hộ; huy động phương tiện cơ giới khắc phục đường sá bị xói lở. Tuy nhiên, những biện pháp này chỉ mang tính tạm thời, không giải quyết tận gốc vấn đề an toàn của hồ chứa nước trên núi Tân Lai.\n\nTrước đó, như  Dân trí  thông tin, khoảng 20h ngày 1/11, hồ chứa nước phục vụ sản xuất nông nghiệp của  Công ty TNHH Trang trại Việt Phong Phú,  do ông Trần Quang Tính (51 tuổi, ngụ TPHCM) làm giám đốc, bất ngờ bị vỡ.\n\nNước từ hồ (diện tích khoảng 1.400m2) cộng với lưu lượng lớn trên các kênh liên hồ ở Suối Măng - Cây Cà và suối Tân Lai đổ xuống khu dân cư Cây Cà, xã Tuy Phong, làm  bé gái 13 tuổi tử vong,  nhiều người bị thương. Vụ vỡ hồ nước gây thiệt hại nặng về nhà cửa, cây trồng, vật nuôi.",
+        "score_dense": 0.7146216630935669,
+        "score_sparse": 63.389408649565716,
+        "source": "dantri"
+      },
+      {
+        "id": "nld_15_chunk_0",
+        "text": "Trưa 2-11, ông Hồ Văn Mười – Chủ tịch UBND tỉnh Lâm Đồng, cùng đoàn công tác đến kiểm tra hiện trường vụ vỡ hồ chứa nước khiến cháu bé 13 tuổi tử vong tại Tuy Phong. Theo báo cáo của UBND xã Tuy Phong, bên cạnh lượng nước lớn từ hồ chứa nước trên cao của Công ty TNHH thương mại Trang Trại Việt Phong Phú chảy về thì mưa lớn tại nhiều khu vực trên đỉnh núi của thôn 1 khiến lũ về rất nhanh. Ngay sau khi tìm thấy thi thể cháu gái 13 tuổi bị nước cuốn trôi, xã Tuy Phong phối hợp gia đình lo hậu sự. Đồng thời phân công nhiều tổ công tác kiểm đếm, khắc phục thiệt hại do sự cố vỡ hồ chứa nước. Đoạn đập nằm phía hạ du bị hồ chứa nước cuốn phăng\nTổng cổng có khoảng 60 hộ dân với gần 200 nhân khẩu bị ảnh hưởng mùa màng, nhà cửa sau sự cố nói trên. Riêng về khu vực Công ty TNHH thương mại Trang Trại Việt Phong Phú, nơi này được đăng ký hoạt động theo mô hình VAC. Trong đó, giai đoạn hiện tại, doanh nghiệp chỉ mới trồng cây ăn trái và đào hồ nước.",
+        "score_dense": 0.7193090319633484,
+        "score_sparse": 63.46613553661265,
+        "source": "nguoilaodong"
+      },
+      {
+        "id": "tt_53_chunk_1",
+        "text": "Từ hướng chân núi, nơi nguồn nước chảy xuống, núi rừng đã bị xé toạc một mảng lớn, đỏ quạch. Đất đá ngổn ngang từ trên núi đổ theo dòng nước. Nhớ lại giây phút kinh hoàng, ông Nguyễn Đán ở thôn 2 Phong Phú cho biết dân nghe như có tiếng nổ vỡ trên núi, rồi sau đó thác nước đổ ào xuống. Người dân không kịp lấy tài sản, chỉ tháo chạy thoát thân. Nhưng hậu quả đau đớn vẫn xảy ra. Bé gái B.T. (13 tuổi) trong khi cùng cha mẹ chạy lũ đã bị nước cuốn mất tích, đến 5h30 sáng 2-11 người dân đau đớn khi thấy thi thể bé mắc vào hàng rào cách vị trí bị cuốn khoảng 500m. Cha mẹ em may mắn bám được thân cây, đau đớn và bất lực nhìn dòng nước cuốn đứa con yêu thương mà không cách gì cứu được. Cha mẹ của bé T. sau đó đã được lực lượng chức năng, người dân cứu sống. Người dân địa phương bày tỏ bức xúc, yêu cầu làm rõ trách nhiệm chủ hồ chứa tự đắp trên núi khiến nước đổ dồn xuống hạ du. Hồ chứa phục vụ sản xuất nông nghiệp của Công ty TNHH trang trại Việt Phong Phú, do ông Trần Quang Tính (51 tuổi) làm giám đốc, bất ngờ bị vỡ.",
+        "score_dense": 0.6155939102172852,
+        "score_sparse": 49.897317787696544,
+        "source": "tuoitre"
+      }
+    ]
+  },
+  {
+    "claim_id": "ctx7_claim19",
+    "claim": "Trong 9 ngày nghỉ Tết, hơn 25.500 lượt tổ công tác đã được huy động trên toàn quốc.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_46_chunk_1",
+    "evidences": [
+      {
+        "id": "tt_273_chunk_3",
+        "text": "Khi lượng xe bắt đầu đông, các tổ sẽ đóng rào chắn từ xa, hướng dẫn chạy ra quốc lộ 1. Và khi thông thoáng trở lại sẽ mở các lối ra vào cao tốc để người dân tiếp tục hành trình. \"Chỉ có thể làm phương án như vậy mới giảm tải được cho cao tốc\" - đại diện Đội 6 cho biết. Cũng theo Đội 6, nhờ các phương án xử lý như trên nên dịp Tết năm nay tình hình tai nạn giao thông và ùn ứ giảm đáng kể, không nhiều như các năm trước. Đồng thời trước Tết các đơn vị cũng thông tin rộng rãi đến người dân về việc lựa chọn một số lộ trình khác phù hợp với thực tế là cách quan trọng để giảm kẹt xe. Theo đánh giá của Cục Cảnh sát giao thông, tình hình trật tự an toàn giao thông trên cả nước trong 9 ngày nghỉ Tết Ất Tỵ cơ bản được đảm bảo. Lưu lượng xe tăng cao, nhất là các ngày trước và sau kỳ nghỉ Tết, dẫn đến ùn ứ tại một số tuyến ra vào cửa ngõ Hà Nội, TP.HCM và các tuyến cao tốc, cầu Rạch Miễu (nối hai tỉnh Tiền Giang và Bến Tre). Tuy nhiên, cơ quan này đánh giá tình hình ùn ứ cục bộ dịp Tết năm nay được khắc phục nhanh hơn, sớm đưa tình trạng giao thông trở lại bình thường.",
+        "score_dense": 0.5315321683883667,
+        "score_sparse": 31.182877703765932,
+        "source": "tuoitre"
+      },
+      {
+        "id": "tt_276_chunk_0",
+        "text": "So với cùng kỳ năm 2024, số vụ tai nạn trong 1 tháng qua giảm 26,29%, giảm 1,72% số người chết và giảm 37,71% nạn nhân bị thương. Ngày 6-2, Cục Cảnh sát giao thông (Bộ Công an) cho biết sau 1 tháng thực hiện nghị định 168/2024 (từ ngày 1 đến 31-1), tình hình tai nạn giao thông đường bộ giảm cả 3 tiêu chí so với cùng kỳ năm trước và thời gian trước liền kề. tai nạn Tai nạn giảm mạnh Theo đó, trong thời điểm trên, toàn quốc xảy ra 1. 702 vụ tai nạn giao thông đường bộ, làm 917 người chết, 1. 163 người bị thương. So với cùng kỳ năm 2024, số vụ tai nạn giảm 26,29%, giảm 1,72% về số người chết và giảm 37,71% số người bị thương. Còn khi so sánh với thời gian trước liền kề, tai nạn giảm 18,25% số vụ, giảm 9,83% số người chết, giảm 20,12% nạn nhân bị thương. Riêng trong 9 ngày nghỉ Tết Ất Tỵ 2025, toàn quốc xảy ra 445 vụ tai nạn, làm chết 209 người, bị thương 373 người. So với 9 ngày Tết Giáp Thìn 2024, số vụ tai nạn giảm 36,69%, giảm 37,61% người chết, giảm 38,34% số người bị thương. Khẩn trường hoàn thiện hạ tầng đáp ứng tốc độ phát triển Trong xử lý vi phạm, lực lượng cảnh sát giao thông toàn quốc đã xử lý 327.",
+        "score_dense": 0.534396231174469,
+        "score_sparse": 30.49578195112567,
+        "source": "tuoitre"
+      },
+      {
+        "id": "tn_62_chunk_1",
+        "text": "Việc có thêm ngày nghỉ sẽ giúp người lao động tái tạo sức lao động, nâng cao sức khỏe, tinh thần, từ đó tăng năng suất và hiệu quả công việc\", ông Hiểu chia sẻ. Tuy nhiên, Phó chủ tịch Tổng LĐLĐ Việt Nam cũng mong muốn cơ quan tham mưu cũng cần đưa ra đề xuất và lấy ý kiến sớm hơn để các cơ quan, đơn vị, doanh nghiệp và người lao động đều có thể sắp xếp lịch nghỉ phù hợp. Ông ủng hộ các kỳ nghỉ dài hơn, như kéo dài dịp lễ, tết, để công nhân được phục hồi thể chất, tinh thần, giảm căng thẳng, tránh kiệt sức, góp phần tạo ra lực lượng lao động chất lượng và gắn bó lâu dài hơn với doanh nghiệp. \"Khi có phương án nghỉ lễ, tết sớm sẽ thuận lợi hơn cho người lao động có thể mua được vé máy bay, vé tàu xe giá rẻ hoặc đặt phòng đi du lịch, về thăm quê. Về phía doanh nghiệp cũng sẽ chủ động có phương án sản xuất, đảm bảo đơn hàng\", ông Hiểu nhấn mạnh. Trước đó, theo phương án nghỉ tết Dương lịch năm 2026, Bộ Nội vụ đề xuất theo hướng hoán đổi ngày làm việc. Cụ thể, đối với công chức, viên chức, ngoài nghỉ ngày 1.",
+        "score_dense": 0.5326588749885559,
+        "score_sparse": 26.140058713449438,
+        "source": "thanhnien"
+      }
+    ]
+  },
+  {
+    "claim_id": "ctx7_claim20",
+    "claim": "Vào ngày 2/2, Cục Cảnh sát giao thông đã xử lý hơn 50.000 trường hợp vi phạm, tước gần 2.500 giấy phép lái xe.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_46_chunk_1",
+    "evidences": [
+      {
+        "id": "tt_276_chunk_1",
+        "text": "349 trường hợp; tước 27. 820 bằng lái các loại; 28. 762 giấy phép lái xe bị trừ điểm. Đồng thời, khoảng trên 95. 000 xe đã bị tạm giữ. giấy phép lái xe So với thời gian trước liền kề, số vi phạm bị xử phạt giảm 48. 160 trường hợp (-12,8%). Trong đó vi phạm nồng độ cồn giảm 13%; vi phạm tốc độ giảm 2,1%; không chấp hành hiệu lệnh tín hiệu đèn giao thông giảm mạnh 36,7%; vi phạm về mũ bảo hiểm giảm 23,8%... nồng độ cồn \"Điều có thể nhìn thấy rõ ràng nhất là việc xử lý vi phạm đã giảm đáng kể so với thời gian trước liền kề, cho thấy ý thức chấp hành pháp luật của người dân đã được nâng cao, tự giác chấp hành ngay cả khi không có lực lượng cảnh sát giao thông\", đại diện Cục Cảnh sát giao thông cho biết. Vị này cũng lấy ví dụ tại các nút giao, người dân đã tuân thủ nghiêm chỉnh hiệu lệnh đèn tín hiệu, xếp hàng trật tự, không còn tình trạng điều khiển phương tiện dừng đỗ chen lấn vào các làn đường, chiều đường… qua đó tình trạng ùn tắc giao thông không kéo dài, chỉ xuất hiện cục bộ, sau từ 2 - 3 nhịp đèn tín hiệu có thể lưu thông, khách quốc tế đánh giá cao việc chấp hành của người dân.",
+        "score_dense": 0.6337255239486694,
+        "score_sparse": 49.119604540918836,
+        "source": "tuoitre"
+      },
+      {
+        "id": "tt_284_chunk_0",
+        "text": "Sau 3 tháng thực thi nghị định 168, số vi phạm giảm 31,9% so với cùng kỳ. Ý thức người dân tăng, nhưng Cục Cảnh sát giao thông cảnh báo thời gian gầy đây đã xuất hiện tình trạng nhờn luật. Chiều 1-4, Cục Cảnh sát giao thông (Bộ Công an) thông tin về kết quả sau 3 tháng thực hiện nghị định 168/2024 (từ ngày 1-1 đến 31-3). Cảnh sát giao thông Theo đó trong quý đầu năm 2025, cảnh sát giao thông toàn quốc đã phát hiện, xử lý 728. 818 trường hợp vi phạm trật tự an toàn giao thông. So với cùng kỳ, số vi phạm xử phạt giảm 341. 519 trường hợp (-31,9%). Qua đó, đơn vị chức năng đã tước quyền sử dụng giấy phép lái xe 50. 973 trường hợp; 75. 202 giấy phép lái xe bị trừ điểm; tạm giữ 203. 341 xe cộ các loại. Một số vi phạm phổ biến trong 3 tháng qua là: vi phạm nồng độ cồn 149. 931 trường hợp (giảm 130. 340 trường hợp (-46,5%); vi phạm tốc độ 168. 598 trường hợp (-35,4%); chở quá số người quy định 5. 444 trường hợp (-63,1%); không chấp hành hiệu lệnh tín hiệu đèn giao thông 9. 131 trường hợp (-36,6%)… nồng độ cồn Cùng thời điểm trên, tai nạn giao thông giảm cả 3 tiêu chí.",
+        "score_dense": 0.6359034776687622,
+        "score_sparse": 52.07477297199311,
+        "source": "tuoitre"
+      },
+      {
+        "id": "tt_277_chunk_0",
+        "text": "Cục Cảnh sát giao thông (Bộ Công an) vừa có báo cáo sơ bộ tình hình trật tự an toàn giao thông trong ngày 29-1 (mùng 1 Tết Ất Tỵ). Tai nạn giảm mạnh Theo đó trong ngày qua, 56 vụ tai nạn xảy ra trên cả nước, làm chết 17 người và bị thương 45 người. So với cùng kỳ, số vụ tai nạn giảm 18 vụ, giảm 23 người chết, giảm 28 nạn nhân bị thương. Cùng thời điểm trên, cảnh sát giao thông toàn quốc đã xử lý 3. 980 trường hợp vi phạm; tạm giữ gần 1. 400 xe cộ các loại; tước 115 bằng lái, trừ điểm giấy phép lái xe 493 trường hợp. Trong đó vi phạm nồng độ cồn xử lý 967 trường hợp; vi phạm về tốc độ 963 trường hợp. nồng độ cồn Kết quả tuần tra kiểm soát liên tuyến trên tuyến quốc lộ 1, lực lượng chức năng đã bố trí 144 ca, kiểm soát 5. 966 xe cộ (315 xe khách, 332 xe tải, 1. 307 xe con, 64 xe container, 3. 938 mô tô, 10 phương tiện khác). Qua đó, các tổ công tác đã phát hiện, lập biên bản xử lý 564 vi phạm, tạm giữ 126 xe. Về tình hình giao thông trong ngày, cảnh sát giao thông cho biết các tuyến giao thông cơ bản được bảo đảm, lưu lượng xe thông thoáng.",
+        "score_dense": 0.6703137159347534,
+        "score_sparse": 49.86191761635799,
+        "source": "tuoitre"
+      }
+    ]
+  },
+  {
+    "claim_id": "ctx7_claim21",
+    "claim": "Vụ tai nạn nghiêm trọng nhất xảy ra trên quốc lộ 21 ở Nam Định vào ngày 30/1 liên quan đến một xe khách 16 chỗ do tài xế có nồng độ cồn cao gây ra.",
+    "label": "NEI",
+    "seed_context_id": "vne_46_chunk_1",
+    "evidences": [
+      {
+        "id": "ld_42_chunk_1",
+        "text": "Như Lao Động đã đưa tin, khoảng 1h sáng cùng ngày, xe khách Tân Kim Chi mang BKS 50H - 355. 47 đang lưu thông trên Quốc lộ 1 theo hướng Bắc - Nam, khi đến khu vực đèo Nại thuộc thôn Hòa Hiệp (xã Xuân Thịnh, thị xã Sông Cầu) thì tông vào dải phân cách, khiến xe bị lật ngang. Qua test nhanh, lực lượng chức năng xác định tài xế điều khiển xe khách âm tính với nồng độ cồn và ma túy. Vụ tai nạn khiến 3 người tử vong tại chỗ, 26 người bị thương. Danh tính nạn nhân tử vong gồm: Đỗ Thị Kim C (SN 1991, quê Lâm Đồng), Trần Thị Song Th (SN 2003, trú, tỉnh Quảng Nam) và Trần Công Anh (SN 2001, trú TP Đà Nẵng). Lãnh đạo UBND thị xã Sông Cầu cũng cho biết, Bệnh viện Đa khoa tỉnh Bình Định đã tiếp nhận các nạn nhân bị thương nặng, đa chấn thương. Một số nạn nhân khác cũng được đưa đến Trung tâm y tế thị xã Sông Cầu để cấp cứu. \"Đến sáng nay, vụ tai nạn ghi nhận 3 trường hợp tử vong và nhiều người bị thương, hiện đã được đưa đến bệnh viện cấp cứu, chữa trị\", lãnh đạo UBND thị xã Sông Cầu cho hay.",
+        "score_dense": 0.5643823146820068,
+        "score_sparse": 31.990005630167403,
+        "source": "laodong"
+      },
+      {
+        "id": "dt_115_chunk_1",
+        "text": "Trưa 27/7, ông Võ Trọng Hải, Chủ tịch UBND tỉnh, Trưởng Ban An toàn giao thông tỉnh Hà Tĩnh chủ trì cuộc họp đánh giá nguyên nhân, triển khai khắc phục hậu quả vụ tai nạn xe khách xảy ra trên quốc lộ 1, đoạn qua phường Sông Trí khiến 10 người tử vong, 15 người bị thương.\n\nTheo báo cáo của Công an tỉnh Hà Tĩnh tại cuộc họp, chủ xe, lái xe chưa xuất trình được phù hiệu xe chạy tuyến cố định.\n\nCác đại biểu tham dự cuộc họp (Ảnh: Thành Châu).\n\nNguyên nhân dẫn đến vụ tai nạn giao thông là do tài xế điều khiển xe khách chạy quá tốc độ 99/80km/h trong điều kiện thời tiết mưa, mặt đường trơn trượt, có độ dốc. Vì thế, khi phát hiện xe mất thăng bằng, tài xế không kiểm soát được phương tiện dẫn đến tai nạn gây hậu quả đặc biệt nghiêm trọng.\n\nCơ quan công an đã khởi tố vụ án hình sự Vi phạm quy định về tham gia giao thông đường bộ và tạm giữ hình sự đối với Lê Ngọc Thành (SN 1989, trú tại phường Đông Quang, tỉnh Thanh Hóa).",
+        "score_dense": 0.6059993505477905,
+        "score_sparse": 39.14141189027743,
+        "source": "dantri"
+      },
+      {
+        "id": "tt_264_chunk_0",
+        "text": "Vụ tai nạn liên hoàn trên cao tốc Vĩnh Hảo - Phan Thiết làm ùn tắc giao thông kéo dài nhiều giờ. Đến sáng giao thông đã thông thoáng trở lại. Đến 7h30 sáng nay, tình hình giao thông trên tuyến cao tốc Vĩnh Hảo - Phan Thiết đã tạm ổn định, xe di chuyển chậm sau sự cố của vụ tai nạn giao thông liên hoàn xảy ra lúc 0h22 sáng cùng ngày. cao tốc Vào thời điểm đó, tại km 158 + 300 cao tốc Vĩnh Hảo - Phan Thiết, thuộc xã Phan Hòa, huyện Bắc Bình, tỉnh Bình Thuận, xe khách do ông Nguyễn Khắc Định (Bắc Ninh) lái chạy hướng Phan Thiết - Vĩnh Hảo, khi chuyển làn đã va chạm vào xe khách do ông Trần Việt Hùng (Phú Yên) lái cùng chiều. Xe khách do ông Hùng lái bị đẩy đi và tiếp tục va chạm vào phía sau ô tô do ông Hoàng Ngọc Tịnh (Quảng Ngãi) lái chạy phía trước cùng chiều. ô tô Hậu quả làm xe ô tô hư hỏng, không có thiệt hại về người nhưng gây ùn tắc giao thông nghiêm trọng do vị trí xảy ra tai nạn không có dải dừng khẩn cấp. Đội CSGT số 6, Bộ Công an phối hợp với Công an huyện Bắc Bình và đơn vị tuần đường đã tiến hành điều tiết giao thông, khám nghiệm hiện trường và đưa các xe gặp nạn ra khỏi hiện trường để thông xe.",
+        "score_dense": 0.5853917598724365,
+        "score_sparse": 30.413305761459814,
+        "source": "tuoitre"
+      }
+    ]
+  },
+  {
+    "claim_id": "ctx8_claim22",
+    "claim": "Bộ Quốc phòng Israel xác nhận chiến đấu cơ nước này đã không kích tòa nhà tại Iran.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_765_chunk_2",
+    "evidences": [
+      {
+        "id": "tt_467_chunk_4",
+        "text": "Israel ném bom nhà chứa chiến đấu cơ của Iran Theo hãng thông tấn nhà nước Iran IRNA, Israel đã không kích vào một nhà chứa chiến đấu cơ của Iran tại sân bay Mehrabad lúc rạng sáng. \"Các vụ tấn công đã gây ra những vụ nổ tại sân bay nhưng không ảnh hưởng đến bất kỳ đường băng, tòa nhà hay cơ sở vật chất nào\", IRNA cho biết. Hệ thống phòng không Iran đã tham gia \"đẩy lùi các cuộc tấn công thù địch vào lúc rạng sáng\", bản tin nêu. Rộ tin Iran tính tấn công các căn cứ quân sự của Mỹ Theo Hãng tin Sputnik, Hãng thông tấn Fars của Iran dẫn nguồn thạo tin cho biết Iran có kế hoạch tấn công các căn cứ quân sự của Mỹ ở Trung Đông. Fars cũng trích dẫn các lực lượng Iran tuyên bố drone cảm tử Aresh đã đánh bại các mục tiêu của Israel. Iran cũng có kế hoạch tiếp tục tấn công vào lãnh thổ Israel và sẽ không chỉ giới hạn ở các biện pháp đã thực hiện. Trước đó, Iran cáo buộc Mỹ đồng lõa với Israel trong các vụ tấn công phủ đầu vào cơ sở hạt nhân và mục tiêu quân sự của nước này. Đài Al Jazeera hôm 13-6 đưa tin, hai quan chức Mỹ tiết lộ nước này đang điều động lực lượng quân sự, bao gồm cả tàu chiến, đến khu vực Trung Đông, nhằm phản ứng với các cuộc tấn công của Israel vào Iran cũng như khả năng Tehran trả đũa.",
+        "score_dense": 0.762559175491333,
+        "score_sparse": 42.020657351752696,
+        "source": "tuoitre"
+      },
+      {
+        "id": "tn_334_chunk_0",
+        "text": "Hãng thông tấn Iran Tasnim sáng nay 15. 6 đưa tin một cuộc không kích của Israel đã nhắm vào trụ sở Bộ Quốc phòng Iran tại thủ đô Tehran, trong khi Iran cũng tấn công bằng tên lửa vào Israel. Trong \"một cuộc tấn công vào Tehran tối nay của lực lượng không quân của chủ nghĩa phục quốc Do Thái, trụ sở của Bộ Quốc phòng đã bị nhắm mục tiêu. Một trong những tòa nhà của trụ sở đã bị hư hại nhẹ\",  theo AFP dẫn lại thông tin Tasnim của . Lực lượng Phòng vệ Israel (IDF) cũng vừa xác nhận đã hoàn thành \"một loạt các cuộc tấn công lớn vào các mục tiêu ở Tehran liên quan đến dự án vũ khí hạt nhân của chế độ Iran\". Theo IDF, các mục tiêu bao gồm trụ sở Bộ Quốc phòng Iran cũng như \"trụ sở của dự án hạt nhân SPND và các mục tiêu bổ sung, thúc đẩy nỗ lực của Iran trong việc sở hữu vũ khí hạt nhân và nơi Iran giấu kho lưu trữ hạt nhân của mình\". Trong khi đó, Lực lượng Vệ binh Cách mạng Hồi giáo Iran (IRGC) sáng nay tuyên bố Iran đã nhắm mục tiêu vào các địa điểm tiếp nhiên liệu cho máy bay chiến đấu của , theo AFP.",
+        "score_dense": 0.7055023908615112,
+        "score_sparse": 40.922829787828135,
+        "source": "thanhnien"
+      },
+      {
+        "id": "dt_218_chunk_2",
+        "text": "IDF cũng thông báo rằng khoảng 50 máy bay chiến đấu và máy bay không người lái đã được huy động để xác định và không kích các kho lưu trữ tên lửa cũng như trung tâm chỉ huy, nơi binh sĩ Iran tập trung để chuẩn bị phóng tên lửa.\n\nKể từ khi xung đột bùng phát, IDF cho biết đã phá hủy hơn 120 bệ phóng tên lửa đạn đạo của Iran, tương đương khoảng 1/3 tổng số mà nước này sở hữu.\n\nNgoài ra, trong đêm qua, Không quân Israel đã tiến hành nhiều đợt không kích quy mô lớn tại Isfahan, đánh trúng hơn 100 mục tiêu quân sự.\n\nThông tin trên cho thấy quy mô và cường độ leo thang của cuộc đối đầu giữa Israel và Iran đang ngày càng mở rộng, với nguy cơ gây bất ổn nghiêm trọng trong khu vực Trung Đông.\n\nKể từ ngày 13/6, Israel liên tục không kích các mục tiêu quan trọng liên quan đến chương trình hạt nhân của Iran và bắt đầu nhắm đến các mục tiêu kinh tế như kho nhiên liệu, mỏ khí đốt.\n\nQuân đội Israel khuyến cáo dân thường tránh xa các mục tiêu quan trọng ở Iran.",
+        "score_dense": 0.6689292192459106,
+        "score_sparse": 32.144186856729696,
+        "source": "dantri"
+      }
+    ]
+  },
+  {
+    "claim_id": "ctx8_claim23",
+    "claim": "Vào ngày 13/6, Israel ghi nhận 592 người bị thương và 24 người thiệt mạng sau 3 ngày giao tranh với Iran.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_765_chunk_2",
+    "evidences": [
+      {
+        "id": "tn_330_chunk_1",
+        "text": "Một phát ngôn viên của bệnh viện báo cáo có \"thiệt hại đối với bệnh viện và thiệt hại lớn ở nhiều khu vực\" và yêu cầu người dân không đến bệnh viện vào thời điểm này. Đơn vị cứu hộ Magen David Adom của Israel hôm nay cho hay ít nhất 47 người đã bị thương trong các cuộc tấn công bằng tên lửa mới nhất của Iran, và có thêm 18 người bị thương \"khi đang chạy đến nơi trú ẩn\", theo AFP. Trong khi đó, IDF hôm nay tuyên bố họ đã tấn công một \"lò phản ứng hạt nhân không hoạt động\" ở khu vực Arak của Iran trong các cuộc tấn công trong đêm 18. 6 và rạng sáng 19. 6, theo AFP. IDF lập luận cuộc tấn công vào địa điểm đó được thực hiện \"nhằm ngăn chặn lò phản ứng được khôi phục và sử dụng để phát triển vũ khí hạt nhân\". \"Ngoài ra, (lực lượng không quân Israel) đã tấn công một địa điểm phát triển vũ khí hạt nhân ở khu vực Natanz\", IDF tuyên bố. IDF còn tuyên bố khoảng 40 máy bay chiến đấu của không quân Israel đã tham gia vào các cuộc không kích trong đêm 18. 6 và rạng sáng 19. 6, khiến \"hàng chục\" địa điểm bị tấn công.",
+        "score_dense": 0.6562086343765259,
+        "score_sparse": 33.684784260197354,
+        "source": "thanhnien"
+      },
+      {
+        "id": "tt_466_chunk_2",
+        "text": "Israel thiệt hại nặng vì đợt tấn công mới của Iran Nhiều tòa nhà đã bị hư hại nghiêm trọng ở Tel Aviv sau khi bị tên lửa Iran tấn công ngày 22-6, theo Đài CNN. \"Đây là một địa điểm bị phá hủy trên diện rộng. Một số khu dân cư hai tầng đã bị hư hại nghiêm trọng, thậm chí đổ sập\", Cơ quan dịch vụ khẩn cấp Magen David Adom (MDA) nói thêm. Video do các dịch vụ khẩn cấp Israel công bố cho thấy một số phần của các tòa nhà bị biến thành đống đổ nát. Cảnh sát Israel cho biết các sĩ quan và đơn vị xử lý bom đã có mặt tại hiện trường để giải quyết hậu quả. Các vụ tấn công xảy ra vào ban ngày, khác với các vụ tấn công trước đó thường cấp tập vào chiều tối. Ít nhất 10 địa điểm bị ghi nhận trúng tên lửa Iran và gần 20 người bị thương đã được báo cáo tính đến 8h sáng 22-6 (giờ Israel). Iran yêu cầu Hội đồng Bảo an họp khẩn Iran đã yêu cầu Hội đồng Bảo an Liên hợp quốc họp khẩn cấp, theo như một bức thư được gửi tới tổ chức này ngày 22-6. Trong đó, Tehran hối thúc Hội đồng Bảo an lên án các cuộc tấn công của Mỹ vào cơ sở hạt nhân của Iran, nhấn mạnh đây là \"mối đe dọa nghiêm trọng đối với hòa bình và an ninh khu vực cũng như quốc tế\".",
+        "score_dense": 0.6680605411529541,
+        "score_sparse": 36.22948238310151,
+        "source": "tuoitre"
+      },
+      {
+        "id": "tt_466_chunk_3",
+        "text": "Bức thư cũng cáo buộc Cơ quan Năng lượng nguyên tử quốc tế (IAEA) thuộc Liên hợp quốc đã bắt tay với Mỹ giám sát vụ tấn công nhưng không đưa ra bằng chứng. Cùng ngày, Bộ Ngoại giao Iran tuyên bố \"chính Mỹ đã phát động một cuộc chiến nguy hiểm chống lại Iran\", mô tả đây là hành động của một chính quyền \"côn đồ\". Bộ này cũng nhấn mạnh sau những gì đã diễn ra, \"Cộng hòa Hồi giáo Iran có quyền đáp trả bằng toàn lực chống lại hành động xâm lược quân sự của Mỹ\" để bảo vệ an ninh và lợi ích quốc gia của Iran. Israel tấn công đáp trả Iran Theo báo Times of Israel , nhiều tiếng còi báo động vang lên ở miền bắc nước này. Người dân tại các khu vực bị ảnh hưởng đang được hướng dẫn vào hầm trú ẩn đến khi có thông báo mới. Chính quyền Israel cũng kêu gọi người dân không chia sẻ địa điểm hoặc thông tin liên quan đến các vụ tấn công. Các nhân viên y tế cho biết ít nhất 11 người bị thương sau đợt không kích mới nhất bằng tên lửa đạn đạo của Iran nhằm vào Israel. Thông báo từ một trung tâm y tế tại Tel Aviv cho biết 5 người bị thương trong số đó đã được đưa đến phòng cấp cứu, bao gồm 3 trẻ em.",
+        "score_dense": 0.6412866711616516,
+        "score_sparse": 35.960392406415494,
+        "source": "tuoitre"
+      }
+    ]
+  },
+  {
+    "claim_id": "ctx8_claim24",
+    "claim": "Hassan Abedini là Phó Giám đốc phụ trách kỹ thuật của IRIB.",
+    "label": "NEI",
+    "seed_context_id": "vne_765_chunk_2",
+    "evidences": [
+      {
+        "id": "tn_33_chunk_4",
+        "text": "tăng tuổi nghỉ hưu trí tuệ nhân tạo Nghị quyết 71 Trình độ chuyên môn kỹ thuật của lao động trẻ còn thấp Nâng cao năng suất và chất lượng lao động trẻ là chiến lược dài hạn",
+        "score_dense": 0.34455811977386475,
+        "score_sparse": 10.734384130798173,
+        "source": "thanhnien"
+      },
+      {
+        "id": "nd_0_chunk_0",
+        "text": "BÍ thư Đảng ủy xã Lộc Tấn Hoàng Mạnh Thường cho biết: Gần 5 tháng qua, bộ máy hệ thống chính trị của xã biên giới Lộc Tấn đã hoạt động ổn định. Tuy nhiên, do khối lượng công việc lớn, một số công việc mới, lực lượng nhân sự còn thiếu và cơ sở vật chất, trang thiết bị chưa đầy đủ, nên tình trạng quá tải và chậm tiến độ vẫn xảy ra ở một số khâu. Ông Thường nhấn mạnh: Cần quyết tâm cao hơn từ địa phương và sự quan tâm của tỉnh để xã hoàn thành tốt nhiệm vụ được giao. Chúng tôi mong tỉnh bố trí đủ nhân sự, công chức phụ trách các lĩnh vực còn thiếu; các sở, ban, ngành cấp tỉnh thường xuyên tập huấn, hướng dẫn chuyên môn trực tuyến cho cán bộ; đồng thời sớm triển khai các phần mềm ứng dụng công nghệ AI để hỗ trợ theo dõi, tổng hợp, phân tích dữ liệu, giảm tải công việc thủ công và xử lý các nhiệm vụ mới nhanh hơn. Theo Phó Giám đốc Sở Nội vụ Hà Thanh Tùng, hiện nay toàn tỉnh cần khoảng 289 nhân sự chuyên môn cho các địa phương.",
+        "score_dense": 0.26681753993034363,
+        "score_sparse": 11.619177356975245,
+        "source": "nhandan"
+      },
+      {
+        "id": "tt_505_chunk_3",
+        "text": "Báo cáo sơ bộ do Cục Điều tra tai nạn hàng không Ấn Độ công bố ngày 12-7 cũng khẳng định vụ tai nạn nhiều khả năng không bắt nguồn từ lỗi của phi công. Công tắc nhiên liệu tưởng chừng chỉ là một chi tiết nhỏ, nhưng trong vụ rơi máy bay thảm khốc này, nó đang dần trở thành trung tâm của cuộc điều tra. Tính chất cơ học của thiết bị, dữ liệu thời gian thực từ hộp đen, và phản ứng của phi công đều cho thấy đây không phải là một sai sót vô tình. Dù nguyên nhân chính thức vẫn chưa được công bố, báo cáo sơ bộ đã thu hẹp phạm vi điều tra vào hai khả năng chính: hành động có chủ ý từ bên trong buồng lái, hoặc một lỗi kỹ thuật cực kỳ hiếm gặp và chưa từng được ghi nhận đồng thời ở cả hai động cơ.",
+        "score_dense": 0.3187951445579529,
+        "score_sparse": 9.645743999087085,
+        "source": "tuoitre"
+      }
+    ]
+  },
+  {
+    "claim_id": "ctx9_claim25",
+    "claim": "Nguyên nhân ban đầu vụ tai nạn được xác định do tài xế Nguyễn Văn Thinh thiếu quan sát.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_511_chunk_2",
+    "evidences": [
+      {
+        "id": "nld_3_chunk_1",
+        "text": "Nguyên nhân sơ bộ được xác định do lái xe không chú ý quan sát, không giữ tốc độ và khoảng cách an toàn. Sau vụ tai nạn, Cục CSGT cũng đang xem xét việc xe bồn tưới cây đi ở làn số 1 có thực hiện cảnh báo an toàn đúng quy định hay không.",
+        "score_dense": 0.5566683411598206,
+        "score_sparse": 28.726488685615706,
+        "source": "nguoilaodong"
+      },
+      {
+        "id": "nld_2_chunk_1",
+        "text": "Nhận được tin báo từ Phòng CSGT Công an tỉnh, Cơ quan CSĐT Công an thị xã Phú Mỹ phối hợp Viện KSND thị xã Phú Mỹ, Đội Kỹ thuật hình sự khám nghiệm hiện trường để xác định nguyên nhân vụ tai nạn.",
+        "score_dense": 0.5235670804977417,
+        "score_sparse": 20.89403548011727,
+        "source": "nguoilaodong"
+      },
+      {
+        "id": "tt_231_chunk_2",
+        "text": "quận Bình Tân Cũng theo vị lãnh đạo UBND phường An Lạc, bước đầu chưa xác định được danh tính tài xế cầm lái ô tô do người này đã rời khỏi hiện trường sau khi gây ra tai nạn. Công an phường An Lạc đang phối hợp lực lượng Phòng Cảnh sát hình sự (PC02) Công an TP.HCM truy tìm tài xế để điều tra, xử lý theo quy định. Công an TP.HCM",
+        "score_dense": 0.5191739201545715,
+        "score_sparse": 20.040772083623036,
+        "source": "tuoitre"
+      }
+    ]
+  },
+  {
+    "claim_id": "ctx9_claim26",
+    "claim": "Lực lượng chức năng đã phân luồng giao thông và tiếp tục điều tra vụ việc vào lúc 10h sáng ngày 15/5.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_511_chunk_2",
+    "evidences": [
+      {
+        "id": "ld_93_chunk_1",
+        "text": "Dù không có thương vong, vụ việc khiến các phương tiện hư hỏng nhẹ và gây ùn tắc kéo dài hơn 30 phút. Lực lượng chức năng đã có mặt kịp thời để điều tiết giao thông và điều tra nguyên nhân các vụ tai nạn.",
+        "score_dense": 0.42102378606796265,
+        "score_sparse": 28.747454619114844,
+        "source": "laodong"
+      },
+      {
+        "id": "tn_208_chunk_1",
+        "text": "Sông Cầu đã có mặt tại hiện trường trực tiếp chỉ đạo, huy động lực lượng phối hợp các đơn vị chức năng Công an tỉnh Phú Yên khẩn trương tổ chức cứu nạn, cứu hộ, điều tiết, phân luồng giao thông; phối hợp các cơ sở y tế tiến hành sơ cứu và đưa người bị thương đi cấp cứu. Đồng thời, chỉ đạo Cơ quan CSĐT Công an TX. Sông Cầu , kiểm tra nhanh ma túy, đo đối với các tài xế điều khiển xe khách BS 50H - 355. 47 và điều tra nguyên nhân tai nạn. Đến 6 giờ ngày 8. 2, công tác cứu hộ, cứu nạn vẫn đang triển khai.",
+        "score_dense": 0.5079050064086914,
+        "score_sparse": 27.26458187112334,
+        "source": "thanhnien"
+      },
+      {
+        "id": "tn_22_chunk_2",
+        "text": "10, gia đình đã tổ chức tang lễ cho bà Q. Chính quyền địa phương đã đến thăm hỏi, động viên và hỗ trợ 2 triệu đồng cho gia đình nạn nhân. đang tiếp tục điều tra, làm rõ vụ việc. Dưới đây là một số hình ảnh do PV ghi lại tại hiện trường vụ việc nói trên vào sáng 8. 10: ô tô lao vào quán nhậu tử vong mâu thuẫn đầu thú ô tô lao vào quán nhậu Công an tỉnh Gia Lai",
+        "score_dense": 0.5240492820739746,
+        "score_sparse": 23.763475077806635,
+        "source": "thanhnien"
+      }
+    ]
+  },
+  {
+    "claim_id": "ctx9_claim27",
+    "claim": "Tài xế Nguyễn Văn Thinh đã vi phạm Luật Giao thông đường bộ theo điều 12, khoản 1.",
+    "label": "NEI",
+    "seed_context_id": "vne_511_chunk_2",
+    "evidences": [
+      {
+        "id": "tt_202_chunk_1",
+        "text": "tài xế Tại đây, ông N. thừa nhận hành vi vi phạm của mình đúng như trong clip trên mạng xã hội phản ánh. Đồng thời qua kiểm tra thiết bị giám sát hành trình lắp đặt trên xe, Đội Cảnh sát giao thông Cát Lái cũng xác định vào thời điểm xảy ra vụ việc ông N. không thắt dây an toàn. Căn cứ các tài liệu thu thập được, Đội Cảnh sát giao thông Cát Lái lập biên bản vi phạm hành chính đối với ông N. hành vi \"điều khiển xe lạng lách, đánh võng trên đường bộ\", sẽ bị phạt tiền 40-50 triệu đồng, tước giấy phép lái xe 10-12 tháng. Ngoài ra sẽ tịch thu xe nếu người điều khiển xe tái phạm hành vi điều khiển xe lạng lách, đánh võng. Tài xế N. còn bị lập lỗi \"không thắt dây đai an toàn khi điều khiển xe chạy trên đường\", sẽ bị phạt tiền từ 800. 000 đến 1 triệu đồng. Hiện vụ việc đã được chuyển cho Công an phường Bình Trưng (Công an TP.HCM) để tiếp tục điều tra, xử lý theo thẩm quyền. Bước đầu nam tài xế trình bày do buồn chuyện gia đình, lúc điều khiển xe đầu kéo trên cao tốc thấy đường vắng vẻ nên đã lạng lách, đánh võng.",
+        "score_dense": 0.4894750118255615,
+        "score_sparse": 24.52442615339502,
+        "source": "tuoitre"
+      },
+      {
+        "id": "tt_282_chunk_0",
+        "text": "Chiếc ô tô đi ngược chiều ở làn đường sát dải phân cách trên cao tốc Hà Nội - Hải Phòng. Cảnh sát giao thông cho biết đã lập biên bản xử lý nữ tài xế cầm lái. Chiều 30-1, Cục Cảnh sát giao thông cho biết Đội cảnh sát giao thông đường bộ cao tốc số 2 vừa lập biên bản xử lý tài xế ô tô đi ngược chiều trên đường cao tốc Hà Nội - Hải Phòng. ngược chiều Trước đó, qua nắm bắt thông tin, lực lượng chức năng xác định khoảng 15h18 ngày 30-1, ô tô biển số 14C-366. XX đi ngược chiều trên đường cao tốc đoạn Km104. Chiếc xe này đi ở làn sát dải phân cách giữa, nơi có tốc độ cho phép tới 120km/h. Qua tra cứu thông tin trên hệ thống đăng ký xe, Đội cảnh sát giao thông đường bộ cao tốc số 2 đã chỉ đạo tổ công tác số 4 xác minh và mời chủ ô tô đến trụ sở làm việc. Đến 16h ngày 30-1, chủ chiếc xe đã đến làm việc và xác nhận là người trực tiếp điều khiển xe đi ngược chiều. Người này là P.T. T. (sinh năm 1980, trú tại Quảng Yên, tỉnh Quảng Ninh). Chị T. khai nhận do không biết đường nên đã lái xe đi ngược chiều. Nữ tài xế sau đó viết tường trình, nhận thức được hành vi là sai và có tính chất nguy hiểm.",
+        "score_dense": 0.42118293046951294,
+        "score_sparse": 22.959414728498107,
+        "source": "tuoitre"
+      },
+      {
+        "id": "tt_117_chunk_0",
+        "text": "Người đàn ông chạy xe ba gác chở theo chiếc ô tô cũ cồng kềnh bị người dân phản ánh trên mạng xã hội đã bị xử phạt. Ngày 25-8, đại diện lực lượng Đội cảnh sát giao thông Bình Triệu thuộc Phòng Cảnh sát giao thông (PC08) Công an TP.HCM cho biết đã lập biên bản tài xế xe ba gác chở vỏ ô tô phía sau gây cản trở giao thông. xe ba gác Theo đó, ngày 22-8, qua theo dõi mạng xã hội nắm tình hình trên địa bàn đảm trách, Đội cảnh sát giao thông Bình Triệu phát hiện mạng xã hội lan truyền clip ghi cảnh xe ba gác chở vỏ ô tô phía sau gây ùn tắc giao thông. Sau khi phối hợp Công an phường Thới An tiến hành xác minh, ngày 23-8, lực lượng chức năng xác định tài xế xe ba gác là ông L.C.T. (40 tuổi, ngụ tỉnh Thanh Hóa) nên mời lên làm việc. Tại cơ quan công an, ông T. thừa nhận hành vi vi phạm của mình và bị cảnh sát giao thông lập biên bản các lỗi theo nghị định 168/2024 như: chở hàng vượt quá khổ giới hạn cho phép của xe (điểm b khoản 2 điều 36); không có giấy phép lái xe (điểm b khoản 7 điều 18); không có đăng ký xe (điểm a khoản 2 điều 14).",
+        "score_dense": 0.44048628211021423,
+        "score_sparse": 26.97144095437166,
+        "source": "tuoitre"
+      }
+    ]
+  },
+  {
+    "claim_id": "ctx10_claim28",
+    "claim": "Nhóm tác chiến - chiến lược Khortytsia của Ukraine cho biết vào ngày 17/2, một hệ thống phòng không S-350 Vityaz đã bị tập kích tại tỉnh Donetsk.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_609_chunk_0",
+    "evidences": [
+      {
+        "id": "tt_371_chunk_0",
+        "text": "Tình báo quân sự Ukraine tuyên bố lực lượng đặc nhiệm đã phá hủy thành công một hệ thống tên lửa phòng không Buk-M3 của Nga tại Zaporizhzhia vào ngày 14-9. Cơ quan tình báo quân sự Ukraine (HUR) tuyên bố lực lượng đặc nhiệm của nước này đã tấn công hệ thống Buk-M3 gần thị trấn Oleksandrivka, thuộc vùng Zaporizhzhia do Nga kiểm soát. Ukraine Theo tờ Kyiv Independent , Buk-M3 là một trong những hệ thống phòng không chủ lực của Nga. Nó sở hữu khả năng tấn công mục tiêu trên không, trên bộ và trên biển, có giá trị ước tính từ 40 - 50 triệu USD. Hiện Kyiv Independent chưa thể xác minh thông tin về vụ tấn công nêu trên. Buk là hệ thống tên lửa phòng không tự hành tầm trung, được Liên Xô phát triển từ những năm 1970 và có nhiều bản nâng cấp. Buk-M3 là phiên bản mới nhất, được sản xuất bởi công ty quốc phòng Almaz-Antey của Nga. Nó được cho là có khả năng theo dõi và tấn công đồng thời 36 mục tiêu. Hệ thống này được thiết kế để nhắm mục tiêu vào máy bay, trực thăng, tên lửa hành trình và máy bay không người lái.",
+        "score_dense": 0.6133765578269958,
+        "score_sparse": 37.56079491352672,
+        "source": "tuoitre"
+      },
+      {
+        "id": "dt_252_chunk_1",
+        "text": "Tiêm kích F-16 (Ảnh: Quân đội Ukraine).\n\nĐêm 28/6, một tiêm kích F-16 của Không quân Ukraine đã rơi tại vùng Chernihiv trong khi làm nhiệm vụ đánh chặn cuộc tấn công đường không quy mô lớn nhất kể từ đầu cuộc chiến: 537 UAV và tên lửa do Nga phóng đồng loạt nhằm vào nhiều khu vực.\n\nMáy bay do Trung tá Maksym Ustymenko điều khiển đã bị trúng hỏa lực khi đang cố ngăn chặn đợt tấn công, và phi công không kịp nhảy dù. Đây là chiếc F-16 thứ 4 của Ukraine bị rơi kể từ khi máy bay này bắt đầu tham chiến từ năm ngoái.\n\nCuộc tấn công diễn ra khi chiến sự đã bước sang năm thứ 4, cho thấy rõ sức ép cực lớn lên hệ thống phòng không Ukraine. Dù Ukraine tuyên bố bắn hạ được 436 UAV và 38 tên lửa của Nga, lực lượng phòng không phía Kiev vẫn bị quá tải.\n\nSự kiện cũng lập tức dấy lên tranh cãi về hiệu quả chiến thuật của Ukraine khi sử dụng tiêm kích trị giá hàng chục triệu USD để đánh chặn UAV giá vài chục ngàn USD.",
+        "score_dense": 0.5953835248947144,
+        "score_sparse": 36.96313385168301,
+        "source": "dantri"
+      },
+      {
+        "id": "dt_210_chunk_1",
+        "text": "Tiêm kích F-16 do Mỹ chế tạo đã được chuyển giao cho Ukraine (Ảnh minh họa: FT/AFP).\n\nNghi vấn F-16 của Ukraine bị phòng không Nga bắn hạ\n\nNgày 26/12, quan chức Nga Vladimir Rogov cho biết, 1 chiến đấu cơ F-16 Fighting Falcon (Chim ưng chiến) của Ukraine đã bị lực lượng phòng không Nga bắn hạ ở đông bắc Zaporizhia, miền Nam Ukraine. Nó nằm trong đội hình chiến đấu rất lớn của không quân Ukraine, với khoảng 12 máy bay, được cho là tham gia vào cuộc tấn công bằng tên lửa, vào khu vực Zaporizhia do Nga kiểm soát.\n\nTrang  Topwar  của Nga cho biết, đây có thể là chiếc F-16 đầu tiên bị bắn hạ trong chiến đấu. Xét về mặt kỹ thuật, không có gì ngạc nhiên khi quân đội Nga bắn rơi F-16. Lý do rất đơn giản.\n\nThứ nhất,  những chiếc \"Chim ưng chiến\" do Đan Mạch và Hà Lan hỗ trợ đã khá cũ và đều là máy bay đến hạn phải loại khỏi biên chế chiến đấu.\n\nThứ hai,  chúng không có khả năng tàng hình và các hệ thống phòng không S-300, S-400 hay tên lửa không đối không của Nga đều có thể bắn hạ.",
+        "score_dense": 0.612551748752594,
+        "score_sparse": 47.97502934641564,
+        "source": "dantri"
+      }
+    ]
+  },
+  {
+    "claim_id": "ctx10_claim29",
+    "claim": "Vào ngày 17/2, Lữ đoàn Trinh sát Pháo binh Độc lập số 15 của Nga đã tập kích một hệ thống phòng không S-350 Vityaz tại tỉnh Donetsk.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_609_chunk_0",
+    "evidences": [
+      {
+        "id": "tp_5_chunk_0",
+        "text": "TPO - Truyền thông Ukraine công bố đoạn video cho thấy máy bay không người lái của nước này tấn công hai bệ phóng tên lửa S-400 cùng đạn dược của Nga ở vùng Belgorod. Theo  Defense Express , ngày 14/12, Lữ đoàn Trinh sát Pháo binh Độc lập số 15 Ukraine đã tiến hành cuộc tấn công nhằm vào một vị trí phòng không của Nga tại Raievka thuộc vùng Belgorod, Nga. Mục tiêu được xác định là Trung đoàn Tên lửa Phòng không số 568 của quân đội Nga, đơn vị chủ chốt chịu trách nhiệm vận hành hệ thống phòng không S-400. Đoạn video cho thấy máy bay không người lái Ukraine tập kích hai bệ phóng S-400 khi chúng đang di chuyển. Một bệ phóng bốc cháy dữ dội sau khi trúng đòn trực tiếp, trong khi bệ còn lại được cho là bị hư hại nghiêm trọng. Cuộc tấn công được thực hiện phối hợp dựa trên thông tin tình báo trinh sát, bao gồm xác định vị trí pháo binh và giám sát bằng máy bay không người lái. Điều này cho phép lữ đoàn tấn công hiệu quả các mục tiêu có giá trị cao trong khi giảm thiểu rủi ro cho nhân lực và trang thiết bị.",
+        "score_dense": 0.6542388200759888,
+        "score_sparse": 75.69137774821823,
+        "source": "tienphong"
+      },
+      {
+        "id": "tn_315_chunk_2",
+        "text": "Đây là lần đầu tiên Nga sử dụng tên lửa bội siêu âm Kinzhal để tập kích Ukraine sau nhiều tháng. Starokostiantyniv là nơi có căn cứ không quân quan trọng của Ukraine, và là điểm đóng quân của phi đội cường kích Su-24M trang bị tên lửa dẫn đường Storm Shadow/SCALP-EG được Anh và Pháp viện trợ. Truyền thông Ukraine sau đó thông báo ít nhất ba tiếng nổ lớn đã vang lên gần sân bay quốc tế Zhulyany ở , nơi triển khai trận địa tên lửa phòng không Patriot. Cơ quan quân sự thủ đô Ukraine cho hay tiêm kích MiG-31K Nga đã phóng tên lửa Kinzhal về phía thành phố và kêu gọi người dân tìm nơi trú ẩn. Phát ngôn viên Ignat thì cho biết phòng không Ukraine đã bắn rơi một tên lửa Nga. Ở hướng ngược lại, giới chức “Cộng hòa Nhân dân Donetsk” tự xưng cho biết quân đội Ukraine rạng sáng 15. 12 phóng ba quả tên lửa vào thành phố Mariupol ở tỉnh Donetsk. Thông báo không đề cập mục tiêu bị tấn công, thiệt hại liên quan hay loại tên lửa mà phía Ukraine sử dụng. Tuy nhiên, một tài khoản Telegram của Nga chuyên đưa tin về Mariupol cho hay vụ tập kích dường như được tiến hành bằng , loại vũ khí tấn công có tầm bắn xa nhất trong biên chế quân đội Ukraine hiện nay.",
+        "score_dense": 0.565642237663269,
+        "score_sparse": 45.02865009365622,
+        "source": "thanhnien"
+      },
+      {
+        "id": "dt_210_chunk_1",
+        "text": "Tiêm kích F-16 do Mỹ chế tạo đã được chuyển giao cho Ukraine (Ảnh minh họa: FT/AFP).\n\nNghi vấn F-16 của Ukraine bị phòng không Nga bắn hạ\n\nNgày 26/12, quan chức Nga Vladimir Rogov cho biết, 1 chiến đấu cơ F-16 Fighting Falcon (Chim ưng chiến) của Ukraine đã bị lực lượng phòng không Nga bắn hạ ở đông bắc Zaporizhia, miền Nam Ukraine. Nó nằm trong đội hình chiến đấu rất lớn của không quân Ukraine, với khoảng 12 máy bay, được cho là tham gia vào cuộc tấn công bằng tên lửa, vào khu vực Zaporizhia do Nga kiểm soát.\n\nTrang  Topwar  của Nga cho biết, đây có thể là chiếc F-16 đầu tiên bị bắn hạ trong chiến đấu. Xét về mặt kỹ thuật, không có gì ngạc nhiên khi quân đội Nga bắn rơi F-16. Lý do rất đơn giản.\n\nThứ nhất,  những chiếc \"Chim ưng chiến\" do Đan Mạch và Hà Lan hỗ trợ đã khá cũ và đều là máy bay đến hạn phải loại khỏi biên chế chiến đấu.\n\nThứ hai,  chúng không có khả năng tàng hình và các hệ thống phòng không S-300, S-400 hay tên lửa không đối không của Nga đều có thể bắn hạ.",
+        "score_dense": 0.6087157726287842,
+        "score_sparse": 39.0772512551201,
+        "source": "dantri"
+      }
+    ]
+  },
+  {
+    "claim_id": "ctx10_claim30",
+    "claim": "Video trinh sát cho thấy máy bay không người lái Bayraktar TB2 của Ukraine đã theo dõi khí tài nghi là xe chở đạn kiêm bệ phóng của hệ thống S-350.",
+    "label": "NEI",
+    "seed_context_id": "vne_609_chunk_0",
+    "evidences": [
+      {
+        "id": "tp_5_chunk_0",
+        "text": "TPO - Truyền thông Ukraine công bố đoạn video cho thấy máy bay không người lái của nước này tấn công hai bệ phóng tên lửa S-400 cùng đạn dược của Nga ở vùng Belgorod. Theo  Defense Express , ngày 14/12, Lữ đoàn Trinh sát Pháo binh Độc lập số 15 Ukraine đã tiến hành cuộc tấn công nhằm vào một vị trí phòng không của Nga tại Raievka thuộc vùng Belgorod, Nga. Mục tiêu được xác định là Trung đoàn Tên lửa Phòng không số 568 của quân đội Nga, đơn vị chủ chốt chịu trách nhiệm vận hành hệ thống phòng không S-400. Đoạn video cho thấy máy bay không người lái Ukraine tập kích hai bệ phóng S-400 khi chúng đang di chuyển. Một bệ phóng bốc cháy dữ dội sau khi trúng đòn trực tiếp, trong khi bệ còn lại được cho là bị hư hại nghiêm trọng. Cuộc tấn công được thực hiện phối hợp dựa trên thông tin tình báo trinh sát, bao gồm xác định vị trí pháo binh và giám sát bằng máy bay không người lái. Điều này cho phép lữ đoàn tấn công hiệu quả các mục tiêu có giá trị cao trong khi giảm thiểu rủi ro cho nhân lực và trang thiết bị.",
+        "score_dense": 0.6824198961257935,
+        "score_sparse": 71.5539588238742,
+        "source": "tienphong"
+      },
+      {
+        "id": "tp_5_chunk_1",
+        "text": "Hệ thống S-400 nằm trong số những hệ thống tên lửa phòng không tầm xa tiên tiến nhất của Nga, có khả năng theo dõi nhiều mục tiêu ở khoảng cách lớn. Việc lực lượng Ukraine phá hủy các bệ phóng này không chỉ làm suy giảm đáng kể năng lực phòng không khu vực của Nga, mà còn ảnh hưởng đến khả năng bảo vệ cơ sở hạ tầng trọng yếu và các vị trí quân sự ở vùng Belgorod.",
+        "score_dense": 0.5860902667045593,
+        "score_sparse": 40.657240145935376,
+        "source": "tienphong"
+      },
+      {
+        "id": "dt_138_chunk_1",
+        "text": "Hãng tin RT ngày 14/10 công bố đoạn video tên lửa Iskander-M của Nga phá hủy tổ hợp HIMARS do Mỹ sản xuất của Ukraine.\n\nVụ việc được quay từ UAV xảy ra ở vùng Kharkov. Đoạn video cho thấy UAV Nga đã theo dõi tổ hợp vũ khí của Ukraine di chuyển trên đường. Sau đó, UAV cung cấp tọa độ của HIMARS để tên lửa Nga khóa mục tiêu và phóng đi.\n\nVụ tập kích đã khiến HIMARS nổ tung như cầu lửa.\n\nKhoảnh khắc Iskander Nga khóa mục tiêu, hạ tổ hợp HIMARS Ukraine (Video: RT).\n\nHIMARS là pháo phản lực phóng loạt tự hành đặt trên khung gầm bánh lốp, được phát triển từ tổ hợp M270 của Mỹ. Tổ hợp này có tầm bắn khoảng 80km đối với đạn pháo thông thường và có thể lên tới 300km với tên lửa chiến thuật.\n\nPhương Tây đã mô tả hệ thống này như một nhân tố thay đổi cuộc chơi trong cuộc xung đột. Trên thực tế, HIMARS đã góp phần giúp Ukraine phản công hiệu quả ở một số khu vực và giành lại các khu vực chiến lược mà không bị tổn thất quá nhiều.",
+        "score_dense": 0.623700737953186,
+        "score_sparse": 41.48053893801648,
+        "source": "dantri"
+      }
+    ]
+  }
+]
