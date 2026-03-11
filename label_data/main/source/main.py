@@ -31,7 +31,7 @@ from configs import (
     FAILED_LOG_PATH,
     CLAIM_PATH
 )
-from content_retrieval import retrieve_bge_m3, retrieve_hybrid_bge
+from content_retrieval import retrieve_bge_m3, retrieve_hybrid_bge, retrieve_tfidf
 
 load_dotenv()
 
@@ -202,12 +202,11 @@ def _save_failed_log(failed: list[dict]) -> None:
 def run_factcheck_pipeline(n=2500, batch_size=20) -> list[dict]:
 
 
-
-
     """Load Knowledge Base"""
     with open(KB_PATH, "r", encoding="utf-8") as f:
-        kb_data = json.load(f)
+        kb_data = [json.loads(line) for line in f if line.strip()]
     kb_embeddings = np.load(KB_EMBED_PATH)
+    print("HOÀN THÀNH LẤY KB")
     """Load Context to generate Claim data"""
     with open(CLAIM_PATH, "r", encoding="utf-8") as f:
         claim_data = [json.loads(line) for line in f if line.strip()]
@@ -241,8 +240,8 @@ def run_factcheck_pipeline(n=2500, batch_size=20) -> list[dict]:
             })
             continue
 
-        for claim_data in claims:
-            claim_text = claim_data["claim"]
+        for claim_item in claims:
+            claim_text = claim_item["claim"]
 
             if claim_text in processed_claims:
                 continue
@@ -250,6 +249,9 @@ def run_factcheck_pipeline(n=2500, batch_size=20) -> list[dict]:
             try:
                 # Bước 1: Truy xuất bằng chứng
                 evidences = retrieve_hybrid_bge(claim_text, kb_data, kb_embeddings)
+
+
+                # evidences = retrieve_tfidf(claim_text, kb_data)
 
                 # Bước 2: Voting
                 voting_result = vote_on_claim(claim_text, evidences)
@@ -303,4 +305,4 @@ def run_factcheck_pipeline(n=2500, batch_size=20) -> list[dict]:
 
 
 if __name__ == "__main__":
-    run_factcheck_pipeline(1, 1)
+    run_factcheck_pipeline(37, 1)
