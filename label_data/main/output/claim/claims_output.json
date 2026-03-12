@@ -1,0 +1,849 @@
+[
+  {
+    "claim_id": "ctx1_claim1",
+    "claim": "Ông Sơn cho biết việc nâng cấp đường Nguyễn Tất Thành cần đồng bộ với hệ thống công viên, quảng trường và công trình văn hóa ven sông để tạo thành trục cảnh quan mới của TP HCM.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_432_chunk_3",
+    "seed_context": "Theo ông Sơn, dù đây là thời điểm thích hợp chỉnh trang đường Nguyễn Tất Thành, song không nên mở quá rộng bởi tương lai các cầu Thủ Thiêm 3, 4 hoàn thành sẽ phân luồng xe đáng kể. Việc nâng cấp cần đồng bộ với hệ thống công viên, quảng trường và công trình văn hóa ven sông, tạo thành trục cảnh quan mới của TP HCM. \"Khi hoàn thiện, khu vực này trở thành dải không gian văn hóa, công viên, giao thông ven sông Sài Gòn, là điểm nhấn cho siêu đô thị tương lai,\" ông Sơn nói."
+  },
+  {
+    "claim_id": "ctx1_claim2",
+    "claim": "Theo ông Sơn, đường Nguyễn Tất Thành nên được mở rộng tối đa ngay cả khi các cầu Thủ Thiêm 3, 4 chưa hoàn thành, vì việc này sẽ phân luồng xe hiệu quả.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_432_chunk_3",
+    "seed_context": "Theo ông Sơn, dù đây là thời điểm thích hợp chỉnh trang đường Nguyễn Tất Thành, song không nên mở quá rộng bởi tương lai các cầu Thủ Thiêm 3, 4 hoàn thành sẽ phân luồng xe đáng kể. Việc nâng cấp cần đồng bộ với hệ thống công viên, quảng trường và công trình văn hóa ven sông, tạo thành trục cảnh quan mới của TP HCM. \"Khi hoàn thiện, khu vực này trở thành dải không gian văn hóa, công viên, giao thông ven sông Sài Gòn, là điểm nhấn cho siêu đô thị tương lai,\" ông Sơn nói."
+  },
+  {
+    "claim_id": "ctx1_claim3",
+    "claim": "Ông Sơn khẳng định việc chỉnh trang đường Nguyễn Tất Thành sẽ hoàn thành vào năm 2025, tạo thành dải không gian văn hóa, công viên, giao thông ven sông Sài Gòn.",
+    "label": "NEI",
+    "seed_context_id": "vne_432_chunk_3",
+    "seed_context": "Theo ông Sơn, dù đây là thời điểm thích hợp chỉnh trang đường Nguyễn Tất Thành, song không nên mở quá rộng bởi tương lai các cầu Thủ Thiêm 3, 4 hoàn thành sẽ phân luồng xe đáng kể. Việc nâng cấp cần đồng bộ với hệ thống công viên, quảng trường và công trình văn hóa ven sông, tạo thành trục cảnh quan mới của TP HCM. \"Khi hoàn thiện, khu vực này trở thành dải không gian văn hóa, công viên, giao thông ven sông Sài Gòn, là điểm nhấn cho siêu đô thị tương lai,\" ông Sơn nói."
+  },
+  {
+    "claim_id": "ctx2_claim4",
+    "claim": "Vào ngày 8 tháng 3 năm 2014, chuyến bay MH370 của Malaysia Airlines đã biến mất bí ẩn ở khu vực cách bờ biển Australia khoảng 1.500 km về phía tây.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_652_chunk_0",
+    "seed_context": "Tàu hậu cần viễn dương Armada 7806 mang theo đội tàu lặn robot được kỳ vọng sẽ giúp công ty Ocean Infinity vén bức màn bí ẩn về MH370. Hơn 11 năm sau khi chuyến bay MH370 của Malaysia Airlines biến mất bí ẩn ngày 8/3/2014, chiến dịch tìm kiếm mới để xác định vị trí xác máy bay đã được khởi động ở khu vực cách bờ biển Australia khoảng 1. 500 km về phía tây. Công ty thăm dò đáy biển Ocean Infinity, có trụ sở ở Texas và từng dẫn đầu cuộc tìm kiếm bất thành 7 năm trước, một lần nữa trở lại Ấn Độ Dương với những phương tiện và công nghệ khảo sát đáy biển hiện đại hơn, với hy vọng sẽ tìm ra chiếc máy bay chở theo 227 hành khách và 12 thành viên tổ lái. Để thực hiện sứ mệnh này, Ocean Infinity sử dụng tàu hậu cần viễn dương Armada 7806, được hãng Vard của Na Uy đóng vào năm 2023. Tàu dài 78 m, chở theo thủy thủ đoàn 16 người, được đánh giá là \"có những công nghệ hiện đại nhất\" về thám hiểm biển. Tàu được trang bị ít nhất ba tàu lặn tự hành (AUV) do công ty Kongsberg của Na Uy sản xuất, mỗi chiếc dài khoảng 6,2 m. Mẫu AUV này có thể hoạt động độc lập ở độ sâu 6."
+  },
+  {
+    "claim_id": "ctx2_claim5",
+    "claim": "Tàu hậu cần viễn dương Armada 7806, được đóng vào năm 2024, chở theo 16 người và được trang bị bốn tàu lặn tự hành (AUV) do công ty Kongsberg của Na Uy sản xuất.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_652_chunk_0",
+    "seed_context": "Tàu hậu cần viễn dương Armada 7806 mang theo đội tàu lặn robot được kỳ vọng sẽ giúp công ty Ocean Infinity vén bức màn bí ẩn về MH370. Hơn 11 năm sau khi chuyến bay MH370 của Malaysia Airlines biến mất bí ẩn ngày 8/3/2014, chiến dịch tìm kiếm mới để xác định vị trí xác máy bay đã được khởi động ở khu vực cách bờ biển Australia khoảng 1. 500 km về phía tây. Công ty thăm dò đáy biển Ocean Infinity, có trụ sở ở Texas và từng dẫn đầu cuộc tìm kiếm bất thành 7 năm trước, một lần nữa trở lại Ấn Độ Dương với những phương tiện và công nghệ khảo sát đáy biển hiện đại hơn, với hy vọng sẽ tìm ra chiếc máy bay chở theo 227 hành khách và 12 thành viên tổ lái. Để thực hiện sứ mệnh này, Ocean Infinity sử dụng tàu hậu cần viễn dương Armada 7806, được hãng Vard của Na Uy đóng vào năm 2023. Tàu dài 78 m, chở theo thủy thủ đoàn 16 người, được đánh giá là \"có những công nghệ hiện đại nhất\" về thám hiểm biển. Tàu được trang bị ít nhất ba tàu lặn tự hành (AUV) do công ty Kongsberg của Na Uy sản xuất, mỗi chiếc dài khoảng 6,2 m. Mẫu AUV này có thể hoạt động độc lập ở độ sâu 6."
+  },
+  {
+    "claim_id": "ctx2_claim6",
+    "claim": "Công ty Ocean Infinity, có trụ sở tại Texas, đã sử dụng tàu Armada 7806 để tìm kiếm tàu ngầm hạt nhân USS Scorpion (SSN-589) vào năm 2023.",
+    "label": "NEI",
+    "seed_context_id": "vne_652_chunk_0",
+    "seed_context": "Tàu hậu cần viễn dương Armada 7806 mang theo đội tàu lặn robot được kỳ vọng sẽ giúp công ty Ocean Infinity vén bức màn bí ẩn về MH370. Hơn 11 năm sau khi chuyến bay MH370 của Malaysia Airlines biến mất bí ẩn ngày 8/3/2014, chiến dịch tìm kiếm mới để xác định vị trí xác máy bay đã được khởi động ở khu vực cách bờ biển Australia khoảng 1. 500 km về phía tây. Công ty thăm dò đáy biển Ocean Infinity, có trụ sở ở Texas và từng dẫn đầu cuộc tìm kiếm bất thành 7 năm trước, một lần nữa trở lại Ấn Độ Dương với những phương tiện và công nghệ khảo sát đáy biển hiện đại hơn, với hy vọng sẽ tìm ra chiếc máy bay chở theo 227 hành khách và 12 thành viên tổ lái. Để thực hiện sứ mệnh này, Ocean Infinity sử dụng tàu hậu cần viễn dương Armada 7806, được hãng Vard của Na Uy đóng vào năm 2023. Tàu dài 78 m, chở theo thủy thủ đoàn 16 người, được đánh giá là \"có những công nghệ hiện đại nhất\" về thám hiểm biển. Tàu được trang bị ít nhất ba tàu lặn tự hành (AUV) do công ty Kongsberg của Na Uy sản xuất, mỗi chiếc dài khoảng 6,2 m. Mẫu AUV này có thể hoạt động độc lập ở độ sâu 6."
+  },
+  {
+    "claim_id": "ctx3_claim7",
+    "claim": "Anh đã giảm số lượng tiêm kích F-35B dự kiến mua từ 150 chiếc xuống còn 138 chiếc.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_525_chunk_2",
+    "seed_context": "Theo kế hoạch ban đầu, Anh dự kiến mua 150 tiêm kích F-35B, song sau đó giảm xuống 138 chiếc. Không quân Anh đã tiếp nhận 39 máy bay, trong đó một chiếc rơi ở Địa Trung Hải hồi năm 2021, dường như do động cơ hút phải tấm che mưa bằng nhựa và mất lực đẩy khi cất cánh."
+  },
+  {
+    "claim_id": "ctx3_claim8",
+    "claim": "Vào năm 2022, một tiêm kích F-35B của Không quân Anh đã bị rơi ở Địa Trung Hải do động cơ hút phải một tấm che mưa bằng kim loại.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_525_chunk_2",
+    "seed_context": "Theo kế hoạch ban đầu, Anh dự kiến mua 150 tiêm kích F-35B, song sau đó giảm xuống 138 chiếc. Không quân Anh đã tiếp nhận 39 máy bay, trong đó một chiếc rơi ở Địa Trung Hải hồi năm 2021, dường như do động cơ hút phải tấm che mưa bằng nhựa và mất lực đẩy khi cất cánh."
+  },
+  {
+    "claim_id": "ctx3_claim9",
+    "claim": "Chiếc tiêm kích F-35B gặp sự cố vào năm 2021 đã được sửa chữa và đưa vào sử dụng trở lại.",
+    "label": "NEI",
+    "seed_context_id": "vne_525_chunk_2",
+    "seed_context": "Theo kế hoạch ban đầu, Anh dự kiến mua 150 tiêm kích F-35B, song sau đó giảm xuống 138 chiếc. Không quân Anh đã tiếp nhận 39 máy bay, trong đó một chiếc rơi ở Địa Trung Hải hồi năm 2021, dường như do động cơ hút phải tấm che mưa bằng nhựa và mất lực đẩy khi cất cánh."
+  },
+  {
+    "claim_id": "ctx4_claim10",
+    "claim": "Vào ngày diễn ra cuộc gặp tại Nhà Trắng, Tổng thống Trump đã chỉ trích mạnh mẽ Tổng thống Zelensky trên mạng xã hội Truth Social vì cho rằng ông Zelensky chưa sẵn sàng cho hòa bình nếu có sự tham gia của Mỹ.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_622_chunk_2",
+    "seed_context": "Phát biểu của ông Vance nhận được sự đồng tình của Tổng thống Trump. Tổng thống Zelensky dường như định nói gì đó nhưng bị ngắt lời. Lãnh đạo Ukraine rời Nhà Trắng sớm hơn dự kiến sau cuộc cãi vã nảy lửa. Reuters dẫn lời quan chức cấp cao Nhà Trắng cho biết buổi họp báo chung sau cuộc họp giữa hai lãnh đạo đã bị hủy. Tổng thống Trump và ông Zelensky cũng không ký thỏa thuận khoáng sản. \"Tổng thống chưa loại trừ khả năng đạt thỏa thuận, nhưng chỉ sau khi Ukraine sẵn sàng đối thoại mang tính xây dựng. Vấn đề có kịp tổ chức họp báo khi ông Zelensky còn ở Mỹ hay không sẽ hoàn toàn phụ thuộc vào phía Ukraine\", người này cho hay. Trên đường rời khỏi Phòng Bầu dục sau cuộc gặp, ông Trump được hỏi liệu Mỹ có ký thỏa thuận khoáng sản với Ukraine nữa hay không. \"Hãy chờ xem\", ông đáp lời. Trong thông điệp đăng trên mạng xã hội Truth Social sau đó, Tổng thống Trump đã chỉ trích mạnh mẽ người đồng cấp Ukraine. \"Tôi hiểu rằng Tổng thống Zelensky chưa sẵn sàng cho hòa bình nếu có sự tham gia của Mỹ, vì ông ấy cảm thấy sự có mặt của Mỹ sẽ giúp mình sở hữu lợi thế lớn trên bàn đàm phán."
+  },
+  {
+    "claim_id": "ctx4_claim11",
+    "claim": "Vào ngày diễn ra cuộc gặp tại Nhà Trắng, Tổng thống Trump và ông Zelensky đã ký thỏa thuận khoáng sản ngay sau cuộc họp báo chung.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_622_chunk_2",
+    "seed_context": "Phát biểu của ông Vance nhận được sự đồng tình của Tổng thống Trump. Tổng thống Zelensky dường như định nói gì đó nhưng bị ngắt lời. Lãnh đạo Ukraine rời Nhà Trắng sớm hơn dự kiến sau cuộc cãi vã nảy lửa. Reuters dẫn lời quan chức cấp cao Nhà Trắng cho biết buổi họp báo chung sau cuộc họp giữa hai lãnh đạo đã bị hủy. Tổng thống Trump và ông Zelensky cũng không ký thỏa thuận khoáng sản. \"Tổng thống chưa loại trừ khả năng đạt thỏa thuận, nhưng chỉ sau khi Ukraine sẵn sàng đối thoại mang tính xây dựng. Vấn đề có kịp tổ chức họp báo khi ông Zelensky còn ở Mỹ hay không sẽ hoàn toàn phụ thuộc vào phía Ukraine\", người này cho hay. Trên đường rời khỏi Phòng Bầu dục sau cuộc gặp, ông Trump được hỏi liệu Mỹ có ký thỏa thuận khoáng sản với Ukraine nữa hay không. \"Hãy chờ xem\", ông đáp lời. Trong thông điệp đăng trên mạng xã hội Truth Social sau đó, Tổng thống Trump đã chỉ trích mạnh mẽ người đồng cấp Ukraine. \"Tôi hiểu rằng Tổng thống Zelensky chưa sẵn sàng cho hòa bình nếu có sự tham gia của Mỹ, vì ông ấy cảm thấy sự có mặt của Mỹ sẽ giúp mình sở hữu lợi thế lớn trên bàn đàm phán."
+  },
+  {
+    "claim_id": "ctx4_claim12",
+    "claim": "Vào ngày diễn ra cuộc gặp tại Nhà Trắng, Tổng thống Zelensky đã bày tỏ sự không hài lòng về việc bị Tổng thống Trump ngắt lời trong buổi họp báo chung.",
+    "label": "NEI",
+    "seed_context_id": "vne_622_chunk_2",
+    "seed_context": "Phát biểu của ông Vance nhận được sự đồng tình của Tổng thống Trump. Tổng thống Zelensky dường như định nói gì đó nhưng bị ngắt lời. Lãnh đạo Ukraine rời Nhà Trắng sớm hơn dự kiến sau cuộc cãi vã nảy lửa. Reuters dẫn lời quan chức cấp cao Nhà Trắng cho biết buổi họp báo chung sau cuộc họp giữa hai lãnh đạo đã bị hủy. Tổng thống Trump và ông Zelensky cũng không ký thỏa thuận khoáng sản. \"Tổng thống chưa loại trừ khả năng đạt thỏa thuận, nhưng chỉ sau khi Ukraine sẵn sàng đối thoại mang tính xây dựng. Vấn đề có kịp tổ chức họp báo khi ông Zelensky còn ở Mỹ hay không sẽ hoàn toàn phụ thuộc vào phía Ukraine\", người này cho hay. Trên đường rời khỏi Phòng Bầu dục sau cuộc gặp, ông Trump được hỏi liệu Mỹ có ký thỏa thuận khoáng sản với Ukraine nữa hay không. \"Hãy chờ xem\", ông đáp lời. Trong thông điệp đăng trên mạng xã hội Truth Social sau đó, Tổng thống Trump đã chỉ trích mạnh mẽ người đồng cấp Ukraine. \"Tôi hiểu rằng Tổng thống Zelensky chưa sẵn sàng cho hòa bình nếu có sự tham gia của Mỹ, vì ông ấy cảm thấy sự có mặt của Mỹ sẽ giúp mình sở hữu lợi thế lớn trên bàn đàm phán."
+  },
+  {
+    "claim_id": "ctx5_claim13",
+    "claim": "Oanh tạc cơ B-2, được trang bị tủ lạnh mini và lò vi sóng, cho phép phi công chịu được hành trình bay dài hàng chục giờ.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_540_chunk_1",
+    "seed_context": "Phi cơ có thiết kế cánh bay, được làm từ vật liệu composite và trang bị lớp phủ giúp giảm diện tích phản xạ radar, hạn chế nguy cơ bị radar đối phương phát hiện. Để tối ưu hóa tính năng tàng hình, oanh tạc cơ có buồng lái khá nhỏ, chỉ vừa đủ chỗ cho hai phi công. Để phi công có thể chịu được hành trình dài, buồng lái của chiếc B-2 được trang bị một số tiện nghi như tủ lạnh mini và lò vi sóng, giúp phi công không bị đói và giữ được tỉnh táo khi bay liên tục hàng chục giờ, theo . Trên phi cơ còn có nhà vệ sinh, cũng như có đủ chỗ để một phi công nằm nghỉ trong lúc người kia lái máy bay. Hệ thống điều khiển của dòng B-2 có tính tự động hóa cao, giúp giảm tải cho phi hành đoàn. \"B-2 bay rất êm và được trang bị tính năng lái tự động rất hiệu quả\", một phi công nói trong cuộc phỏng vấn hồi năm 2019. Anh cho biết một số phi công trẻ đôi khi quên mất nhiệm vụ lái máy bay do mải làm các việc khác, song phi cơ vẫn hoạt động bình thường nhờ công nghệ điều khiển tự động. \"Màn hình hiển thị tình huống dọc (VSD) cung cấp cho phi công mọi thông tin cần thiết để lấy lại nhận thức tình huống và điều khiển máy bay\", người này cho hay."
+  },
+  {
+    "claim_id": "ctx5_claim14",
+    "claim": "Phi công trẻ trên chiếc B-2 thường xuyên quên nhiệm vụ lái máy bay do hệ thống điều khiển kém hiệu quả, dẫn đến việc máy bay phải dừng hoạt động.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_540_chunk_1",
+    "seed_context": "Phi cơ có thiết kế cánh bay, được làm từ vật liệu composite và trang bị lớp phủ giúp giảm diện tích phản xạ radar, hạn chế nguy cơ bị radar đối phương phát hiện. Để tối ưu hóa tính năng tàng hình, oanh tạc cơ có buồng lái khá nhỏ, chỉ vừa đủ chỗ cho hai phi công. Để phi công có thể chịu được hành trình dài, buồng lái của chiếc B-2 được trang bị một số tiện nghi như tủ lạnh mini và lò vi sóng, giúp phi công không bị đói và giữ được tỉnh táo khi bay liên tục hàng chục giờ, theo . Trên phi cơ còn có nhà vệ sinh, cũng như có đủ chỗ để một phi công nằm nghỉ trong lúc người kia lái máy bay. Hệ thống điều khiển của dòng B-2 có tính tự động hóa cao, giúp giảm tải cho phi hành đoàn. \"B-2 bay rất êm và được trang bị tính năng lái tự động rất hiệu quả\", một phi công nói trong cuộc phỏng vấn hồi năm 2019. Anh cho biết một số phi công trẻ đôi khi quên mất nhiệm vụ lái máy bay do mải làm các việc khác, song phi cơ vẫn hoạt động bình thường nhờ công nghệ điều khiển tự động. \"Màn hình hiển thị tình huống dọc (VSD) cung cấp cho phi công mọi thông tin cần thiết để lấy lại nhận thức tình huống và điều khiển máy bay\", người này cho hay."
+  },
+  {
+    "claim_id": "ctx5_claim15",
+    "claim": "Vào năm 2019, một phi công đã thực hiện chuyến bay thử nghiệm kéo dài 30 giờ trên chiếc B-2 mà không cần sử dụng đến chế độ lái tự động.",
+    "label": "NEI",
+    "seed_context_id": "vne_540_chunk_1",
+    "seed_context": "Phi cơ có thiết kế cánh bay, được làm từ vật liệu composite và trang bị lớp phủ giúp giảm diện tích phản xạ radar, hạn chế nguy cơ bị radar đối phương phát hiện. Để tối ưu hóa tính năng tàng hình, oanh tạc cơ có buồng lái khá nhỏ, chỉ vừa đủ chỗ cho hai phi công. Để phi công có thể chịu được hành trình dài, buồng lái của chiếc B-2 được trang bị một số tiện nghi như tủ lạnh mini và lò vi sóng, giúp phi công không bị đói và giữ được tỉnh táo khi bay liên tục hàng chục giờ, theo . Trên phi cơ còn có nhà vệ sinh, cũng như có đủ chỗ để một phi công nằm nghỉ trong lúc người kia lái máy bay. Hệ thống điều khiển của dòng B-2 có tính tự động hóa cao, giúp giảm tải cho phi hành đoàn. \"B-2 bay rất êm và được trang bị tính năng lái tự động rất hiệu quả\", một phi công nói trong cuộc phỏng vấn hồi năm 2019. Anh cho biết một số phi công trẻ đôi khi quên mất nhiệm vụ lái máy bay do mải làm các việc khác, song phi cơ vẫn hoạt động bình thường nhờ công nghệ điều khiển tự động. \"Màn hình hiển thị tình huống dọc (VSD) cung cấp cho phi công mọi thông tin cần thiết để lấy lại nhận thức tình huống và điều khiển máy bay\", người này cho hay."
+  },
+  {
+    "claim_id": "ctx6_claim16",
+    "claim": "Vào ngày 26/4, Đại sứ quán Trung Quốc tại Mỹ đã ra tuyên bố bác bỏ thông tin về các cuộc đàm phán thuế quan và thương mại giữa Trung Quốc và Mỹ.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_696_chunk_0",
+    "seed_context": "Đại sứ quán Trung Quốc tại Mỹ phủ nhận thông tin rằng Bắc Kinh đang đàm phán thuế quan và thương mại với Washington. Trong bài đăng trên mạng xã hội ngày 26/4, đại sứ quán Trung Quốc tại Mỹ khẳng định \"không có cuộc tham vấn hay đàm phán nào giữa Trung Quốc và Mỹ về vấn đề thuế quan, chứ đừng nói đến thỏa thuận\". Cơ quan này nhấn mạnh những phát biểu cho rằng đối thoại về thuế quan đang diễn ra giữa Trung Quốc và Mỹ \"hoàn toàn là thông tin sai lệch\", song không đề cập tới Tổng thống Mỹ Donald Trump cũng như tuyên bố của ông về \"cuộc điện đàm với Chủ tịch Trung Quốc Tập Cận Bình\". \"Cuộc chiến thương mại do Mỹ khởi xướng. Nếu Mỹ thực sự muốn giải quyết vấn đề thông qua đối thoại, họ trước hết phải sửa chữa sai lầm, ngừng đe dọa và gây sức ép với bên khác, cũng như loại bỏ hoàn toàn mọi biện pháp thuế quan đơn phương với Trung Quốc\", bài đăng có đoạn. Phát ngôn viên Bộ Thương mại Trung Quốc Hà Á Đông trước đó đưa ra tuyên bố tương tự, khẳng định \"ai thắt nút thì phải tháo nút\". Người phát ngôn Bộ Ngoại giao Trung Quốc Quách Gia Côn cũng cho hay thông tin về các cuộc đàm phán giữa Bắc Kinh và Washington \"đều là giả\"."
+  },
+  {
+    "claim_id": "ctx6_claim17",
+    "claim": "Đại sứ quán Trung Quốc tại Mỹ xác nhận đang tiến hành các cuộc tham vấn và đàm phán về vấn đề thuế quan với Washington vào ngày 26/4.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_696_chunk_0",
+    "seed_context": "Đại sứ quán Trung Quốc tại Mỹ phủ nhận thông tin rằng Bắc Kinh đang đàm phán thuế quan và thương mại với Washington. Trong bài đăng trên mạng xã hội ngày 26/4, đại sứ quán Trung Quốc tại Mỹ khẳng định \"không có cuộc tham vấn hay đàm phán nào giữa Trung Quốc và Mỹ về vấn đề thuế quan, chứ đừng nói đến thỏa thuận\". Cơ quan này nhấn mạnh những phát biểu cho rằng đối thoại về thuế quan đang diễn ra giữa Trung Quốc và Mỹ \"hoàn toàn là thông tin sai lệch\", song không đề cập tới Tổng thống Mỹ Donald Trump cũng như tuyên bố của ông về \"cuộc điện đàm với Chủ tịch Trung Quốc Tập Cận Bình\". \"Cuộc chiến thương mại do Mỹ khởi xướng. Nếu Mỹ thực sự muốn giải quyết vấn đề thông qua đối thoại, họ trước hết phải sửa chữa sai lầm, ngừng đe dọa và gây sức ép với bên khác, cũng như loại bỏ hoàn toàn mọi biện pháp thuế quan đơn phương với Trung Quốc\", bài đăng có đoạn. Phát ngôn viên Bộ Thương mại Trung Quốc Hà Á Đông trước đó đưa ra tuyên bố tương tự, khẳng định \"ai thắt nút thì phải tháo nút\". Người phát ngôn Bộ Ngoại giao Trung Quốc Quách Gia Côn cũng cho hay thông tin về các cuộc đàm phán giữa Bắc Kinh và Washington \"đều là giả\"."
+  },
+  {
+    "claim_id": "ctx6_claim18",
+    "claim": "Tổng thống Mỹ Donald Trump đã có một cuộc điện đàm với Chủ tịch Trung Quốc Tập Cận Bình để thảo luận về các biện pháp thuế quan đơn phương vào ngày 26/4.",
+    "label": "NEI",
+    "seed_context_id": "vne_696_chunk_0",
+    "seed_context": "Đại sứ quán Trung Quốc tại Mỹ phủ nhận thông tin rằng Bắc Kinh đang đàm phán thuế quan và thương mại với Washington. Trong bài đăng trên mạng xã hội ngày 26/4, đại sứ quán Trung Quốc tại Mỹ khẳng định \"không có cuộc tham vấn hay đàm phán nào giữa Trung Quốc và Mỹ về vấn đề thuế quan, chứ đừng nói đến thỏa thuận\". Cơ quan này nhấn mạnh những phát biểu cho rằng đối thoại về thuế quan đang diễn ra giữa Trung Quốc và Mỹ \"hoàn toàn là thông tin sai lệch\", song không đề cập tới Tổng thống Mỹ Donald Trump cũng như tuyên bố của ông về \"cuộc điện đàm với Chủ tịch Trung Quốc Tập Cận Bình\". \"Cuộc chiến thương mại do Mỹ khởi xướng. Nếu Mỹ thực sự muốn giải quyết vấn đề thông qua đối thoại, họ trước hết phải sửa chữa sai lầm, ngừng đe dọa và gây sức ép với bên khác, cũng như loại bỏ hoàn toàn mọi biện pháp thuế quan đơn phương với Trung Quốc\", bài đăng có đoạn. Phát ngôn viên Bộ Thương mại Trung Quốc Hà Á Đông trước đó đưa ra tuyên bố tương tự, khẳng định \"ai thắt nút thì phải tháo nút\". Người phát ngôn Bộ Ngoại giao Trung Quốc Quách Gia Côn cũng cho hay thông tin về các cuộc đàm phán giữa Bắc Kinh và Washington \"đều là giả\"."
+  },
+  {
+    "claim_id": "ctx7_claim19",
+    "claim": "Cầu Hoa Giang, được khánh thành tại tỉnh Quý Châu, Trung Quốc, có nhịp chính dài 1.420 m, trở thành cây cầu có nhịp dài nhất thế giới được xây dựng ở khu vực miền núi.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_909_chunk_1",
+    "seed_context": "Bà nói rằng việc khánh thành cây cầu \"giúp cải thiện mạnh mẽ điều kiện giao thông khu vực và tạo động lực mới cho đà phát triển kinh tế, xã hội khu vực\". Trung Quốc những năm gần đây đầu tư mạnh vào các dự án cơ sở hạ tầng lớn. Tỉnh miền núi Quý Châu sở hữu hàng nghìn cây cầu, trong đó có hai cầu cao nhất thế giới hiện nay là cầu Hoa Giang và cầu Bắc Bàn Giang. Theo hãng thông tấn , gần 50% trong 100 cây cầu cao nhất thế giới nằm ở tỉnh này. Các kỹ sư Trung Quốc mất hơn ba năm để hoàn thành cầu Hoa Giang. Cầu có nhịp chính dài 1. 420 m, khiến nó cũng trở thành cây cầu có nhịp dài nhất thế giới được xây dựng ở khu vực miền núi. Cầu Hoa Giang được xếp cao nhất thế giới tính theo khoảng cách từ mặt cầu đến mặt đất, nhưng cây cầu cao nhất tính theo chiều cao của chính cấu trúc cầu, chứ không phải khoảng cách đến mặt đất, vẫn là cầu cạn Millau của Pháp với chiều cao 343 m."
+  },
+  {
+    "claim_id": "ctx7_claim20",
+    "claim": "Cầu cạn Millau của Pháp, với chiều cao 343 m, hiện đang giữ kỷ lục là cây cầu cao nhất thế giới tính theo khoảng cách từ mặt cầu đến mặt đất.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_909_chunk_1",
+    "seed_context": "Bà nói rằng việc khánh thành cây cầu \"giúp cải thiện mạnh mẽ điều kiện giao thông khu vực và tạo động lực mới cho đà phát triển kinh tế, xã hội khu vực\". Trung Quốc những năm gần đây đầu tư mạnh vào các dự án cơ sở hạ tầng lớn. Tỉnh miền núi Quý Châu sở hữu hàng nghìn cây cầu, trong đó có hai cầu cao nhất thế giới hiện nay là cầu Hoa Giang và cầu Bắc Bàn Giang. Theo hãng thông tấn , gần 50% trong 100 cây cầu cao nhất thế giới nằm ở tỉnh này. Các kỹ sư Trung Quốc mất hơn ba năm để hoàn thành cầu Hoa Giang. Cầu có nhịp chính dài 1. 420 m, khiến nó cũng trở thành cây cầu có nhịp dài nhất thế giới được xây dựng ở khu vực miền núi. Cầu Hoa Giang được xếp cao nhất thế giới tính theo khoảng cách từ mặt cầu đến mặt đất, nhưng cây cầu cao nhất tính theo chiều cao của chính cấu trúc cầu, chứ không phải khoảng cách đến mặt đất, vẫn là cầu cạn Millau của Pháp với chiều cao 343 m."
+  },
+  {
+    "claim_id": "ctx7_claim21",
+    "claim": "Các kỹ sư Trung Quốc đã sử dụng công nghệ tiên tiến nhất để hoàn thành cầu Hoa Giang, giảm thiểu tác động đến môi trường tự nhiên của tỉnh Quý Châu.",
+    "label": "NEI",
+    "seed_context_id": "vne_909_chunk_1",
+    "seed_context": "Bà nói rằng việc khánh thành cây cầu \"giúp cải thiện mạnh mẽ điều kiện giao thông khu vực và tạo động lực mới cho đà phát triển kinh tế, xã hội khu vực\". Trung Quốc những năm gần đây đầu tư mạnh vào các dự án cơ sở hạ tầng lớn. Tỉnh miền núi Quý Châu sở hữu hàng nghìn cây cầu, trong đó có hai cầu cao nhất thế giới hiện nay là cầu Hoa Giang và cầu Bắc Bàn Giang. Theo hãng thông tấn , gần 50% trong 100 cây cầu cao nhất thế giới nằm ở tỉnh này. Các kỹ sư Trung Quốc mất hơn ba năm để hoàn thành cầu Hoa Giang. Cầu có nhịp chính dài 1. 420 m, khiến nó cũng trở thành cây cầu có nhịp dài nhất thế giới được xây dựng ở khu vực miền núi. Cầu Hoa Giang được xếp cao nhất thế giới tính theo khoảng cách từ mặt cầu đến mặt đất, nhưng cây cầu cao nhất tính theo chiều cao của chính cấu trúc cầu, chứ không phải khoảng cách đến mặt đất, vẫn là cầu cạn Millau của Pháp với chiều cao 343 m."
+  },
+  {
+    "claim_id": "ctx8_claim22",
+    "claim": "Trong ba tháng thi công sửa chữa cầu Bình Triệu 1 vào năm 2010, quá trình kích nâng đã tốn khoảng một tháng.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_377_chunk_2",
+    "seed_context": "Cầu gồm 16 nhịp bêtông và ba nhịp thép chính. Khi sửa năm 2010, nhà thầu Freyssinet kết nối thành bốn liên nhịp, mỗi liên dài 140 m. Vì vậy, quá trình nâng được tiến hành tuần tự từ liên 1 đến 4, rồi lặp lại, đảm bảo đồng bộ. Theo chủ đầu tư, phương pháp này cũng có phần tương đồng \"thần đèn\" nâng nhà, nhưng phức tạp gấp nhiều lần do tải trọng lớn và yêu cầu kỹ thuật khắt khe. Từ ngày 26/8, cầu cấm ôtô, chỉ cho xe máy qua để vừa thi công vừa khai thác nên việc triển khai càng phức tạp hơn trong khâu tổ chức giao thông và thi công. \"Trong ba tháng, kích nâng tốn khoảng một tháng. Hai tháng còn lại tập trung gia cố, lắp đặt và thử tải, đảm bảo an toàn trước khi khai thác trở lại\", ông Quang nói. Ông Trần Đỗ Liêm, Chủ tịch Hiệp hội Vận tải thủy nội địa Việt Nam, nhận định việc nâng cầu Bình Triệu 1 cho thấy kỹ sư Việt Nam đã làm chủ công nghệ phức tạp, vốn trước phụ thuộc nước ngoài. \"Khi có kinh nghiệm, giải pháp này sẽ mở rộng cho nhiều cầu cũ, vừa tiết kiệm, vừa đáp ứng nhu cầu vận tải\", ông nói."
+  },
+  {
+    "claim_id": "ctx8_claim23",
+    "claim": "Năm 2010, nhà thầu Freyssinet đã thực hiện sửa chữa cầu Bình Triệu 1 bằng cách kết nối thành năm liên nhịp, mỗi liên dài 140 m.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_377_chunk_2",
+    "seed_context": "Cầu gồm 16 nhịp bêtông và ba nhịp thép chính. Khi sửa năm 2010, nhà thầu Freyssinet kết nối thành bốn liên nhịp, mỗi liên dài 140 m. Vì vậy, quá trình nâng được tiến hành tuần tự từ liên 1 đến 4, rồi lặp lại, đảm bảo đồng bộ. Theo chủ đầu tư, phương pháp này cũng có phần tương đồng \"thần đèn\" nâng nhà, nhưng phức tạp gấp nhiều lần do tải trọng lớn và yêu cầu kỹ thuật khắt khe. Từ ngày 26/8, cầu cấm ôtô, chỉ cho xe máy qua để vừa thi công vừa khai thác nên việc triển khai càng phức tạp hơn trong khâu tổ chức giao thông và thi công. \"Trong ba tháng, kích nâng tốn khoảng một tháng. Hai tháng còn lại tập trung gia cố, lắp đặt và thử tải, đảm bảo an toàn trước khi khai thác trở lại\", ông Quang nói. Ông Trần Đỗ Liêm, Chủ tịch Hiệp hội Vận tải thủy nội địa Việt Nam, nhận định việc nâng cầu Bình Triệu 1 cho thấy kỹ sư Việt Nam đã làm chủ công nghệ phức tạp, vốn trước phụ thuộc nước ngoài. \"Khi có kinh nghiệm, giải pháp này sẽ mở rộng cho nhiều cầu cũ, vừa tiết kiệm, vừa đáp ứng nhu cầu vận tải\", ông nói."
+  },
+  {
+    "claim_id": "ctx8_claim24",
+    "claim": "Ông Trần Đỗ Liêm, Chủ tịch Hiệp hội Vận tải thủy nội địa Việt Nam, đã đề xuất áp dụng giải pháp nâng cầu Bình Triệu 1 cho các cây cầu mới xây dựng tại Hà Nội.",
+    "label": "NEI",
+    "seed_context_id": "vne_377_chunk_2",
+    "seed_context": "Cầu gồm 16 nhịp bêtông và ba nhịp thép chính. Khi sửa năm 2010, nhà thầu Freyssinet kết nối thành bốn liên nhịp, mỗi liên dài 140 m. Vì vậy, quá trình nâng được tiến hành tuần tự từ liên 1 đến 4, rồi lặp lại, đảm bảo đồng bộ. Theo chủ đầu tư, phương pháp này cũng có phần tương đồng \"thần đèn\" nâng nhà, nhưng phức tạp gấp nhiều lần do tải trọng lớn và yêu cầu kỹ thuật khắt khe. Từ ngày 26/8, cầu cấm ôtô, chỉ cho xe máy qua để vừa thi công vừa khai thác nên việc triển khai càng phức tạp hơn trong khâu tổ chức giao thông và thi công. \"Trong ba tháng, kích nâng tốn khoảng một tháng. Hai tháng còn lại tập trung gia cố, lắp đặt và thử tải, đảm bảo an toàn trước khi khai thác trở lại\", ông Quang nói. Ông Trần Đỗ Liêm, Chủ tịch Hiệp hội Vận tải thủy nội địa Việt Nam, nhận định việc nâng cầu Bình Triệu 1 cho thấy kỹ sư Việt Nam đã làm chủ công nghệ phức tạp, vốn trước phụ thuộc nước ngoài. \"Khi có kinh nghiệm, giải pháp này sẽ mở rộng cho nhiều cầu cũ, vừa tiết kiệm, vừa đáp ứng nhu cầu vận tải\", ông nói."
+  },
+  {
+    "claim_id": "ctx9_claim25",
+    "claim": "Bộ trưởng Quốc phòng Ukraine Rustem Umerov cho biết hai bên sẽ trao đổi thi thể theo công thức \"6.000 đổi 6.000\" trong một nhiệm vụ nhân đạo.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_763_chunk_2",
+    "seed_context": "Tôi rất biết ơn những người đã tham gia nhiệm vụ nhân đạo này\", Bộ trưởng Quốc phòng Ukraine Rustem Umerov cho hay. Tại vòng hòa đàm trực tiếp thứ hai ở thành phố Istanbul hồi tháng 5, phái đoàn Nga và Ukraine nhất trí trao đổi tất cả tù binh bị thương nặng và bệnh nặng, cùng toàn bộ tù binh 18-25 tuổi. Con số này tương đương hơn 1. 000 người mỗi bên. Bộ trưởng Quốc phòng Ukraine Rustem Umerov nói rằng hai bên sẽ trao đổi thi thể theo công thức \"6. 000 đổi 6. 000\". Tuy nhiên, trưởng phái đoàn Nga Vladimir Medinsky sau đó khẳng định Moskva sẽ đơn phương trao trả 6. 000 quân nhân Ukraine tử trận cho Kiev. Đây là cuộc trao đổi lớn nhất giữa hai nước kể từ đầu xung đột, vượt qua thỏa thuận \"1. 000 đổi 1. 000\" mà Moskva và Kiev đạt được trong vòng đàm phán trực tiếp đầu tiên."
+  },
+  {
+    "claim_id": "ctx9_claim26",
+    "claim": "Tại vòng hòa đàm trực tiếp thứ hai ở thành phố Istanbul hồi tháng 5, phái đoàn Nga và Ukraine nhất trí trao đổi tất cả tù binh bị thương nặng và bệnh nặng, cùng toàn bộ tù binh 18-25 tuổi, với con số 500 người mỗi bên.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_763_chunk_2",
+    "seed_context": "Tôi rất biết ơn những người đã tham gia nhiệm vụ nhân đạo này\", Bộ trưởng Quốc phòng Ukraine Rustem Umerov cho hay. Tại vòng hòa đàm trực tiếp thứ hai ở thành phố Istanbul hồi tháng 5, phái đoàn Nga và Ukraine nhất trí trao đổi tất cả tù binh bị thương nặng và bệnh nặng, cùng toàn bộ tù binh 18-25 tuổi. Con số này tương đương hơn 1. 000 người mỗi bên. Bộ trưởng Quốc phòng Ukraine Rustem Umerov nói rằng hai bên sẽ trao đổi thi thể theo công thức \"6. 000 đổi 6. 000\". Tuy nhiên, trưởng phái đoàn Nga Vladimir Medinsky sau đó khẳng định Moskva sẽ đơn phương trao trả 6. 000 quân nhân Ukraine tử trận cho Kiev. Đây là cuộc trao đổi lớn nhất giữa hai nước kể từ đầu xung đột, vượt qua thỏa thuận \"1. 000 đổi 1. 000\" mà Moskva và Kiev đạt được trong vòng đàm phán trực tiếp đầu tiên."
+  },
+  {
+    "claim_id": "ctx9_claim27",
+    "claim": "Trưởng phái đoàn Nga Vladimir Medinsky khẳng định Moskva đã đơn phương trao trả 6.000 quân nhân Ukraine tử trận cho Kiev vào tháng 5 năm 2023.",
+    "label": "NEI",
+    "seed_context_id": "vne_763_chunk_2",
+    "seed_context": "Tôi rất biết ơn những người đã tham gia nhiệm vụ nhân đạo này\", Bộ trưởng Quốc phòng Ukraine Rustem Umerov cho hay. Tại vòng hòa đàm trực tiếp thứ hai ở thành phố Istanbul hồi tháng 5, phái đoàn Nga và Ukraine nhất trí trao đổi tất cả tù binh bị thương nặng và bệnh nặng, cùng toàn bộ tù binh 18-25 tuổi. Con số này tương đương hơn 1. 000 người mỗi bên. Bộ trưởng Quốc phòng Ukraine Rustem Umerov nói rằng hai bên sẽ trao đổi thi thể theo công thức \"6. 000 đổi 6. 000\". Tuy nhiên, trưởng phái đoàn Nga Vladimir Medinsky sau đó khẳng định Moskva sẽ đơn phương trao trả 6. 000 quân nhân Ukraine tử trận cho Kiev. Đây là cuộc trao đổi lớn nhất giữa hai nước kể từ đầu xung đột, vượt qua thỏa thuận \"1. 000 đổi 1. 000\" mà Moskva và Kiev đạt được trong vòng đàm phán trực tiếp đầu tiên."
+  },
+  {
+    "claim_id": "ctx10_claim28",
+    "claim": "Tu chính án thứ 14, được quốc hội Mỹ phê chuẩn vào năm 1868, khẳng định tất cả những người sinh ra trên lãnh thổ Mỹ hoặc nhập tịch, nằm trong quyền tài phán của Mỹ, đều là công dân Mỹ.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_582_chunk_2",
+    "seed_context": "\"Tôi nghĩ chúng tôi có lý do chính đáng, nhưng bạn có thể đúng. Ý tôi là, chúng ta rồi sẽ biết chuyện gì sẽ đến thôi\", Tổng thống nói. Ông còn đưa ra thông tin sai rằng Mỹ là quốc gia duy nhất trên thế giới cấp quyền công dân theo nơi sinh. Trên thực tế, hàng chục quốc gia khác cũng làm tương tự, trong đó có các nước láng giềng Canada và Mexico. Tu chính án thứ 14 được quốc hội Mỹ phê chuẩn vào năm 1868 nêu rõ \"tất cả những người sinh ra ở Mỹ hoặc nhập tịch, nằm trong quyền tài phán của Mỹ, đều là công dân Mỹ và bang nơi họ cư trú\". Chính sách này nhằm đảm bảo con cái của những nô lệ được đưa tới Mỹ trái với ý muốn của họ đều được công nhận là công dân Mỹ. Giới quan sát cho rằng ngôn ngữ trong Tu chính án thứ 14 rất rõ ràng, khẳng định bất kỳ ai sinh ra trên lãnh thổ của Mỹ đều mặc nhiên trở thành công dân. Quyền này còn được gọi là jus soli, tức là \"quyền của người sinh ra trên lãnh thổ\". Kể từ đó, quyền này đã được áp dụng cho mọi trẻ em sinh ra tại Mỹ, bất kể bố mẹ của đứa trẻ là người nhập cư bất hợp pháp hay đến Mỹ bằng thị thực du lịch hoặc du học sinh."
+  },
+  {
+    "claim_id": "ctx10_claim29",
+    "claim": "Tổng thống Mỹ vào năm 1868 đã đưa ra thông tin rằng Mỹ là quốc gia duy nhất trên thế giới cấp quyền công dân theo nơi sinh, trong khi thực tế chỉ có Canada và Mexico làm tương tự.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_582_chunk_2",
+    "seed_context": "\"Tôi nghĩ chúng tôi có lý do chính đáng, nhưng bạn có thể đúng. Ý tôi là, chúng ta rồi sẽ biết chuyện gì sẽ đến thôi\", Tổng thống nói. Ông còn đưa ra thông tin sai rằng Mỹ là quốc gia duy nhất trên thế giới cấp quyền công dân theo nơi sinh. Trên thực tế, hàng chục quốc gia khác cũng làm tương tự, trong đó có các nước láng giềng Canada và Mexico. Tu chính án thứ 14 được quốc hội Mỹ phê chuẩn vào năm 1868 nêu rõ \"tất cả những người sinh ra ở Mỹ hoặc nhập tịch, nằm trong quyền tài phán của Mỹ, đều là công dân Mỹ và bang nơi họ cư trú\". Chính sách này nhằm đảm bảo con cái của những nô lệ được đưa tới Mỹ trái với ý muốn của họ đều được công nhận là công dân Mỹ. Giới quan sát cho rằng ngôn ngữ trong Tu chính án thứ 14 rất rõ ràng, khẳng định bất kỳ ai sinh ra trên lãnh thổ của Mỹ đều mặc nhiên trở thành công dân. Quyền này còn được gọi là jus soli, tức là \"quyền của người sinh ra trên lãnh thổ\". Kể từ đó, quyền này đã được áp dụng cho mọi trẻ em sinh ra tại Mỹ, bất kể bố mẹ của đứa trẻ là người nhập cư bất hợp pháp hay đến Mỹ bằng thị thực du lịch hoặc du học sinh."
+  },
+  {
+    "claim_id": "ctx10_claim30",
+    "claim": "Tu chính án thứ 14 được phê chuẩn vào năm 1868 nhằm đảm bảo quyền công dân cho con cái của những người nhập cư bất hợp pháp đến Mỹ bằng thị thực du lịch.",
+    "label": "NEI",
+    "seed_context_id": "vne_582_chunk_2",
+    "seed_context": "\"Tôi nghĩ chúng tôi có lý do chính đáng, nhưng bạn có thể đúng. Ý tôi là, chúng ta rồi sẽ biết chuyện gì sẽ đến thôi\", Tổng thống nói. Ông còn đưa ra thông tin sai rằng Mỹ là quốc gia duy nhất trên thế giới cấp quyền công dân theo nơi sinh. Trên thực tế, hàng chục quốc gia khác cũng làm tương tự, trong đó có các nước láng giềng Canada và Mexico. Tu chính án thứ 14 được quốc hội Mỹ phê chuẩn vào năm 1868 nêu rõ \"tất cả những người sinh ra ở Mỹ hoặc nhập tịch, nằm trong quyền tài phán của Mỹ, đều là công dân Mỹ và bang nơi họ cư trú\". Chính sách này nhằm đảm bảo con cái của những nô lệ được đưa tới Mỹ trái với ý muốn của họ đều được công nhận là công dân Mỹ. Giới quan sát cho rằng ngôn ngữ trong Tu chính án thứ 14 rất rõ ràng, khẳng định bất kỳ ai sinh ra trên lãnh thổ của Mỹ đều mặc nhiên trở thành công dân. Quyền này còn được gọi là jus soli, tức là \"quyền của người sinh ra trên lãnh thổ\". Kể từ đó, quyền này đã được áp dụng cho mọi trẻ em sinh ra tại Mỹ, bất kể bố mẹ của đứa trẻ là người nhập cư bất hợp pháp hay đến Mỹ bằng thị thực du lịch hoặc du học sinh."
+  },
+  {
+    "claim_id": "ctx11_claim31",
+    "claim": "Trong đợt rét từ ngày 9/1, nhiệt độ thấp nhất tại Đồng Văn (Hà Giang) đã xuống 0 độ C.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_41_chunk_2",
+    "seed_context": "Trong đó đợt từ ngày 9/1 gây rét hại, rét đậm diện rộng. Nhiệt độ thấp nhất ở Đồng Văn (Hà Giang), Đình Lập (Lạng Sơn), Trùng Khánh (Cao Bằng) xuống 0 độ C, nhiều đỉnh núi băng phủ trắng xóa ."
+  },
+  {
+    "claim_id": "ctx11_claim32",
+    "claim": "Trong đợt rét từ ngày 9/1, nhiệt độ thấp nhất tại Đồng Văn (Hà Giang) đã lên tới 10 độ C.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_41_chunk_2",
+    "seed_context": "Trong đó đợt từ ngày 9/1 gây rét hại, rét đậm diện rộng. Nhiệt độ thấp nhất ở Đồng Văn (Hà Giang), Đình Lập (Lạng Sơn), Trùng Khánh (Cao Bằng) xuống 0 độ C, nhiều đỉnh núi băng phủ trắng xóa ."
+  },
+  {
+    "claim_id": "ctx11_claim33",
+    "claim": "Trong đợt rét từ ngày 9/1, nhiều đỉnh núi tại Đồng Văn (Hà Giang) đã có tuyết rơi dày 1 mét.",
+    "label": "NEI",
+    "seed_context_id": "vne_41_chunk_2",
+    "seed_context": "Trong đó đợt từ ngày 9/1 gây rét hại, rét đậm diện rộng. Nhiệt độ thấp nhất ở Đồng Văn (Hà Giang), Đình Lập (Lạng Sơn), Trùng Khánh (Cao Bằng) xuống 0 độ C, nhiều đỉnh núi băng phủ trắng xóa ."
+  },
+  {
+    "claim_id": "ctx12_claim34",
+    "claim": "Nhiều vùng tại tỉnh bang Ontario, Canada, đã ghi nhận tới 6 cảnh báo nắng nóng khắc nghiệt trong mùa hè năm 2023, nhiều hơn 4 cảnh báo trong cả năm 2022.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_860_chunk_0",
+    "seed_context": "Ontario trải qua mùa hè khắc nghiệt với nhiều đợt nắng nóng, người dân khổ sở khi không có điều hòa, bật nhiều quạt cũng không thể ngủ được. Nhiều vùng tại tỉnh bang Ontario, Canada, đã ghi nhận tới 6 cảnh báo nắng nóng khắc nghiệt trong mùa hè năm nay, nhiều hơn 4 cảnh báo trong cả năm ngoái. Khu vực Greater Toronto (GTA) ghi nhận tình trạng nắng nóng kéo dài, với nền nhiệt trên 30 độ C, có nơi lên đến 35 độ C. Tại những nơi mật độ lắp điều hòa không cao, người dân đang phải vật lộn đối phó với nắng nóng. Các nghiên cứu cho thấy những đợt nắng nóng này có khả năng xảy ra cao hơn do biến đổi khí hậu ở quốc gia vùng ôn đới và cận cực. Tại những trường học không có điều hòa ở GTA, học sinh đã phải ngồi học trong thời tiết oi bức với độ ẩm cao. Các học khu ở GTA đều phải áp dụng các biện pháp chống nóng tình thế như bật quạt, mở cửa sổ, tắt đèn và máy tính. \"Trời rất nóng, thực sự quá nóng. Không dễ chịu chút nào, chúng em phải mở cửa sổ liên tục\", một học sinh nói. Heat Collaborative, mạng lưới gồm nhiều nhóm xã hội dân sự hoạt động tại Ontario nhằm đối phó nắng nóng, ngày 18/8 cảnh báo tình trạng này đang gây nguy hiểm cho học sinh, công nhân, người thuê nhà và những cư dân tổn thương nhất của tỉnh."
+  },
+  {
+    "claim_id": "ctx12_claim35",
+    "claim": "Khu vực Greater Toronto (GTA) ghi nhận tình trạng nắng nóng kéo dài với nền nhiệt trên 40 độ C trong mùa hè năm nay.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_860_chunk_0",
+    "seed_context": "Ontario trải qua mùa hè khắc nghiệt với nhiều đợt nắng nóng, người dân khổ sở khi không có điều hòa, bật nhiều quạt cũng không thể ngủ được. Nhiều vùng tại tỉnh bang Ontario, Canada, đã ghi nhận tới 6 cảnh báo nắng nóng khắc nghiệt trong mùa hè năm nay, nhiều hơn 4 cảnh báo trong cả năm ngoái. Khu vực Greater Toronto (GTA) ghi nhận tình trạng nắng nóng kéo dài, với nền nhiệt trên 30 độ C, có nơi lên đến 35 độ C. Tại những nơi mật độ lắp điều hòa không cao, người dân đang phải vật lộn đối phó với nắng nóng. Các nghiên cứu cho thấy những đợt nắng nóng này có khả năng xảy ra cao hơn do biến đổi khí hậu ở quốc gia vùng ôn đới và cận cực. Tại những trường học không có điều hòa ở GTA, học sinh đã phải ngồi học trong thời tiết oi bức với độ ẩm cao. Các học khu ở GTA đều phải áp dụng các biện pháp chống nóng tình thế như bật quạt, mở cửa sổ, tắt đèn và máy tính. \"Trời rất nóng, thực sự quá nóng. Không dễ chịu chút nào, chúng em phải mở cửa sổ liên tục\", một học sinh nói. Heat Collaborative, mạng lưới gồm nhiều nhóm xã hội dân sự hoạt động tại Ontario nhằm đối phó nắng nóng, ngày 18/8 cảnh báo tình trạng này đang gây nguy hiểm cho học sinh, công nhân, người thuê nhà và những cư dân tổn thương nhất của tỉnh."
+  },
+  {
+    "claim_id": "ctx12_claim36",
+    "claim": "Heat Collaborative, mạng lưới gồm nhiều nhóm xã hội dân sự hoạt động tại Ontario, đã đề xuất xây dựng các trung tâm làm mát cộng đồng vào ngày 18/8 để đối phó với nắng nóng.",
+    "label": "NEI",
+    "seed_context_id": "vne_860_chunk_0",
+    "seed_context": "Ontario trải qua mùa hè khắc nghiệt với nhiều đợt nắng nóng, người dân khổ sở khi không có điều hòa, bật nhiều quạt cũng không thể ngủ được. Nhiều vùng tại tỉnh bang Ontario, Canada, đã ghi nhận tới 6 cảnh báo nắng nóng khắc nghiệt trong mùa hè năm nay, nhiều hơn 4 cảnh báo trong cả năm ngoái. Khu vực Greater Toronto (GTA) ghi nhận tình trạng nắng nóng kéo dài, với nền nhiệt trên 30 độ C, có nơi lên đến 35 độ C. Tại những nơi mật độ lắp điều hòa không cao, người dân đang phải vật lộn đối phó với nắng nóng. Các nghiên cứu cho thấy những đợt nắng nóng này có khả năng xảy ra cao hơn do biến đổi khí hậu ở quốc gia vùng ôn đới và cận cực. Tại những trường học không có điều hòa ở GTA, học sinh đã phải ngồi học trong thời tiết oi bức với độ ẩm cao. Các học khu ở GTA đều phải áp dụng các biện pháp chống nóng tình thế như bật quạt, mở cửa sổ, tắt đèn và máy tính. \"Trời rất nóng, thực sự quá nóng. Không dễ chịu chút nào, chúng em phải mở cửa sổ liên tục\", một học sinh nói. Heat Collaborative, mạng lưới gồm nhiều nhóm xã hội dân sự hoạt động tại Ontario nhằm đối phó nắng nóng, ngày 18/8 cảnh báo tình trạng này đang gây nguy hiểm cho học sinh, công nhân, người thuê nhà và những cư dân tổn thương nhất của tỉnh."
+  },
+  {
+    "claim_id": "ctx13_claim37",
+    "claim": "Ông Hải cho biết nhiều doanh nghiệp sẽ cùng tham gia vào hoạt động vận tải, không có sự độc quyền và tài xế được lựa chọn hãng có ưu đãi phù hợp cùng xe chất lượng.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_214_chunk_2",
+    "seed_context": "\"Sẽ có nhiều doanh nghiệp cùng tham gia, không độc quyền. Tài xế được lựa chọn hãng có ưu đãi phù hợp và xe chất lượng\", ông Hải cho biết. Thành phố cũng dự kiến xây dựng các trạm sạc điện, điểm dừng nghỉ và cung cấp pin sạc dự phòng cho tài xế, ưu tiên sử dụng năng lượng tái tạo. Doanh nghiệp đầu tư hạ tầng này cũng được hưởng hỗ trợ lãi suất vay vốn. Để hạn chế rủi ro tín dụng, HIDS đề xuất Quỹ Bảo lãnh tín dụng phối hợp cùng chính quyền địa phương hỗ trợ truy thu nợ và xử lý nợ xấu. Theo ông Lê Trung Tính, Chủ tịch Hiệp hội Vận tải ôtô hành khách TP HCM, thành phố là một \"siêu đô thị\" với mức phát thải rất lớn từ hoạt động giao thông. Việc thành phố chủ động chuyển đổi nhóm tài xế công nghệ, giao hàng - vốn có tần suất hoạt động cao - là bước đi phù hợp nhằm giảm ô nhiễm không khí. Hiện trong nước có một số hãng như VinFast với hệ sinh thái Xanh SM đã triển khai xe máy điện tại nhiều tỉnh thành. Đây là điều kiện thuận lợi để đẩy nhanh quá trình chuyển đổi. Tuy nhiên, ông Tính cũng lưu ý cần tính đến nhóm tài xế tự do, không thuộc các hãng công nghệ."
+  },
+  {
+    "claim_id": "ctx13_claim38",
+    "claim": "Theo ông Lê Trung Tính, Chủ tịch Hiệp hội Vận tải ôtô hành khách TP HCM, thành phố là một 'siêu đô thị' với mức phát thải rất nhỏ từ hoạt động giao thông.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_214_chunk_2",
+    "seed_context": "\"Sẽ có nhiều doanh nghiệp cùng tham gia, không độc quyền. Tài xế được lựa chọn hãng có ưu đãi phù hợp và xe chất lượng\", ông Hải cho biết. Thành phố cũng dự kiến xây dựng các trạm sạc điện, điểm dừng nghỉ và cung cấp pin sạc dự phòng cho tài xế, ưu tiên sử dụng năng lượng tái tạo. Doanh nghiệp đầu tư hạ tầng này cũng được hưởng hỗ trợ lãi suất vay vốn. Để hạn chế rủi ro tín dụng, HIDS đề xuất Quỹ Bảo lãnh tín dụng phối hợp cùng chính quyền địa phương hỗ trợ truy thu nợ và xử lý nợ xấu. Theo ông Lê Trung Tính, Chủ tịch Hiệp hội Vận tải ôtô hành khách TP HCM, thành phố là một \"siêu đô thị\" với mức phát thải rất lớn từ hoạt động giao thông. Việc thành phố chủ động chuyển đổi nhóm tài xế công nghệ, giao hàng - vốn có tần suất hoạt động cao - là bước đi phù hợp nhằm giảm ô nhiễm không khí. Hiện trong nước có một số hãng như VinFast với hệ sinh thái Xanh SM đã triển khai xe máy điện tại nhiều tỉnh thành. Đây là điều kiện thuận lợi để đẩy nhanh quá trình chuyển đổi. Tuy nhiên, ông Tính cũng lưu ý cần tính đến nhóm tài xế tự do, không thuộc các hãng công nghệ."
+  },
+  {
+    "claim_id": "ctx13_claim39",
+    "claim": "Thành phố dự kiến sẽ xây dựng thêm 50 trạm sạc điện và 100 điểm dừng nghỉ cho tài xế xe công nghệ trong năm 2025.",
+    "label": "NEI",
+    "seed_context_id": "vne_214_chunk_2",
+    "seed_context": "\"Sẽ có nhiều doanh nghiệp cùng tham gia, không độc quyền. Tài xế được lựa chọn hãng có ưu đãi phù hợp và xe chất lượng\", ông Hải cho biết. Thành phố cũng dự kiến xây dựng các trạm sạc điện, điểm dừng nghỉ và cung cấp pin sạc dự phòng cho tài xế, ưu tiên sử dụng năng lượng tái tạo. Doanh nghiệp đầu tư hạ tầng này cũng được hưởng hỗ trợ lãi suất vay vốn. Để hạn chế rủi ro tín dụng, HIDS đề xuất Quỹ Bảo lãnh tín dụng phối hợp cùng chính quyền địa phương hỗ trợ truy thu nợ và xử lý nợ xấu. Theo ông Lê Trung Tính, Chủ tịch Hiệp hội Vận tải ôtô hành khách TP HCM, thành phố là một \"siêu đô thị\" với mức phát thải rất lớn từ hoạt động giao thông. Việc thành phố chủ động chuyển đổi nhóm tài xế công nghệ, giao hàng - vốn có tần suất hoạt động cao - là bước đi phù hợp nhằm giảm ô nhiễm không khí. Hiện trong nước có một số hãng như VinFast với hệ sinh thái Xanh SM đã triển khai xe máy điện tại nhiều tỉnh thành. Đây là điều kiện thuận lợi để đẩy nhanh quá trình chuyển đổi. Tuy nhiên, ông Tính cũng lưu ý cần tính đến nhóm tài xế tự do, không thuộc các hãng công nghệ."
+  },
+  {
+    "claim_id": "ctx14_claim40",
+    "claim": "Sân bay quốc tế Long Thành, được quy hoạch với công suất tối đa 100 triệu khách mỗi năm, sẽ khai thác giai đoạn một từ giữa năm 2026 với công suất 25 triệu lượt khách và 1,2 triệu tấn hàng hóa mỗi năm.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_340_chunk_1",
+    "seed_context": "Sân bay quốc tế Long Thành xây dựng trên diện tích 5.000 ha, tổng vốn hơn 336.000 tỷ đồng, chia làm ba giai đoạn. Giai đoạn một dự kiến hoàn thành cuối năm nay, khai thác từ giữa 2026 với công suất 25 triệu lượt khách và 1,2 triệu tấn hàng hóa mỗi năm. Tổng công ty Cảng Hàng không Việt Nam (ACV) đưa ra hai kịch bản phân chia: chuyển toàn bộ chuyến bay quốc tế về Long Thành ngay từ 2026, hoặc chỉ dời đường bay quốc tế dài, giữ lại các chặng ngắn ở Tân Sơn Nhất. Theo ACV, việc dời toàn bộ đường bay quốc tế sang Long Thành là giải pháp chiến lược, bởi Tân Sơn Nhất nhiều năm quá tải, cả quốc tế lẫn nội địa cùng khai thác trong không gian hạn chế gây ùn tắc, giảm chất lượng dịch vụ. Ngược lại, Long Thành được quy hoạch dài hạn, công suất tối đa 100 triệu khách mỗi năm khi hoàn thành cả ba giai đoạn. Ngay giai đoạn đầu, sân bay có thể phục vụ 25 triệu khách với hạ tầng hiện đại, nhà ga rộng, công nghệ tự động hóa và luồng di chuyển thông thoáng. Vị trí Long Thành cũng thuận lợi hơn khi tách biệt khu dân cư, không hạn chế giờ bay và kết nối bằng cao tốc, vành đai, tương lai có metro."
+  },
+  {
+    "claim_id": "ctx14_claim41",
+    "claim": "Tổng vốn đầu tư cho Sân bay quốc tế Long Thành là hơn 136.000 tỷ đồng, với giai đoạn một dự kiến hoàn thành vào cuối năm 2025.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_340_chunk_1",
+    "seed_context": "Sân bay quốc tế Long Thành xây dựng trên diện tích 5.000 ha, tổng vốn hơn 336.000 tỷ đồng, chia làm ba giai đoạn. Giai đoạn một dự kiến hoàn thành cuối năm nay, khai thác từ giữa 2026 với công suất 25 triệu lượt khách và 1,2 triệu tấn hàng hóa mỗi năm. Tổng công ty Cảng Hàng không Việt Nam (ACV) đưa ra hai kịch bản phân chia: chuyển toàn bộ chuyến bay quốc tế về Long Thành ngay từ 2026, hoặc chỉ dời đường bay quốc tế dài, giữ lại các chặng ngắn ở Tân Sơn Nhất. Theo ACV, việc dời toàn bộ đường bay quốc tế sang Long Thành là giải pháp chiến lược, bởi Tân Sơn Nhất nhiều năm quá tải, cả quốc tế lẫn nội địa cùng khai thác trong không gian hạn chế gây ùn tắc, giảm chất lượng dịch vụ. Ngược lại, Long Thành được quy hoạch dài hạn, công suất tối đa 100 triệu khách mỗi năm khi hoàn thành cả ba giai đoạn. Ngay giai đoạn đầu, sân bay có thể phục vụ 25 triệu khách với hạ tầng hiện đại, nhà ga rộng, công nghệ tự động hóa và luồng di chuyển thông thoáng. Vị trí Long Thành cũng thuận lợi hơn khi tách biệt khu dân cư, không hạn chế giờ bay và kết nối bằng cao tốc, vành đai, tương lai có metro."
+  },
+  {
+    "claim_id": "ctx14_claim42",
+    "claim": "ACV đang xem xét kịch bản chuyển toàn bộ đường bay quốc tế và nội địa về sân bay Long Thành ngay từ năm 2026 để giảm tải cho sân bay Tân Sơn Nhất.",
+    "label": "NEI",
+    "seed_context_id": "vne_340_chunk_1",
+    "seed_context": "Sân bay quốc tế Long Thành xây dựng trên diện tích 5.000 ha, tổng vốn hơn 336.000 tỷ đồng, chia làm ba giai đoạn. Giai đoạn một dự kiến hoàn thành cuối năm nay, khai thác từ giữa 2026 với công suất 25 triệu lượt khách và 1,2 triệu tấn hàng hóa mỗi năm. Tổng công ty Cảng Hàng không Việt Nam (ACV) đưa ra hai kịch bản phân chia: chuyển toàn bộ chuyến bay quốc tế về Long Thành ngay từ 2026, hoặc chỉ dời đường bay quốc tế dài, giữ lại các chặng ngắn ở Tân Sơn Nhất. Theo ACV, việc dời toàn bộ đường bay quốc tế sang Long Thành là giải pháp chiến lược, bởi Tân Sơn Nhất nhiều năm quá tải, cả quốc tế lẫn nội địa cùng khai thác trong không gian hạn chế gây ùn tắc, giảm chất lượng dịch vụ. Ngược lại, Long Thành được quy hoạch dài hạn, công suất tối đa 100 triệu khách mỗi năm khi hoàn thành cả ba giai đoạn. Ngay giai đoạn đầu, sân bay có thể phục vụ 25 triệu khách với hạ tầng hiện đại, nhà ga rộng, công nghệ tự động hóa và luồng di chuyển thông thoáng. Vị trí Long Thành cũng thuận lợi hơn khi tách biệt khu dân cư, không hạn chế giờ bay và kết nối bằng cao tốc, vành đai, tương lai có metro."
+  },
+  {
+    "claim_id": "ctx15_claim43",
+    "claim": "Theo ông Miran, thuế quan là công cụ sẵn có và dễ dàng nhất để giải quyết vấn đề, có thể sử dụng như đòn bẩy trong đàm phán để đảm bảo hàng xuất khẩu của Mỹ có thị phần ở các nước khác trong bài luận tháng 11/2024.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_704_chunk_4",
+    "seed_context": "Theo ông Miran, các quốc gia có thể \"chia sẻ gánh nặng\" này với Mỹ theo nhiều cách, như nhập khẩu hàng hóa Mỹ nhiều hơn hay đầu tư vào các nhà máy tại Mỹ. Trong số này, thuế quan là công cụ sẵn có và dễ dàng nhất để giải quyết vấn đề, có thể sử dụng như đòn bẩy trong đàm phán để đảm bảo hàng xuất khẩu của Mỹ có thị phần ở các nước khác, cố vấn kinh tế này lập luận. Ông gọi đề xuất dùng thuế quan để tái cấu trúc hệ thống thương mại toàn cầu trong bài luận tháng 11/2024 là một phần của \"Hiệp ước Mar-a-Lago\", lấy theo tên dinh thự của ông Trump ở Florida. Theo các điểm trong \"hiệp ước\" này, các nước sẽ phải tăng giá đồng nội tệ so với USD và chấp nhận các nhượng bộ về kinh tế, thương mại để đổi lấy an ninh tài chính, quân sự do Mỹ đảm bảo. Kể từ khi vào Nhà Trắng, Miran nhiều lần nhấn mạnh \"Hiệp ước Mar-a-Lago\" chỉ phản ánh những quan điểm của cá nhân ông trong bài luận, không phải của chính quyền. Tuy nhiên, trong bài phát biểu tại Viện Hudson ngày 7/4 và được Nhà Trắng đăng toàn văn, Miran đã lặp lại những quan điểm kinh tế trên khi giải thích về chính sách thuế quan của ông Trump, vài ngày sau khi Tổng thống Mỹ ký lệnh áp thuế đối ứng với các đối tác thương mại."
+  },
+  {
+    "claim_id": "ctx15_claim44",
+    "claim": "Trong bài luận tháng 11/2024, ông Miran đề xuất các nước phải giảm giá đồng nội tệ so với USD và chấp nhận các nhượng bộ về kinh tế, thương mại để đổi lấy an ninh tài chính, quân sự do Mỹ đảm bảo.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_704_chunk_4",
+    "seed_context": "Theo ông Miran, các quốc gia có thể \"chia sẻ gánh nặng\" này với Mỹ theo nhiều cách, như nhập khẩu hàng hóa Mỹ nhiều hơn hay đầu tư vào các nhà máy tại Mỹ. Trong số này, thuế quan là công cụ sẵn có và dễ dàng nhất để giải quyết vấn đề, có thể sử dụng như đòn bẩy trong đàm phán để đảm bảo hàng xuất khẩu của Mỹ có thị phần ở các nước khác, cố vấn kinh tế này lập luận. Ông gọi đề xuất dùng thuế quan để tái cấu trúc hệ thống thương mại toàn cầu trong bài luận tháng 11/2024 là một phần của \"Hiệp ước Mar-a-Lago\", lấy theo tên dinh thự của ông Trump ở Florida. Theo các điểm trong \"hiệp ước\" này, các nước sẽ phải tăng giá đồng nội tệ so với USD và chấp nhận các nhượng bộ về kinh tế, thương mại để đổi lấy an ninh tài chính, quân sự do Mỹ đảm bảo. Kể từ khi vào Nhà Trắng, Miran nhiều lần nhấn mạnh \"Hiệp ước Mar-a-Lago\" chỉ phản ánh những quan điểm của cá nhân ông trong bài luận, không phải của chính quyền. Tuy nhiên, trong bài phát biểu tại Viện Hudson ngày 7/4 và được Nhà Trắng đăng toàn văn, Miran đã lặp lại những quan điểm kinh tế trên khi giải thích về chính sách thuế quan của ông Trump, vài ngày sau khi Tổng thống Mỹ ký lệnh áp thuế đối ứng với các đối tác thương mại."
+  },
+  {
+    "claim_id": "ctx15_claim45",
+    "claim": "Trong bài phát biểu tại Viện Hudson ngày 7/4, ông Miran đã thảo luận về các biện pháp cụ thể để tăng cường nhập khẩu hàng hóa từ các quốc gia châu Âu vào Mỹ.",
+    "label": "NEI",
+    "seed_context_id": "vne_704_chunk_4",
+    "seed_context": "Theo ông Miran, các quốc gia có thể \"chia sẻ gánh nặng\" này với Mỹ theo nhiều cách, như nhập khẩu hàng hóa Mỹ nhiều hơn hay đầu tư vào các nhà máy tại Mỹ. Trong số này, thuế quan là công cụ sẵn có và dễ dàng nhất để giải quyết vấn đề, có thể sử dụng như đòn bẩy trong đàm phán để đảm bảo hàng xuất khẩu của Mỹ có thị phần ở các nước khác, cố vấn kinh tế này lập luận. Ông gọi đề xuất dùng thuế quan để tái cấu trúc hệ thống thương mại toàn cầu trong bài luận tháng 11/2024 là một phần của \"Hiệp ước Mar-a-Lago\", lấy theo tên dinh thự của ông Trump ở Florida. Theo các điểm trong \"hiệp ước\" này, các nước sẽ phải tăng giá đồng nội tệ so với USD và chấp nhận các nhượng bộ về kinh tế, thương mại để đổi lấy an ninh tài chính, quân sự do Mỹ đảm bảo. Kể từ khi vào Nhà Trắng, Miran nhiều lần nhấn mạnh \"Hiệp ước Mar-a-Lago\" chỉ phản ánh những quan điểm của cá nhân ông trong bài luận, không phải của chính quyền. Tuy nhiên, trong bài phát biểu tại Viện Hudson ngày 7/4 và được Nhà Trắng đăng toàn văn, Miran đã lặp lại những quan điểm kinh tế trên khi giải thích về chính sách thuế quan của ông Trump, vài ngày sau khi Tổng thống Mỹ ký lệnh áp thuế đối ứng với các đối tác thương mại."
+  },
+  {
+    "claim_id": "ctx16_claim46",
+    "claim": "Vào tháng 12 năm 2023, cả nước Việt Nam có hơn 74,3 triệu xe môtô.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_196_chunk_3",
+    "seed_context": "Cả hai thông số này đều được chia làm bốn mức. Theo Luật trật tự an toàn giao thông đường bộ, xe môtô bao gồm xe có hai hoặc ba bánh chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, trừ xe gắn máy; đối với xe ba bánh thì khối lượng bản thân không lớn hơn 400 kg. Xe gắn máy là xe có hai hoặc ba bánh chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, có vận tốc thiết kế không lớn hơn 50 km/h. Nếu động cơ dẫn động là động cơ nhiệt thì dung tích làm việc hoặc dung tích tương đương không lớn hơn 50 cm3. Nếu động cơ dẫn động là động cơ điện thì công suất của động cơ không lớn hơn 04 kW; xe gắn máy không bao gồm xe đạp máy. Từ năm 2009-2023, số phương tiện cá nhân tăng trung bình mỗi năm 10-15%. Đến tháng 12/2023, cả nước có trên 74,3 triệu xe môtô. Những năm gần đây, lượng xe môtô đăng ký mới lớn, đơn cử năm 2022 hơn 3,5 triệu, 6 tháng đầu năm 2024 là 1,4 triệu. Việt Nam hiện chỉ có quy chuẩn khí thải và thực hiện kiểm định khí thải đối với ôtô; xe môtô, xe gắn máy chưa có."
+  },
+  {
+    "claim_id": "ctx16_claim47",
+    "claim": "Từ năm 2009 đến năm 2023, số phương tiện cá nhân tại Việt Nam tăng trung bình mỗi năm 20-25%.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_196_chunk_3",
+    "seed_context": "Cả hai thông số này đều được chia làm bốn mức. Theo Luật trật tự an toàn giao thông đường bộ, xe môtô bao gồm xe có hai hoặc ba bánh chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, trừ xe gắn máy; đối với xe ba bánh thì khối lượng bản thân không lớn hơn 400 kg. Xe gắn máy là xe có hai hoặc ba bánh chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, có vận tốc thiết kế không lớn hơn 50 km/h. Nếu động cơ dẫn động là động cơ nhiệt thì dung tích làm việc hoặc dung tích tương đương không lớn hơn 50 cm3. Nếu động cơ dẫn động là động cơ điện thì công suất của động cơ không lớn hơn 04 kW; xe gắn máy không bao gồm xe đạp máy. Từ năm 2009-2023, số phương tiện cá nhân tăng trung bình mỗi năm 10-15%. Đến tháng 12/2023, cả nước có trên 74,3 triệu xe môtô. Những năm gần đây, lượng xe môtô đăng ký mới lớn, đơn cử năm 2022 hơn 3,5 triệu, 6 tháng đầu năm 2024 là 1,4 triệu. Việt Nam hiện chỉ có quy chuẩn khí thải và thực hiện kiểm định khí thải đối với ôtô; xe môtô, xe gắn máy chưa có."
+  },
+  {
+    "claim_id": "ctx16_claim48",
+    "claim": "Việt Nam đã áp dụng quy chuẩn khí thải và kiểm định khí thải đối với xe môtô và xe gắn máy từ năm 2024.",
+    "label": "NEI",
+    "seed_context_id": "vne_196_chunk_3",
+    "seed_context": "Cả hai thông số này đều được chia làm bốn mức. Theo Luật trật tự an toàn giao thông đường bộ, xe môtô bao gồm xe có hai hoặc ba bánh chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, trừ xe gắn máy; đối với xe ba bánh thì khối lượng bản thân không lớn hơn 400 kg. Xe gắn máy là xe có hai hoặc ba bánh chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, có vận tốc thiết kế không lớn hơn 50 km/h. Nếu động cơ dẫn động là động cơ nhiệt thì dung tích làm việc hoặc dung tích tương đương không lớn hơn 50 cm3. Nếu động cơ dẫn động là động cơ điện thì công suất của động cơ không lớn hơn 04 kW; xe gắn máy không bao gồm xe đạp máy. Từ năm 2009-2023, số phương tiện cá nhân tăng trung bình mỗi năm 10-15%. Đến tháng 12/2023, cả nước có trên 74,3 triệu xe môtô. Những năm gần đây, lượng xe môtô đăng ký mới lớn, đơn cử năm 2022 hơn 3,5 triệu, 6 tháng đầu năm 2024 là 1,4 triệu. Việt Nam hiện chỉ có quy chuẩn khí thải và thực hiện kiểm định khí thải đối với ôtô; xe môtô, xe gắn máy chưa có."
+  },
+  {
+    "claim_id": "ctx17_claim49",
+    "claim": "Nhà giáo làm việc tại các vùng đồng bào dân tộc thiểu số, miền núi, biên giới, hải đảo được hưởng chính sách lương và phụ cấp cao hơn.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_244_chunk_1",
+    "seed_context": "Theo đó, nhà giáo được xếp lương cao nhất trong hệ thống thang bậc lương hành chính sự nghiệp. Họ cũng được hưởng phụ cấp ưu đãi nghề và các khoản phụ cấp khác tùy theo tính chất công việc và điều kiện vùng miền, theo quy định pháp luật. Diện được hưởng chính sách lương và phụ cấp cao hơn gồm: nhà giáo cấp học mầm non; công tác tại vùng đồng bào dân tộc thiểu số, miền núi, biên giới, hải đảo; vùng có điều kiện đặc biệt khó khăn; dạy tại trường chuyên biệt; thực hiện giáo dục hòa nhập; hoặc giảng dạy trong một số ngành, nghề đặc thù. Nhà giáo làm việc ở ngành, nghề có chế độ đặc thù sẽ được hưởng mức cao nhất trong các chính sách đang áp dụng, nếu các chế độ trùng nhau. Giải trình trước Quốc hội, Chủ nhiệm Ủy ban Văn hóa - Xã hội Nguyễn Đắc Vinh cho biết việc quy định lương, phụ cấp cao nhất cho nhà giáo là để thể chế hóa chủ trương của Đảng về chính sách đối với giáo viên. Điều này không trái với tinh thần cải cách chính sách tiền lương. Với nhà giáo làm việc ở khu vực ngoài công lập, việc trả lương thực hiện theo nguyên tắc thỏa thuận, căn cứ pháp luật lao động."
+  },
+  {
+    "claim_id": "ctx17_claim50",
+    "claim": "Chủ nhiệm Ủy ban Văn hóa - Xã hội Nguyễn Đắc Vinh cho biết việc quy định lương, phụ cấp cao nhất cho nhà giáo là để thể chế hóa chủ trương của Đảng về chính sách đối với học sinh.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_244_chunk_1",
+    "seed_context": "Theo đó, nhà giáo được xếp lương cao nhất trong hệ thống thang bậc lương hành chính sự nghiệp. Họ cũng được hưởng phụ cấp ưu đãi nghề và các khoản phụ cấp khác tùy theo tính chất công việc và điều kiện vùng miền, theo quy định pháp luật. Diện được hưởng chính sách lương và phụ cấp cao hơn gồm: nhà giáo cấp học mầm non; công tác tại vùng đồng bào dân tộc thiểu số, miền núi, biên giới, hải đảo; vùng có điều kiện đặc biệt khó khăn; dạy tại trường chuyên biệt; thực hiện giáo dục hòa nhập; hoặc giảng dạy trong một số ngành, nghề đặc thù. Nhà giáo làm việc ở ngành, nghề có chế độ đặc thù sẽ được hưởng mức cao nhất trong các chính sách đang áp dụng, nếu các chế độ trùng nhau. Giải trình trước Quốc hội, Chủ nhiệm Ủy ban Văn hóa - Xã hội Nguyễn Đắc Vinh cho biết việc quy định lương, phụ cấp cao nhất cho nhà giáo là để thể chế hóa chủ trương của Đảng về chính sách đối với giáo viên. Điều này không trái với tinh thần cải cách chính sách tiền lương. Với nhà giáo làm việc ở khu vực ngoài công lập, việc trả lương thực hiện theo nguyên tắc thỏa thuận, căn cứ pháp luật lao động."
+  },
+  {
+    "claim_id": "ctx17_claim51",
+    "claim": "Nhà giáo làm việc ở khu vực ngoài công lập được trả lương theo quy định của pháp luật về lao động và phụ cấp ưu đãi nghề.",
+    "label": "NEI",
+    "seed_context_id": "vne_244_chunk_1",
+    "seed_context": "Theo đó, nhà giáo được xếp lương cao nhất trong hệ thống thang bậc lương hành chính sự nghiệp. Họ cũng được hưởng phụ cấp ưu đãi nghề và các khoản phụ cấp khác tùy theo tính chất công việc và điều kiện vùng miền, theo quy định pháp luật. Diện được hưởng chính sách lương và phụ cấp cao hơn gồm: nhà giáo cấp học mầm non; công tác tại vùng đồng bào dân tộc thiểu số, miền núi, biên giới, hải đảo; vùng có điều kiện đặc biệt khó khăn; dạy tại trường chuyên biệt; thực hiện giáo dục hòa nhập; hoặc giảng dạy trong một số ngành, nghề đặc thù. Nhà giáo làm việc ở ngành, nghề có chế độ đặc thù sẽ được hưởng mức cao nhất trong các chính sách đang áp dụng, nếu các chế độ trùng nhau. Giải trình trước Quốc hội, Chủ nhiệm Ủy ban Văn hóa - Xã hội Nguyễn Đắc Vinh cho biết việc quy định lương, phụ cấp cao nhất cho nhà giáo là để thể chế hóa chủ trương của Đảng về chính sách đối với giáo viên. Điều này không trái với tinh thần cải cách chính sách tiền lương. Với nhà giáo làm việc ở khu vực ngoài công lập, việc trả lương thực hiện theo nguyên tắc thỏa thuận, căn cứ pháp luật lao động."
+  },
+  {
+    "claim_id": "ctx18_claim52",
+    "claim": "Cháu gái của ông chủ tiệm vàng 88 tuổi, tên Linh, đã đến tiệm Kim Hưng 10 phút sau vụ cướp và chứng kiến chú mình bị sốc nặng, chân chảy máu do dẫm phải kính vỡ.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_888_chunk_1",
+    "seed_context": "Toàn bộ vụ cướp diễn ra chỉ trong khoảng 40 giây. Gia đình ước tính thiệt hại đối với cửa tiệm lên tới hơn 50. 000 USD. Người thân từ chối nêu danh tính hai bố con vì sợ bị bọn cướp trả thù. Ông chủ 88 tuổi bị đột quỵ sau cú ngã. Ông xuất viện sau 5 ngày và đang hồi phục tại nhà. Linh, cháu gái ông, cho biết chú mình vẫn hoảng loạn, bị sang chấn tâm lý và đang cân nhắc đóng cửa tiệm vàng sau biến cố. \"Chúng tôi không biết liệu có nên tiếp tục kinh doanh ở đó nữa hay không\", Linh nói, cho biết chú mình đến California 40 năm trước và tạo dựng gia đình ở San Jose và các vùng lân cận. \"Ông ấy là người đàn ông của gia đình, rất yêu thương người thân\". Cô đến tiệm Kim Hưng khoảng 10 phút sau vụ cướp và thấy chú mình đang sốc nặng, chân bê bết máu do dẫm phải mảnh kính vỡ. \"Ông ấy rất sợ hãi, cứ nói liên hồi bằng tiếng Việt: 'Trời ơi! Trời ơi! Chúng đã đi chưa? Chúng đã đi chưa? '\", cô kể lại. Sau khi thấy chú không thể trả lời các câu hỏi, Linh đã gọi đến đường dây cấp cứu. Các bác sĩ cho biết ông chủ tiệm vàng \"rất may mắn\" khi được đưa đến bệnh viện kịp thời sau cơn đột quỵ."
+  },
+  {
+    "claim_id": "ctx18_claim53",
+    "claim": "Ông chủ tiệm vàng 88 tuổi đã bị đột quỵ sau vụ cướp và xuất viện sau 10 ngày, hiện đang hồi phục tại nhà.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_888_chunk_1",
+    "seed_context": "Toàn bộ vụ cướp diễn ra chỉ trong khoảng 40 giây. Gia đình ước tính thiệt hại đối với cửa tiệm lên tới hơn 50. 000 USD. Người thân từ chối nêu danh tính hai bố con vì sợ bị bọn cướp trả thù. Ông chủ 88 tuổi bị đột quỵ sau cú ngã. Ông xuất viện sau 5 ngày và đang hồi phục tại nhà. Linh, cháu gái ông, cho biết chú mình vẫn hoảng loạn, bị sang chấn tâm lý và đang cân nhắc đóng cửa tiệm vàng sau biến cố. \"Chúng tôi không biết liệu có nên tiếp tục kinh doanh ở đó nữa hay không\", Linh nói, cho biết chú mình đến California 40 năm trước và tạo dựng gia đình ở San Jose và các vùng lân cận. \"Ông ấy là người đàn ông của gia đình, rất yêu thương người thân\". Cô đến tiệm Kim Hưng khoảng 10 phút sau vụ cướp và thấy chú mình đang sốc nặng, chân bê bết máu do dẫm phải mảnh kính vỡ. \"Ông ấy rất sợ hãi, cứ nói liên hồi bằng tiếng Việt: 'Trời ơi! Trời ơi! Chúng đã đi chưa? Chúng đã đi chưa? '\", cô kể lại. Sau khi thấy chú không thể trả lời các câu hỏi, Linh đã gọi đến đường dây cấp cứu. Các bác sĩ cho biết ông chủ tiệm vàng \"rất may mắn\" khi được đưa đến bệnh viện kịp thời sau cơn đột quỵ."
+  },
+  {
+    "claim_id": "ctx18_claim54",
+    "claim": "Ông chủ tiệm vàng, người đã đến California 40 năm trước, đã quyết định đóng cửa tiệm vàng Kim Hưng sau biến cố vì lo sợ ảnh hưởng đến việc kinh doanh của gia đình.",
+    "label": "NEI",
+    "seed_context_id": "vne_888_chunk_1",
+    "seed_context": "Toàn bộ vụ cướp diễn ra chỉ trong khoảng 40 giây. Gia đình ước tính thiệt hại đối với cửa tiệm lên tới hơn 50. 000 USD. Người thân từ chối nêu danh tính hai bố con vì sợ bị bọn cướp trả thù. Ông chủ 88 tuổi bị đột quỵ sau cú ngã. Ông xuất viện sau 5 ngày và đang hồi phục tại nhà. Linh, cháu gái ông, cho biết chú mình vẫn hoảng loạn, bị sang chấn tâm lý và đang cân nhắc đóng cửa tiệm vàng sau biến cố. \"Chúng tôi không biết liệu có nên tiếp tục kinh doanh ở đó nữa hay không\", Linh nói, cho biết chú mình đến California 40 năm trước và tạo dựng gia đình ở San Jose và các vùng lân cận. \"Ông ấy là người đàn ông của gia đình, rất yêu thương người thân\". Cô đến tiệm Kim Hưng khoảng 10 phút sau vụ cướp và thấy chú mình đang sốc nặng, chân bê bết máu do dẫm phải mảnh kính vỡ. \"Ông ấy rất sợ hãi, cứ nói liên hồi bằng tiếng Việt: 'Trời ơi! Trời ơi! Chúng đã đi chưa? Chúng đã đi chưa? '\", cô kể lại. Sau khi thấy chú không thể trả lời các câu hỏi, Linh đã gọi đến đường dây cấp cứu. Các bác sĩ cho biết ông chủ tiệm vàng \"rất may mắn\" khi được đưa đến bệnh viện kịp thời sau cơn đột quỵ."
+  },
+  {
+    "claim_id": "ctx19_claim55",
+    "claim": "Các trường hợp không đáp ứng quy định về làm việc dự kiến bắt đầu bị cắt trợ cấp SNAP từ tháng 3/2026, tùy thời điểm tái xác nhận hồ sơ ở từng bang.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_993_chunk_1",
+    "seed_context": "000 hộ có trẻ em. Những trường hợp không đáp ứng quy định về làm việc dự kiến bắt đầu bị cắt trợ cấp từ tháng 3/2026, tùy thời điểm tái xác nhận hồ sơ ở từng bang. Phe Cộng hòa từ lâu muốn siết chặt yêu cầu lao động đối với người thụ hưởng SNAP nhằm giảm gánh nặng về phúc lợi và thúc đẩy người dân làm việc. Quy định về giờ làm việc tối thiểu trước đây chỉ áp dụng với người 18-54 tuổi, không khuyết tật và không nuôi trẻ nhỏ. OBBBA tăng độ tuổi phải lao động với người thụ hưởng SNAP lên 64 và áp dụng cho cả cha mẹ có con trong độ tuổi 14-17. Yêu cầu làm việc cũng được áp dụng cho cựu binh, người vô gia cư và thanh niên từng ở trong \"nhà tình thương\". Quy định mới đồng thời siết quyền xin miễn trừ của các bang. Chỉ những nơi có tỷ lệ thất nghiệp trên 10% mới đủ điều kiện được miễn trừ, thay vì khu vực \"thiếu việc làm\" do bang tự phân định như trước. Quá trình thực thi quy định mới diễn ra trong hỗn loạn bởi đợt đóng cửa chính phủ kéo dài kỷ lục vừa qua. Theo hướng dẫn từ Bộ Nông nghiệp Mỹ (USDA), quy định vốn có hiệu lực từ ngày 4/7 khi OBBBA được ký, nhưng các bang được ân hạn đến ngày 1/11 để chuẩn bị."
+  },
+  {
+    "claim_id": "ctx19_claim56",
+    "claim": "Quy định mới về yêu cầu làm việc đối với người thụ hưởng SNAP chỉ áp dụng cho người 18-54 tuổi, không khuyết tật và không nuôi trẻ nhỏ.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_993_chunk_1",
+    "seed_context": "000 hộ có trẻ em. Những trường hợp không đáp ứng quy định về làm việc dự kiến bắt đầu bị cắt trợ cấp từ tháng 3/2026, tùy thời điểm tái xác nhận hồ sơ ở từng bang. Phe Cộng hòa từ lâu muốn siết chặt yêu cầu lao động đối với người thụ hưởng SNAP nhằm giảm gánh nặng về phúc lợi và thúc đẩy người dân làm việc. Quy định về giờ làm việc tối thiểu trước đây chỉ áp dụng với người 18-54 tuổi, không khuyết tật và không nuôi trẻ nhỏ. OBBBA tăng độ tuổi phải lao động với người thụ hưởng SNAP lên 64 và áp dụng cho cả cha mẹ có con trong độ tuổi 14-17. Yêu cầu làm việc cũng được áp dụng cho cựu binh, người vô gia cư và thanh niên từng ở trong \"nhà tình thương\". Quy định mới đồng thời siết quyền xin miễn trừ của các bang. Chỉ những nơi có tỷ lệ thất nghiệp trên 10% mới đủ điều kiện được miễn trừ, thay vì khu vực \"thiếu việc làm\" do bang tự phân định như trước. Quá trình thực thi quy định mới diễn ra trong hỗn loạn bởi đợt đóng cửa chính phủ kéo dài kỷ lục vừa qua. Theo hướng dẫn từ Bộ Nông nghiệp Mỹ (USDA), quy định vốn có hiệu lực từ ngày 4/7 khi OBBBA được ký, nhưng các bang được ân hạn đến ngày 1/11 để chuẩn bị."
+  },
+  {
+    "claim_id": "ctx19_claim57",
+    "claim": "Bộ Nông nghiệp Mỹ (USDA) đã ban hành hướng dẫn chi tiết về việc áp dụng yêu cầu làm việc cho các bang có tỷ lệ thất nghiệp dưới 10% từ ngày 4/7.",
+    "label": "NEI",
+    "seed_context_id": "vne_993_chunk_1",
+    "seed_context": "000 hộ có trẻ em. Những trường hợp không đáp ứng quy định về làm việc dự kiến bắt đầu bị cắt trợ cấp từ tháng 3/2026, tùy thời điểm tái xác nhận hồ sơ ở từng bang. Phe Cộng hòa từ lâu muốn siết chặt yêu cầu lao động đối với người thụ hưởng SNAP nhằm giảm gánh nặng về phúc lợi và thúc đẩy người dân làm việc. Quy định về giờ làm việc tối thiểu trước đây chỉ áp dụng với người 18-54 tuổi, không khuyết tật và không nuôi trẻ nhỏ. OBBBA tăng độ tuổi phải lao động với người thụ hưởng SNAP lên 64 và áp dụng cho cả cha mẹ có con trong độ tuổi 14-17. Yêu cầu làm việc cũng được áp dụng cho cựu binh, người vô gia cư và thanh niên từng ở trong \"nhà tình thương\". Quy định mới đồng thời siết quyền xin miễn trừ của các bang. Chỉ những nơi có tỷ lệ thất nghiệp trên 10% mới đủ điều kiện được miễn trừ, thay vì khu vực \"thiếu việc làm\" do bang tự phân định như trước. Quá trình thực thi quy định mới diễn ra trong hỗn loạn bởi đợt đóng cửa chính phủ kéo dài kỷ lục vừa qua. Theo hướng dẫn từ Bộ Nông nghiệp Mỹ (USDA), quy định vốn có hiệu lực từ ngày 4/7 khi OBBBA được ký, nhưng các bang được ân hạn đến ngày 1/11 để chuẩn bị."
+  },
+  {
+    "claim_id": "ctx20_claim58",
+    "claim": "Vào ngày 2/4, Bộ trưởng Tài chính Mỹ Scott Bessent đã khuyên các quốc gia bị Mỹ áp thuế đối ứng nên bình tĩnh, ngồi lại nghiên cứu kỹ thay vì trả đũa để tránh tình hình leo thang.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_660_chunk_0",
+    "seed_context": "Bộ trưởng Tài chính Bessent khuyến cáo các quốc gia bị Mỹ áp thuế đối ứng nên \"bình tĩnh ngồi lại, đừng trả đũa\". \"Lời khuyên của tôi với tất cả các quốc gia hiện nay là đừng vội trả đũa. Hãy ngồi lại, nghiên cứu kỹ rồi xem mọi chuyện sẽ diễn ra thế nào. Vì nếu bạn trả đũa, tình hình sẽ leo thang\", Bộ trưởng Tài chính Mỹ Scott Bessent nói với ngày 2/4. Bộ trưởng Bessent lên tiếng sau khi Tổng thống Donald Trump công bố mức thuế nhập khẩu đối ứng mới với 180 đối tác thương mại, khoảng 1/2 số này chịu mức thuế chung 10%, có hiệu lực từ ngày 5/4. Các đối tác thương mại lớn của Mỹ chịu mức cao hơn, lên tới 50%, có hiệu lực từ 9/4. Ông Bessent trước đó nói với các nghị sĩ đảng Cộng hòa tại Thượng viện rằng thuế đối ứng sẽ là \"mức trần\" mà Mỹ áp dụng với các nước. Mức này có thể giảm xuống nếu các đối tác thương mại đáp ứng yêu cầu của chính quyền Trump. Bộ trưởng Bessent cho hay mục tiêu của thuế đối ứng là tạo điều kiện cho tăng trưởng kinh tế dài hạn của Mỹ. \"Chúng tôi đang đưa nước Mỹ quay về quỹ đạo ổn định."
+  },
+  {
+    "claim_id": "ctx20_claim59",
+    "claim": "Vào ngày 5/4, Tổng thống Donald Trump đã công bố mức thuế nhập khẩu đối ứng mới với 50% các đối tác thương mại, trong đó có 180 đối tác chịu mức thuế chung 10%.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_660_chunk_0",
+    "seed_context": "Bộ trưởng Tài chính Bessent khuyến cáo các quốc gia bị Mỹ áp thuế đối ứng nên \"bình tĩnh ngồi lại, đừng trả đũa\". \"Lời khuyên của tôi với tất cả các quốc gia hiện nay là đừng vội trả đũa. Hãy ngồi lại, nghiên cứu kỹ rồi xem mọi chuyện sẽ diễn ra thế nào. Vì nếu bạn trả đũa, tình hình sẽ leo thang\", Bộ trưởng Tài chính Mỹ Scott Bessent nói với ngày 2/4. Bộ trưởng Bessent lên tiếng sau khi Tổng thống Donald Trump công bố mức thuế nhập khẩu đối ứng mới với 180 đối tác thương mại, khoảng 1/2 số này chịu mức thuế chung 10%, có hiệu lực từ ngày 5/4. Các đối tác thương mại lớn của Mỹ chịu mức cao hơn, lên tới 50%, có hiệu lực từ 9/4. Ông Bessent trước đó nói với các nghị sĩ đảng Cộng hòa tại Thượng viện rằng thuế đối ứng sẽ là \"mức trần\" mà Mỹ áp dụng với các nước. Mức này có thể giảm xuống nếu các đối tác thương mại đáp ứng yêu cầu của chính quyền Trump. Bộ trưởng Bessent cho hay mục tiêu của thuế đối ứng là tạo điều kiện cho tăng trưởng kinh tế dài hạn của Mỹ. \"Chúng tôi đang đưa nước Mỹ quay về quỹ đạo ổn định."
+  },
+  {
+    "claim_id": "ctx20_claim60",
+    "claim": "Bộ trưởng Tài chính Bessent đã đề xuất giảm mức thuế đối ứng xuống 10% sau khi các đối tác thương mại đáp ứng yêu cầu của chính quyền Trump.",
+    "label": "NEI",
+    "seed_context_id": "vne_660_chunk_0",
+    "seed_context": "Bộ trưởng Tài chính Bessent khuyến cáo các quốc gia bị Mỹ áp thuế đối ứng nên \"bình tĩnh ngồi lại, đừng trả đũa\". \"Lời khuyên của tôi với tất cả các quốc gia hiện nay là đừng vội trả đũa. Hãy ngồi lại, nghiên cứu kỹ rồi xem mọi chuyện sẽ diễn ra thế nào. Vì nếu bạn trả đũa, tình hình sẽ leo thang\", Bộ trưởng Tài chính Mỹ Scott Bessent nói với ngày 2/4. Bộ trưởng Bessent lên tiếng sau khi Tổng thống Donald Trump công bố mức thuế nhập khẩu đối ứng mới với 180 đối tác thương mại, khoảng 1/2 số này chịu mức thuế chung 10%, có hiệu lực từ ngày 5/4. Các đối tác thương mại lớn của Mỹ chịu mức cao hơn, lên tới 50%, có hiệu lực từ 9/4. Ông Bessent trước đó nói với các nghị sĩ đảng Cộng hòa tại Thượng viện rằng thuế đối ứng sẽ là \"mức trần\" mà Mỹ áp dụng với các nước. Mức này có thể giảm xuống nếu các đối tác thương mại đáp ứng yêu cầu của chính quyền Trump. Bộ trưởng Bessent cho hay mục tiêu của thuế đối ứng là tạo điều kiện cho tăng trưởng kinh tế dài hạn của Mỹ. \"Chúng tôi đang đưa nước Mỹ quay về quỹ đạo ổn định."
+  },
+  {
+    "claim_id": "ctx21_claim61",
+    "claim": "Vào tháng 1 năm 2024, quận 1 đã hỗ trợ 10 triệu đồng cho mỗi hộ dân bị thiệt hại trong vụ hỏa hoạn tại một khu dân cư gồm 27 nhà tạm.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_44_chunk_2",
+    "seed_context": "Đại diện UBND quận 1 cho biết sự cố làm hư hỏng 7 ngôi nhà rộng từ 8-12 m2 nằm cùng dãy, trong đó 6 căn cháy hoàn toàn, một căn cháy khoảng 80%, chưa ghi nhận thương vong. Số nhà cháy nằm trong khu dân cư gồm 27 nhà tạm, cấp bốn xây dựng từ thập niên 1980. Sau hỏa hoạn, quận 1 xuống thăm hỏi, hỗ trợ 7 hộ thiệt hại số tiền 10 triệu đồng mỗi hộ, sắp xếp nơi ở tạm cho người dân. Để đề phòng dãy nhà cháy bị yếu kết cấu có thể đổ sập, cảnh sát căng dây, phong tỏa lối vào, di dời tất cả người dân ở khu này. Đình Văn"
+  },
+  {
+    "claim_id": "ctx21_claim62",
+    "claim": "Vào tháng 1 năm 2024, vụ hỏa hoạn đã làm hư hỏng 7 ngôi nhà, trong đó 6 căn cháy hoàn toàn và 1 căn cháy 80%, gây ra thương vong cho 3 người dân.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_44_chunk_2",
+    "seed_context": "Đại diện UBND quận 1 cho biết sự cố làm hư hỏng 7 ngôi nhà rộng từ 8-12 m2 nằm cùng dãy, trong đó 6 căn cháy hoàn toàn, một căn cháy khoảng 80%, chưa ghi nhận thương vong. Số nhà cháy nằm trong khu dân cư gồm 27 nhà tạm, cấp bốn xây dựng từ thập niên 1980. Sau hỏa hoạn, quận 1 xuống thăm hỏi, hỗ trợ 7 hộ thiệt hại số tiền 10 triệu đồng mỗi hộ, sắp xếp nơi ở tạm cho người dân. Để đề phòng dãy nhà cháy bị yếu kết cấu có thể đổ sập, cảnh sát căng dây, phong tỏa lối vào, di dời tất cả người dân ở khu này. Đình Văn"
+  },
+  {
+    "claim_id": "ctx21_claim63",
+    "claim": "Vào tháng 1 năm 2024, cảnh sát đã phong tỏa lối vào khu dân cư trên địa bàn quận 1 để điều tra nguyên nhân vụ hỏa hoạn.",
+    "label": "NEI",
+    "seed_context_id": "vne_44_chunk_2",
+    "seed_context": "Đại diện UBND quận 1 cho biết sự cố làm hư hỏng 7 ngôi nhà rộng từ 8-12 m2 nằm cùng dãy, trong đó 6 căn cháy hoàn toàn, một căn cháy khoảng 80%, chưa ghi nhận thương vong. Số nhà cháy nằm trong khu dân cư gồm 27 nhà tạm, cấp bốn xây dựng từ thập niên 1980. Sau hỏa hoạn, quận 1 xuống thăm hỏi, hỗ trợ 7 hộ thiệt hại số tiền 10 triệu đồng mỗi hộ, sắp xếp nơi ở tạm cho người dân. Để đề phòng dãy nhà cháy bị yếu kết cấu có thể đổ sập, cảnh sát căng dây, phong tỏa lối vào, di dời tất cả người dân ở khu này. Đình Văn"
+  },
+  {
+    "claim_id": "ctx22_claim64",
+    "claim": "Biến thể R-60M, ra đời năm 1982, có khả năng bám bắt mục tiêu nhiệt với góc lệch tối đa 20 độ so với hướng mũi phi cơ.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_995_chunk_1",
+    "seed_context": "Tên lửa R-60 nguyên bản chỉ có thể khóa mục tiêu thẳng hướng mũi máy bay, trong khi biến thể R-60M ra đời năm 1982 bám bắt được nguồn nhiệt với góc lệch tối đa 20 độ so với hướng mũi phi cơ. Chưa rõ cơ chế khai hỏa và phát hiện mục tiêu của UAV Geran-2 mang tên lửa đối không. Giới chuyên gia phương Tây và Ukraine cho rằng phi cơ được lắp hệ thống điều khiển từ xa, sử dụng kết nối vô tuyến với bộ chuyển tiếp và kèm cả SIM 4G để làm kết nối bổ sung. \"Phương án lắp tên lửa R-60 trên lưng UAV Geran-2 như vậy sẽ giúp tăng khả năng bám bắt. Dữ liệu mục tiêu sẽ lấy từ radar hoặc cảm biến bên ngoài, cũng như phi công trực tiếp sục sạo bằng hệ thống cảm biến tích hợp trên máy bay\", Joseph Trevithick, biên tập viên chuyên trang quân sự Mỹ nhận định. UAV Geran lắp tên lửa đối không có thể được triển khai độc lập hoặc theo biên đội, đặc biệt tại khu vực tiền tuyến. Chúng sẽ làm nhiệm vụ ngăn chặn những vụ tập kích đường không bất ngờ của Ukraine, đồng thời phối hợp với UAV khác trong các chiến dịch tấn công hiệp đồng quy mô lớn."
+  },
+  {
+    "claim_id": "ctx22_claim65",
+    "claim": "Tên lửa R-60 nguyên bản có thể khóa mục tiêu ở góc lệch tối đa 20 độ so với hướng mũi máy bay.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_995_chunk_1",
+    "seed_context": "Tên lửa R-60 nguyên bản chỉ có thể khóa mục tiêu thẳng hướng mũi máy bay, trong khi biến thể R-60M ra đời năm 1982 bám bắt được nguồn nhiệt với góc lệch tối đa 20 độ so với hướng mũi phi cơ. Chưa rõ cơ chế khai hỏa và phát hiện mục tiêu của UAV Geran-2 mang tên lửa đối không. Giới chuyên gia phương Tây và Ukraine cho rằng phi cơ được lắp hệ thống điều khiển từ xa, sử dụng kết nối vô tuyến với bộ chuyển tiếp và kèm cả SIM 4G để làm kết nối bổ sung. \"Phương án lắp tên lửa R-60 trên lưng UAV Geran-2 như vậy sẽ giúp tăng khả năng bám bắt. Dữ liệu mục tiêu sẽ lấy từ radar hoặc cảm biến bên ngoài, cũng như phi công trực tiếp sục sạo bằng hệ thống cảm biến tích hợp trên máy bay\", Joseph Trevithick, biên tập viên chuyên trang quân sự Mỹ nhận định. UAV Geran lắp tên lửa đối không có thể được triển khai độc lập hoặc theo biên đội, đặc biệt tại khu vực tiền tuyến. Chúng sẽ làm nhiệm vụ ngăn chặn những vụ tập kích đường không bất ngờ của Ukraine, đồng thời phối hợp với UAV khác trong các chiến dịch tấn công hiệp đồng quy mô lớn."
+  },
+  {
+    "claim_id": "ctx22_claim66",
+    "claim": "Cơ chế khai hỏa và phát hiện mục tiêu của UAV Geran-2 mang tên lửa đối không sử dụng công nghệ radar tiên tiến của Nga.",
+    "label": "NEI",
+    "seed_context_id": "vne_995_chunk_1",
+    "seed_context": "Tên lửa R-60 nguyên bản chỉ có thể khóa mục tiêu thẳng hướng mũi máy bay, trong khi biến thể R-60M ra đời năm 1982 bám bắt được nguồn nhiệt với góc lệch tối đa 20 độ so với hướng mũi phi cơ. Chưa rõ cơ chế khai hỏa và phát hiện mục tiêu của UAV Geran-2 mang tên lửa đối không. Giới chuyên gia phương Tây và Ukraine cho rằng phi cơ được lắp hệ thống điều khiển từ xa, sử dụng kết nối vô tuyến với bộ chuyển tiếp và kèm cả SIM 4G để làm kết nối bổ sung. \"Phương án lắp tên lửa R-60 trên lưng UAV Geran-2 như vậy sẽ giúp tăng khả năng bám bắt. Dữ liệu mục tiêu sẽ lấy từ radar hoặc cảm biến bên ngoài, cũng như phi công trực tiếp sục sạo bằng hệ thống cảm biến tích hợp trên máy bay\", Joseph Trevithick, biên tập viên chuyên trang quân sự Mỹ nhận định. UAV Geran lắp tên lửa đối không có thể được triển khai độc lập hoặc theo biên đội, đặc biệt tại khu vực tiền tuyến. Chúng sẽ làm nhiệm vụ ngăn chặn những vụ tập kích đường không bất ngờ của Ukraine, đồng thời phối hợp với UAV khác trong các chiến dịch tấn công hiệp đồng quy mô lớn."
+  },
+  {
+    "claim_id": "ctx23_claim67",
+    "claim": "Hoàng Văn Vinh, 18 tuổi, lên xe giường nằm hành trình Sơn La - Hà Nam vào 17h ngày 21/2 tại quốc lộ 6, đoạn qua xã Mường Giôn, huyện Quỳnh Nhai.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_77_chunk_1",
+    "seed_context": "Trong hơn 30 hành khách trên xe giường nằm hành trình Sơn La - Hà Nam khuya 21/2, Hoàng Văn Vinh, 18 tuổi, nằm trong số không phải nhập viện. Vinh vẫy xe giường nằm 36 chỗ ở lề quốc lộ 6, đoạn qua xã Mường Giôn, huyện Quỳnh Nhai để trở lại Hà Nam làm việc sau kỳ nghỉ Tết kéo dài. 17h ngày 21/2, Vinh lên xe, lúc này đã có một số người đến trước nằm đắp chăn. Phụ xe hướng dẫn Vinh lên tầng hai, vị trí giữa thân xe bên thành phải. Xe giường nằm sau đó vòng vèo đón khách, tới khoảng 20h30 về lại TP Sơn La để xuôi hành trình 250 km về bến cuối Hà Nam. Khoảng 21h, xe dừng ở huyện Mai Sơn đón đoàn 13 người, lấp đầy giường trống. Sau khi ổn định chỗ, đèn xe tắt. \"Chỉ đoàn người là anh em, họ hàng về quê ăn cưới nên thi thoảng nói chuyện, còn lại đa số khách nằm ngủ\", Vinh kể. Trong đêm tối, xe giường nằm lao trên quốc lộ 6 - tuyến huyết mạch nối Thủ đô với Tây Bắc. Đoạn đường qua Sơn La chỉ rộng 8-10 m với hai làn xe, đi qua nhiều đồi núi. Về khuya, trời mưa càng nặng hạt, hai bên vắng nhà dân, trên đường chỉ vài xe khách, xe tải qua lại."
+  },
+  {
+    "claim_id": "ctx23_claim68",
+    "claim": "Xe giường nằm đón đoàn 13 người tại TP Sơn La vào khoảng 21h ngày 21/2, làm lấp đầy giường trống.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_77_chunk_1",
+    "seed_context": "Trong hơn 30 hành khách trên xe giường nằm hành trình Sơn La - Hà Nam khuya 21/2, Hoàng Văn Vinh, 18 tuổi, nằm trong số không phải nhập viện. Vinh vẫy xe giường nằm 36 chỗ ở lề quốc lộ 6, đoạn qua xã Mường Giôn, huyện Quỳnh Nhai để trở lại Hà Nam làm việc sau kỳ nghỉ Tết kéo dài. 17h ngày 21/2, Vinh lên xe, lúc này đã có một số người đến trước nằm đắp chăn. Phụ xe hướng dẫn Vinh lên tầng hai, vị trí giữa thân xe bên thành phải. Xe giường nằm sau đó vòng vèo đón khách, tới khoảng 20h30 về lại TP Sơn La để xuôi hành trình 250 km về bến cuối Hà Nam. Khoảng 21h, xe dừng ở huyện Mai Sơn đón đoàn 13 người, lấp đầy giường trống. Sau khi ổn định chỗ, đèn xe tắt. \"Chỉ đoàn người là anh em, họ hàng về quê ăn cưới nên thi thoảng nói chuyện, còn lại đa số khách nằm ngủ\", Vinh kể. Trong đêm tối, xe giường nằm lao trên quốc lộ 6 - tuyến huyết mạch nối Thủ đô với Tây Bắc. Đoạn đường qua Sơn La chỉ rộng 8-10 m với hai làn xe, đi qua nhiều đồi núi. Về khuya, trời mưa càng nặng hạt, hai bên vắng nhà dân, trên đường chỉ vài xe khách, xe tải qua lại."
+  },
+  {
+    "claim_id": "ctx23_claim69",
+    "claim": "Hoàng Văn Vinh đã làm việc tại Hà Nam trước khi lên xe giường nằm trở về.",
+    "label": "NEI",
+    "seed_context_id": "vne_77_chunk_1",
+    "seed_context": "Trong hơn 30 hành khách trên xe giường nằm hành trình Sơn La - Hà Nam khuya 21/2, Hoàng Văn Vinh, 18 tuổi, nằm trong số không phải nhập viện. Vinh vẫy xe giường nằm 36 chỗ ở lề quốc lộ 6, đoạn qua xã Mường Giôn, huyện Quỳnh Nhai để trở lại Hà Nam làm việc sau kỳ nghỉ Tết kéo dài. 17h ngày 21/2, Vinh lên xe, lúc này đã có một số người đến trước nằm đắp chăn. Phụ xe hướng dẫn Vinh lên tầng hai, vị trí giữa thân xe bên thành phải. Xe giường nằm sau đó vòng vèo đón khách, tới khoảng 20h30 về lại TP Sơn La để xuôi hành trình 250 km về bến cuối Hà Nam. Khoảng 21h, xe dừng ở huyện Mai Sơn đón đoàn 13 người, lấp đầy giường trống. Sau khi ổn định chỗ, đèn xe tắt. \"Chỉ đoàn người là anh em, họ hàng về quê ăn cưới nên thi thoảng nói chuyện, còn lại đa số khách nằm ngủ\", Vinh kể. Trong đêm tối, xe giường nằm lao trên quốc lộ 6 - tuyến huyết mạch nối Thủ đô với Tây Bắc. Đoạn đường qua Sơn La chỉ rộng 8-10 m với hai làn xe, đi qua nhiều đồi núi. Về khuya, trời mưa càng nặng hạt, hai bên vắng nhà dân, trên đường chỉ vài xe khách, xe tải qua lại."
+  },
+  {
+    "claim_id": "ctx24_claim70",
+    "claim": "Vào tháng 8, Tổng thống Trump từng gợi ý rằng Ukraine có thể phải nhượng bộ lãnh thổ để đổi lấy nền hòa bình lâu dài với Nga.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_905_chunk_1",
+    "seed_context": "Những phát biểu mới nhất từ Tổng thống Trump đánh dấu sự thay đổi hoàn toàn về lập trường, sau khi ông trong năm qua nhiều lần nói Ukraine không thể thắng và không có khả năng giành lại lãnh thổ trước Nga. Trong cuộc trao đổi gay gắt tại Phòng Bầu dục hồi tháng hai, Tổng thống Trump nói với người đồng cấp Ukraine Volodymyr Zelensky rằng Kiev \"không có đủ quân bài\" để giúp họ giành chiến thắng trước Moskva. Hồi tháng 8, ông thậm chí gợi ý rằng Ukraine có thể phải \"nhượng bộ lãnh thổ\" để đổi lấy nền hòa bình lâu dài. Khi tiến trình đàm phán hòa bình Nga - Ukraine bế tắc, Tổng thống Trump ngày càng trở nên mất kiên nhẫn. Ông đã liên tục đe dọa áp đặt biện pháp trừng phạt cứng rắn hơn với Nga, nhưng đến nay vẫn chưa thực hiện bất kỳ hành động nào, ngay cả khi Điện Kremlin phớt lờ những tối hậu thư ông đưa ra. Theo chuyên gia phân tích Anthony Zurcher từ , tuyên bố này của ông Trump có thể không đánh dấu sự thay đổi quyết liệt trong chính sách của Mỹ với Nga và Ukraine, mà là một chiến thuật trong cách làm ngoại giao khó đoán của Tổng thống Mỹ nhằm tăng sức ép với Nga."
+  },
+  {
+    "claim_id": "ctx24_claim71",
+    "claim": "Trong cuộc trao đổi tại Phòng Bầu dục hồi tháng hai, Tổng thống Trump đã nói với người đồng cấp Ukraine Volodymyr Zelensky rằng Kiev có đủ quân bài để giúp họ giành chiến thắng trước Moskva.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_905_chunk_1",
+    "seed_context": "Những phát biểu mới nhất từ Tổng thống Trump đánh dấu sự thay đổi hoàn toàn về lập trường, sau khi ông trong năm qua nhiều lần nói Ukraine không thể thắng và không có khả năng giành lại lãnh thổ trước Nga. Trong cuộc trao đổi gay gắt tại Phòng Bầu dục hồi tháng hai, Tổng thống Trump nói với người đồng cấp Ukraine Volodymyr Zelensky rằng Kiev \"không có đủ quân bài\" để giúp họ giành chiến thắng trước Moskva. Hồi tháng 8, ông thậm chí gợi ý rằng Ukraine có thể phải \"nhượng bộ lãnh thổ\" để đổi lấy nền hòa bình lâu dài. Khi tiến trình đàm phán hòa bình Nga - Ukraine bế tắc, Tổng thống Trump ngày càng trở nên mất kiên nhẫn. Ông đã liên tục đe dọa áp đặt biện pháp trừng phạt cứng rắn hơn với Nga, nhưng đến nay vẫn chưa thực hiện bất kỳ hành động nào, ngay cả khi Điện Kremlin phớt lờ những tối hậu thư ông đưa ra. Theo chuyên gia phân tích Anthony Zurcher từ , tuyên bố này của ông Trump có thể không đánh dấu sự thay đổi quyết liệt trong chính sách của Mỹ với Nga và Ukraine, mà là một chiến thuật trong cách làm ngoại giao khó đoán của Tổng thống Mỹ nhằm tăng sức ép với Nga."
+  },
+  {
+    "claim_id": "ctx24_claim72",
+    "claim": "Chuyên gia phân tích Anthony Zurcher cho rằng việc Tổng thống Trump áp đặt các biện pháp trừng phạt cứng rắn hơn với Nga là một chiến thuật nhằm tăng sức ép với Ukraine.",
+    "label": "NEI",
+    "seed_context_id": "vne_905_chunk_1",
+    "seed_context": "Những phát biểu mới nhất từ Tổng thống Trump đánh dấu sự thay đổi hoàn toàn về lập trường, sau khi ông trong năm qua nhiều lần nói Ukraine không thể thắng và không có khả năng giành lại lãnh thổ trước Nga. Trong cuộc trao đổi gay gắt tại Phòng Bầu dục hồi tháng hai, Tổng thống Trump nói với người đồng cấp Ukraine Volodymyr Zelensky rằng Kiev \"không có đủ quân bài\" để giúp họ giành chiến thắng trước Moskva. Hồi tháng 8, ông thậm chí gợi ý rằng Ukraine có thể phải \"nhượng bộ lãnh thổ\" để đổi lấy nền hòa bình lâu dài. Khi tiến trình đàm phán hòa bình Nga - Ukraine bế tắc, Tổng thống Trump ngày càng trở nên mất kiên nhẫn. Ông đã liên tục đe dọa áp đặt biện pháp trừng phạt cứng rắn hơn với Nga, nhưng đến nay vẫn chưa thực hiện bất kỳ hành động nào, ngay cả khi Điện Kremlin phớt lờ những tối hậu thư ông đưa ra. Theo chuyên gia phân tích Anthony Zurcher từ , tuyên bố này của ông Trump có thể không đánh dấu sự thay đổi quyết liệt trong chính sách của Mỹ với Nga và Ukraine, mà là một chiến thuật trong cách làm ngoại giao khó đoán của Tổng thống Mỹ nhằm tăng sức ép với Nga."
+  },
+  {
+    "claim_id": "ctx25_claim73",
+    "claim": "Tại sân bay Nội Bài, Đà Nẵng, Cam Ranh và Tân Sơn Nhất ở Việt Nam, công nghệ sinh trắc học trên nền tảng VNeID đã được triển khai để thay thế việc xuất trình giấy tờ tùy thân từ năm 2023.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_479_chunk_2",
+    "seed_context": "Tại Việt Nam, công nghệ sinh trắc học trên nền tảng VNeID đã được triển khai tại nhiều sân bay như Nội Bài, Đà Nẵng, Cam Ranh và Tân Sơn Nhất... thay thế việc xuất trình giấy tờ. Các điểm làm thủ tục sinh trắc học được bố trí gần làn kiểm tra an ninh sinh trắc và tại các cửa ra tàu bay. Để thực hiện quy định mới này, đại diện Tổng công ty Cảng hàng không Việt Nam cho biết hiện tất cả sân bay đã có kiốt tự phục vụ giúp hành khách tự làm thủ tục bay. Với việc sử dụng giải pháp sinh trắc học tích hợp VNeID mức độ 2, hành khách sẽ tiết kiệm thời gian làm thủ tục, giảm chờ đợi và tăng độ chính xác nhờ đối chiếu sinh trắc học. Giải pháp này còn giúp hành khách không bị lỡ chuyến bay khi quên mang giấy tờ tùy thân. Hành khách tải app của Vietnam Airlines hoặc Vietjet, khi làm thủ tục trên VNeID sẽ liên thông với app của hãng. Từ đó thao tác kết nối thủ tục nhanh hơn."
+  },
+  {
+    "claim_id": "ctx25_claim74",
+    "claim": "Các điểm làm thủ tục sinh trắc học tại sân bay Việt Nam được bố trí tại khu vực phòng chờ thương gia và chỉ dành cho hành khách hạng nhất.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_479_chunk_2",
+    "seed_context": "Tại Việt Nam, công nghệ sinh trắc học trên nền tảng VNeID đã được triển khai tại nhiều sân bay như Nội Bài, Đà Nẵng, Cam Ranh và Tân Sơn Nhất... thay thế việc xuất trình giấy tờ. Các điểm làm thủ tục sinh trắc học được bố trí gần làn kiểm tra an ninh sinh trắc và tại các cửa ra tàu bay. Để thực hiện quy định mới này, đại diện Tổng công ty Cảng hàng không Việt Nam cho biết hiện tất cả sân bay đã có kiốt tự phục vụ giúp hành khách tự làm thủ tục bay. Với việc sử dụng giải pháp sinh trắc học tích hợp VNeID mức độ 2, hành khách sẽ tiết kiệm thời gian làm thủ tục, giảm chờ đợi và tăng độ chính xác nhờ đối chiếu sinh trắc học. Giải pháp này còn giúp hành khách không bị lỡ chuyến bay khi quên mang giấy tờ tùy thân. Hành khách tải app của Vietnam Airlines hoặc Vietjet, khi làm thủ tục trên VNeID sẽ liên thông với app của hãng. Từ đó thao tác kết nối thủ tục nhanh hơn."
+  },
+  {
+    "claim_id": "ctx25_claim75",
+    "claim": "Hành khách sử dụng VNeID để làm thủ tục trên app của Vietnam Airlines hoặc Vietjet sẽ được miễn phí toàn bộ vé máy bay cho chuyến đi tiếp theo.",
+    "label": "NEI",
+    "seed_context_id": "vne_479_chunk_2",
+    "seed_context": "Tại Việt Nam, công nghệ sinh trắc học trên nền tảng VNeID đã được triển khai tại nhiều sân bay như Nội Bài, Đà Nẵng, Cam Ranh và Tân Sơn Nhất... thay thế việc xuất trình giấy tờ. Các điểm làm thủ tục sinh trắc học được bố trí gần làn kiểm tra an ninh sinh trắc và tại các cửa ra tàu bay. Để thực hiện quy định mới này, đại diện Tổng công ty Cảng hàng không Việt Nam cho biết hiện tất cả sân bay đã có kiốt tự phục vụ giúp hành khách tự làm thủ tục bay. Với việc sử dụng giải pháp sinh trắc học tích hợp VNeID mức độ 2, hành khách sẽ tiết kiệm thời gian làm thủ tục, giảm chờ đợi và tăng độ chính xác nhờ đối chiếu sinh trắc học. Giải pháp này còn giúp hành khách không bị lỡ chuyến bay khi quên mang giấy tờ tùy thân. Hành khách tải app của Vietnam Airlines hoặc Vietjet, khi làm thủ tục trên VNeID sẽ liên thông với app của hãng. Từ đó thao tác kết nối thủ tục nhanh hơn."
+  },
+  {
+    "claim_id": "ctx26_claim76",
+    "claim": "Vào tháng 8, bà Ngoc Tran, 87 tuổi, đã nhận thư cảnh cáo lần ba từ ban quản lý khu nhà tiền chế Kona Kai Mobile Home Park ở thành phố Santa Ana, quận Cam, bang California, yêu cầu bà dẹp các chậu hoa và ghế ngả trên hiên.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_996_chunk_0",
+    "seed_context": "Nhiều người cao tuổi gốc Việt ở quận Cam có nguy cơ mất chỗ ở khi rào cản ngôn ngữ khiến họ không hiểu được các cảnh báo về nội quy của chủ đất. Hồi tháng 8, bà Ngoc Tran, 87 tuổi, nhận thư cảnh cáo lần ba từ ban quản lý khu nhà tiền chế Kona Kai Mobile Home Park ở thành phố Santa Ana, quận Cam, bang California, yêu cầu bà dẹp các chậu hoa và ghế ngả trên hiên, nếu không sẽ phải đối mặt hành động pháp lý. Thư cảnh cáo nêu rõ bà Tran đã kê quá giới hạn 5 chậu hoa, và những chiếc ghế ngả trước hiên không phải mẫu nội thất được phép. \"Mỗi lần ban quản lý gửi thư cảnh báo, tôi lại nhức đầu. Tôi thấy áp lực và lo sợ, không biết phải làm sao\", bà kể. Bà Tran và người chồng 91 tuổi đã sống tại khu Kona Kai Mobile Home Park được 7 năm. Những tháng gần đây, hai cụ liên tục nhận thư cảnh cáo, yêu cầu phải tuân theo các quy định mới từ ban quản lý khu nhà cho thuê. Mobile home là mô hình nhà tiền chế phổ biến tại Mỹ, nơi cư dân phải thuê đất từ chủ khu. Chi phí thấp khiến đây trở thành lựa chọn \"vừa túi tiền\" cho người thu nhập trung bình, song họ cũng đối mặt rủi ro từ các quy định nội bộ, phí thuê đất tăng và nguy cơ bị buộc rời đi nếu vi phạm."
+  },
+  {
+    "claim_id": "ctx26_claim77",
+    "claim": "Bà Ngoc Tran, 87 tuổi, đã sống tại khu Kona Kai Mobile Home Park được 10 năm và có thể giữ lại 7 chậu hoa trên hiên nhà theo quy định mới vào tháng 8.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_996_chunk_0",
+    "seed_context": "Nhiều người cao tuổi gốc Việt ở quận Cam có nguy cơ mất chỗ ở khi rào cản ngôn ngữ khiến họ không hiểu được các cảnh báo về nội quy của chủ đất. Hồi tháng 8, bà Ngoc Tran, 87 tuổi, nhận thư cảnh cáo lần ba từ ban quản lý khu nhà tiền chế Kona Kai Mobile Home Park ở thành phố Santa Ana, quận Cam, bang California, yêu cầu bà dẹp các chậu hoa và ghế ngả trên hiên, nếu không sẽ phải đối mặt hành động pháp lý. Thư cảnh cáo nêu rõ bà Tran đã kê quá giới hạn 5 chậu hoa, và những chiếc ghế ngả trước hiên không phải mẫu nội thất được phép. \"Mỗi lần ban quản lý gửi thư cảnh báo, tôi lại nhức đầu. Tôi thấy áp lực và lo sợ, không biết phải làm sao\", bà kể. Bà Tran và người chồng 91 tuổi đã sống tại khu Kona Kai Mobile Home Park được 7 năm. Những tháng gần đây, hai cụ liên tục nhận thư cảnh cáo, yêu cầu phải tuân theo các quy định mới từ ban quản lý khu nhà cho thuê. Mobile home là mô hình nhà tiền chế phổ biến tại Mỹ, nơi cư dân phải thuê đất từ chủ khu. Chi phí thấp khiến đây trở thành lựa chọn \"vừa túi tiền\" cho người thu nhập trung bình, song họ cũng đối mặt rủi ro từ các quy định nội bộ, phí thuê đất tăng và nguy cơ bị buộc rời đi nếu vi phạm."
+  },
+  {
+    "claim_id": "ctx26_claim78",
+    "claim": "Thành phố Santa Ana, quận Cam, bang California đã ban hành quy định mới về số lượng chậu hoa và loại ghế được phép đặt trên hiên nhà cho tất cả các khu nhà tiền chế vào tháng 8.",
+    "label": "NEI",
+    "seed_context_id": "vne_996_chunk_0",
+    "seed_context": "Nhiều người cao tuổi gốc Việt ở quận Cam có nguy cơ mất chỗ ở khi rào cản ngôn ngữ khiến họ không hiểu được các cảnh báo về nội quy của chủ đất. Hồi tháng 8, bà Ngoc Tran, 87 tuổi, nhận thư cảnh cáo lần ba từ ban quản lý khu nhà tiền chế Kona Kai Mobile Home Park ở thành phố Santa Ana, quận Cam, bang California, yêu cầu bà dẹp các chậu hoa và ghế ngả trên hiên, nếu không sẽ phải đối mặt hành động pháp lý. Thư cảnh cáo nêu rõ bà Tran đã kê quá giới hạn 5 chậu hoa, và những chiếc ghế ngả trước hiên không phải mẫu nội thất được phép. \"Mỗi lần ban quản lý gửi thư cảnh báo, tôi lại nhức đầu. Tôi thấy áp lực và lo sợ, không biết phải làm sao\", bà kể. Bà Tran và người chồng 91 tuổi đã sống tại khu Kona Kai Mobile Home Park được 7 năm. Những tháng gần đây, hai cụ liên tục nhận thư cảnh cáo, yêu cầu phải tuân theo các quy định mới từ ban quản lý khu nhà cho thuê. Mobile home là mô hình nhà tiền chế phổ biến tại Mỹ, nơi cư dân phải thuê đất từ chủ khu. Chi phí thấp khiến đây trở thành lựa chọn \"vừa túi tiền\" cho người thu nhập trung bình, song họ cũng đối mặt rủi ro từ các quy định nội bộ, phí thuê đất tăng và nguy cơ bị buộc rời đi nếu vi phạm."
+  },
+  {
+    "claim_id": "ctx27_claim79",
+    "claim": "Phó thủ tướng Trần Hồng Hà đã chỉ đạo Công an TP HCM nghiên cứu, kiến nghị sửa đổi, bổ sung Luật Xử lý vi phạm hành chính để áp dụng hình thức phạt lao động công ích đối với người vi phạm giao thông tại TP HCM.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_393_chunk_1",
+    "seed_context": "Yêu cầu này được đưa ra nhằm thực hiện theo kết luận của Phó thủ tướng Trần Hồng Hà sau cuộc họp sơ kết đảm bảo trật tự an toàn giao thông 6 tháng đầu năm 2025. Công an thành phố được giao chủ trì, phối hợp các sở ngành liên quan nghiên cứu, kiến nghị cấp có thẩm quyền xem xét sửa đổi, bổ sung Luật Xử lý vi phạm hành chính nhằm phù hợp với tình hình mới. Hình thức phạt lao động công ích người vi phạm giao thông là một trong những biện pháp được TP HCM giao nghiên cứu và đề xuất bổ sung trong luật. Hiện, phạt lao động công ích chưa được áp dụng rộng rãi trong lĩnh vực xử phạt vi phạm hành chính do chưa có quy định pháp lý cụ thể. Trong khi đó, trên thế giới nhiều nước đã áp dụng biện pháp này như một hình thức phạt thay thế phạt tiền, hoặc song song với phạt tiền. Người vi phạm có thể phải tham gia dọn vệ sinh đường phố, hỗ trợ tại các trung tâm cộng đồng hoặc làm việc tại cơ sở công ích trong thời gian nhất định. Cùng với biện pháp trên, Công an TP HCM sẽ tăng cường xử lý các hành vi vi phạm được xác định là nguyên nhân chính gây ra các vụ tai nạn giao thông, như nồng độ cồn, chạy quá tốc độ..."
+  },
+  {
+    "claim_id": "ctx27_claim80",
+    "claim": "Từ ngày 1 tháng 1 năm 2025, hình thức phạt lao động công ích đã được áp dụng rộng rãi tại Việt Nam cho người vi phạm giao thông do đã có quy định pháp lý cụ thể.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_393_chunk_1",
+    "seed_context": "Yêu cầu này được đưa ra nhằm thực hiện theo kết luận của Phó thủ tướng Trần Hồng Hà sau cuộc họp sơ kết đảm bảo trật tự an toàn giao thông 6 tháng đầu năm 2025. Công an thành phố được giao chủ trì, phối hợp các sở ngành liên quan nghiên cứu, kiến nghị cấp có thẩm quyền xem xét sửa đổi, bổ sung Luật Xử lý vi phạm hành chính nhằm phù hợp với tình hình mới. Hình thức phạt lao động công ích người vi phạm giao thông là một trong những biện pháp được TP HCM giao nghiên cứu và đề xuất bổ sung trong luật. Hiện, phạt lao động công ích chưa được áp dụng rộng rãi trong lĩnh vực xử phạt vi phạm hành chính do chưa có quy định pháp lý cụ thể. Trong khi đó, trên thế giới nhiều nước đã áp dụng biện pháp này như một hình thức phạt thay thế phạt tiền, hoặc song song với phạt tiền. Người vi phạm có thể phải tham gia dọn vệ sinh đường phố, hỗ trợ tại các trung tâm cộng đồng hoặc làm việc tại cơ sở công ích trong thời gian nhất định. Cùng với biện pháp trên, Công an TP HCM sẽ tăng cường xử lý các hành vi vi phạm được xác định là nguyên nhân chính gây ra các vụ tai nạn giao thông, như nồng độ cồn, chạy quá tốc độ..."
+  },
+  {
+    "claim_id": "ctx27_claim81",
+    "claim": "Trong cuộc họp sơ kết đảm bảo trật tự an toàn giao thông 6 tháng đầu năm 2025, Phó thủ tướng Trần Hồng Hà đã quyết định áp dụng hình phạt lao động công ích đối với các hành vi vi phạm giao thông như nồng độ cồn tại TP HCM.",
+    "label": "NEI",
+    "seed_context_id": "vne_393_chunk_1",
+    "seed_context": "Yêu cầu này được đưa ra nhằm thực hiện theo kết luận của Phó thủ tướng Trần Hồng Hà sau cuộc họp sơ kết đảm bảo trật tự an toàn giao thông 6 tháng đầu năm 2025. Công an thành phố được giao chủ trì, phối hợp các sở ngành liên quan nghiên cứu, kiến nghị cấp có thẩm quyền xem xét sửa đổi, bổ sung Luật Xử lý vi phạm hành chính nhằm phù hợp với tình hình mới. Hình thức phạt lao động công ích người vi phạm giao thông là một trong những biện pháp được TP HCM giao nghiên cứu và đề xuất bổ sung trong luật. Hiện, phạt lao động công ích chưa được áp dụng rộng rãi trong lĩnh vực xử phạt vi phạm hành chính do chưa có quy định pháp lý cụ thể. Trong khi đó, trên thế giới nhiều nước đã áp dụng biện pháp này như một hình thức phạt thay thế phạt tiền, hoặc song song với phạt tiền. Người vi phạm có thể phải tham gia dọn vệ sinh đường phố, hỗ trợ tại các trung tâm cộng đồng hoặc làm việc tại cơ sở công ích trong thời gian nhất định. Cùng với biện pháp trên, Công an TP HCM sẽ tăng cường xử lý các hành vi vi phạm được xác định là nguyên nhân chính gây ra các vụ tai nạn giao thông, như nồng độ cồn, chạy quá tốc độ..."
+  },
+  {
+    "claim_id": "ctx28_claim82",
+    "claim": "Vào rạng sáng ngày 24/5, hai trận địa phòng không được cho là tổ hợp Patriot đã khai hỏa 17 quả đạn trong một phút rưỡi tại thủ đô Kiev nhằm đánh chặn tên lửa đạn đạo Iskander-M của Nga.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_738_chunk_0",
+    "seed_context": "Video mới công bố cho thấy các trận địa nghi là Patriot Ukraine khai hỏa 17 quả đạn trong một phút rưỡi, dường như nhằm chặn tên lửa Iskander-M. Tài khoản DD Geopolitics trên X, chuyên đăng tư liệu về chiến sự Ukraine, ngày 24/5 chia sẻ video được người dân ở thủ đô Kiev ghi lại, cho thấy hoạt động của hai trận địa phòng không được cho là tổ hợp Patriot vào rạng sáng cùng ngày. Trong video, ít nhất 17 tên lửa phóng lên từ hai trận địa trong vòng một phút rưỡi. Các quả đạn nhanh chóng vọt lên với góc cao, cho thấy chúng đang hướng đến mục tiêu ở độ cao lớn. Xen lẫn giữa đợt khai hỏa là chớp sáng dưới mây, dường như là đạn pháo phòng kích hoạt trong nỗ lực đánh chặn máy bay không người lái (UAV) tự sát. Nhiều vụ nổ xảy ra sau đó gần một trong hai trận địa, cả hai khẩu đội tên lửa cũng ngừng khai hỏa sau loạt bắn này. Theo DD Geopolitics, video được quay trong quá trình UAV tự sát tầm xa Geran-2 của Nga tập kích nhà máy Antonov ở Kiev. \"Hai tổ hợp Patriot được kích hoạt cùng lúc nhằm đánh chặn tên lửa đạn đạo Iskander-M, nhưng đã thất bại."
+  },
+  {
+    "claim_id": "ctx28_claim83",
+    "claim": "Vào rạng sáng ngày 24/5, hai tổ hợp Patriot đã kích hoạt cùng lúc nhằm đánh chặn UAV tự sát Geran-2 của Nga tại thủ đô Kiev.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_738_chunk_0",
+    "seed_context": "Video mới công bố cho thấy các trận địa nghi là Patriot Ukraine khai hỏa 17 quả đạn trong một phút rưỡi, dường như nhằm chặn tên lửa Iskander-M. Tài khoản DD Geopolitics trên X, chuyên đăng tư liệu về chiến sự Ukraine, ngày 24/5 chia sẻ video được người dân ở thủ đô Kiev ghi lại, cho thấy hoạt động của hai trận địa phòng không được cho là tổ hợp Patriot vào rạng sáng cùng ngày. Trong video, ít nhất 17 tên lửa phóng lên từ hai trận địa trong vòng một phút rưỡi. Các quả đạn nhanh chóng vọt lên với góc cao, cho thấy chúng đang hướng đến mục tiêu ở độ cao lớn. Xen lẫn giữa đợt khai hỏa là chớp sáng dưới mây, dường như là đạn pháo phòng kích hoạt trong nỗ lực đánh chặn máy bay không người lái (UAV) tự sát. Nhiều vụ nổ xảy ra sau đó gần một trong hai trận địa, cả hai khẩu đội tên lửa cũng ngừng khai hỏa sau loạt bắn này. Theo DD Geopolitics, video được quay trong quá trình UAV tự sát tầm xa Geran-2 của Nga tập kích nhà máy Antonov ở Kiev. \"Hai tổ hợp Patriot được kích hoạt cùng lúc nhằm đánh chặn tên lửa đạn đạo Iskander-M, nhưng đã thất bại."
+  },
+  {
+    "claim_id": "ctx28_claim84",
+    "claim": "Video được quay tại thủ đô Kiev vào rạng sáng ngày 24/5 cho thấy các trận địa Patriot đã bắn hạ thành công UAV tự sát Geran-2 của Nga.",
+    "label": "NEI",
+    "seed_context_id": "vne_738_chunk_0",
+    "seed_context": "Video mới công bố cho thấy các trận địa nghi là Patriot Ukraine khai hỏa 17 quả đạn trong một phút rưỡi, dường như nhằm chặn tên lửa Iskander-M. Tài khoản DD Geopolitics trên X, chuyên đăng tư liệu về chiến sự Ukraine, ngày 24/5 chia sẻ video được người dân ở thủ đô Kiev ghi lại, cho thấy hoạt động của hai trận địa phòng không được cho là tổ hợp Patriot vào rạng sáng cùng ngày. Trong video, ít nhất 17 tên lửa phóng lên từ hai trận địa trong vòng một phút rưỡi. Các quả đạn nhanh chóng vọt lên với góc cao, cho thấy chúng đang hướng đến mục tiêu ở độ cao lớn. Xen lẫn giữa đợt khai hỏa là chớp sáng dưới mây, dường như là đạn pháo phòng kích hoạt trong nỗ lực đánh chặn máy bay không người lái (UAV) tự sát. Nhiều vụ nổ xảy ra sau đó gần một trong hai trận địa, cả hai khẩu đội tên lửa cũng ngừng khai hỏa sau loạt bắn này. Theo DD Geopolitics, video được quay trong quá trình UAV tự sát tầm xa Geran-2 của Nga tập kích nhà máy Antonov ở Kiev. \"Hai tổ hợp Patriot được kích hoạt cùng lúc nhằm đánh chặn tên lửa đạn đạo Iskander-M, nhưng đã thất bại."
+  },
+  {
+    "claim_id": "ctx29_claim85",
+    "claim": "Các xã, phường mới sẽ hoạt động trước ngày 15 tháng 8 và các tỉnh thành sẽ hoạt động trước ngày 15 tháng 9.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_169_chunk_3",
+    "seed_context": "Các xã, phường mới sẽ hoạt động trước 15/8 và các tỉnh thành trước 15/9."
+  },
+  {
+    "claim_id": "ctx29_claim86",
+    "claim": "Các xã, phường mới sẽ hoạt động sau ngày 15 tháng 8 và các tỉnh thành sẽ hoạt động trước ngày 15 tháng 9.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_169_chunk_3",
+    "seed_context": "Các xã, phường mới sẽ hoạt động trước 15/8 và các tỉnh thành trước 15/9."
+  },
+  {
+    "claim_id": "ctx29_claim87",
+    "claim": "Các xã, phường mới sẽ hoạt động trước ngày 15 tháng 8 và các tỉnh thành sẽ hoạt động sau ngày 15 tháng 9.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_169_chunk_3",
+    "seed_context": "Các xã, phường mới sẽ hoạt động trước 15/8 và các tỉnh thành trước 15/9."
+  },
+  {
+    "claim_id": "ctx29_claim88",
+    "claim": "Các xã, phường mới sẽ hoạt động trước ngày 15 tháng 8 và các tỉnh thành sẽ hoạt động trước ngày 15 tháng 9, và sẽ có thêm 5 xã được thành lập.",
+    "label": "NEI",
+    "seed_context_id": "vne_169_chunk_3",
+    "seed_context": "Các xã, phường mới sẽ hoạt động trước 15/8 và các tỉnh thành trước 15/9."
+  },
+  {
+    "claim_id": "ctx30_claim89",
+    "claim": "Vào sáng ngày 23/2, Cục Cảnh sát giao thông (Bộ Công an) thông báo người dân có thể truy cập Cổng dịch vụ công quốc gia hoặc cổng Bộ Công an để thực hiện cấp đổi giấy phép lái xe trực tuyến và giấy phép sẽ được chuyển trả sau 5 ngày làm việc nếu đăng ký dịch vụ bưu chính.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_80_chunk_1",
+    "seed_context": "Sáng 23/2, Cục Cảnh sát giao thông (Bộ Công an) cho biết với hình thức trực tuyến, người dân truy cập vào Cổng dịch vụ công quốc gia hoặc cổng Bộ Công an, sau đó kê khai theo hướng dẫn và hoàn thành nộp lệ phí qua chức năng thanh toán của hệ thống dịch vụ. Giấy phép lái xe sẽ được chuyển trả đến người dân sau 5 ngày làm việc (nếu đăng ký dịch vụ bưu chính), đồng thời dữ liệu điện tử về giấy phép lái xe của người dân sẽ được tự động cập nhật trên môi trường điện tử qua trang tra cứu thông tin của Cục Cảnh sát giao thông và VneID. Người dân có thể sử dụng ứng dụng VNeID để xuất trình giấy phép lái xe cho người kiểm soát và cảnh sát giao thông cũng sử dụng môi trường điện tử để kiểm tra, xác thực qua ứng dụng chuyên biệt. Việc cấp đổi giấy phép lái xe trên Cổng dịch vụ công quốc gia được thực hiện từ cuối năm 2022, nhưng nay người dân có thể thêm cổng mới của Bộ Công an. Việc xử lý các quy trình sau đó cũng do Bộ Công an thực hiện bởi Bộ mới tiếp nhận chức năng sát hạch, cấp giấy phép lái xe từ Bộ Giao thông Vận tải."
+  },
+  {
+    "claim_id": "ctx30_claim90",
+    "claim": "Kể từ cuối năm 2022, Cục Cảnh sát giao thông (Bộ Công an) đã tiếp nhận chức năng sát hạch, cấp giấy phép lái xe từ Bộ Giao thông Vận tải và xử lý các quy trình cấp đổi giấy phép lái xe trên Cổng dịch vụ công quốc gia.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_80_chunk_1",
+    "seed_context": "Sáng 23/2, Cục Cảnh sát giao thông (Bộ Công an) cho biết với hình thức trực tuyến, người dân truy cập vào Cổng dịch vụ công quốc gia hoặc cổng Bộ Công an, sau đó kê khai theo hướng dẫn và hoàn thành nộp lệ phí qua chức năng thanh toán của hệ thống dịch vụ. Giấy phép lái xe sẽ được chuyển trả đến người dân sau 5 ngày làm việc (nếu đăng ký dịch vụ bưu chính), đồng thời dữ liệu điện tử về giấy phép lái xe của người dân sẽ được tự động cập nhật trên môi trường điện tử qua trang tra cứu thông tin của Cục Cảnh sát giao thông và VneID. Người dân có thể sử dụng ứng dụng VNeID để xuất trình giấy phép lái xe cho người kiểm soát và cảnh sát giao thông cũng sử dụng môi trường điện tử để kiểm tra, xác thực qua ứng dụng chuyên biệt. Việc cấp đổi giấy phép lái xe trên Cổng dịch vụ công quốc gia được thực hiện từ cuối năm 2022, nhưng nay người dân có thể thêm cổng mới của Bộ Công an. Việc xử lý các quy trình sau đó cũng do Bộ Công an thực hiện bởi Bộ mới tiếp nhận chức năng sát hạch, cấp giấy phép lái xe từ Bộ Giao thông Vận tải."
+  },
+  {
+    "claim_id": "ctx30_claim91",
+    "claim": "Vào sáng ngày 23/2, Cục Cảnh sát giao thông (Bộ Công an) cho biết người dân có thể sử dụng ứng dụng VNeID để xuất trình giấy phép lái xe và nộp phạt vi phạm giao thông.",
+    "label": "NEI",
+    "seed_context_id": "vne_80_chunk_1",
+    "seed_context": "Sáng 23/2, Cục Cảnh sát giao thông (Bộ Công an) cho biết với hình thức trực tuyến, người dân truy cập vào Cổng dịch vụ công quốc gia hoặc cổng Bộ Công an, sau đó kê khai theo hướng dẫn và hoàn thành nộp lệ phí qua chức năng thanh toán của hệ thống dịch vụ. Giấy phép lái xe sẽ được chuyển trả đến người dân sau 5 ngày làm việc (nếu đăng ký dịch vụ bưu chính), đồng thời dữ liệu điện tử về giấy phép lái xe của người dân sẽ được tự động cập nhật trên môi trường điện tử qua trang tra cứu thông tin của Cục Cảnh sát giao thông và VneID. Người dân có thể sử dụng ứng dụng VNeID để xuất trình giấy phép lái xe cho người kiểm soát và cảnh sát giao thông cũng sử dụng môi trường điện tử để kiểm tra, xác thực qua ứng dụng chuyên biệt. Việc cấp đổi giấy phép lái xe trên Cổng dịch vụ công quốc gia được thực hiện từ cuối năm 2022, nhưng nay người dân có thể thêm cổng mới của Bộ Công an. Việc xử lý các quy trình sau đó cũng do Bộ Công an thực hiện bởi Bộ mới tiếp nhận chức năng sát hạch, cấp giấy phép lái xe từ Bộ Giao thông Vận tải."
+  },
+  {
+    "claim_id": "ctx31_claim92",
+    "claim": "Qatar đã đạt thỏa thuận mua 11 tổ hợp Patriot từ Mỹ vào năm 2012, bao gồm 44 bệ phóng, 246 tên lửa đánh chặn GEM-T và 768 đạn PAC-3.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_776_chunk_2",
+    "seed_context": "Patriot là hệ thống phòng không do Mỹ phát triển và biên chế từ năm 1981. Phiên bản PAC-2 sử dụng tên lửa đánh chặn có đầu đạn nổ mảnh, còn đạn của biến thể PAC-3 được trang bị công nghệ va chạm - tiêu diệt tiên tiến hơn để hạ mối de dọa bằng động năng. Radar của Patriot có tầm hoạt động khoảng 150 km. Qatar hồi năm 2012 đạt thỏa thuận trị giá 9 tỷ USD để mua 11 tổ hợp Patriot từ Mỹ, trong đó có 44 bệ phóng, 246 tên lửa đánh chặn GEM-T và 768 đạn PAC-3. Chúng được đưa vào triển khai đầy đủ từ năm 2018. Qatar hiện sở hữu biến thể nâng cấp PAC-3 MSE, loại được trang bị động cơ hai xung đẩy cũng như cải tiến về hệ thống dẫn đường, cánh lái và phần mềm, giúp tăng tầm bắn, trần bay và độ cơ động. \"PAC-3 MSE là tên lửa phòng không cực kỳ linh hoạt, có thể đối phó tên lửa siêu vượt âm, tên lửa đạn đạo và hành trình trong nhiều điều kiện tác chiến phức tạp\", Chris Mang, phó chủ tịch bộ phận sản xuất tên lửa của Lockheed Martin, nói. Ông Mang cho biết đạn PAC-3 MSE có độ chính xác rất cao và đủ khả năng hạ mục tiêu chỉ trong một lần phóng, trong khi các hệ thống đời cũ hơn thường phải khai hỏa hai lần."
+  },
+  {
+    "claim_id": "ctx31_claim93",
+    "claim": "Biến thể PAC-2 của hệ thống phòng không Patriot sử dụng tên lửa đánh chặn được trang bị công nghệ va chạm - tiêu diệt tiên tiến hơn để hạ mối đe dọa bằng động năng.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_776_chunk_2",
+    "seed_context": "Patriot là hệ thống phòng không do Mỹ phát triển và biên chế từ năm 1981. Phiên bản PAC-2 sử dụng tên lửa đánh chặn có đầu đạn nổ mảnh, còn đạn của biến thể PAC-3 được trang bị công nghệ va chạm - tiêu diệt tiên tiến hơn để hạ mối de dọa bằng động năng. Radar của Patriot có tầm hoạt động khoảng 150 km. Qatar hồi năm 2012 đạt thỏa thuận trị giá 9 tỷ USD để mua 11 tổ hợp Patriot từ Mỹ, trong đó có 44 bệ phóng, 246 tên lửa đánh chặn GEM-T và 768 đạn PAC-3. Chúng được đưa vào triển khai đầy đủ từ năm 2018. Qatar hiện sở hữu biến thể nâng cấp PAC-3 MSE, loại được trang bị động cơ hai xung đẩy cũng như cải tiến về hệ thống dẫn đường, cánh lái và phần mềm, giúp tăng tầm bắn, trần bay và độ cơ động. \"PAC-3 MSE là tên lửa phòng không cực kỳ linh hoạt, có thể đối phó tên lửa siêu vượt âm, tên lửa đạn đạo và hành trình trong nhiều điều kiện tác chiến phức tạp\", Chris Mang, phó chủ tịch bộ phận sản xuất tên lửa của Lockheed Martin, nói. Ông Mang cho biết đạn PAC-3 MSE có độ chính xác rất cao và đủ khả năng hạ mục tiêu chỉ trong một lần phóng, trong khi các hệ thống đời cũ hơn thường phải khai hỏa hai lần."
+  },
+  {
+    "claim_id": "ctx31_claim94",
+    "claim": "Hệ thống phòng không Patriot, được biên chế từ năm 1981, có khả năng đối phó tên lửa siêu vượt âm trong mọi điều kiện tác chiến phức tạp.",
+    "label": "NEI",
+    "seed_context_id": "vne_776_chunk_2",
+    "seed_context": "Patriot là hệ thống phòng không do Mỹ phát triển và biên chế từ năm 1981. Phiên bản PAC-2 sử dụng tên lửa đánh chặn có đầu đạn nổ mảnh, còn đạn của biến thể PAC-3 được trang bị công nghệ va chạm - tiêu diệt tiên tiến hơn để hạ mối de dọa bằng động năng. Radar của Patriot có tầm hoạt động khoảng 150 km. Qatar hồi năm 2012 đạt thỏa thuận trị giá 9 tỷ USD để mua 11 tổ hợp Patriot từ Mỹ, trong đó có 44 bệ phóng, 246 tên lửa đánh chặn GEM-T và 768 đạn PAC-3. Chúng được đưa vào triển khai đầy đủ từ năm 2018. Qatar hiện sở hữu biến thể nâng cấp PAC-3 MSE, loại được trang bị động cơ hai xung đẩy cũng như cải tiến về hệ thống dẫn đường, cánh lái và phần mềm, giúp tăng tầm bắn, trần bay và độ cơ động. \"PAC-3 MSE là tên lửa phòng không cực kỳ linh hoạt, có thể đối phó tên lửa siêu vượt âm, tên lửa đạn đạo và hành trình trong nhiều điều kiện tác chiến phức tạp\", Chris Mang, phó chủ tịch bộ phận sản xuất tên lửa của Lockheed Martin, nói. Ông Mang cho biết đạn PAC-3 MSE có độ chính xác rất cao và đủ khả năng hạ mục tiêu chỉ trong một lần phóng, trong khi các hệ thống đời cũ hơn thường phải khai hỏa hai lần."
+  },
+  {
+    "claim_id": "ctx32_claim95",
+    "claim": "UBND TP Hà Nội đang lấy ý kiến cho dự thảo Nghị quyết quy định mức tiền phạt đối với một số hành vi vi phạm hành chính trong lĩnh vực giao thông đường bộ trên địa bàn, đề xuất nâng mức phạt gấp 1,5-2 lần so với Nghị định 168/2024.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_43_chunk_1",
+    "seed_context": "UBND TP Hà Nội đang lấy ý kiến cho dự thảo Nghị quyết quy định mức tiền phạt đối với một số hành vi vi phạm hành chính trong lĩnh vực giao thông đường bộ trên địa bàn. Có 107 hành vi vi phạm giao thông đề xuất nâng mức phạt gấp 1,5-2 lần so với Nghị định 168/2024. Đơn cử hành vi điều khiển ôtô không đi bên phải theo chiều đi của mình; đi không đúng phần đường hoặc làn đường quy định (làn cùng chiều hoặc làn ngược chiều) bị đề nghị phạt 8-12 triệu đồng, gấp đôi quy định hiện hành. Hay hành vi điều khiển ôtô trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 mg/100 ml máu hoặc vượt quá 0,4 mg/lít khí thở bị đề nghị phạt 45-60 triệu đồng, gấp 1,5 quy định hiện nay. Lý giải cho đề xuất tăng mức phạt, trong dự thảo tờ trình nghị quyết, UBND TP Hà Nội dẫn Luật Thủ đô được Quốc hội thông qua tháng 6/2024, có hiệu lực từ 1/1/2025, giao cho HĐND thành phố quy định mức tiền phạt cao hơn nhưng không quá hai lần mức phạt chung do Chính phủ quy định và không vượt quá mức phạt tối đa theo quy định pháp luật về xử lý vi phạm hành chính trong lĩnh vực giao thông đường bộ."
+  },
+  {
+    "claim_id": "ctx32_claim96",
+    "claim": "Hành vi điều khiển ôtô trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 mg/100 ml máu hoặc vượt quá 0,4 mg/lít khí thở bị đề nghị phạt 15-20 triệu đồng, bằng mức quy định hiện hành.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_43_chunk_1",
+    "seed_context": "UBND TP Hà Nội đang lấy ý kiến cho dự thảo Nghị quyết quy định mức tiền phạt đối với một số hành vi vi phạm hành chính trong lĩnh vực giao thông đường bộ trên địa bàn. Có 107 hành vi vi phạm giao thông đề xuất nâng mức phạt gấp 1,5-2 lần so với Nghị định 168/2024. Đơn cử hành vi điều khiển ôtô không đi bên phải theo chiều đi của mình; đi không đúng phần đường hoặc làn đường quy định (làn cùng chiều hoặc làn ngược chiều) bị đề nghị phạt 8-12 triệu đồng, gấp đôi quy định hiện hành. Hay hành vi điều khiển ôtô trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 mg/100 ml máu hoặc vượt quá 0,4 mg/lít khí thở bị đề nghị phạt 45-60 triệu đồng, gấp 1,5 quy định hiện nay. Lý giải cho đề xuất tăng mức phạt, trong dự thảo tờ trình nghị quyết, UBND TP Hà Nội dẫn Luật Thủ đô được Quốc hội thông qua tháng 6/2024, có hiệu lực từ 1/1/2025, giao cho HĐND thành phố quy định mức tiền phạt cao hơn nhưng không quá hai lần mức phạt chung do Chính phủ quy định và không vượt quá mức phạt tối đa theo quy định pháp luật về xử lý vi phạm hành chính trong lĩnh vực giao thông đường bộ."
+  },
+  {
+    "claim_id": "ctx32_claim97",
+    "claim": "Dự thảo Nghị quyết của UBND TP Hà Nội đề xuất áp dụng mức phạt 20-30 triệu đồng cho hành vi điều khiển ôtô không đi bên phải theo chiều đi của mình tại các tuyến cao tốc từ ngày 1 tháng 1 năm 2025.",
+    "label": "NEI",
+    "seed_context_id": "vne_43_chunk_1",
+    "seed_context": "UBND TP Hà Nội đang lấy ý kiến cho dự thảo Nghị quyết quy định mức tiền phạt đối với một số hành vi vi phạm hành chính trong lĩnh vực giao thông đường bộ trên địa bàn. Có 107 hành vi vi phạm giao thông đề xuất nâng mức phạt gấp 1,5-2 lần so với Nghị định 168/2024. Đơn cử hành vi điều khiển ôtô không đi bên phải theo chiều đi của mình; đi không đúng phần đường hoặc làn đường quy định (làn cùng chiều hoặc làn ngược chiều) bị đề nghị phạt 8-12 triệu đồng, gấp đôi quy định hiện hành. Hay hành vi điều khiển ôtô trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 mg/100 ml máu hoặc vượt quá 0,4 mg/lít khí thở bị đề nghị phạt 45-60 triệu đồng, gấp 1,5 quy định hiện nay. Lý giải cho đề xuất tăng mức phạt, trong dự thảo tờ trình nghị quyết, UBND TP Hà Nội dẫn Luật Thủ đô được Quốc hội thông qua tháng 6/2024, có hiệu lực từ 1/1/2025, giao cho HĐND thành phố quy định mức tiền phạt cao hơn nhưng không quá hai lần mức phạt chung do Chính phủ quy định và không vượt quá mức phạt tối đa theo quy định pháp luật về xử lý vi phạm hành chính trong lĩnh vực giao thông đường bộ."
+  },
+  {
+    "claim_id": "ctx33_claim98",
+    "claim": "Các phóng viên người bản địa ở Khan Younis có trình tự làm việc thông thường là chờ vài phút sau vụ nổ mới bắt đầu leo lên cầu thang để bắt sóng gửi tin và liên lạc với gia đình.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_866_chunk_1",
+    "seed_context": "Nhân chứng kể rằng các nhà báo chờ vài phút sau vụ nổ mới bắt đầu leo lên cầu thang để bắt sóng gửi tin và liên lạc với gia đình. Đây là trình tự làm việc thông thường của các phóng viên người bản địa ở Khan Younis. Trong hơn hai năm xung đột, Israel cấm nhân viên các hãng tin nước ngoài vào Dải Gaza, chỉ tổ chức một số chuyến thực địa được IDF bảo trợ. Nhiều hãng tin phải phụ thuộc vào cộng tác viên bản địa để thu thập thông tin và đưa tin từ hiện trường. Hình ảnh truyền hình trực tiếp từ Al Ghad TV và video do Reuters thu thập cho thấy nhân viên cứu hộ đứng chen nhau tại tầng trên sau đợt tấn công đầu tiên, trong khi nhiều nhà báo đứng cạnh đó quay phim, chụp ảnh. Một người đàn ông cầm áo chống đạn và chiếc camera bê bết máu, dường như thuộc về phóng viên Hussam Al-Masri, vẫy gọi đám đông đứng dưới đất, rồi đặt chúng xuống nền gạch. Các nhân chứng cho biết khoảng 7-15 phút sau vụ nổ đầu tiên, một quả đạn khác đánh trúng gần như cùng vị trí. Video hiện trường cho thấy vào thời điểm xảy ra vụ nổ thứ hai, hơn 10 người đang tập trung trên cầu thang thoát hiểm của bệnh viện."
+  },
+  {
+    "claim_id": "ctx33_claim99",
+    "claim": "Vào thời điểm xảy ra vụ nổ thứ hai, chỉ có dưới 5 người đang tập trung trên cầu thang thoát hiểm của bệnh viện.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_866_chunk_1",
+    "seed_context": "Nhân chứng kể rằng các nhà báo chờ vài phút sau vụ nổ mới bắt đầu leo lên cầu thang để bắt sóng gửi tin và liên lạc với gia đình. Đây là trình tự làm việc thông thường của các phóng viên người bản địa ở Khan Younis. Trong hơn hai năm xung đột, Israel cấm nhân viên các hãng tin nước ngoài vào Dải Gaza, chỉ tổ chức một số chuyến thực địa được IDF bảo trợ. Nhiều hãng tin phải phụ thuộc vào cộng tác viên bản địa để thu thập thông tin và đưa tin từ hiện trường. Hình ảnh truyền hình trực tiếp từ Al Ghad TV và video do Reuters thu thập cho thấy nhân viên cứu hộ đứng chen nhau tại tầng trên sau đợt tấn công đầu tiên, trong khi nhiều nhà báo đứng cạnh đó quay phim, chụp ảnh. Một người đàn ông cầm áo chống đạn và chiếc camera bê bết máu, dường như thuộc về phóng viên Hussam Al-Masri, vẫy gọi đám đông đứng dưới đất, rồi đặt chúng xuống nền gạch. Các nhân chứng cho biết khoảng 7-15 phút sau vụ nổ đầu tiên, một quả đạn khác đánh trúng gần như cùng vị trí. Video hiện trường cho thấy vào thời điểm xảy ra vụ nổ thứ hai, hơn 10 người đang tập trung trên cầu thang thoát hiểm của bệnh viện."
+  },
+  {
+    "claim_id": "ctx33_claim100",
+    "claim": "Phóng viên Hussam Al-Masri đã bị thương trong vụ nổ thứ hai và được nhân viên cứu hộ đưa ra khỏi hiện trường.",
+    "label": "NEI",
+    "seed_context_id": "vne_866_chunk_1",
+    "seed_context": "Nhân chứng kể rằng các nhà báo chờ vài phút sau vụ nổ mới bắt đầu leo lên cầu thang để bắt sóng gửi tin và liên lạc với gia đình. Đây là trình tự làm việc thông thường của các phóng viên người bản địa ở Khan Younis. Trong hơn hai năm xung đột, Israel cấm nhân viên các hãng tin nước ngoài vào Dải Gaza, chỉ tổ chức một số chuyến thực địa được IDF bảo trợ. Nhiều hãng tin phải phụ thuộc vào cộng tác viên bản địa để thu thập thông tin và đưa tin từ hiện trường. Hình ảnh truyền hình trực tiếp từ Al Ghad TV và video do Reuters thu thập cho thấy nhân viên cứu hộ đứng chen nhau tại tầng trên sau đợt tấn công đầu tiên, trong khi nhiều nhà báo đứng cạnh đó quay phim, chụp ảnh. Một người đàn ông cầm áo chống đạn và chiếc camera bê bết máu, dường như thuộc về phóng viên Hussam Al-Masri, vẫy gọi đám đông đứng dưới đất, rồi đặt chúng xuống nền gạch. Các nhân chứng cho biết khoảng 7-15 phút sau vụ nổ đầu tiên, một quả đạn khác đánh trúng gần như cùng vị trí. Video hiện trường cho thấy vào thời điểm xảy ra vụ nổ thứ hai, hơn 10 người đang tập trung trên cầu thang thoát hiểm của bệnh viện."
+  },
+  {
+    "claim_id": "ctx34_claim101",
+    "claim": "Tại các đô thị lớn nhất Mỹ, diện tích văn phòng hiện chiếm tới 70-80% tổng diện tích bất động sản ở những khu downtown.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_535_chunk_3",
+    "seed_context": "Kết quả, ở những khu downtown tại các đô thị lớn nhất Mỹ, diện tích văn phòng hiện chiếm tới 70-80% tổng diện tích bất động sản. \"Covid-19 và công nghệ cuối cùng cũng chọc vỡ quả bong bóng kéo dài 40 năm này. Người dân thay đổi thói quen làm việc linh hoạt hơn, chuyển sang trực tuyến, dần xa rời các khu trung tâm đến các 'thị trấn Zoom', nơi giá nhà ở rẻ hơn, có nhiều công viên, tiện ích ngoài trời hơn\", chuyên gia Short nói. Khu downtown của thành phố Minneapolis, bang Minnesota, ghi nhận những tín hiệu tốt khi người lao động quay trở lại văn phòng, nhưng tình hình bất động sản vẫn hỗn loạn. Theo , khu downtown tại Minneapolis hiện có hơn 836. 000 m2 diện tích văn phòng, cửa hiệu bỏ không, trong tổng số khoảng 1,86 triệu m2 trống của vùng đô thị Twin Cities. Với tốc độ lấp đầy trong quý gần nhất, giới quan sát ước tính sẽ mất tới 30 năm để toàn bộ số văn phòng này có khách thuê. Các chuyên gia cho rằng \"hiệu ứng bánh vòng\" có tác động dây chuyền rất lớn. Nhiều loại hình kinh doanh, từ nhà hàng, cửa hàng bán lẻ, dịch vụ ở các thành phố lớn phụ thuộc vào lực lượng lao động đi làm ở downtown."
+  },
+  {
+    "claim_id": "ctx34_claim102",
+    "claim": "Khu downtown của thành phố Minneapolis, bang Minnesota, ghi nhận tình hình bất động sản ổn định khi người lao động quay trở lại văn phòng.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_535_chunk_3",
+    "seed_context": "Kết quả, ở những khu downtown tại các đô thị lớn nhất Mỹ, diện tích văn phòng hiện chiếm tới 70-80% tổng diện tích bất động sản. \"Covid-19 và công nghệ cuối cùng cũng chọc vỡ quả bong bóng kéo dài 40 năm này. Người dân thay đổi thói quen làm việc linh hoạt hơn, chuyển sang trực tuyến, dần xa rời các khu trung tâm đến các 'thị trấn Zoom', nơi giá nhà ở rẻ hơn, có nhiều công viên, tiện ích ngoài trời hơn\", chuyên gia Short nói. Khu downtown của thành phố Minneapolis, bang Minnesota, ghi nhận những tín hiệu tốt khi người lao động quay trở lại văn phòng, nhưng tình hình bất động sản vẫn hỗn loạn. Theo , khu downtown tại Minneapolis hiện có hơn 836. 000 m2 diện tích văn phòng, cửa hiệu bỏ không, trong tổng số khoảng 1,86 triệu m2 trống của vùng đô thị Twin Cities. Với tốc độ lấp đầy trong quý gần nhất, giới quan sát ước tính sẽ mất tới 30 năm để toàn bộ số văn phòng này có khách thuê. Các chuyên gia cho rằng \"hiệu ứng bánh vòng\" có tác động dây chuyền rất lớn. Nhiều loại hình kinh doanh, từ nhà hàng, cửa hàng bán lẻ, dịch vụ ở các thành phố lớn phụ thuộc vào lực lượng lao động đi làm ở downtown."
+  },
+  {
+    "claim_id": "ctx34_claim103",
+    "claim": "Giới quan sát ước tính sẽ mất tới 30 năm để toàn bộ số văn phòng bỏ không tại khu downtown Minneapolis có khách thuê.",
+    "label": "NEI",
+    "seed_context_id": "vne_535_chunk_3",
+    "seed_context": "Kết quả, ở những khu downtown tại các đô thị lớn nhất Mỹ, diện tích văn phòng hiện chiếm tới 70-80% tổng diện tích bất động sản. \"Covid-19 và công nghệ cuối cùng cũng chọc vỡ quả bong bóng kéo dài 40 năm này. Người dân thay đổi thói quen làm việc linh hoạt hơn, chuyển sang trực tuyến, dần xa rời các khu trung tâm đến các 'thị trấn Zoom', nơi giá nhà ở rẻ hơn, có nhiều công viên, tiện ích ngoài trời hơn\", chuyên gia Short nói. Khu downtown của thành phố Minneapolis, bang Minnesota, ghi nhận những tín hiệu tốt khi người lao động quay trở lại văn phòng, nhưng tình hình bất động sản vẫn hỗn loạn. Theo , khu downtown tại Minneapolis hiện có hơn 836. 000 m2 diện tích văn phòng, cửa hiệu bỏ không, trong tổng số khoảng 1,86 triệu m2 trống của vùng đô thị Twin Cities. Với tốc độ lấp đầy trong quý gần nhất, giới quan sát ước tính sẽ mất tới 30 năm để toàn bộ số văn phòng này có khách thuê. Các chuyên gia cho rằng \"hiệu ứng bánh vòng\" có tác động dây chuyền rất lớn. Nhiều loại hình kinh doanh, từ nhà hàng, cửa hàng bán lẻ, dịch vụ ở các thành phố lớn phụ thuộc vào lực lượng lao động đi làm ở downtown."
+  },
+  {
+    "claim_id": "ctx35_claim104",
+    "claim": "Hoàng gia Anh đã xem xét cẩn thận các vấn đề liên quan đến việc đảm bảo an ninh cho Harry và đưa ra kết luận.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_699_chunk_2",
+    "seed_context": "\"Tôi yêu đất nước mình, bất kể những gì một số người ở đó đã làm. Tôi nhớ Vương quốc Anh. Thật đáng buồn khi sẽ không thể cho con cái thấy quê hương mình\". Kể từ khi rời Anh, vợ chồng Harry chỉ trích gay gắt hoàng gia trong các bộ phim tài liệu, cuộc phỏng vấn gây chấn động với người dẫn chương trình Mỹ Oprah Winfrey và đáng chú ý nhất là trong cuốn hồi ký của Harry. Anh hầu như không nói chuyện với cha hoặc anh trai mình, Thái tử William. Phản ứng trước những than phiền của Harry về phán quyết của tòa phúc thẩm, Điện Buckingham cho biết tất cả vấn đề liên quan việc đảm bảo an ninh cho anh đã được tòa án xem xét cẩn thận nhiều lần và đều đưa ra chung một kết luận. Hoàng gia Anh không đề cập bình luận của Harry về Vua Charles cũng như mong muốn hòa giải của anh."
+  },
+  {
+    "claim_id": "ctx35_claim105",
+    "claim": "Vào tháng 1 năm 2020, Harry và vợ đã rời Vương quốc Anh để đến sống tại Canada.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_699_chunk_2",
+    "seed_context": "\"Tôi yêu đất nước mình, bất kể những gì một số người ở đó đã làm. Tôi nhớ Vương quốc Anh. Thật đáng buồn khi sẽ không thể cho con cái thấy quê hương mình\". Kể từ khi rời Anh, vợ chồng Harry chỉ trích gay gắt hoàng gia trong các bộ phim tài liệu, cuộc phỏng vấn gây chấn động với người dẫn chương trình Mỹ Oprah Winfrey và đáng chú ý nhất là trong cuốn hồi ký của Harry. Anh hầu như không nói chuyện với cha hoặc anh trai mình, Thái tử William. Phản ứng trước những than phiền của Harry về phán quyết của tòa phúc thẩm, Điện Buckingham cho biết tất cả vấn đề liên quan việc đảm bảo an ninh cho anh đã được tòa án xem xét cẩn thận nhiều lần và đều đưa ra chung một kết luận. Hoàng gia Anh không đề cập bình luận của Harry về Vua Charles cũng như mong muốn hòa giải của anh."
+  },
+  {
+    "claim_id": "ctx35_claim106",
+    "claim": "Thái tử William đã lên tiếng ủng hộ Harry trong cuộc phỏng vấn với Oprah Winfrey vào năm 2021.",
+    "label": "NEI",
+    "seed_context_id": "vne_699_chunk_2",
+    "seed_context": "\"Tôi yêu đất nước mình, bất kể những gì một số người ở đó đã làm. Tôi nhớ Vương quốc Anh. Thật đáng buồn khi sẽ không thể cho con cái thấy quê hương mình\". Kể từ khi rời Anh, vợ chồng Harry chỉ trích gay gắt hoàng gia trong các bộ phim tài liệu, cuộc phỏng vấn gây chấn động với người dẫn chương trình Mỹ Oprah Winfrey và đáng chú ý nhất là trong cuốn hồi ký của Harry. Anh hầu như không nói chuyện với cha hoặc anh trai mình, Thái tử William. Phản ứng trước những than phiền của Harry về phán quyết của tòa phúc thẩm, Điện Buckingham cho biết tất cả vấn đề liên quan việc đảm bảo an ninh cho anh đã được tòa án xem xét cẩn thận nhiều lần và đều đưa ra chung một kết luận. Hoàng gia Anh không đề cập bình luận của Harry về Vua Charles cũng như mong muốn hòa giải của anh."
+  },
+  {
+    "claim_id": "ctx36_claim107",
+    "claim": "Tài xế Nguyễn Văn Thinh đã thiếu quan sát và không kịp xử lý khi các xe phía trước dừng chờ đèn đỏ vào ngày 14 tháng 04 năm 2023 tại Thành phố Hồ Chí Minh.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_511_chunk_2",
+    "seed_context": "Nguyên nhân ban đầu được xác định do tài xế Nguyễn Văn Thinh thiếu quan sát, không kịp xử lý khi các xe phía trước đang dừng chờ đèn đỏ. Lực lượng chức năng đã phân luồng giao thông, giải phóng hiện trường và tiếp tục điều tra vụ việc."
+  },
+  {
+    "claim_id": "ctx36_claim108",
+    "claim": "Nguyên nhân vụ tai nạn được xác định là do tài xế Nguyễn Văn Thinh cố tình vượt đèn đỏ vào chiều ngày 14 tháng 04 năm 2023 tại Thành phố Hồ Chí Minh.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_511_chunk_2",
+    "seed_context": "Nguyên nhân ban đầu được xác định do tài xế Nguyễn Văn Thinh thiếu quan sát, không kịp xử lý khi các xe phía trước đang dừng chờ đèn đỏ. Lực lượng chức năng đã phân luồng giao thông, giải phóng hiện trường và tiếp tục điều tra vụ việc."
+  },
+  {
+    "claim_id": "ctx36_claim109",
+    "claim": "Lực lượng chức năng đã tiến hành bắt giữ tài xế Nguyễn Văn Thinh vì vi phạm luật giao thông vào ngày 14 tháng 04 năm 2023 tại Thành phố Hồ Chí Minh.",
+    "label": "NEI",
+    "seed_context_id": "vne_511_chunk_2",
+    "seed_context": "Nguyên nhân ban đầu được xác định do tài xế Nguyễn Văn Thinh thiếu quan sát, không kịp xử lý khi các xe phía trước đang dừng chờ đèn đỏ. Lực lượng chức năng đã phân luồng giao thông, giải phóng hiện trường và tiếp tục điều tra vụ việc."
+  },
+  {
+    "claim_id": "ctx37_claim110",
+    "claim": "Vào tháng 1, chính quyền Mỹ đã liệt một số băng đảng ở Mỹ Latin vào danh sách \"tổ chức khủng bố nước ngoài\" dưới thời Tổng thống Donald Trump.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_521_chunk_1",
+    "seed_context": "Chiến dịch này dường như bắt nguồn từ nhiệm kỳ đầu của Tổng thống Donald Trump, khi ông cân nhắc không kích các cơ sở sản xuất ma túy ở Mexico. Không lâu sau khi ông Trump trở lại Nhà Trắng hồi tháng 1, chính quyền Mỹ đã liệt một số băng đảng ở Mỹ Latin vào danh sách \"tổ chức khủng bố nước ngoài\". Dù vậy, các chuyên gia cho rằng điều đó không cho phép Tổng thống Mỹ có thể tùy ý thực hiện các hành động quân sự đơn phương. Finucane đánh giá cuộc tập kích ngày 2/9 là nỗ lực mới nhất của Mỹ nhằm \"thay đổi nhận thức của công chúng\" về băng nhóm tội phạm ở Mỹ Latin. Từ những băng tội phạm hoạt động vì lợi nhuận, những nhóm này giờ bị gán mác là tổ chức nước ngoài đang tìm cách gây bất ổn cho an ninh quốc gia Mỹ. Thông điệp này cũng phù hợp với cách ông Trump mô tả những người nhập cư trái phép vào Mỹ là \"những kẻ tội phạm bạo lực nguy hiểm\", thúc đẩy quyết định triển khai Vệ binh Quốc gia cùng đặc vụ liên bang để truy quét tại nhiều thành phố. Finucane cho rằng Mỹ đang sử dụng sức mạnh quân sự \"một cách phô trương và thiếu căn cứ\" để xử lý các vấn đề hành pháp."
+  },
+  {
+    "claim_id": "ctx37_claim111",
+    "claim": "Cuộc tập kích ngày 2/9 là nỗ lực mới nhất của Mỹ nhằm khẳng định các băng nhóm tội phạm ở Mỹ Latin chỉ hoạt động vì lợi nhuận.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_521_chunk_1",
+    "seed_context": "Chiến dịch này dường như bắt nguồn từ nhiệm kỳ đầu của Tổng thống Donald Trump, khi ông cân nhắc không kích các cơ sở sản xuất ma túy ở Mexico. Không lâu sau khi ông Trump trở lại Nhà Trắng hồi tháng 1, chính quyền Mỹ đã liệt một số băng đảng ở Mỹ Latin vào danh sách \"tổ chức khủng bố nước ngoài\". Dù vậy, các chuyên gia cho rằng điều đó không cho phép Tổng thống Mỹ có thể tùy ý thực hiện các hành động quân sự đơn phương. Finucane đánh giá cuộc tập kích ngày 2/9 là nỗ lực mới nhất của Mỹ nhằm \"thay đổi nhận thức của công chúng\" về băng nhóm tội phạm ở Mỹ Latin. Từ những băng tội phạm hoạt động vì lợi nhuận, những nhóm này giờ bị gán mác là tổ chức nước ngoài đang tìm cách gây bất ổn cho an ninh quốc gia Mỹ. Thông điệp này cũng phù hợp với cách ông Trump mô tả những người nhập cư trái phép vào Mỹ là \"những kẻ tội phạm bạo lực nguy hiểm\", thúc đẩy quyết định triển khai Vệ binh Quốc gia cùng đặc vụ liên bang để truy quét tại nhiều thành phố. Finucane cho rằng Mỹ đang sử dụng sức mạnh quân sự \"một cách phô trương và thiếu căn cứ\" để xử lý các vấn đề hành pháp."
+  },
+  {
+    "claim_id": "ctx37_claim112",
+    "claim": "Tổng thống Donald Trump đã cân nhắc không kích các cơ sở sản xuất ma túy ở Mexico vào nhiệm kỳ thứ hai của mình.",
+    "label": "NEI",
+    "seed_context_id": "vne_521_chunk_1",
+    "seed_context": "Chiến dịch này dường như bắt nguồn từ nhiệm kỳ đầu của Tổng thống Donald Trump, khi ông cân nhắc không kích các cơ sở sản xuất ma túy ở Mexico. Không lâu sau khi ông Trump trở lại Nhà Trắng hồi tháng 1, chính quyền Mỹ đã liệt một số băng đảng ở Mỹ Latin vào danh sách \"tổ chức khủng bố nước ngoài\". Dù vậy, các chuyên gia cho rằng điều đó không cho phép Tổng thống Mỹ có thể tùy ý thực hiện các hành động quân sự đơn phương. Finucane đánh giá cuộc tập kích ngày 2/9 là nỗ lực mới nhất của Mỹ nhằm \"thay đổi nhận thức của công chúng\" về băng nhóm tội phạm ở Mỹ Latin. Từ những băng tội phạm hoạt động vì lợi nhuận, những nhóm này giờ bị gán mác là tổ chức nước ngoài đang tìm cách gây bất ổn cho an ninh quốc gia Mỹ. Thông điệp này cũng phù hợp với cách ông Trump mô tả những người nhập cư trái phép vào Mỹ là \"những kẻ tội phạm bạo lực nguy hiểm\", thúc đẩy quyết định triển khai Vệ binh Quốc gia cùng đặc vụ liên bang để truy quét tại nhiều thành phố. Finucane cho rằng Mỹ đang sử dụng sức mạnh quân sự \"một cách phô trương và thiếu căn cứ\" để xử lý các vấn đề hành pháp."
+  },
+  {
+    "claim_id": "ctx38_claim113",
+    "claim": "Trực thăng S-97 Raider do hãng Sikorsky chế tạo, dựa trên nguyên mẫu X2, có tốc độ tối đa 440 km/h và đã đạt hơn 400 km/h trong các cuộc thử nghiệm.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_859_chunk_1",
+    "seed_context": "Thiết kế cánh quạt S-97 và trực thăng mới của Trung Quốc giúp máy bay có thể tăng giảm tốc đột ngột, nâng cao khả năng cơ động và đạt tốc độ hành trình lớn hơn. Tầm hoạt động cũng được cải thiện so với trực thăng thông thường, dù chưa bằng những trực thăng lai như V-22 Osprey. Thiết kế này còn cho phép máy bay đạt tốc độ tối đa trong trạng thái bay bằng, thay vì phải chúi mũi xuống để tăng tốc như trực thăng thông thường. Do hãng Sikorsky chế tạo dựa trên nguyên mẫu X2, trực thăng S-97 Raider được cho là có tốc độ tối đa 440 km/h và đạt mức hơn 400 km/h trong các cuộc thử nghiệm, vượt xa tốc độ tối đa của trực thăng truyền thống. Điều này khiến nó được đánh giá là mẫu trực thăng nhanh nhất của Mỹ. Hình ảnh xuất hiện chỉ vài ngày sau khi Trung Quốc thử nghiệm nguyên mẫu trực thăng lai với cụm động cơ giống trực thăng lai MV-75, còn gọi là V-280 Valor, do hãng Bell của Mỹ phát triển."
+  },
+  {
+    "claim_id": "ctx38_claim114",
+    "claim": "Trực thăng S-97 Raider của Mỹ có tốc độ hành trình thấp hơn trực thăng thông thường và không thể tăng giảm tốc đột ngột.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_859_chunk_1",
+    "seed_context": "Thiết kế cánh quạt S-97 và trực thăng mới của Trung Quốc giúp máy bay có thể tăng giảm tốc đột ngột, nâng cao khả năng cơ động và đạt tốc độ hành trình lớn hơn. Tầm hoạt động cũng được cải thiện so với trực thăng thông thường, dù chưa bằng những trực thăng lai như V-22 Osprey. Thiết kế này còn cho phép máy bay đạt tốc độ tối đa trong trạng thái bay bằng, thay vì phải chúi mũi xuống để tăng tốc như trực thăng thông thường. Do hãng Sikorsky chế tạo dựa trên nguyên mẫu X2, trực thăng S-97 Raider được cho là có tốc độ tối đa 440 km/h và đạt mức hơn 400 km/h trong các cuộc thử nghiệm, vượt xa tốc độ tối đa của trực thăng truyền thống. Điều này khiến nó được đánh giá là mẫu trực thăng nhanh nhất của Mỹ. Hình ảnh xuất hiện chỉ vài ngày sau khi Trung Quốc thử nghiệm nguyên mẫu trực thăng lai với cụm động cơ giống trực thăng lai MV-75, còn gọi là V-280 Valor, do hãng Bell của Mỹ phát triển."
+  },
+  {
+    "claim_id": "ctx38_claim115",
+    "claim": "Nguyên mẫu trực thăng lai của Trung Quốc, với cụm động cơ giống MV-75, được phát triển bởi hãng Sikorsky.",
+    "label": "NEI",
+    "seed_context_id": "vne_859_chunk_1",
+    "seed_context": "Thiết kế cánh quạt S-97 và trực thăng mới của Trung Quốc giúp máy bay có thể tăng giảm tốc đột ngột, nâng cao khả năng cơ động và đạt tốc độ hành trình lớn hơn. Tầm hoạt động cũng được cải thiện so với trực thăng thông thường, dù chưa bằng những trực thăng lai như V-22 Osprey. Thiết kế này còn cho phép máy bay đạt tốc độ tối đa trong trạng thái bay bằng, thay vì phải chúi mũi xuống để tăng tốc như trực thăng thông thường. Do hãng Sikorsky chế tạo dựa trên nguyên mẫu X2, trực thăng S-97 Raider được cho là có tốc độ tối đa 440 km/h và đạt mức hơn 400 km/h trong các cuộc thử nghiệm, vượt xa tốc độ tối đa của trực thăng truyền thống. Điều này khiến nó được đánh giá là mẫu trực thăng nhanh nhất của Mỹ. Hình ảnh xuất hiện chỉ vài ngày sau khi Trung Quốc thử nghiệm nguyên mẫu trực thăng lai với cụm động cơ giống trực thăng lai MV-75, còn gọi là V-280 Valor, do hãng Bell của Mỹ phát triển."
+  },
+  {
+    "claim_id": "ctx39_claim116",
+    "claim": "Cơ trưởng Han, 45 tuổi, một cựu phi công quân sự với hơn 6.800 giờ bay, đã điều khiển chiếc máy bay của hãng hàng không Jeju Air gặp trục trặc động cơ và hạ cánh bằng bụng xuống sân bay Muan, tỉnh Nam Jeolla vào ngày 29/12.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_553_chunk_1",
+    "seed_context": "Một số trang khác còn bao gồm các quy trình hạ cánh khẩn cấp, đặc biệt là hướng dẫn xử lý khi phải hạ cánh xuống nước. Theo , phi công chỉ xé ra khỏi sổ tay những trang quan trọng nhất liên quan đến quy trình hạ cánh, cho thấy mức độ cấp bách của tình huống trong buồng lái. \"Cơ trưởng có thể đã cố gắng tính toán khoảng cách xa nhất mà máy bay có thể đạt tới và đánh giá khoảng thời gian còn lại để phản ứng\", giáo sư Go Seung-hee, khoa Vận hành Hàng không tại Đại học Silla, Busan nhận định. Trong hình ảnh chụp lại từ video ghi cảnh máy bay hạ cánh bằng bụng xuống đường băng, cơ trưởng ngồi trong buồng lái, với tay về bảng điều khiển ở phía trên đầu. \"Khoảnh khắc cuối cùng của cơ trưởng. Tay ông ấy vẫn ở trên bảng điều khiển cho đến phút cuối. Tôi tin rằng ông ấy đã nỗ lực hết mình\", dòng chú thích đi kèm bức ảnh cho hay. Cơ trưởng được xác định là Han, 45 tuổi, một cựu phi công quân sự và đã có kinh nghiệm hơn 6. 800 giờ bay. Ông được các đồng nghiệp đánh giá cao về năng lực chuyên môn. Phi cơ hãng hàng không Jeju Air chở 181 người ngày 29/12 dường như đâm phải chim, gặp trục trặc về động cơ cũng như càng đáp và phải hạ cánh bằng bụng xuống sân bay Muan ở tỉnh Nam Jeolla."
+  },
+  {
+    "claim_id": "ctx39_claim117",
+    "claim": "Vào ngày 29/12, cơ trưởng Han, 45 tuổi, đã cố gắng tính toán khoảng cách xa nhất mà máy bay có thể đạt tới và đánh giá thời gian còn lại để phản ứng sau khi phi cơ của hãng hàng không Jeju Air gặp trục trặc và hạ cánh khẩn cấp xuống đất.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_553_chunk_1",
+    "seed_context": "Một số trang khác còn bao gồm các quy trình hạ cánh khẩn cấp, đặc biệt là hướng dẫn xử lý khi phải hạ cánh xuống nước. Theo , phi công chỉ xé ra khỏi sổ tay những trang quan trọng nhất liên quan đến quy trình hạ cánh, cho thấy mức độ cấp bách của tình huống trong buồng lái. \"Cơ trưởng có thể đã cố gắng tính toán khoảng cách xa nhất mà máy bay có thể đạt tới và đánh giá khoảng thời gian còn lại để phản ứng\", giáo sư Go Seung-hee, khoa Vận hành Hàng không tại Đại học Silla, Busan nhận định. Trong hình ảnh chụp lại từ video ghi cảnh máy bay hạ cánh bằng bụng xuống đường băng, cơ trưởng ngồi trong buồng lái, với tay về bảng điều khiển ở phía trên đầu. \"Khoảnh khắc cuối cùng của cơ trưởng. Tay ông ấy vẫn ở trên bảng điều khiển cho đến phút cuối. Tôi tin rằng ông ấy đã nỗ lực hết mình\", dòng chú thích đi kèm bức ảnh cho hay. Cơ trưởng được xác định là Han, 45 tuổi, một cựu phi công quân sự và đã có kinh nghiệm hơn 6. 800 giờ bay. Ông được các đồng nghiệp đánh giá cao về năng lực chuyên môn. Phi cơ hãng hàng không Jeju Air chở 181 người ngày 29/12 dường như đâm phải chim, gặp trục trặc về động cơ cũng như càng đáp và phải hạ cánh bằng bụng xuống sân bay Muan ở tỉnh Nam Jeolla."
+  },
+  {
+    "claim_id": "ctx39_claim118",
+    "claim": "Giáo sư Go Seung-hee, khoa Vận hành Hàng không tại Đại học Silla, Busan, đã đưa ra lời khuyên về quy trình hạ cánh khẩn cấp khi máy bay phải hạ cánh xuống nước cho cơ trưởng Han.",
+    "label": "NEI",
+    "seed_context_id": "vne_553_chunk_1",
+    "seed_context": "Một số trang khác còn bao gồm các quy trình hạ cánh khẩn cấp, đặc biệt là hướng dẫn xử lý khi phải hạ cánh xuống nước. Theo , phi công chỉ xé ra khỏi sổ tay những trang quan trọng nhất liên quan đến quy trình hạ cánh, cho thấy mức độ cấp bách của tình huống trong buồng lái. \"Cơ trưởng có thể đã cố gắng tính toán khoảng cách xa nhất mà máy bay có thể đạt tới và đánh giá khoảng thời gian còn lại để phản ứng\", giáo sư Go Seung-hee, khoa Vận hành Hàng không tại Đại học Silla, Busan nhận định. Trong hình ảnh chụp lại từ video ghi cảnh máy bay hạ cánh bằng bụng xuống đường băng, cơ trưởng ngồi trong buồng lái, với tay về bảng điều khiển ở phía trên đầu. \"Khoảnh khắc cuối cùng của cơ trưởng. Tay ông ấy vẫn ở trên bảng điều khiển cho đến phút cuối. Tôi tin rằng ông ấy đã nỗ lực hết mình\", dòng chú thích đi kèm bức ảnh cho hay. Cơ trưởng được xác định là Han, 45 tuổi, một cựu phi công quân sự và đã có kinh nghiệm hơn 6. 800 giờ bay. Ông được các đồng nghiệp đánh giá cao về năng lực chuyên môn. Phi cơ hãng hàng không Jeju Air chở 181 người ngày 29/12 dường như đâm phải chim, gặp trục trặc về động cơ cũng như càng đáp và phải hạ cánh bằng bụng xuống sân bay Muan ở tỉnh Nam Jeolla."
+  },
+  {
+    "claim_id": "ctx40_claim119",
+    "claim": "Theo ông Singh, việc Ấn Độ tiếp tục mua dầu Nga là một quyết định hoàn toàn mang tính kinh tế và thương mại.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_832_chunk_2",
+    "seed_context": "\"Việc Ấn Độ tiếp tục mua dầu Nga là quyết định thuần túy về kinh tế hoặc thương mại\", ông Singh cho hay. \"Các nhà máy lọc dầu của Ấn Độ tiết kiệm khoảng một tỷ USD mỗi tháng nhờ mua dầu thô của Nga\", Pramit Pal Chaudhuri, trưởng bộ phận Nam Á tại tổ chức Eurasia Group ở Mỹ, nói. Ấn Độ không chỉ cần nguồn dầu thô giá rẻ của Nga để đáp ứng nhu cầu năng lượng trong nước mà còn sử dụng chúng để thu về lợi nhuận từ các sản phẩm lọc hóa dầu như dầu diesel và nhiên liệu máy bay. Châu Âu là một trong những thị trường lớn nhất của Ấn Độ về những mặt hàng này. Dù Ấn Độ đã đa dạng hóa nguồn cung dầu trong những năm qua, việc từ bỏ toàn bộ nguồn dầu thô Nga sẽ tạo ra khoảng trống khó có thể bù đắp. New Delhi nhập khẩu tới 80% nhu cầu dầu mỏ của mình khi sản lượng dầu trong nước không thể đáp ứng. Những lựa chọn thay thế Nga của Ấn Độ cũng bị hạn chế. Trước đây, họ đã phải ngừng mua dầu từ Iran và Venezuela sau khi ông Trump áp lệnh trừng phạt và đe dọa áp thuế với các bên giao dịch với hai nước này. Trước khi ngừng mua, Ấn Độ từng là một trong những khách hàng lớn nhất của Iran."
+  },
+  {
+    "claim_id": "ctx40_claim120",
+    "claim": "Các nhà máy lọc dầu của Ấn Độ tiết kiệm khoảng 10 tỷ USD mỗi tháng nhờ mua dầu thô của Nga.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_832_chunk_2",
+    "seed_context": "\"Việc Ấn Độ tiếp tục mua dầu Nga là quyết định thuần túy về kinh tế hoặc thương mại\", ông Singh cho hay. \"Các nhà máy lọc dầu của Ấn Độ tiết kiệm khoảng một tỷ USD mỗi tháng nhờ mua dầu thô của Nga\", Pramit Pal Chaudhuri, trưởng bộ phận Nam Á tại tổ chức Eurasia Group ở Mỹ, nói. Ấn Độ không chỉ cần nguồn dầu thô giá rẻ của Nga để đáp ứng nhu cầu năng lượng trong nước mà còn sử dụng chúng để thu về lợi nhuận từ các sản phẩm lọc hóa dầu như dầu diesel và nhiên liệu máy bay. Châu Âu là một trong những thị trường lớn nhất của Ấn Độ về những mặt hàng này. Dù Ấn Độ đã đa dạng hóa nguồn cung dầu trong những năm qua, việc từ bỏ toàn bộ nguồn dầu thô Nga sẽ tạo ra khoảng trống khó có thể bù đắp. New Delhi nhập khẩu tới 80% nhu cầu dầu mỏ của mình khi sản lượng dầu trong nước không thể đáp ứng. Những lựa chọn thay thế Nga của Ấn Độ cũng bị hạn chế. Trước đây, họ đã phải ngừng mua dầu từ Iran và Venezuela sau khi ông Trump áp lệnh trừng phạt và đe dọa áp thuế với các bên giao dịch với hai nước này. Trước khi ngừng mua, Ấn Độ từng là một trong những khách hàng lớn nhất của Iran."
+  },
+  {
+    "claim_id": "ctx40_claim121",
+    "claim": "Trước khi ông Trump áp lệnh trừng phạt, Ấn Độ đã từng là khách hàng lớn nhất của Venezuela.",
+    "label": "NEI",
+    "seed_context_id": "vne_832_chunk_2",
+    "seed_context": "\"Việc Ấn Độ tiếp tục mua dầu Nga là quyết định thuần túy về kinh tế hoặc thương mại\", ông Singh cho hay. \"Các nhà máy lọc dầu của Ấn Độ tiết kiệm khoảng một tỷ USD mỗi tháng nhờ mua dầu thô của Nga\", Pramit Pal Chaudhuri, trưởng bộ phận Nam Á tại tổ chức Eurasia Group ở Mỹ, nói. Ấn Độ không chỉ cần nguồn dầu thô giá rẻ của Nga để đáp ứng nhu cầu năng lượng trong nước mà còn sử dụng chúng để thu về lợi nhuận từ các sản phẩm lọc hóa dầu như dầu diesel và nhiên liệu máy bay. Châu Âu là một trong những thị trường lớn nhất của Ấn Độ về những mặt hàng này. Dù Ấn Độ đã đa dạng hóa nguồn cung dầu trong những năm qua, việc từ bỏ toàn bộ nguồn dầu thô Nga sẽ tạo ra khoảng trống khó có thể bù đắp. New Delhi nhập khẩu tới 80% nhu cầu dầu mỏ của mình khi sản lượng dầu trong nước không thể đáp ứng. Những lựa chọn thay thế Nga của Ấn Độ cũng bị hạn chế. Trước đây, họ đã phải ngừng mua dầu từ Iran và Venezuela sau khi ông Trump áp lệnh trừng phạt và đe dọa áp thuế với các bên giao dịch với hai nước này. Trước khi ngừng mua, Ấn Độ từng là một trong những khách hàng lớn nhất của Iran."
+  }
+]

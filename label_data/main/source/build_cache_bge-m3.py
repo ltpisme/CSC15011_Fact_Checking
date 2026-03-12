@@ -11,7 +11,7 @@ model = BGEM3FlagModel('BAAI/bge-m3', use_fp16=True)
 def build_kb_cache(json_path, output_npy_path):
     print(f"--- Bắt đầu xử lý file: {json_path} ---")
     with open(json_path, 'r', encoding='utf-8') as f:
-        kb_data = json.load(f)
+        kb_data = [json.loads(line) for line in f if line.strip()]
     
     kb_texts = [item['text'] for item in kb_data]
     
@@ -29,4 +29,4 @@ def build_kb_cache(json_path, output_npy_path):
 
 if __name__ == "__main__":
     # Thay đường dẫn file của bạn vào đây
-    build_kb_cache("../data/knowledge_base.json", "../data/kb_embeddings.npy")
+    build_kb_cache("../data/knowledge_base.jsonl", "../data/kb_embeddings.npy")
