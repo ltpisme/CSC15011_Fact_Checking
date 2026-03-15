@@ -1,0 +1,97 @@
+<View>
+  <Style>
+    .container { display: flex; gap: 20px; padding: 10px; }
+    .content-box { 
+      flex: 1; 
+      padding: 20px; 
+      border-radius: 12px; 
+      background: #ffffff; 
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    }
+    .labels-box { 
+      flex: 1; 
+      padding: 20px; 
+      background: #fcfcfc;
+      border: 1px solid #eee;
+      border-radius: 12px;
+    }
+    .claim-display {
+      font-size: 1.2em; 
+      color: #2c3e50; 
+      font-weight: 600; 
+      padding: 15px; 
+      background: #eef2f7;
+      border-left: 5px solid #3498db;
+      margin: 10px 0;
+    }
+    .meta-info {
+      display: inline-block;
+      padding: 4px 12px;
+      background: #34495e;
+      color: white;
+      border-radius: 4px;
+      font-size: 0.8em;
+      margin-bottom: 10px;
+    }
+    .criterion-header { 
+      font-weight: bold; 
+      margin-top: 20px; 
+      color: #2c3e50;
+      border-bottom: 1px solid #eee;
+    }
+  </Style>
+
+  <View className="container">
+    <View className="content-box">
+      <View className="meta-info">ID: $claim_id</View>
+       <Header value="Claim cần kiểm định" size="4" />
+      <View className="claim-display">
+        <Text name="claim_text" value="$claim" />
+      </View>
+      
+      <Header value="Ngữ cảnh gốc (Seed Context)" size="4" />
+      <Text name="context" value="$seed_context" />
+      
+ 
+      <Header value="Nhãn hệ thống (Original Label)" size="4" />
+      <View style="font-weight: bold; color: #27ae60;">
+        <Text name="orig_label" value="$label" />
+      </View>
+    </View>
+
+    <View className="labels-box">
+      <Header value="BẢNG CHẤM ĐIỂM (0 - 4)" />
+
+      <View className="criterion-header">
+         <Header value="1. Verifiability (Kiểm chứng)" size="4" />
+      </View>
+      <Rating name="verifiability" toName="claim_text" maxRating="4" icon="star" hotkey="1" />
+
+      <View className="criterion-header">
+         <Header value=" 2. Atomicity (Tính nguyên tử)" size="4" />
+      </View>
+      <Rating name="atomicity" toName="claim_text" maxRating="4" icon="star" hotkey="2" />
+
+      <View className="criterion-header">
+         <Header value="  3. Specificity (Mức độ cụ thể)" size="4" />
+       
+      </View>
+      <Rating name="specificity" toName="claim_text" maxRating="4" icon="star" hotkey="3" />
+
+      <View className="criterion-header">
+       <Header value="  4. Clarity (Độ rõ ràng)" size="4" />
+      
+      </View>
+      <Rating name="clarity" toName="claim_text" maxRating="4" icon="star" hotkey="4" />
+
+      <View className="criterion-header">
+        <Header value="5. Context Faithfulness (Độ trung thành)" size="4" />
+
+      </View>
+      <Rating name="faithfulness" toName="claim_text" maxRating="4" icon="star" hotkey="5" />
+
+      <Header value="Nhận xét" size="4" style="margin-top:30px"/>
+      <TextArea name="reason" toName="claim_text" rows="2" placeholder="Lý do nếu điểm thấp..." />
+    </View>
+  </View>
+</View>

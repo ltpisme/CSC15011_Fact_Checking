@@ -1,0 +1,37 @@
+<View>
+  <Header value="Fact-checking Task ID: $claim_id"/>
+  
+  <View style="padding: 15px; background-color: #e3f2fd; border-radius: 8px; margin-bottom: 20px; border: 1px solid #2196f3;">
+    <Header value="Claim to Verify:"/>
+    <Text name="claim_content" value="$claim" />
+  </View>
+
+  <Header value="Evidences / Contexts:"/>
+  
+  <View style="margin-bottom: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
+    <Header value="Context 1 (Score: $evidences[0].score)" size="6"/>
+    <Text name="c1" value="$evidences[0].text"/>
+    <View style="font-size: 0.8em; color: grey;">Source: $evidences[0].source</View>
+  </View>
+
+  <View style="margin-bottom: 10px; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
+    <Header value="Context 2 (Score: $evidences[1].score)" size="6"/>
+    <Text name="c2" value="$evidences[1].text"/>
+    <View style="font-size: 0.8em; color: grey;">Source: $evidences[1].source</View>
+  </View>
+
+  <View style="margin-bottom: 20px; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
+    <Header value="Context 3 (Score: $evidences[2].score)" size="6"/>
+    <Text name="c3" value="$evidences[2].text"/>
+    <View style="font-size: 0.8em; color: grey;">Source: $evidences[2].source</View>
+  </View>
+
+  <View style="box-shadow: 2px 2px 5px #999; padding: 20px; border-radius: 5px; background-color: white;">
+    <Header value="Select Verdict:"/>
+    <Choices name="verdict" toName="claim_content" choice="single" showInLine="true">
+      <Choice value="SUPPORTED" background="#4CAF50"/>
+      <Choice value="REFUTED" background="#F44336"/>
+      <Choice value="NEI" background="#9E9E9E"/>
+    </Choices>
+  </View>
+</View>
