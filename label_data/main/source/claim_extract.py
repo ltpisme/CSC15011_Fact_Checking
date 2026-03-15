@@ -11,7 +11,7 @@ from pathlib import Path
 from configs import KB_PATH, BASE_DIR
 from main import generate_claims
 
-KB_VNEXPRESS_PATH = BASE_DIR / "label_data/main/data/KB_vnexpress.jsonl"
+KB_VNEXPRESS_PATH = BASE_DIR / "label_data/main/data/context_claim_gen.jsonl"
 DEFAULT_OUTPUT_PATH = Path(__file__).parent / "claims_output.json"
 
 
@@ -67,4 +67,4 @@ def extract_claims(n_contexts: int = 10, output_path: str | Path = DEFAULT_OUTPU
 
 
 if __name__ == "__main__":
-    extract_claims(n_contexts=40, output_path=DEFAULT_OUTPUT_PATH)
+    extract_claims(n_contexts=127, output_path=DEFAULT_OUTPUT_PATH)
