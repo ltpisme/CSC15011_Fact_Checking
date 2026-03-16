@@ -1,0 +1,3236 @@
+[
+  {
+    "claim_id": "ctx64_claim192",
+    "claim": "Theo Luật Trật tự, an toàn giao thông đường bộ 2024, quy định về việc bắt buộc lắp ghế an toàn trẻ em cho ô tô kinh doanh vận tải hành khách sẽ có hiệu lực từ ngày 1/1/2026 tại các thành phố lớn như Hà Nội và Thành phố Hồ Chí Minh.",
+    "label": "NEI",
+    "seed_context_id": "vne_492_chunk_0",
+    "seed_context": "Sáng 10/12, Quốc hội biểu quyết thông qua Luật sửa đổi, bổ sung một số điều của 10 luật liên quan đến an ninh, trật tự. Đối với Luật Trật tự, an toàn giao thông đường bộ, dự luật đã được tiếp thu, chỉnh lý theo hướng bỏ quy định bắt buộc lắp ghế an toàn trẻ em đối với ôtô kinh doanh vận tải hành khách như taxi, xe buýt, trong khi vẫn giữ yêu cầu ôtô chở trẻ em dưới 10 tuổi hoặc cao dưới 1,35 m phải có thiết bị an toàn phù hợp. Trước đó, đại biểu Quốc hội cho rằng Luật Trật tự, an toàn giao thông đường bộ 2024 (có hiệu lực từ ngày 1/1/2025, riêng quy định về an toàn cho trẻ em trên ô tô áp dụng từ 1/1/2026) quy định bắt buộc taxi phải lắp ghế an toàn trẻ em là chưa phù hợp với điều kiện Việt Nam. Thực tế ghế an toàn có 4-5 kích cỡ theo cân nặng, nếu bắt buộc mỗi xe taxi phải trang bị đủ là không khả thi. Hơn nữa, nhiều gia đình không có ôtô riêng, thường gọi taxi đưa trẻ đi khám, tiêm chủng hoặc trong thời tiết xấu; nếu taxi thiếu ghế, người dân có thể buộc phải chở trẻ bằng xe máy, rủi ro còn cao hơn.",
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 0
+      }
+    ],
+    "score": 14
+  },
+  {
+    "claim_id": "ctx65_claim193",
+    "claim": "Chủ tịch UBND TP Hà Nội và tỉnh Nghệ An có trách nhiệm đảm bảo các điều kiện y tế, thuốc men để cứu chữa người bị nạn và hỗ trợ các gia đình nạn nhân.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_22_chunk_1",
+    "seed_context": "Chủ tịch UBND TP Hà Nội và tỉnh Nghệ An phải đảm bảo các điều kiện y tế, thuốc men để cứu chữa người bị nạn, giảm thiểu thiệt hại và hỗ trợ các gia đình nạn nhân, đồng thời làm rõ trách nhiệm của các tổ chức, cá nhân liên quan để xử lý nghiêm minh. Bộ trưởng Giao thông Vận tải được giao chỉ đạo Cục Đường bộ Việt Nam phối hợp với các đơn vị liên quan tăng cường tổ chức giao thông hợp lý trên các tuyến đường có mật độ cao và độ dốc lớn, đảm bảo an toàn và giảm ùn tắc. Những ngày giáp Tết, nhu cầu đi lại, mua sắm của người dân tăng cao khiến giao thông trên các tuyến phố tại Hà Nội và TP HCM xảy ra ùn tắc nghiêm trọng. Tại TP HCM chiều 9/1, dòng xe ùn ứ kéo dài trên đường Nguyễn Xí, quận Bình Thạnh, hướng về giao lộ Phạm Văn Đồng. Nhiều xe máy len lỏi trong dòng ôtô, nhích từng chút. Nhiều nơi khác ở nội đô thành phố như quận 1, 3, 5, quanh sân bay Tân Sơn Nhất, quận Tân Bình, đường cửa ngõ... gần đây cũng hay ùn tắc, đặc biệt là đoạn qua các giao lộ.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "score": 17
+  },
+  {
+    "claim_id": "ctx65_claim194",
+    "claim": "Bộ trưởng Giao thông Vận tải được giao chỉ đạo Cục Đường bộ Việt Nam tăng cường tổ chức giao thông hợp lý trên các tuyến đường có mật độ cao và độ dốc lớn, nhằm giảm thiểu thiệt hại và hỗ trợ các gia đình nạn nhân.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_22_chunk_1",
+    "seed_context": "Chủ tịch UBND TP Hà Nội và tỉnh Nghệ An phải đảm bảo các điều kiện y tế, thuốc men để cứu chữa người bị nạn, giảm thiểu thiệt hại và hỗ trợ các gia đình nạn nhân, đồng thời làm rõ trách nhiệm của các tổ chức, cá nhân liên quan để xử lý nghiêm minh. Bộ trưởng Giao thông Vận tải được giao chỉ đạo Cục Đường bộ Việt Nam phối hợp với các đơn vị liên quan tăng cường tổ chức giao thông hợp lý trên các tuyến đường có mật độ cao và độ dốc lớn, đảm bảo an toàn và giảm ùn tắc. Những ngày giáp Tết, nhu cầu đi lại, mua sắm của người dân tăng cao khiến giao thông trên các tuyến phố tại Hà Nội và TP HCM xảy ra ùn tắc nghiêm trọng. Tại TP HCM chiều 9/1, dòng xe ùn ứ kéo dài trên đường Nguyễn Xí, quận Bình Thạnh, hướng về giao lộ Phạm Văn Đồng. Nhiều xe máy len lỏi trong dòng ôtô, nhích từng chút. Nhiều nơi khác ở nội đô thành phố như quận 1, 3, 5, quanh sân bay Tân Sơn Nhất, quận Tân Bình, đường cửa ngõ... gần đây cũng hay ùn tắc, đặc biệt là đoạn qua các giao lộ.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 1
+      }
+    ],
+    "score": 13
+  },
+  {
+    "claim_id": "ctx65_claim195",
+    "claim": "Vào chiều ngày 9/1/2023, dòng xe ùn ứ kéo dài trên đường Nguyễn Xí, quận Bình Thạnh, TP HCM hướng về giao lộ Phạm Văn Đồng đã được lực lượng cảnh sát giao thông xử lý nhanh chóng.",
+    "label": "NEI",
+    "seed_context_id": "vne_22_chunk_1",
+    "seed_context": "Chủ tịch UBND TP Hà Nội và tỉnh Nghệ An phải đảm bảo các điều kiện y tế, thuốc men để cứu chữa người bị nạn, giảm thiểu thiệt hại và hỗ trợ các gia đình nạn nhân, đồng thời làm rõ trách nhiệm của các tổ chức, cá nhân liên quan để xử lý nghiêm minh. Bộ trưởng Giao thông Vận tải được giao chỉ đạo Cục Đường bộ Việt Nam phối hợp với các đơn vị liên quan tăng cường tổ chức giao thông hợp lý trên các tuyến đường có mật độ cao và độ dốc lớn, đảm bảo an toàn và giảm ùn tắc. Những ngày giáp Tết, nhu cầu đi lại, mua sắm của người dân tăng cao khiến giao thông trên các tuyến phố tại Hà Nội và TP HCM xảy ra ùn tắc nghiêm trọng. Tại TP HCM chiều 9/1, dòng xe ùn ứ kéo dài trên đường Nguyễn Xí, quận Bình Thạnh, hướng về giao lộ Phạm Văn Đồng. Nhiều xe máy len lỏi trong dòng ôtô, nhích từng chút. Nhiều nơi khác ở nội đô thành phố như quận 1, 3, 5, quanh sân bay Tân Sơn Nhất, quận Tân Bình, đường cửa ngõ... gần đây cũng hay ùn tắc, đặc biệt là đoạn qua các giao lộ.",
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 0
+      }
+    ],
+    "score": 15
+  },
+  {
+    "claim_id": "ctx66_claim196",
+    "claim": "Vào khoảng 19h ngày 10 tháng 10 năm 2023, đám cháy xuất phát từ tụ điện ở hành lang tầng 3 chung cư Mizuki, đường Nguyễn Văn Linh, xã Bình Hưng đã được lực lượng cứu hỏa dập tắt sau khoảng 10 phút.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_23_chunk_0",
+    "seed_context": "Khoảng 19h, khói lửa phát ra từ tụ điện ở hành lang tầng 3 chung cư Mizuki nằm trên đường Nguyễn Văn Linh, xã Bình Hưng. Lúc này, bảo vệ chung cư tìm cách dập lửa song bất thành. Khói lửa bùng lên nghi ngút lan ra các căn hộ khiến nhiều cư dân hoảng loạn. Chuông báo cháy vang lên làm hàng nghìn người sống trong các căn hộ chạy theo lối thang bộ xuống bên dưới. Nhiều xe chữa cháy cùng hơn 20 chiến sĩ đến hiện trường. Lính cứu hỏa tiếp cận nguồn cháy phối hợp cùng lực lượng tại chỗ dập tắt đám cháy sau khoảng 10 phút. Cảnh sát sau đó đã rà soát các căn hộ phòng có người mắc kẹt. Đại diện UBND huyện Bình Chánh cho biết, đám cháy xuất phát từ tụ điện ở tầng 3. Sự cố khiến một bảo vệ hít phải khói bị ngất xỉu được đưa đi cấp cứu đã tỉnh táo, sức khỏe ổn định. Khu chung cư Mizuki rộng 26 ha, bao gồm 5 block từ 20 đến 25 tầng với hơn 1500 căn hộ, hoạt động từ năm 2018. Đình Văn",
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 18
+  },
+  {
+    "claim_id": "ctx66_claim197",
+    "claim": "Vào khoảng 19h, đám cháy xuất phát từ tụ điện ở hành lang tầng 1 chung cư Mizuki, đường Nguyễn Văn Linh, xã Bình Hưng đã được lực lượng cứu hỏa dập tắt sau khoảng 30 phút.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_23_chunk_0",
+    "seed_context": "Khoảng 19h, khói lửa phát ra từ tụ điện ở hành lang tầng 3 chung cư Mizuki nằm trên đường Nguyễn Văn Linh, xã Bình Hưng. Lúc này, bảo vệ chung cư tìm cách dập lửa song bất thành. Khói lửa bùng lên nghi ngút lan ra các căn hộ khiến nhiều cư dân hoảng loạn. Chuông báo cháy vang lên làm hàng nghìn người sống trong các căn hộ chạy theo lối thang bộ xuống bên dưới. Nhiều xe chữa cháy cùng hơn 20 chiến sĩ đến hiện trường. Lính cứu hỏa tiếp cận nguồn cháy phối hợp cùng lực lượng tại chỗ dập tắt đám cháy sau khoảng 10 phút. Cảnh sát sau đó đã rà soát các căn hộ phòng có người mắc kẹt. Đại diện UBND huyện Bình Chánh cho biết, đám cháy xuất phát từ tụ điện ở tầng 3. Sự cố khiến một bảo vệ hít phải khói bị ngất xỉu được đưa đi cấp cứu đã tỉnh táo, sức khỏe ổn định. Khu chung cư Mizuki rộng 26 ha, bao gồm 5 block từ 20 đến 25 tầng với hơn 1500 căn hộ, hoạt động từ năm 2018. Đình Văn",
+    "faithfulness": [
+      {
+        "rating": 0
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "score": 13
+  },
+  {
+    "claim_id": "ctx66_claim198",
+    "claim": "Vào khoảng 19h, đám cháy xuất phát từ tụ điện ở hành lang tầng 3 chung cư Mizuki, đường Nguyễn Văn Linh, xã Bình Hưng đã khiến 5 người tử vong.",
+    "label": "NEI",
+    "seed_context_id": "vne_23_chunk_0",
+    "seed_context": "Khoảng 19h, khói lửa phát ra từ tụ điện ở hành lang tầng 3 chung cư Mizuki nằm trên đường Nguyễn Văn Linh, xã Bình Hưng. Lúc này, bảo vệ chung cư tìm cách dập lửa song bất thành. Khói lửa bùng lên nghi ngút lan ra các căn hộ khiến nhiều cư dân hoảng loạn. Chuông báo cháy vang lên làm hàng nghìn người sống trong các căn hộ chạy theo lối thang bộ xuống bên dưới. Nhiều xe chữa cháy cùng hơn 20 chiến sĩ đến hiện trường. Lính cứu hỏa tiếp cận nguồn cháy phối hợp cùng lực lượng tại chỗ dập tắt đám cháy sau khoảng 10 phút. Cảnh sát sau đó đã rà soát các căn hộ phòng có người mắc kẹt. Đại diện UBND huyện Bình Chánh cho biết, đám cháy xuất phát từ tụ điện ở tầng 3. Sự cố khiến một bảo vệ hít phải khói bị ngất xỉu được đưa đi cấp cứu đã tỉnh táo, sức khỏe ổn định. Khu chung cư Mizuki rộng 26 ha, bao gồm 5 block từ 20 đến 25 tầng với hơn 1500 căn hộ, hoạt động từ năm 2018. Đình Văn",
+    "faithfulness": [
+      {
+        "rating": 0
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 12
+  },
+  {
+    "claim_id": "ctx67_claim199",
+    "claim": "Trưởng xe có hô hiệu Surgut cho biết chiếc T-72 bị đứt xích bên phải do 3-4 quả mìn phát nổ liên tiếp ở cuối hành trình tại Ukraine.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_852_chunk_1",
+    "seed_context": "Cả ba thành viên kíp xe đều sống sót và được trao thưởng sau khi trở về căn cứ. Trưởng xe có hô hiệu Surgut cho biết chiếc T-72 bị đứt xích bên phải do 3-4 quả mìn phát nổ liên tiếp ở cuối hành trình. Kíp lái cố gắng sơ tán xe tăng giữa làn khói dày đặc, sau đó trú ẩn trong vạt rừng gần nhất và được đồng đội sơ tán. Phá mìn dọn đường là một trong những nhiệm vụ nguy hiểm nhất mà xe tăng và thiết giáp đối mặt trong xung đột Ukraine, do phương tiện phải di chuyển chậm theo lộ trình gần như cố định, có nguy cơ thành mục tiêu cho drone tự sát của đối phương. Quân nhân Nga từ năm ngoái hàn giáp kín những xe tăng làm nhiệm vụ phá mìn mở đường. Loại giáp tự chế này được ví như \"mai rùa\", song đã phát huy hiệu quả thực tế khi vô hiệu hóa được nhiều loại drone của Ukraine. Một trong những điểm yếu của các loại giáp bọc kín thân xe mà Nga đang dùng là làm giảm đáng kể độ cơ động, khả năng quan sát và xoay tháp pháo. Tuy nhiên, một số chuyên gia phương Tây đánh giá phương án này hợp lý do xe tăng làm nhiệm vụ phá mìn mở đường luôn phải di chuyển chậm, dễ trở thành mục tiêu của drone.",
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "score": 18
+  },
+  {
+    "claim_id": "ctx67_claim200",
+    "claim": "Kíp xe tăng T-72 do trưởng xe Surgut chỉ huy đã tử trận sau khi xe bị nổ 3-4 quả mìn liên tiếp ở cuối hành trình tại Ukraine.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_852_chunk_1",
+    "seed_context": "Cả ba thành viên kíp xe đều sống sót và được trao thưởng sau khi trở về căn cứ. Trưởng xe có hô hiệu Surgut cho biết chiếc T-72 bị đứt xích bên phải do 3-4 quả mìn phát nổ liên tiếp ở cuối hành trình. Kíp lái cố gắng sơ tán xe tăng giữa làn khói dày đặc, sau đó trú ẩn trong vạt rừng gần nhất và được đồng đội sơ tán. Phá mìn dọn đường là một trong những nhiệm vụ nguy hiểm nhất mà xe tăng và thiết giáp đối mặt trong xung đột Ukraine, do phương tiện phải di chuyển chậm theo lộ trình gần như cố định, có nguy cơ thành mục tiêu cho drone tự sát của đối phương. Quân nhân Nga từ năm ngoái hàn giáp kín những xe tăng làm nhiệm vụ phá mìn mở đường. Loại giáp tự chế này được ví như \"mai rùa\", song đã phát huy hiệu quả thực tế khi vô hiệu hóa được nhiều loại drone của Ukraine. Một trong những điểm yếu của các loại giáp bọc kín thân xe mà Nga đang dùng là làm giảm đáng kể độ cơ động, khả năng quan sát và xoay tháp pháo. Tuy nhiên, một số chuyên gia phương Tây đánh giá phương án này hợp lý do xe tăng làm nhiệm vụ phá mìn mở đường luôn phải di chuyển chậm, dễ trở thành mục tiêu của drone.",
+    "faithfulness": [
+      {
+        "rating": 0
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 1
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 10
+  },
+  {
+    "claim_id": "ctx67_claim201",
+    "claim": "Giáp tự chế dạng 'mai rùa' được hàn kín trên xe tăng Nga làm nhiệm vụ phá mìn mở đường đã được phát triển từ năm 2021.",
+    "label": "NEI",
+    "seed_context_id": "vne_852_chunk_1",
+    "seed_context": "Cả ba thành viên kíp xe đều sống sót và được trao thưởng sau khi trở về căn cứ. Trưởng xe có hô hiệu Surgut cho biết chiếc T-72 bị đứt xích bên phải do 3-4 quả mìn phát nổ liên tiếp ở cuối hành trình. Kíp lái cố gắng sơ tán xe tăng giữa làn khói dày đặc, sau đó trú ẩn trong vạt rừng gần nhất và được đồng đội sơ tán. Phá mìn dọn đường là một trong những nhiệm vụ nguy hiểm nhất mà xe tăng và thiết giáp đối mặt trong xung đột Ukraine, do phương tiện phải di chuyển chậm theo lộ trình gần như cố định, có nguy cơ thành mục tiêu cho drone tự sát của đối phương. Quân nhân Nga từ năm ngoái hàn giáp kín những xe tăng làm nhiệm vụ phá mìn mở đường. Loại giáp tự chế này được ví như \"mai rùa\", song đã phát huy hiệu quả thực tế khi vô hiệu hóa được nhiều loại drone của Ukraine. Một trong những điểm yếu của các loại giáp bọc kín thân xe mà Nga đang dùng là làm giảm đáng kể độ cơ động, khả năng quan sát và xoay tháp pháo. Tuy nhiên, một số chuyên gia phương Tây đánh giá phương án này hợp lý do xe tăng làm nhiệm vụ phá mìn mở đường luôn phải di chuyển chậm, dễ trở thành mục tiêu của drone.",
+    "faithfulness": [
+      {
+        "rating": 0
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 1
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "score": 11
+  },
+  {
+    "claim_id": "ctx68_claim202",
+    "claim": "Vào khoảng 22h ngày [THỜI GIAN KHÔNG XÁC ĐỊNH], đám cháy bắt đầu tại tầng trệt của cư xá Độc Lập, khiến 8 người tử vong gồm 6 người lớn và 2 trẻ em.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_273_chunk_0",
+    "seed_context": "Khoảng 22h, đám cháy phát ra từ căn hộ ở tầng trệt cư xá Độc Lập. Phát hiện sự việc, nhiều hộ dân bên cạnh dùng bình chữa cháy mini dập lửa nhưng bất thành. Ít phút sau đám cháy bùng lên dữ dội, bao trùm mặt trước của dãy nhà và lan lên các lầu ở trên. Nhiều xe cấp cứu được huy động đến hiện trường. Đại diện Đội cấp cứu - cứu nạn khu vực 4 cho biết các xe cứu thương đã chở 8 người tử vong, gồm 6 người lớn và 2 trẻ em về nhà xác Bình Hưng Hòa. Các nạn nhân ở hai căn cạnh nhau ở tầng trệt cư xá. Hàng chục lính cứu hỏa và xe chữa cháy cũng đến hiện trường chữa cháy. Đến 1h, hỏa hoạn đã được khống chế. Anh Hậu, nhà ở gần hiện trường, cho biết nhà cháy phát ra nhiều tiếng nổ lớn liên tục, lửa bùng lên rất mạnh. \"Khi hoả hoạn được dập tắt, tôi thấy cảnh sát đưa 4 nạn nhân ra ngoài bằng băng ca, quấn bằng chăn\", anh Hậu nói. Phía trong căn hộ cháy có một ôtô, nhiều xe máy bị lửa làm hư hỏng, trơ khung. Mái tôn của căn nhà đổ sụp, các khung thép, cửa của công trình bị uốn cong do sức nóng. Một số căn hộ ở tầng trên di dời đồ đạc, vật dụng ra ngoài hành lang đề phòng cháy lan.",
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "score": 17
+  },
+  {
+    "claim_id": "ctx68_claim203",
+    "claim": "Đến 1h sáng ngày [THỜI GIAN KHÔNG XÁC ĐỊNH], toàn bộ khu vực cư xá Độc Lập đã bị lửa bao trùm và không thể khống chế.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_273_chunk_0",
+    "seed_context": "Khoảng 22h, đám cháy phát ra từ căn hộ ở tầng trệt cư xá Độc Lập. Phát hiện sự việc, nhiều hộ dân bên cạnh dùng bình chữa cháy mini dập lửa nhưng bất thành. Ít phút sau đám cháy bùng lên dữ dội, bao trùm mặt trước của dãy nhà và lan lên các lầu ở trên. Nhiều xe cấp cứu được huy động đến hiện trường. Đại diện Đội cấp cứu - cứu nạn khu vực 4 cho biết các xe cứu thương đã chở 8 người tử vong, gồm 6 người lớn và 2 trẻ em về nhà xác Bình Hưng Hòa. Các nạn nhân ở hai căn cạnh nhau ở tầng trệt cư xá. Hàng chục lính cứu hỏa và xe chữa cháy cũng đến hiện trường chữa cháy. Đến 1h, hỏa hoạn đã được khống chế. Anh Hậu, nhà ở gần hiện trường, cho biết nhà cháy phát ra nhiều tiếng nổ lớn liên tục, lửa bùng lên rất mạnh. \"Khi hoả hoạn được dập tắt, tôi thấy cảnh sát đưa 4 nạn nhân ra ngoài bằng băng ca, quấn bằng chăn\", anh Hậu nói. Phía trong căn hộ cháy có một ôtô, nhiều xe máy bị lửa làm hư hỏng, trơ khung. Mái tôn của căn nhà đổ sụp, các khung thép, cửa của công trình bị uốn cong do sức nóng. Một số căn hộ ở tầng trên di dời đồ đạc, vật dụng ra ngoài hành lang đề phòng cháy lan.",
+    "faithfulness": [
+      {
+        "rating": 0
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 11
+  },
+  {
+    "claim_id": "ctx68_claim204",
+    "claim": "Anh Hậu, một nhân chứng sống tại cư xá Độc Lập, đã trực tiếp tham gia dập lửa và cứu được 2 nạn nhân ra khỏi đám cháy vào khoảng 22h.",
+    "label": "NEI",
+    "seed_context_id": "vne_273_chunk_0",
+    "seed_context": "Khoảng 22h, đám cháy phát ra từ căn hộ ở tầng trệt cư xá Độc Lập. Phát hiện sự việc, nhiều hộ dân bên cạnh dùng bình chữa cháy mini dập lửa nhưng bất thành. Ít phút sau đám cháy bùng lên dữ dội, bao trùm mặt trước của dãy nhà và lan lên các lầu ở trên. Nhiều xe cấp cứu được huy động đến hiện trường. Đại diện Đội cấp cứu - cứu nạn khu vực 4 cho biết các xe cứu thương đã chở 8 người tử vong, gồm 6 người lớn và 2 trẻ em về nhà xác Bình Hưng Hòa. Các nạn nhân ở hai căn cạnh nhau ở tầng trệt cư xá. Hàng chục lính cứu hỏa và xe chữa cháy cũng đến hiện trường chữa cháy. Đến 1h, hỏa hoạn đã được khống chế. Anh Hậu, nhà ở gần hiện trường, cho biết nhà cháy phát ra nhiều tiếng nổ lớn liên tục, lửa bùng lên rất mạnh. \"Khi hoả hoạn được dập tắt, tôi thấy cảnh sát đưa 4 nạn nhân ra ngoài bằng băng ca, quấn bằng chăn\", anh Hậu nói. Phía trong căn hộ cháy có một ôtô, nhiều xe máy bị lửa làm hư hỏng, trơ khung. Mái tôn của căn nhà đổ sụp, các khung thép, cửa của công trình bị uốn cong do sức nóng. Một số căn hộ ở tầng trên di dời đồ đạc, vật dụng ra ngoài hành lang đề phòng cháy lan.",
+    "faithfulness": [
+      {
+        "rating": 0
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 11
+  },
+  {
+    "claim_id": "ctx69_claim205",
+    "claim": "Vào năm 1990, bức họa của Pierre-Auguste Renoir đã bị cắt khỏi khung và đánh cắp từ một phòng trưng bày ở tầng ba của bảo tàng Louvre.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_938_chunk_5",
+    "seed_context": "Vụ cướp diễn ra trong bối cảnh các quan chức bảo tàng đã gióng lên hồi chuông cảnh báo về tình trạng xuống cấp của tòa nhà và an ninh yếu kém. Bộ trưởng Văn hóa Rachida Dati cho biết cảnh sát đã cung cấp cho bảo tàng danh sách các khuyến nghị về an ninh, một phần trong kế hoạch cải tạo được Tổng thống Macron công bố hồi tháng một. \"Trong suốt 40 năm, người ta không dành nhiều quan tâm đến việc đảm bảo an ninh cho các bảo tàng lớn. Chúng cần được điều chỉnh để thích ứng với những hình thức tội phạm mới\", bà nhấn mạnh. Vụ cướp ngày 19/10 không phải lần đầu tiên bảo tàng Louvre bị nhắm mục tiêu. Năm 1976, ba tên trộm đột nhập vào Louvre lúc bình minh, trèo lên giàn giáo và phá cửa sổ tầng hai, lấy đi một thanh kiếm đính kim cương từ thế kỷ 19 từng thuộc về vua Charles X. Vào năm 1990, bức họa của Pierre-Auguste Renoir đã bị cắt khỏi khung và đánh cắp từ một phòng trưng bày ở tầng ba. Nhưng nổi tiếng nhất có lẽ là vụ trộm bức tranh Mona Lisa vào mùa hè năm 1911. Bức tranh đã bị Vincenzo Peruggia, nhân viên bảo tàng, đánh cắp.",
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 15
+  },
+  {
+    "claim_id": "ctx69_claim206",
+    "claim": "Vào mùa hè năm 1911, bức tranh Mona Lisa đã bị nhân viên bảo tàng Vincenzo Peruggia đánh cắp từ một phòng trưng bày ở tầng hai của bảo tàng Louvre.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_938_chunk_5",
+    "seed_context": "Vụ cướp diễn ra trong bối cảnh các quan chức bảo tàng đã gióng lên hồi chuông cảnh báo về tình trạng xuống cấp của tòa nhà và an ninh yếu kém. Bộ trưởng Văn hóa Rachida Dati cho biết cảnh sát đã cung cấp cho bảo tàng danh sách các khuyến nghị về an ninh, một phần trong kế hoạch cải tạo được Tổng thống Macron công bố hồi tháng một. \"Trong suốt 40 năm, người ta không dành nhiều quan tâm đến việc đảm bảo an ninh cho các bảo tàng lớn. Chúng cần được điều chỉnh để thích ứng với những hình thức tội phạm mới\", bà nhấn mạnh. Vụ cướp ngày 19/10 không phải lần đầu tiên bảo tàng Louvre bị nhắm mục tiêu. Năm 1976, ba tên trộm đột nhập vào Louvre lúc bình minh, trèo lên giàn giáo và phá cửa sổ tầng hai, lấy đi một thanh kiếm đính kim cương từ thế kỷ 19 từng thuộc về vua Charles X. Vào năm 1990, bức họa của Pierre-Auguste Renoir đã bị cắt khỏi khung và đánh cắp từ một phòng trưng bày ở tầng ba. Nhưng nổi tiếng nhất có lẽ là vụ trộm bức tranh Mona Lisa vào mùa hè năm 1911. Bức tranh đã bị Vincenzo Peruggia, nhân viên bảo tàng, đánh cắp.",
+    "faithfulness": [
+      {
+        "rating": 0
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "score": 13
+  },
+  {
+    "claim_id": "ctx69_claim207",
+    "claim": "Vào ngày 19/10, Bộ trưởng Văn hóa Rachida Dati đã công bố kế hoạch cải tạo toàn bộ an ninh cho các bảo tàng lớn của Pháp, bao gồm cả bảo tàng Louvre, với ngân sách 100 triệu Euro.",
+    "label": "NEI",
+    "seed_context_id": "vne_938_chunk_5",
+    "seed_context": "Vụ cướp diễn ra trong bối cảnh các quan chức bảo tàng đã gióng lên hồi chuông cảnh báo về tình trạng xuống cấp của tòa nhà và an ninh yếu kém. Bộ trưởng Văn hóa Rachida Dati cho biết cảnh sát đã cung cấp cho bảo tàng danh sách các khuyến nghị về an ninh, một phần trong kế hoạch cải tạo được Tổng thống Macron công bố hồi tháng một. \"Trong suốt 40 năm, người ta không dành nhiều quan tâm đến việc đảm bảo an ninh cho các bảo tàng lớn. Chúng cần được điều chỉnh để thích ứng với những hình thức tội phạm mới\", bà nhấn mạnh. Vụ cướp ngày 19/10 không phải lần đầu tiên bảo tàng Louvre bị nhắm mục tiêu. Năm 1976, ba tên trộm đột nhập vào Louvre lúc bình minh, trèo lên giàn giáo và phá cửa sổ tầng hai, lấy đi một thanh kiếm đính kim cương từ thế kỷ 19 từng thuộc về vua Charles X. Vào năm 1990, bức họa của Pierre-Auguste Renoir đã bị cắt khỏi khung và đánh cắp từ một phòng trưng bày ở tầng ba. Nhưng nổi tiếng nhất có lẽ là vụ trộm bức tranh Mona Lisa vào mùa hè năm 1911. Bức tranh đã bị Vincenzo Peruggia, nhân viên bảo tàng, đánh cắp.",
+    "faithfulness": [
+      {
+        "rating": 1
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "score": 14
+  },
+  {
+    "claim_id": "ctx70_claim208",
+    "claim": "Người theo học nhạc công kịch hát dân tộc, đờn ca tài tử Nam Bộ, ca trù, bài chòi, biểu diễn nhạc cụ truyền thống tại các cơ sở giáo dục công lập sẽ được giảm 70% học phí theo quy định của Chính phủ.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_356_chunk_1",
+    "seed_context": "Ba nhóm được giảm học phí Chính phủ quy định ba nhóm học sinh, sinh viên được giảm 70% học phí gồm người theo học các ngành nghệ thuật truyền thống và đặc thù như nhạc công kịch hát dân tộc, đờn ca tài tử Nam Bộ, ca trù, bài chòi, biểu diễn nhạc cụ truyền thống; sinh viên học các chuyên ngành như nhã nhạc cung đình, chèo, tuồng, cải lương, múa, xiếc hoặc một số nghề nặng nhọc, độc hại; học sinh, sinh viên người dân tộc thiểu số (ngoài nhóm rất ít người) có hộ khẩu thường trú ở thôn, bản đặc biệt khó khăn, xã vùng 3, xã bãi ngang ven biển và hải đảo. Ngoài ra, học sinh, sinh viên có cha hoặc mẹ bị tai nạn lao động, mắc bệnh nghề nghiệp đang hưởng trợ cấp thường xuyên sẽ được giảm 50% học phí. Trẻ mầm non, học sinh phổ thông trong các cơ sở dân lập, tư thục được hỗ trợ học phí. Chính sách hỗ trợ còn áp dụng cho học viên sau đại học ở cơ sở tư thục thuộc các chuyên ngành y tế đặc thù như tâm thần, giải phẫu bệnh, pháp y, truyền nhiễm, hồi sức cấp cứu.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "score": 16
+  },
+  {
+    "claim_id": "ctx70_claim209",
+    "claim": "Học sinh, sinh viên người dân tộc thiểu số có hộ khẩu thường trú ở các khu vực không thuộc diện đặc biệt khó khăn sẽ được giảm 70% học phí.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_356_chunk_1",
+    "seed_context": "Ba nhóm được giảm học phí Chính phủ quy định ba nhóm học sinh, sinh viên được giảm 70% học phí gồm người theo học các ngành nghệ thuật truyền thống và đặc thù như nhạc công kịch hát dân tộc, đờn ca tài tử Nam Bộ, ca trù, bài chòi, biểu diễn nhạc cụ truyền thống; sinh viên học các chuyên ngành như nhã nhạc cung đình, chèo, tuồng, cải lương, múa, xiếc hoặc một số nghề nặng nhọc, độc hại; học sinh, sinh viên người dân tộc thiểu số (ngoài nhóm rất ít người) có hộ khẩu thường trú ở thôn, bản đặc biệt khó khăn, xã vùng 3, xã bãi ngang ven biển và hải đảo. Ngoài ra, học sinh, sinh viên có cha hoặc mẹ bị tai nạn lao động, mắc bệnh nghề nghiệp đang hưởng trợ cấp thường xuyên sẽ được giảm 50% học phí. Trẻ mầm non, học sinh phổ thông trong các cơ sở dân lập, tư thục được hỗ trợ học phí. Chính sách hỗ trợ còn áp dụng cho học viên sau đại học ở cơ sở tư thục thuộc các chuyên ngành y tế đặc thù như tâm thần, giải phẫu bệnh, pháp y, truyền nhiễm, hồi sức cấp cứu.",
+    "faithfulness": [
+      {
+        "rating": 0
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 2
+      }
+    ],
+    "score": 10
+  },
+  {
+    "claim_id": "ctx70_claim210",
+    "claim": "Chính phủ quy định học viên sau đại học ở các cơ sở công lập thuộc chuyên ngành y tế đặc thù như tâm thần, giải phẫu bệnh, pháp y, truyền nhiễm, hồi sức cấp cứu sẽ được giảm 50% học phí.",
+    "label": "NEI",
+    "seed_context_id": "vne_356_chunk_1",
+    "seed_context": "Ba nhóm được giảm học phí Chính phủ quy định ba nhóm học sinh, sinh viên được giảm 70% học phí gồm người theo học các ngành nghệ thuật truyền thống và đặc thù như nhạc công kịch hát dân tộc, đờn ca tài tử Nam Bộ, ca trù, bài chòi, biểu diễn nhạc cụ truyền thống; sinh viên học các chuyên ngành như nhã nhạc cung đình, chèo, tuồng, cải lương, múa, xiếc hoặc một số nghề nặng nhọc, độc hại; học sinh, sinh viên người dân tộc thiểu số (ngoài nhóm rất ít người) có hộ khẩu thường trú ở thôn, bản đặc biệt khó khăn, xã vùng 3, xã bãi ngang ven biển và hải đảo. Ngoài ra, học sinh, sinh viên có cha hoặc mẹ bị tai nạn lao động, mắc bệnh nghề nghiệp đang hưởng trợ cấp thường xuyên sẽ được giảm 50% học phí. Trẻ mầm non, học sinh phổ thông trong các cơ sở dân lập, tư thục được hỗ trợ học phí. Chính sách hỗ trợ còn áp dụng cho học viên sau đại học ở cơ sở tư thục thuộc các chuyên ngành y tế đặc thù như tâm thần, giải phẫu bệnh, pháp y, truyền nhiễm, hồi sức cấp cứu.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 2
+      }
+    ],
+    "score": 14
+  },
+  {
+    "claim_id": "ctx71_claim211",
+    "claim": "Năm 2020, Không quân Mỹ đã công bố báo cáo về tên lửa Burevestnik, nhận định rằng loại vũ khí này sẽ giúp Nga sở hữu năng lực tấn công xuyên lục địa độc nhất vô nhị.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_948_chunk_3",
+    "seed_context": "Trong quá trình bay, tên lửa Burevestnik còn liên tục đổi hướng nhằm vòng tránh các hệ thống cảnh báo sớm và phòng không trên biển. Đây được coi là tính năng quan trọng, nhất là khi tên lửa có tầm bắn không giới hạn. Nó có thể bay vòng qua mọi tổ hợp phòng thủ và đánh trúng mục tiêu từ những hướng bất ngờ nhất. Không quân Mỹ hồi năm 2020 công bố báo cáo về Burevestnik, nhận định loại tên lửa này sẽ giúp Nga sở hữu vũ khí \"độc nhất vô nhị với năng lực tấn công xuyên lục địa\". Một số nhà quan sát phương Tây nhận định Burevestnik chỉ đạt tốc độ cận âm, dễ bị bắn hạ nếu lọt vào tầm ngắm của các hệ thống phòng không. Họ cũng lưu ý tên lửa càng bay lâu thì càng dễ bị lộ diện và theo dõi hơn. Phản hồi quan điểm này, chuyên gia quân sự Nga Alexei Leonkov cho biết vai trò của Burevestnik là \"xóa sổ những gì còn sót lại\" sau đòn tập kích bằng tên lửa đạn đạo xuyên lục địa (ICBM). \"Lưới phòng không đối phương lúc đó sẽ không còn đủ sức đánh chặn đòn đánh bồi bằng Burevestnik\", ông nói. Nhiều chuyên gia cũng cảnh báo nguy cơ ô nhiễm phóng xạ khi thử nghiệm là rất cao, xét đến hàng loạt vụ thử thất bại trong quá khứ.",
+    "verifiability": [
+      {
+        "rating": 2
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 13
+  },
+  {
+    "claim_id": "ctx71_claim212",
+    "claim": "Theo các nhà quan sát phương Tây, tên lửa Burevestnik chỉ đạt tốc độ siêu thanh, khó bị bắn hạ nếu lọt vào tầm ngắm của các hệ thống phòng không.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_948_chunk_3",
+    "seed_context": "Trong quá trình bay, tên lửa Burevestnik còn liên tục đổi hướng nhằm vòng tránh các hệ thống cảnh báo sớm và phòng không trên biển. Đây được coi là tính năng quan trọng, nhất là khi tên lửa có tầm bắn không giới hạn. Nó có thể bay vòng qua mọi tổ hợp phòng thủ và đánh trúng mục tiêu từ những hướng bất ngờ nhất. Không quân Mỹ hồi năm 2020 công bố báo cáo về Burevestnik, nhận định loại tên lửa này sẽ giúp Nga sở hữu vũ khí \"độc nhất vô nhị với năng lực tấn công xuyên lục địa\". Một số nhà quan sát phương Tây nhận định Burevestnik chỉ đạt tốc độ cận âm, dễ bị bắn hạ nếu lọt vào tầm ngắm của các hệ thống phòng không. Họ cũng lưu ý tên lửa càng bay lâu thì càng dễ bị lộ diện và theo dõi hơn. Phản hồi quan điểm này, chuyên gia quân sự Nga Alexei Leonkov cho biết vai trò của Burevestnik là \"xóa sổ những gì còn sót lại\" sau đòn tập kích bằng tên lửa đạn đạo xuyên lục địa (ICBM). \"Lưới phòng không đối phương lúc đó sẽ không còn đủ sức đánh chặn đòn đánh bồi bằng Burevestnik\", ông nói. Nhiều chuyên gia cũng cảnh báo nguy cơ ô nhiễm phóng xạ khi thử nghiệm là rất cao, xét đến hàng loạt vụ thử thất bại trong quá khứ.",
+    "faithfulness": [
+      {
+        "rating": 0
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 2
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 11
+  },
+  {
+    "claim_id": "ctx71_claim213",
+    "claim": "Chuyên gia quân sự Nga Alexei Leonkov cho biết vai trò của Burevestnik là ngăn chặn các cuộc tấn công bằng tên lửa đạn đạo xuyên lục địa của đối phương.",
+    "label": "NEI",
+    "seed_context_id": "vne_948_chunk_3",
+    "seed_context": "Trong quá trình bay, tên lửa Burevestnik còn liên tục đổi hướng nhằm vòng tránh các hệ thống cảnh báo sớm và phòng không trên biển. Đây được coi là tính năng quan trọng, nhất là khi tên lửa có tầm bắn không giới hạn. Nó có thể bay vòng qua mọi tổ hợp phòng thủ và đánh trúng mục tiêu từ những hướng bất ngờ nhất. Không quân Mỹ hồi năm 2020 công bố báo cáo về Burevestnik, nhận định loại tên lửa này sẽ giúp Nga sở hữu vũ khí \"độc nhất vô nhị với năng lực tấn công xuyên lục địa\". Một số nhà quan sát phương Tây nhận định Burevestnik chỉ đạt tốc độ cận âm, dễ bị bắn hạ nếu lọt vào tầm ngắm của các hệ thống phòng không. Họ cũng lưu ý tên lửa càng bay lâu thì càng dễ bị lộ diện và theo dõi hơn. Phản hồi quan điểm này, chuyên gia quân sự Nga Alexei Leonkov cho biết vai trò của Burevestnik là \"xóa sổ những gì còn sót lại\" sau đòn tập kích bằng tên lửa đạn đạo xuyên lục địa (ICBM). \"Lưới phòng không đối phương lúc đó sẽ không còn đủ sức đánh chặn đòn đánh bồi bằng Burevestnik\", ông nói. Nhiều chuyên gia cũng cảnh báo nguy cơ ô nhiễm phóng xạ khi thử nghiệm là rất cao, xét đến hàng loạt vụ thử thất bại trong quá khứ.",
+    "faithfulness": [
+      {
+        "rating": 0
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 2
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 2
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 10
+  },
+  {
+    "claim_id": "ctx72_claim214",
+    "claim": "Phóng viên Hatem Omar, 42 tuổi, đã mô tả vụ nổ thứ hai xảy ra khi ông đang leo cầu thang cùng nhiều nhà báo và nhân viên y tế.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_864_chunk_2",
+    "seed_context": "\"Tôi đang leo lên cầu thang, rất nhiều nhà báo và nhân viên y tế ở cùng tôi, rồi vụ nổ thứ hai xảy ra\", phóng viên Hatem Omar, 42 tuổi, kể lại. Góc quay cận cho thấy quả đạn dường như đánh thẳng vào vị trí nhóm cứu hộ và phóng viên, nhấn chìm mọi thứ trong khói bụi. Video khác ghi lại cảnh cầu thang đầy thi thể, nhân viên y tế nỗ lực cấp cứu. Một cảnh quay trước cổng bệnh viện cho thấy một nhân viên y tế giơ lên bộ quần áo nhuốm máu trước khi một vụ nổ khác làm mọi người bỏ chạy tán loạn. \"Vết máu khắp sàn nhà, cảnh tượng hỗn loạn, kinh hoàng và sợ hãi tột cùng\", bác sĩ người Anh kể lại với BBC. Ít nhất 20 người thiệt mạng trong vụ tấn công kiểu \"bắn bồi\" này, trong đó có nhiều nhà báo và nhân viên y tế, theo xác nhận từ các cơ quan báo chí, Tổ chức Y tế Thế giới (WHO) và cơ quan y tế do Hamas điều hành. Các hãng tin quốc tế gồm AP, Reuters, Al Jazeera và Middle East Eye đều xác nhận có phóng viên thiệt mạng trong vụ tấn công. Hình ảnh hiện trường và lời kể của các nhân chứng khiến cộng đồng quốc tế phẫn nộ, chỉ trích IDF đã áp dụng chiến thuật \"tập kích kép\" để tăng mức thương vong.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 16
+  },
+  {
+    "claim_id": "ctx72_claim215",
+    "claim": "Ít nhất 50 người thiệt mạng trong vụ tấn công kiểu \"bắn bồi\" này, trong đó có nhiều nhà báo và nhân viên y tế, theo xác nhận từ các cơ quan báo chí, Tổ chức Y tế Thế giới (WHO) và cơ quan y tế do Hamas điều hành.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_864_chunk_2",
+    "seed_context": "\"Tôi đang leo lên cầu thang, rất nhiều nhà báo và nhân viên y tế ở cùng tôi, rồi vụ nổ thứ hai xảy ra\", phóng viên Hatem Omar, 42 tuổi, kể lại. Góc quay cận cho thấy quả đạn dường như đánh thẳng vào vị trí nhóm cứu hộ và phóng viên, nhấn chìm mọi thứ trong khói bụi. Video khác ghi lại cảnh cầu thang đầy thi thể, nhân viên y tế nỗ lực cấp cứu. Một cảnh quay trước cổng bệnh viện cho thấy một nhân viên y tế giơ lên bộ quần áo nhuốm máu trước khi một vụ nổ khác làm mọi người bỏ chạy tán loạn. \"Vết máu khắp sàn nhà, cảnh tượng hỗn loạn, kinh hoàng và sợ hãi tột cùng\", bác sĩ người Anh kể lại với BBC. Ít nhất 20 người thiệt mạng trong vụ tấn công kiểu \"bắn bồi\" này, trong đó có nhiều nhà báo và nhân viên y tế, theo xác nhận từ các cơ quan báo chí, Tổ chức Y tế Thế giới (WHO) và cơ quan y tế do Hamas điều hành. Các hãng tin quốc tế gồm AP, Reuters, Al Jazeera và Middle East Eye đều xác nhận có phóng viên thiệt mạng trong vụ tấn công. Hình ảnh hiện trường và lời kể của các nhân chứng khiến cộng đồng quốc tế phẫn nộ, chỉ trích IDF đã áp dụng chiến thuật \"tập kích kép\" để tăng mức thương vong.",
+    "faithfulness": [
+      {
+        "rating": 0
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 1
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 10
+  },
+  {
+    "claim_id": "ctx72_claim216",
+    "claim": "Bác sĩ người Anh đã cung cấp chi tiết về quy trình cấp cứu cho các nạn nhân sau vụ tấn công theo yêu cầu của BBC.",
+    "label": "NEI",
+    "seed_context_id": "vne_864_chunk_2",
+    "seed_context": "\"Tôi đang leo lên cầu thang, rất nhiều nhà báo và nhân viên y tế ở cùng tôi, rồi vụ nổ thứ hai xảy ra\", phóng viên Hatem Omar, 42 tuổi, kể lại. Góc quay cận cho thấy quả đạn dường như đánh thẳng vào vị trí nhóm cứu hộ và phóng viên, nhấn chìm mọi thứ trong khói bụi. Video khác ghi lại cảnh cầu thang đầy thi thể, nhân viên y tế nỗ lực cấp cứu. Một cảnh quay trước cổng bệnh viện cho thấy một nhân viên y tế giơ lên bộ quần áo nhuốm máu trước khi một vụ nổ khác làm mọi người bỏ chạy tán loạn. \"Vết máu khắp sàn nhà, cảnh tượng hỗn loạn, kinh hoàng và sợ hãi tột cùng\", bác sĩ người Anh kể lại với BBC. Ít nhất 20 người thiệt mạng trong vụ tấn công kiểu \"bắn bồi\" này, trong đó có nhiều nhà báo và nhân viên y tế, theo xác nhận từ các cơ quan báo chí, Tổ chức Y tế Thế giới (WHO) và cơ quan y tế do Hamas điều hành. Các hãng tin quốc tế gồm AP, Reuters, Al Jazeera và Middle East Eye đều xác nhận có phóng viên thiệt mạng trong vụ tấn công. Hình ảnh hiện trường và lời kể của các nhân chứng khiến cộng đồng quốc tế phẫn nộ, chỉ trích IDF đã áp dụng chiến thuật \"tập kích kép\" để tăng mức thương vong.",
+    "faithfulness": [
+      {
+        "rating": 1
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 2
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 2
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 11
+  },
+  {
+    "claim_id": "ctx73_claim217",
+    "claim": "Ông Tạ Minh Tuấn, Chủ tịch phường Thiên Hương, TP Thủy Nguyên, xác nhận bé gái được người nhà báo mất tích chiều hôm qua sau khi bị một phụ nữ dẫn đi khỏi trường.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_21_chunk_0",
+    "seed_context": "Ông Tạ Minh Tuấn, Chủ tịch phường Thiên Hương, TP Thủy Nguyên, cho biết bé gái được người nhà báo mất tích chiều qua. Theo camera an ninh, cháu bé bị một phụ nữ vào chơi cùng rồi dẫn đi. Người này mặc áo khoác tối màu, họa tiết trắng, đội mũ kín đầu, đeo khẩu trang đen. Bé gái mặc áo khoác màu hồng, quần tối màu. Khi ra khỏi trường, người phụ nữ dẫn cháu bé lên taxi đi về phía nội thành Hải Phòng. Báo cáo của nhà trường cho biết vào 16h ngày hôm qua, một cô gái trẻ vào lớp nói với cô giáo \"cô ơi em đón TM (tên bé gái)\". Thấy vậy, bé gái chạy theo cô gái trẻ ra tủ đồ lấy đồ cá nhân và rời khỏi trường. Đến 16h30, người được mẹ bé thuê đến trường đón con được thông báo \"đã có người đón\", nhưng gia đình cho biết cháu vẫn chưa về nhà. Sự việc được báo cho chính quyền địa phương và cơ quan chức năng. Nhóm lớp cháu bé học có 15 trẻ với hai cô giáo. Lúc xảy ra sự việc, một trong hai cô về sớm vì có con đi cấp cứu. Qua rà soát, công an xác định nghi phạm đưa cháu bé đi khỏi trường là Đồng Thị Thu, 18 tuổi, ở phường Hoàng Lâm, thành phố Thủy Nguyên.",
+    "verifiability": [
+      {
+        "rating": 2
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 14
+  },
+  {
+    "claim_id": "ctx73_claim218",
+    "claim": "Đồng Thị Thu, 18 tuổi, ở phường Hoàng Lâm, thành phố Thủy Nguyên, đã đưa cháu bé lên taxi đi về phía ngoại thành Hải Phòng vào lúc 16h ngày hôm qua.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_21_chunk_0",
+    "seed_context": "Ông Tạ Minh Tuấn, Chủ tịch phường Thiên Hương, TP Thủy Nguyên, cho biết bé gái được người nhà báo mất tích chiều qua. Theo camera an ninh, cháu bé bị một phụ nữ vào chơi cùng rồi dẫn đi. Người này mặc áo khoác tối màu, họa tiết trắng, đội mũ kín đầu, đeo khẩu trang đen. Bé gái mặc áo khoác màu hồng, quần tối màu. Khi ra khỏi trường, người phụ nữ dẫn cháu bé lên taxi đi về phía nội thành Hải Phòng. Báo cáo của nhà trường cho biết vào 16h ngày hôm qua, một cô gái trẻ vào lớp nói với cô giáo \"cô ơi em đón TM (tên bé gái)\". Thấy vậy, bé gái chạy theo cô gái trẻ ra tủ đồ lấy đồ cá nhân và rời khỏi trường. Đến 16h30, người được mẹ bé thuê đến trường đón con được thông báo \"đã có người đón\", nhưng gia đình cho biết cháu vẫn chưa về nhà. Sự việc được báo cho chính quyền địa phương và cơ quan chức năng. Nhóm lớp cháu bé học có 15 trẻ với hai cô giáo. Lúc xảy ra sự việc, một trong hai cô về sớm vì có con đi cấp cứu. Qua rà soát, công an xác định nghi phạm đưa cháu bé đi khỏi trường là Đồng Thị Thu, 18 tuổi, ở phường Hoàng Lâm, thành phố Thủy Nguyên.",
+    "faithfulness": [
+      {
+        "rating": 1
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 12
+  },
+  {
+    "claim_id": "ctx73_claim219",
+    "claim": "Vào 16h ngày hôm qua, một cô gái trẻ vào lớp nói với cô giáo 'cô ơi em đón TM' và người phụ nữ mặc áo khoác tối màu, họa tiết trắng, đội mũ kín đầu, đeo khẩu trang đen đã rời khỏi trường.",
+    "label": "NEI",
+    "seed_context_id": "vne_21_chunk_0",
+    "seed_context": "Ông Tạ Minh Tuấn, Chủ tịch phường Thiên Hương, TP Thủy Nguyên, cho biết bé gái được người nhà báo mất tích chiều qua. Theo camera an ninh, cháu bé bị một phụ nữ vào chơi cùng rồi dẫn đi. Người này mặc áo khoác tối màu, họa tiết trắng, đội mũ kín đầu, đeo khẩu trang đen. Bé gái mặc áo khoác màu hồng, quần tối màu. Khi ra khỏi trường, người phụ nữ dẫn cháu bé lên taxi đi về phía nội thành Hải Phòng. Báo cáo của nhà trường cho biết vào 16h ngày hôm qua, một cô gái trẻ vào lớp nói với cô giáo \"cô ơi em đón TM (tên bé gái)\". Thấy vậy, bé gái chạy theo cô gái trẻ ra tủ đồ lấy đồ cá nhân và rời khỏi trường. Đến 16h30, người được mẹ bé thuê đến trường đón con được thông báo \"đã có người đón\", nhưng gia đình cho biết cháu vẫn chưa về nhà. Sự việc được báo cho chính quyền địa phương và cơ quan chức năng. Nhóm lớp cháu bé học có 15 trẻ với hai cô giáo. Lúc xảy ra sự việc, một trong hai cô về sớm vì có con đi cấp cứu. Qua rà soát, công an xác định nghi phạm đưa cháu bé đi khỏi trường là Đồng Thị Thu, 18 tuổi, ở phường Hoàng Lâm, thành phố Thủy Nguyên.",
+    "verifiability": [
+      {
+        "rating": 2
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 2
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 12
+  },
+  {
+    "claim_id": "ctx74_claim220",
+    "claim": "Vào ngày 1/11, quân đoàn Thủy quân Lục chiến số 30 Ukraine xác nhận Nga đã tiến hành đòn tập kích bằng tên lửa và UAV vào khu dân cư ở quận Samariv, tỉnh Dnipropetrovsk.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_956_chunk_0",
+    "seed_context": "Tên lửa đạn đạo Nga tập kích loạt mục tiêu ở tỉnh Dnipropetrovsk, trong đó có lễ trao huân chương của thủy quân lục chiến Ukraine, gây thiệt hại nặng. Dmitry Sviatnenko, phóng viên thuộc chương trình tin tức của Ukraine, hôm 3/11 cho biết em trai của ông là Volodymyr Sviatnenko đã thiệt mạng trong trận tập kích bằng tên lửa đạn đạo của Nga. Địa điểm cụ thể không được tiết lộ, nhưng đòn tấn công dường như xảy ra trước đó hai ngày. \"Họ không thiệt mạng trên chiến trường, mà lại chết ở sâu trong hậu phương. Những binh sĩ xuất sắc nhất của Lữ đoàn Thủy quân Lục chiến số 35 được lệnh đến thao trường để nhận huân chương. Họ tập kết tại nơi trống trải theo lệnh, rồi tên lửa bay tới. Hành động cẩu thả và tắc trách đã tái diễn\", Sviatnenko nói. Quân đoàn Thủy quân Lục chiến số 30 Ukraine, đơn vị phụ trách Lữ đoàn 35, cùng ngày xác nhận Nga hôm 1/11 tiến hành đòn tập kích hiệp đồng bằng tên lửa và máy bay không người lái (UAV) nhằm vào khu dân cư ở quận Samariv thuộc tỉnh Dnipropetrovsk. \"Cuộc tấn công xảy ra khi các binh sĩ của một lữ đoàn thủy quân lục chiến đang có mặt trong khu dân cư.",
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 18
+  },
+  {
+    "claim_id": "ctx74_claim221",
+    "claim": "Phóng viên Dmitry Sviatnenko cho biết em trai ông, Volodymyr Sviatnenko, đã thiệt mạng trong một trận chiến trên chiến trường tỉnh Dnipropetrovsk vào ngày 3/11.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_956_chunk_0",
+    "seed_context": "Tên lửa đạn đạo Nga tập kích loạt mục tiêu ở tỉnh Dnipropetrovsk, trong đó có lễ trao huân chương của thủy quân lục chiến Ukraine, gây thiệt hại nặng. Dmitry Sviatnenko, phóng viên thuộc chương trình tin tức của Ukraine, hôm 3/11 cho biết em trai của ông là Volodymyr Sviatnenko đã thiệt mạng trong trận tập kích bằng tên lửa đạn đạo của Nga. Địa điểm cụ thể không được tiết lộ, nhưng đòn tấn công dường như xảy ra trước đó hai ngày. \"Họ không thiệt mạng trên chiến trường, mà lại chết ở sâu trong hậu phương. Những binh sĩ xuất sắc nhất của Lữ đoàn Thủy quân Lục chiến số 35 được lệnh đến thao trường để nhận huân chương. Họ tập kết tại nơi trống trải theo lệnh, rồi tên lửa bay tới. Hành động cẩu thả và tắc trách đã tái diễn\", Sviatnenko nói. Quân đoàn Thủy quân Lục chiến số 30 Ukraine, đơn vị phụ trách Lữ đoàn 35, cùng ngày xác nhận Nga hôm 1/11 tiến hành đòn tập kích hiệp đồng bằng tên lửa và máy bay không người lái (UAV) nhằm vào khu dân cư ở quận Samariv thuộc tỉnh Dnipropetrovsk. \"Cuộc tấn công xảy ra khi các binh sĩ của một lữ đoàn thủy quân lục chiến đang có mặt trong khu dân cư.",
+    "faithfulness": [
+      {
+        "rating": 2
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 15
+  },
+  {
+    "claim_id": "ctx74_claim222",
+    "claim": "Lữ đoàn Thủy quân Lục chiến số 35 Ukraine đã sử dụng tên lửa đạn đạo để tấn công các mục tiêu quân sự của Nga vào ngày 1/11.",
+    "label": "NEI",
+    "seed_context_id": "vne_956_chunk_0",
+    "seed_context": "Tên lửa đạn đạo Nga tập kích loạt mục tiêu ở tỉnh Dnipropetrovsk, trong đó có lễ trao huân chương của thủy quân lục chiến Ukraine, gây thiệt hại nặng. Dmitry Sviatnenko, phóng viên thuộc chương trình tin tức của Ukraine, hôm 3/11 cho biết em trai của ông là Volodymyr Sviatnenko đã thiệt mạng trong trận tập kích bằng tên lửa đạn đạo của Nga. Địa điểm cụ thể không được tiết lộ, nhưng đòn tấn công dường như xảy ra trước đó hai ngày. \"Họ không thiệt mạng trên chiến trường, mà lại chết ở sâu trong hậu phương. Những binh sĩ xuất sắc nhất của Lữ đoàn Thủy quân Lục chiến số 35 được lệnh đến thao trường để nhận huân chương. Họ tập kết tại nơi trống trải theo lệnh, rồi tên lửa bay tới. Hành động cẩu thả và tắc trách đã tái diễn\", Sviatnenko nói. Quân đoàn Thủy quân Lục chiến số 30 Ukraine, đơn vị phụ trách Lữ đoàn 35, cùng ngày xác nhận Nga hôm 1/11 tiến hành đòn tập kích hiệp đồng bằng tên lửa và máy bay không người lái (UAV) nhằm vào khu dân cư ở quận Samariv thuộc tỉnh Dnipropetrovsk. \"Cuộc tấn công xảy ra khi các binh sĩ của một lữ đoàn thủy quân lục chiến đang có mặt trong khu dân cư.",
+    "faithfulness": [
+      {
+        "rating": 0
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "score": 14
+  },
+  {
+    "claim_id": "ctx75_claim223",
+    "claim": "Trung Quốc đã đệ đơn khiếu nại lên Tổ chức Thương mại Thế giới (WTO) về đợt tăng thuế mới nhất của Mỹ, do các mức thuế này được công bố theo chiến lược chiến tranh thương mại leo thang của ông Trump.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_669_chunk_2",
+    "seed_context": "Ông Bessent nói thuế đối ứng mà ông Trump công bố tuần trước là mức trần thuế quan nếu các nước không đáp trả, nhưng Trung Quốc đã không làm như vậy. Trung Quốc cho biết đã đệ đơn khiếu nại lên Tổ chức Thương mại Thế giới (WTO) về đợt tăng thuế mới nhất của Mỹ, nhấn mạnh rằng các mức thuế mới nhất được công bố theo chiến lược chiến tranh thương mại leo thang của ông Trump. Bộ Tài chính Trung Quốc cũng tuyên bố sẽ áp dụng mức thuế 84% đối với hàng hóa của Mỹ kể từ 10/4, tăng so với mức 34% đã công bố trước đó. \"Việc Mỹ tăng thuế với Trung Quốc chỉ đơn giản là sai lầm chồng chất sai lầm và xâm phạm nghiêm trọng đến các quyền và lợi ích hợp pháp của Bắc Kinh\", Bộ Tài chính Trung Quốc nói khi thông báo áp thuế đáp trả. EU cho biết họ có thể đình chỉ thuế đáp trả \"bất kỳ lúc nào\" nếu Mỹ nhất trí với kết quả đàm phán công bằng giữa hai bên. \"EU coi thuế quan của Mỹ là không hợp lý, gây tổn hại kinh tế cả hai bên cũng như nền kinh tế toàn cầu\", Ủy ban châu Âu cho hay.",
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 15
+  },
+  {
+    "claim_id": "ctx75_claim224",
+    "claim": "Kể từ 10/4, Bộ Tài chính Trung Quốc tuyên bố sẽ áp dụng mức thuế 34% đối với hàng hóa của Mỹ, giảm so với mức 84% đã công bố trước đó.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_669_chunk_2",
+    "seed_context": "Ông Bessent nói thuế đối ứng mà ông Trump công bố tuần trước là mức trần thuế quan nếu các nước không đáp trả, nhưng Trung Quốc đã không làm như vậy. Trung Quốc cho biết đã đệ đơn khiếu nại lên Tổ chức Thương mại Thế giới (WTO) về đợt tăng thuế mới nhất của Mỹ, nhấn mạnh rằng các mức thuế mới nhất được công bố theo chiến lược chiến tranh thương mại leo thang của ông Trump. Bộ Tài chính Trung Quốc cũng tuyên bố sẽ áp dụng mức thuế 84% đối với hàng hóa của Mỹ kể từ 10/4, tăng so với mức 34% đã công bố trước đó. \"Việc Mỹ tăng thuế với Trung Quốc chỉ đơn giản là sai lầm chồng chất sai lầm và xâm phạm nghiêm trọng đến các quyền và lợi ích hợp pháp của Bắc Kinh\", Bộ Tài chính Trung Quốc nói khi thông báo áp thuế đáp trả. EU cho biết họ có thể đình chỉ thuế đáp trả \"bất kỳ lúc nào\" nếu Mỹ nhất trí với kết quả đàm phán công bằng giữa hai bên. \"EU coi thuế quan của Mỹ là không hợp lý, gây tổn hại kinh tế cả hai bên cũng như nền kinh tế toàn cầu\", Ủy ban châu Âu cho hay.",
+    "faithfulness": [
+      {
+        "rating": 0
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 12
+  },
+  {
+    "claim_id": "ctx75_claim225",
+    "claim": "Ông Bessent cho rằng Trung Quốc đã đáp trả các mức thuế quan mà ông Trump công bố tuần trước bằng cách áp dụng thuế quan tương tự.",
+    "label": "NEI",
+    "seed_context_id": "vne_669_chunk_2",
+    "seed_context": "Ông Bessent nói thuế đối ứng mà ông Trump công bố tuần trước là mức trần thuế quan nếu các nước không đáp trả, nhưng Trung Quốc đã không làm như vậy. Trung Quốc cho biết đã đệ đơn khiếu nại lên Tổ chức Thương mại Thế giới (WTO) về đợt tăng thuế mới nhất của Mỹ, nhấn mạnh rằng các mức thuế mới nhất được công bố theo chiến lược chiến tranh thương mại leo thang của ông Trump. Bộ Tài chính Trung Quốc cũng tuyên bố sẽ áp dụng mức thuế 84% đối với hàng hóa của Mỹ kể từ 10/4, tăng so với mức 34% đã công bố trước đó. \"Việc Mỹ tăng thuế với Trung Quốc chỉ đơn giản là sai lầm chồng chất sai lầm và xâm phạm nghiêm trọng đến các quyền và lợi ích hợp pháp của Bắc Kinh\", Bộ Tài chính Trung Quốc nói khi thông báo áp thuế đáp trả. EU cho biết họ có thể đình chỉ thuế đáp trả \"bất kỳ lúc nào\" nếu Mỹ nhất trí với kết quả đàm phán công bằng giữa hai bên. \"EU coi thuế quan của Mỹ là không hợp lý, gây tổn hại kinh tế cả hai bên cũng như nền kinh tế toàn cầu\", Ủy ban châu Âu cho hay.",
+    "faithfulness": [
+      {
+        "rating": 0
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 2
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 11
+  },
+  {
+    "claim_id": "ctx76_claim226",
+    "claim": "Vào 10h sáng nay, bà Trần Thị Đông (45 tuổi) vỡ òa khi biết tin chồng là ông Quang được cứu sống sau gần hai ngày sống trong tuyệt vọng.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_449_chunk_1",
+    "seed_context": "Theo ông Xuyên, lúc vào tàu, ông Quang vẫn nói chuyện được nhưng rất yếu. Thủy thủ đoàn đã cho ăn uống và nghỉ ngơi để hồi sức. Sau khi cứu hộ, tàu Hải Nam 39 báo cơ quan quản lý hàng hải và cảng gần nhất để đón người. \"Anh em trên tàu ai cũng vui lắm. Cứu được một người là cứu được cả gia đình họ\", thuyền trưởng nói. Sau gần hai ngày sống trong tuyệt vọng, khoảng 10h sáng nay, bà Trần Thị Đông (45 tuổi) vỡ òa khi biết tin chồng được cứu sống. \"Mừng quá là mừng luôn\", bà nói, cho rằng sự sống sót của chồng sau hơn 40 giờ lênh đênh giữa sóng gió là \"một kỳ tích\". Trưa nay, căn nhà nhỏ của bà gần như kín người. Hàng xóm, người thân kéo tới chia vui với gia đình. Bà kể hai ngày qua mỗi đêm đều cầu khấn, vì nghĩ chồng đã chết. \"Đêm nào cũng khấn mẹ độ cho ảnh được bình an\", bà nói, giọng vẫn run. Các con bà gần như không ngủ, chỉ chờ thông tin từ lực lượng cứu hộ. Theo bà Đông, ông Quang đã nghỉ đi biển 4-5 năm, ở nhà phụ giúp gia đình. Tuy nhiên, khi thấy người gặp nạn, ông lập tức lao ra hỗ trợ.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 14
+  },
+  {
+    "claim_id": "ctx76_claim227",
+    "claim": "Sau gần hai ngày sống trong tuyệt vọng, khoảng 10h sáng nay, bà Trần Thị Đông (45 tuổi) nhận tin chồng đã qua đời giữa sóng gió.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_449_chunk_1",
+    "seed_context": "Theo ông Xuyên, lúc vào tàu, ông Quang vẫn nói chuyện được nhưng rất yếu. Thủy thủ đoàn đã cho ăn uống và nghỉ ngơi để hồi sức. Sau khi cứu hộ, tàu Hải Nam 39 báo cơ quan quản lý hàng hải và cảng gần nhất để đón người. \"Anh em trên tàu ai cũng vui lắm. Cứu được một người là cứu được cả gia đình họ\", thuyền trưởng nói. Sau gần hai ngày sống trong tuyệt vọng, khoảng 10h sáng nay, bà Trần Thị Đông (45 tuổi) vỡ òa khi biết tin chồng được cứu sống. \"Mừng quá là mừng luôn\", bà nói, cho rằng sự sống sót của chồng sau hơn 40 giờ lênh đênh giữa sóng gió là \"một kỳ tích\". Trưa nay, căn nhà nhỏ của bà gần như kín người. Hàng xóm, người thân kéo tới chia vui với gia đình. Bà kể hai ngày qua mỗi đêm đều cầu khấn, vì nghĩ chồng đã chết. \"Đêm nào cũng khấn mẹ độ cho ảnh được bình an\", bà nói, giọng vẫn run. Các con bà gần như không ngủ, chỉ chờ thông tin từ lực lượng cứu hộ. Theo bà Đông, ông Quang đã nghỉ đi biển 4-5 năm, ở nhà phụ giúp gia đình. Tuy nhiên, khi thấy người gặp nạn, ông lập tức lao ra hỗ trợ.",
+    "faithfulness": [
+      {
+        "rating": 0
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 11
+  },
+  {
+    "claim_id": "ctx76_claim228",
+    "claim": "Trước khi gặp nạn, ông Quang đã nghỉ đi biển 4-5 năm và ở nhà phụ giúp gia đình, nhưng đã có kinh nghiệm 10 năm đi biển.",
+    "label": "NEI",
+    "seed_context_id": "vne_449_chunk_1",
+    "seed_context": "Theo ông Xuyên, lúc vào tàu, ông Quang vẫn nói chuyện được nhưng rất yếu. Thủy thủ đoàn đã cho ăn uống và nghỉ ngơi để hồi sức. Sau khi cứu hộ, tàu Hải Nam 39 báo cơ quan quản lý hàng hải và cảng gần nhất để đón người. \"Anh em trên tàu ai cũng vui lắm. Cứu được một người là cứu được cả gia đình họ\", thuyền trưởng nói. Sau gần hai ngày sống trong tuyệt vọng, khoảng 10h sáng nay, bà Trần Thị Đông (45 tuổi) vỡ òa khi biết tin chồng được cứu sống. \"Mừng quá là mừng luôn\", bà nói, cho rằng sự sống sót của chồng sau hơn 40 giờ lênh đênh giữa sóng gió là \"một kỳ tích\". Trưa nay, căn nhà nhỏ của bà gần như kín người. Hàng xóm, người thân kéo tới chia vui với gia đình. Bà kể hai ngày qua mỗi đêm đều cầu khấn, vì nghĩ chồng đã chết. \"Đêm nào cũng khấn mẹ độ cho ảnh được bình an\", bà nói, giọng vẫn run. Các con bà gần như không ngủ, chỉ chờ thông tin từ lực lượng cứu hộ. Theo bà Đông, ông Quang đã nghỉ đi biển 4-5 năm, ở nhà phụ giúp gia đình. Tuy nhiên, khi thấy người gặp nạn, ông lập tức lao ra hỗ trợ.",
+    "faithfulness": [
+      {
+        "rating": 2
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 2
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 12
+  },
+  {
+    "claim_id": "ctx77_claim229",
+    "claim": "Đến năm 2045, mạng lưới metro tại TP HCM sẽ có tổng cộng 510 km sau khi hoàn tất các tuyến được định hướng tăng chiều dài đi ngầm.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_88_chunk_1",
+    "seed_context": "Đến nay, việc giải phóng mặt bằng cho dự án đã cơ bản hoàn tất, đang thi công di dời hạ tầng kỹ thuật (điện, nước, viễn thông...) nhằm chuẩn bị khởi công các gói thầu chính. Theo Đề án phát triển hệ thống đường sắt đô thị TP HCM, cùng với metro Bến Thành - Suối Tiên dài gần 20 km mới khai thác, trong 10 năm tới thành phố sẽ có tổng cộng 355 km metro. Đến năm 2045, mạng lưới này sẽ tăng lên 510 km. Các tuyến metro sắp tới được định hướng tăng chiều dài đi ngầm để giảm chi phí đền bù, đẩy nhanh thi công và khai thác hiệu quả không gian ngầm, kết hợp chỉnh trang đô thị theo mô hình TOD. Ngoài kế hoạch khởi công metro Bến Thành - Tham Lương cuối năm nay, dự thảo cũng đề ra lộ trình thực hiện nhiều nhóm công việc để thực hiện hiệu quả theo các cơ chế mới, bao gồm xây dựng các khung pháp lý cụ thể; chuẩn bị đầu tư, thực hiện dự án; kiện toàn bộ máy tổ chức cơ quan chuyên trách; đào tạo phát triển nhân lực đường sắt đô thị... Gia Minh",
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 16
+  },
+  {
+    "claim_id": "ctx77_claim230",
+    "claim": "Dự án metro Bến Thành - Suối Tiên dài gần 20 km đã hoàn tất thi công di dời hạ tầng kỹ thuật và đang chuẩn bị khởi công các gói thầu chính.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_88_chunk_1",
+    "seed_context": "Đến nay, việc giải phóng mặt bằng cho dự án đã cơ bản hoàn tất, đang thi công di dời hạ tầng kỹ thuật (điện, nước, viễn thông...) nhằm chuẩn bị khởi công các gói thầu chính. Theo Đề án phát triển hệ thống đường sắt đô thị TP HCM, cùng với metro Bến Thành - Suối Tiên dài gần 20 km mới khai thác, trong 10 năm tới thành phố sẽ có tổng cộng 355 km metro. Đến năm 2045, mạng lưới này sẽ tăng lên 510 km. Các tuyến metro sắp tới được định hướng tăng chiều dài đi ngầm để giảm chi phí đền bù, đẩy nhanh thi công và khai thác hiệu quả không gian ngầm, kết hợp chỉnh trang đô thị theo mô hình TOD. Ngoài kế hoạch khởi công metro Bến Thành - Tham Lương cuối năm nay, dự thảo cũng đề ra lộ trình thực hiện nhiều nhóm công việc để thực hiện hiệu quả theo các cơ chế mới, bao gồm xây dựng các khung pháp lý cụ thể; chuẩn bị đầu tư, thực hiện dự án; kiện toàn bộ máy tổ chức cơ quan chuyên trách; đào tạo phát triển nhân lực đường sắt đô thị... Gia Minh",
+    "verifiability": [
+      {
+        "rating": 2
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 0
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 10
+  },
+  {
+    "claim_id": "ctx77_claim231",
+    "claim": "Theo Đề án phát triển hệ thống đường sắt đô thị TP HCM, trong 10 năm tới thành phố sẽ có tổng cộng 355 km metro, trong đó có tuyến metro Bến Thành - Tham Lương khởi công vào cuối năm nay.",
+    "label": "NEI",
+    "seed_context_id": "vne_88_chunk_1",
+    "seed_context": "Đến nay, việc giải phóng mặt bằng cho dự án đã cơ bản hoàn tất, đang thi công di dời hạ tầng kỹ thuật (điện, nước, viễn thông...) nhằm chuẩn bị khởi công các gói thầu chính. Theo Đề án phát triển hệ thống đường sắt đô thị TP HCM, cùng với metro Bến Thành - Suối Tiên dài gần 20 km mới khai thác, trong 10 năm tới thành phố sẽ có tổng cộng 355 km metro. Đến năm 2045, mạng lưới này sẽ tăng lên 510 km. Các tuyến metro sắp tới được định hướng tăng chiều dài đi ngầm để giảm chi phí đền bù, đẩy nhanh thi công và khai thác hiệu quả không gian ngầm, kết hợp chỉnh trang đô thị theo mô hình TOD. Ngoài kế hoạch khởi công metro Bến Thành - Tham Lương cuối năm nay, dự thảo cũng đề ra lộ trình thực hiện nhiều nhóm công việc để thực hiện hiệu quả theo các cơ chế mới, bao gồm xây dựng các khung pháp lý cụ thể; chuẩn bị đầu tư, thực hiện dự án; kiện toàn bộ máy tổ chức cơ quan chuyên trách; đào tạo phát triển nhân lực đường sắt đô thị... Gia Minh",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 14
+  },
+  {
+    "claim_id": "ctx78_claim232",
+    "claim": "TS Huỳnh Kỳ Trân, Chủ tịch hội đồng thành viên, Giám đốc công ty Lan Hảo, sở hữu thương hiệu Thorakao, cho biết hai nhóm khách hàng chính của công ty là phụ nữ miền quê và công nhân.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_474_chunk_0",
+    "seed_context": "Thông tin được TS Huỳnh Kỳ Trân, Chủ tịch hội đồng thành viên, Giám đốc công ty Lan Hảo, sở hữu thương hiệu Thorakao, nói trong khuôn khổ tọa đàm Uni Tour tại Đại học Khoa học tự nhiên do Hiệp hội Doanh nghiệp Hàng Việt Nam chất lượng cao phối hợp tổ chức mới đây. Theo ông Trân, hai nhóm khách hàng chính của công ty là phụ nữ miền quê và công nhân nên \"nhất quyết không thể bán giá cao\". Trước đó, ông từng nói với VnExpress rằng cứ 5 đồng doanh thu trong nước, có 4 đồng đến từ nông thôn. \"Tôi không thể nào bỏ cô thôn nữ hay người công nhân lương 7-10 triệu đồng đã tốn tiền nhà trọ 3 triệu đồng, chưa kể sinh hoạt phí\", ông giãi bày. Thorakao là thương hiệu vang bóng một thời , khởi đầu từ xưởng mỹ phẩm do bà Hà Thị Lan Hảo thành lập cuối thập niên 50. Sau khi đất nước thống nhất, ông Trân - con rể bà Lan Hảo - kế nghiệp và điều hành công ty nửa thế kỷ qua. Thương hiệu có giai đoạn vàng son, chiếm áp đảo trên thị trường mỹ phẩm trước 1975. Sau giai đoạn bao cấp, Thorakao cũng trở lại thành công, từng được các nhà đầu tư Nhật Bản, Hàn Quốc, Pháp...",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "score": 15
+  },
+  {
+    "claim_id": "ctx78_claim233",
+    "claim": "TS Huỳnh Kỳ Trân, Chủ tịch hội đồng thành viên, Giám đốc công ty Lan Hảo, sở hữu thương hiệu Thorakao, tuyên bố rằng 4 đồng doanh thu trong nước đến từ thành thị, còn 1 đồng đến từ nông thôn.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_474_chunk_0",
+    "seed_context": "Thông tin được TS Huỳnh Kỳ Trân, Chủ tịch hội đồng thành viên, Giám đốc công ty Lan Hảo, sở hữu thương hiệu Thorakao, nói trong khuôn khổ tọa đàm Uni Tour tại Đại học Khoa học tự nhiên do Hiệp hội Doanh nghiệp Hàng Việt Nam chất lượng cao phối hợp tổ chức mới đây. Theo ông Trân, hai nhóm khách hàng chính của công ty là phụ nữ miền quê và công nhân nên \"nhất quyết không thể bán giá cao\". Trước đó, ông từng nói với VnExpress rằng cứ 5 đồng doanh thu trong nước, có 4 đồng đến từ nông thôn. \"Tôi không thể nào bỏ cô thôn nữ hay người công nhân lương 7-10 triệu đồng đã tốn tiền nhà trọ 3 triệu đồng, chưa kể sinh hoạt phí\", ông giãi bày. Thorakao là thương hiệu vang bóng một thời , khởi đầu từ xưởng mỹ phẩm do bà Hà Thị Lan Hảo thành lập cuối thập niên 50. Sau khi đất nước thống nhất, ông Trân - con rể bà Lan Hảo - kế nghiệp và điều hành công ty nửa thế kỷ qua. Thương hiệu có giai đoạn vàng son, chiếm áp đảo trên thị trường mỹ phẩm trước 1975. Sau giai đoạn bao cấp, Thorakao cũng trở lại thành công, từng được các nhà đầu tư Nhật Bản, Hàn Quốc, Pháp...",
+    "faithfulness": [
+      {
+        "rating": 1
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 12
+  },
+  {
+    "claim_id": "ctx78_claim234",
+    "claim": "TS Huỳnh Kỳ Trân, Chủ tịch hội đồng thành viên, Giám đốc công ty Lan Hảo, sở hữu thương hiệu Thorakao, đã phát triển dòng sản phẩm mới dành riêng cho giới trẻ thành thị vào năm 2023.",
+    "label": "NEI",
+    "seed_context_id": "vne_474_chunk_0",
+    "seed_context": "Thông tin được TS Huỳnh Kỳ Trân, Chủ tịch hội đồng thành viên, Giám đốc công ty Lan Hảo, sở hữu thương hiệu Thorakao, nói trong khuôn khổ tọa đàm Uni Tour tại Đại học Khoa học tự nhiên do Hiệp hội Doanh nghiệp Hàng Việt Nam chất lượng cao phối hợp tổ chức mới đây. Theo ông Trân, hai nhóm khách hàng chính của công ty là phụ nữ miền quê và công nhân nên \"nhất quyết không thể bán giá cao\". Trước đó, ông từng nói với VnExpress rằng cứ 5 đồng doanh thu trong nước, có 4 đồng đến từ nông thôn. \"Tôi không thể nào bỏ cô thôn nữ hay người công nhân lương 7-10 triệu đồng đã tốn tiền nhà trọ 3 triệu đồng, chưa kể sinh hoạt phí\", ông giãi bày. Thorakao là thương hiệu vang bóng một thời , khởi đầu từ xưởng mỹ phẩm do bà Hà Thị Lan Hảo thành lập cuối thập niên 50. Sau khi đất nước thống nhất, ông Trân - con rể bà Lan Hảo - kế nghiệp và điều hành công ty nửa thế kỷ qua. Thương hiệu có giai đoạn vàng son, chiếm áp đảo trên thị trường mỹ phẩm trước 1975. Sau giai đoạn bao cấp, Thorakao cũng trở lại thành công, từng được các nhà đầu tư Nhật Bản, Hàn Quốc, Pháp...",
+    "faithfulness": [
+      {
+        "rating": 1
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 12
+  },
+  {
+    "claim_id": "ctx79_claim235",
+    "claim": "Vào hơn 16h ngày X tháng Y năm Z, đám cháy bùng phát từ tầng 27 của block A chung cư Rivergate Residence, số 151-155 đường Bến Vân Đồn, quận 4 cũ.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_426_chunk_0",
+    "seed_context": "Hơn 16h, đám cháy bùng lên từ tầng 27 của block A chung cư Rivergate Residence, số 151-155 đường Bến Vân Đồn (quận 4 cũ). Khói lửa trong căn hộ rộng khoảng 70 m2 bốc lên nghi ngút ra bên ngoài cửa sổ, ban công, lan sang các block bên cạnh. Khu vực này dân cư sầm uất, cùng nhiều tòa nhà cao tầng. Block xảy ra cháy có khoảng 200 căn hộ với hơn 400 người sinh sống. Chị Thanh, ở tầng 20, cho biết khi đang trong nhà thì điện tắt. Sau đó hệ thống báo cháy vang lên inh ỏi nên chị bế con nhỏ chạy ra hành lang tìm cách di tản bằng cầu thang bộ cùng với hàng trăm người cùng tòa nhà. \"Bên trong cầu thang tối nhưng có đèn chỉ dẫn thoát hiểm. Nhiều người hoảng loạn nhưng động viên nhau giữ bình tĩnh để chạy xuống trật tự, không chen lấn\", chị Thanh nói. Ban đầu lực lượng chữa cháy tại chỗ dùng bình chữa cháy xách tay và hệ thống chữa cháy gắn ở vách tường tòa nhà dập lửa, song do cháy lớn nên không hiệu quả. Nguy cơ hỏa hoạn và khói độc lan sang các căn lân cận. Khoảng 15 phút, 11 xe chữa cháy, phương tiện cùng hơn 66 chiến sĩ cách vị trí cháy gần 1,5 km đến hiện trường.",
+    "verifiability": [
+      {
+        "rating": 2
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 2
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 12
+  },
+  {
+    "claim_id": "ctx79_claim236",
+    "claim": "Vào hơn 16h ngày X tháng Y năm Z, đám cháy bùng phát từ tầng 10 của block B chung cư Rivergate Residence, số 151-155 đường Bến Vân Đồn, quận 4 cũ.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_426_chunk_0",
+    "seed_context": "Hơn 16h, đám cháy bùng lên từ tầng 27 của block A chung cư Rivergate Residence, số 151-155 đường Bến Vân Đồn (quận 4 cũ). Khói lửa trong căn hộ rộng khoảng 70 m2 bốc lên nghi ngút ra bên ngoài cửa sổ, ban công, lan sang các block bên cạnh. Khu vực này dân cư sầm uất, cùng nhiều tòa nhà cao tầng. Block xảy ra cháy có khoảng 200 căn hộ với hơn 400 người sinh sống. Chị Thanh, ở tầng 20, cho biết khi đang trong nhà thì điện tắt. Sau đó hệ thống báo cháy vang lên inh ỏi nên chị bế con nhỏ chạy ra hành lang tìm cách di tản bằng cầu thang bộ cùng với hàng trăm người cùng tòa nhà. \"Bên trong cầu thang tối nhưng có đèn chỉ dẫn thoát hiểm. Nhiều người hoảng loạn nhưng động viên nhau giữ bình tĩnh để chạy xuống trật tự, không chen lấn\", chị Thanh nói. Ban đầu lực lượng chữa cháy tại chỗ dùng bình chữa cháy xách tay và hệ thống chữa cháy gắn ở vách tường tòa nhà dập lửa, song do cháy lớn nên không hiệu quả. Nguy cơ hỏa hoạn và khói độc lan sang các căn lân cận. Khoảng 15 phút, 11 xe chữa cháy, phương tiện cùng hơn 66 chiến sĩ cách vị trí cháy gần 1,5 km đến hiện trường.",
+    "verifiability": [
+      {
+        "rating": 2
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 0
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 11
+  },
+  {
+    "claim_id": "ctx79_claim237",
+    "claim": "Vào hơn 16h ngày X tháng Y năm Z, đám cháy bùng phát từ tầng 27 của block A chung cư Rivergate Residence, số 151-155 đường Bến Vân Đồn, quận 4 cũ, khiến 3 người thiệt mạng.",
+    "label": "NEI",
+    "seed_context_id": "vne_426_chunk_0",
+    "seed_context": "Hơn 16h, đám cháy bùng lên từ tầng 27 của block A chung cư Rivergate Residence, số 151-155 đường Bến Vân Đồn (quận 4 cũ). Khói lửa trong căn hộ rộng khoảng 70 m2 bốc lên nghi ngút ra bên ngoài cửa sổ, ban công, lan sang các block bên cạnh. Khu vực này dân cư sầm uất, cùng nhiều tòa nhà cao tầng. Block xảy ra cháy có khoảng 200 căn hộ với hơn 400 người sinh sống. Chị Thanh, ở tầng 20, cho biết khi đang trong nhà thì điện tắt. Sau đó hệ thống báo cháy vang lên inh ỏi nên chị bế con nhỏ chạy ra hành lang tìm cách di tản bằng cầu thang bộ cùng với hàng trăm người cùng tòa nhà. \"Bên trong cầu thang tối nhưng có đèn chỉ dẫn thoát hiểm. Nhiều người hoảng loạn nhưng động viên nhau giữ bình tĩnh để chạy xuống trật tự, không chen lấn\", chị Thanh nói. Ban đầu lực lượng chữa cháy tại chỗ dùng bình chữa cháy xách tay và hệ thống chữa cháy gắn ở vách tường tòa nhà dập lửa, song do cháy lớn nên không hiệu quả. Nguy cơ hỏa hoạn và khói độc lan sang các căn lân cận. Khoảng 15 phút, 11 xe chữa cháy, phương tiện cùng hơn 66 chiến sĩ cách vị trí cháy gần 1,5 km đến hiện trường.",
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 2
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 12
+  },
+  {
+    "claim_id": "ctx80_claim238",
+    "claim": "Cao tốc Bãi Vọt - Hàm Nghi đi qua Hà Tĩnh có ba nút giao gồm nút quốc lộ 8A kết nối cửa khẩu Cầu Treo, thị xã Hồng Lĩnh; nút giao đường tỉnh 548 kết nối thị trấn Nghèn, khu di tích lịch sử ngã 3 Đồng Lộc, quốc lộ 1 và nút giao với đường tỉnh 550, kết nối với TP Hà Tĩnh, quốc lộ 1.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_162_chunk_1",
+    "seed_context": "Các trạm nghỉ, nút giao kết nối trên cao tốc Trên cao tốc Bãi Vọt - Hàm Nghi đi qua Hà Tĩnh có ba nút giao gồm nút quốc lộ 8A kết nối cửa khẩu Cầu Treo, thị xã Hồng Lĩnh; nút giao đường tỉnh 548 kết nối thị trấn Nghèn, khu di tịch lịch sử ngã 3 Đồng Lộc, quốc lộ 1 và nút giao với đường tỉnh 550, kết nối với TP Hà Tĩnh, quốc lộ 1. Dự án không bố trí trạm dừng nghỉ, người và phương tiện đi tuyến này sẽ sử dụng chung với trạm dừng nghỉ trên tuyến Hàm Nghi - Vũng Áng. Cao tốc Hàm Nghi - Vũng Áng cũng có ba nút giao gồm nút Cẩm Quan kết nối quốc lộ 1, khu du lịch Thiên Cầm; nút giao Kỳ Trung ra quốc lộ 1 kết nối Trung tâm huyện Kỳ Anh và nút giao quốc lộ 12C, kết nối khu kinh tế Vũng Áng và thị xã Kỳ Anh. Trạm dừng nghỉ hai bên cao tốc được bố trí tại huyện Cẩm Xuyên đã được giải phóng mặt bằng, nhà đầu tư đang triển khai các thủ tục để xây dựng trạm. Cao tốc Bùng - Vạn Ninh đi qua tỉnh Quảng Bình có bốn nút giao, gồm nút giao Cự Nẫm, Việt Trung, Nhật Lệ 2 và quốc lộ 9B. Trạm dừng nghỉ được bố trí hai bên đường, đang được nhà đầu tư thực hiện.",
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 1
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "score": 15
+  },
+  {
+    "claim_id": "ctx80_claim239",
+    "claim": "Dự án cao tốc Bãi Vọt - Hàm Nghi đã bố trí trạm dừng nghỉ riêng biệt, không sử dụng chung với trạm dừng nghỉ trên tuyến Hàm Nghi - Vũng Áng.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_162_chunk_1",
+    "seed_context": "Các trạm nghỉ, nút giao kết nối trên cao tốc Trên cao tốc Bãi Vọt - Hàm Nghi đi qua Hà Tĩnh có ba nút giao gồm nút quốc lộ 8A kết nối cửa khẩu Cầu Treo, thị xã Hồng Lĩnh; nút giao đường tỉnh 548 kết nối thị trấn Nghèn, khu di tịch lịch sử ngã 3 Đồng Lộc, quốc lộ 1 và nút giao với đường tỉnh 550, kết nối với TP Hà Tĩnh, quốc lộ 1. Dự án không bố trí trạm dừng nghỉ, người và phương tiện đi tuyến này sẽ sử dụng chung với trạm dừng nghỉ trên tuyến Hàm Nghi - Vũng Áng. Cao tốc Hàm Nghi - Vũng Áng cũng có ba nút giao gồm nút Cẩm Quan kết nối quốc lộ 1, khu du lịch Thiên Cầm; nút giao Kỳ Trung ra quốc lộ 1 kết nối Trung tâm huyện Kỳ Anh và nút giao quốc lộ 12C, kết nối khu kinh tế Vũng Áng và thị xã Kỳ Anh. Trạm dừng nghỉ hai bên cao tốc được bố trí tại huyện Cẩm Xuyên đã được giải phóng mặt bằng, nhà đầu tư đang triển khai các thủ tục để xây dựng trạm. Cao tốc Bùng - Vạn Ninh đi qua tỉnh Quảng Bình có bốn nút giao, gồm nút giao Cự Nẫm, Việt Trung, Nhật Lệ 2 và quốc lộ 9B. Trạm dừng nghỉ được bố trí hai bên đường, đang được nhà đầu tư thực hiện.",
+    "verifiability": [
+      {
+        "rating": 2
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 0
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 2
+      }
+    ],
+    "score": 9
+  },
+  {
+    "claim_id": "ctx80_claim240",
+    "claim": "Trạm dừng nghỉ trên cao tốc Bùng - Vạn Ninh đi qua tỉnh Quảng Bình sẽ được xây dựng tại huyện Bố Trạch.",
+    "label": "NEI",
+    "seed_context_id": "vne_162_chunk_1",
+    "seed_context": "Các trạm nghỉ, nút giao kết nối trên cao tốc Trên cao tốc Bãi Vọt - Hàm Nghi đi qua Hà Tĩnh có ba nút giao gồm nút quốc lộ 8A kết nối cửa khẩu Cầu Treo, thị xã Hồng Lĩnh; nút giao đường tỉnh 548 kết nối thị trấn Nghèn, khu di tịch lịch sử ngã 3 Đồng Lộc, quốc lộ 1 và nút giao với đường tỉnh 550, kết nối với TP Hà Tĩnh, quốc lộ 1. Dự án không bố trí trạm dừng nghỉ, người và phương tiện đi tuyến này sẽ sử dụng chung với trạm dừng nghỉ trên tuyến Hàm Nghi - Vũng Áng. Cao tốc Hàm Nghi - Vũng Áng cũng có ba nút giao gồm nút Cẩm Quan kết nối quốc lộ 1, khu du lịch Thiên Cầm; nút giao Kỳ Trung ra quốc lộ 1 kết nối Trung tâm huyện Kỳ Anh và nút giao quốc lộ 12C, kết nối khu kinh tế Vũng Áng và thị xã Kỳ Anh. Trạm dừng nghỉ hai bên cao tốc được bố trí tại huyện Cẩm Xuyên đã được giải phóng mặt bằng, nhà đầu tư đang triển khai các thủ tục để xây dựng trạm. Cao tốc Bùng - Vạn Ninh đi qua tỉnh Quảng Bình có bốn nút giao, gồm nút giao Cự Nẫm, Việt Trung, Nhật Lệ 2 và quốc lộ 9B. Trạm dừng nghỉ được bố trí hai bên đường, đang được nhà đầu tư thực hiện.",
+    "verifiability": [
+      {
+        "rating": 2
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 2
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 0
+      }
+    ],
+    "score": 10
+  },
+  {
+    "claim_id": "ctx81_claim241",
+    "claim": "Vào ngày 1 tháng 1, Thứ trưởng Giao thông Hàn Quốc phụ trách hàng không dân dụng Joo Jong-wan cho biết hộp đen ghi dữ liệu chuyến bay của chiếc Boeing 737-800 đã bị hỏng nặng và không thể khôi phục để trích xuất thông tin.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_549_chunk_2",
+    "seed_context": "Các đánh giá ban đầu nói rằng tai nạn có thể xảy ra do va chạm với chim, nhưng giới chuyên gia cũng đề cập tới tường bê tông cuối đường băng sân bay, khi xuất hiện video cho thấy chiếc Boeing 737-800 vỡ vụn và bốc cháy khi đâm vào công trình này. Giới chức Hàn Quốc đang điều tra về vai trò và khả năng tác động của bức tường bê tông này với tai nạn. Thứ trưởng Giao thông Hàn Quốc phụ trách hàng không dân dụng Joo Jong-wan hôm 1/1 cho biết hộp đen ghi dữ liệu chuyến bay đã bị hỏng nặng, không thể khôi phục để trích xuất thông tin. Hàn Quốc sẽ chuyển hộp đen này tới Mỹ và phối hợp với Ủy ban An toàn Giao thông Quốc gia Mỹ để phân tích dữ liệu.",
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "score": 19
+  },
+  {
+    "claim_id": "ctx81_claim242",
+    "claim": "Giới chức Hàn Quốc đã xác định nguyên nhân chính của vụ tai nạn máy bay Boeing 737-800 là do va chạm với một đàn chim lớn ngay khi cất cánh tại sân bay quốc tế.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_549_chunk_2",
+    "seed_context": "Các đánh giá ban đầu nói rằng tai nạn có thể xảy ra do va chạm với chim, nhưng giới chuyên gia cũng đề cập tới tường bê tông cuối đường băng sân bay, khi xuất hiện video cho thấy chiếc Boeing 737-800 vỡ vụn và bốc cháy khi đâm vào công trình này. Giới chức Hàn Quốc đang điều tra về vai trò và khả năng tác động của bức tường bê tông này với tai nạn. Thứ trưởng Giao thông Hàn Quốc phụ trách hàng không dân dụng Joo Jong-wan hôm 1/1 cho biết hộp đen ghi dữ liệu chuyến bay đã bị hỏng nặng, không thể khôi phục để trích xuất thông tin. Hàn Quốc sẽ chuyển hộp đen này tới Mỹ và phối hợp với Ủy ban An toàn Giao thông Quốc gia Mỹ để phân tích dữ liệu.",
+    "verifiability": [
+      {
+        "rating": 2
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 1
+      }
+    ],
+    "score": 13
+  },
+  {
+    "claim_id": "ctx81_claim243",
+    "claim": "Chiếc Boeing 737-800 bị tai nạn khi đâm vào tường bê tông cuối đường băng sân bay quốc tế, khiến giới chức Mỹ phải tạm dừng mọi chuyến bay trên toàn quốc vào ngày 1 tháng 1 để điều tra.",
+    "label": "NEI",
+    "seed_context_id": "vne_549_chunk_2",
+    "seed_context": "Các đánh giá ban đầu nói rằng tai nạn có thể xảy ra do va chạm với chim, nhưng giới chuyên gia cũng đề cập tới tường bê tông cuối đường băng sân bay, khi xuất hiện video cho thấy chiếc Boeing 737-800 vỡ vụn và bốc cháy khi đâm vào công trình này. Giới chức Hàn Quốc đang điều tra về vai trò và khả năng tác động của bức tường bê tông này với tai nạn. Thứ trưởng Giao thông Hàn Quốc phụ trách hàng không dân dụng Joo Jong-wan hôm 1/1 cho biết hộp đen ghi dữ liệu chuyến bay đã bị hỏng nặng, không thể khôi phục để trích xuất thông tin. Hàn Quốc sẽ chuyển hộp đen này tới Mỹ và phối hợp với Ủy ban An toàn Giao thông Quốc gia Mỹ để phân tích dữ liệu.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 1
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 13
+  },
+  {
+    "claim_id": "ctx82_claim244",
+    "claim": "Phó thủ tướng Thường trực Nguyễn Hòa Bình cho biết vào ngày 25/11 rằng Chính phủ sẽ siết chặt điều kiện mở ngành đối với các lĩnh vực y khoa và luật trong Chương trình mục tiêu quốc gia hiện đại hóa, nâng cao chất lượng giáo dục giai đoạn 2026-2035.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_471_chunk_0",
+    "seed_context": "Phát biểu tại phiên thảo luận tổ về chủ trương đầu tư Chương trình mục tiêu quốc gia hiện đại hóa, nâng cao chất lượng giáo dục giai đoạn 2026-2035 sáng 25/11, Phó thủ tướng Thường trực Nguyễn Hòa Bình cho biết Chính phủ sẽ siết điều kiện mở ngành đối với các lĩnh vực đặc thù như y khoa và luật. Những cơ sở không đáp ứng tiêu chí về đội ngũ giảng viên, năng lực chuyên môn và cơ sở thực hành sẽ không được đào tạo hai ngành này. Theo Phó thủ tướng, y khoa là ngành đòi hỏi chuẩn đầu ra đặc biệt cao nên việc đào tạo phải gắn chặt với bệnh viện thực hành, đội ngũ giảng viên chuyên sâu và hệ thống kiểm định độc lập. Hiện cả nước có 34 trường đại học đào tạo ngành y với mức học phí và năng lực đào tạo khác nhau. Việc chuẩn hóa điều kiện mở ngành được xem là cần thiết để bảo đảm chất lượng nhân lực y tế trong bối cảnh nhu cầu chăm sóc sức khỏe ngày càng tăng. Với ngành luật, nhiều trường không chuyên trước đây phát triển thêm khoa luật theo nhu cầu tuyển sinh, trong khi chưa có đủ nền tảng đào tạo chuyên sâu.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "score": 18
+  },
+  {
+    "claim_id": "ctx82_claim245",
+    "claim": "Phó thủ tướng Thường trực Nguyễn Hòa Bình khẳng định vào ngày 25/11 rằng Chính phủ sẽ nới lỏng điều kiện mở ngành đối với các lĩnh vực y khoa và luật, cho phép các trường không chuyên cũng được đào tạo các ngành này.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_471_chunk_0",
+    "seed_context": "Phát biểu tại phiên thảo luận tổ về chủ trương đầu tư Chương trình mục tiêu quốc gia hiện đại hóa, nâng cao chất lượng giáo dục giai đoạn 2026-2035 sáng 25/11, Phó thủ tướng Thường trực Nguyễn Hòa Bình cho biết Chính phủ sẽ siết điều kiện mở ngành đối với các lĩnh vực đặc thù như y khoa và luật. Những cơ sở không đáp ứng tiêu chí về đội ngũ giảng viên, năng lực chuyên môn và cơ sở thực hành sẽ không được đào tạo hai ngành này. Theo Phó thủ tướng, y khoa là ngành đòi hỏi chuẩn đầu ra đặc biệt cao nên việc đào tạo phải gắn chặt với bệnh viện thực hành, đội ngũ giảng viên chuyên sâu và hệ thống kiểm định độc lập. Hiện cả nước có 34 trường đại học đào tạo ngành y với mức học phí và năng lực đào tạo khác nhau. Việc chuẩn hóa điều kiện mở ngành được xem là cần thiết để bảo đảm chất lượng nhân lực y tế trong bối cảnh nhu cầu chăm sóc sức khỏe ngày càng tăng. Với ngành luật, nhiều trường không chuyên trước đây phát triển thêm khoa luật theo nhu cầu tuyển sinh, trong khi chưa có đủ nền tảng đào tạo chuyên sâu.",
+    "faithfulness": [
+      {
+        "rating": 2
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 13
+  },
+  {
+    "claim_id": "ctx82_claim246",
+    "claim": "Cả nước có 34 trường đại học đào tạo ngành y với mức học phí trung bình là 30 triệu đồng/năm và năng lực đào tạo khác nhau.",
+    "label": "NEI",
+    "seed_context_id": "vne_471_chunk_0",
+    "seed_context": "Phát biểu tại phiên thảo luận tổ về chủ trương đầu tư Chương trình mục tiêu quốc gia hiện đại hóa, nâng cao chất lượng giáo dục giai đoạn 2026-2035 sáng 25/11, Phó thủ tướng Thường trực Nguyễn Hòa Bình cho biết Chính phủ sẽ siết điều kiện mở ngành đối với các lĩnh vực đặc thù như y khoa và luật. Những cơ sở không đáp ứng tiêu chí về đội ngũ giảng viên, năng lực chuyên môn và cơ sở thực hành sẽ không được đào tạo hai ngành này. Theo Phó thủ tướng, y khoa là ngành đòi hỏi chuẩn đầu ra đặc biệt cao nên việc đào tạo phải gắn chặt với bệnh viện thực hành, đội ngũ giảng viên chuyên sâu và hệ thống kiểm định độc lập. Hiện cả nước có 34 trường đại học đào tạo ngành y với mức học phí và năng lực đào tạo khác nhau. Việc chuẩn hóa điều kiện mở ngành được xem là cần thiết để bảo đảm chất lượng nhân lực y tế trong bối cảnh nhu cầu chăm sóc sức khỏe ngày càng tăng. Với ngành luật, nhiều trường không chuyên trước đây phát triển thêm khoa luật theo nhu cầu tuyển sinh, trong khi chưa có đủ nền tảng đào tạo chuyên sâu.",
+    "verifiability": [
+      {
+        "rating": 1
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 2
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 2
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 2
+      }
+    ],
+    "score": 9
+  },
+  {
+    "claim_id": "ctx83_claim247",
+    "claim": "Hai tiêm kích KF-16 của không quân Hàn Quốc đã thả nhầm 8 quả bom Mark 82 xuống khu dân cư gần thao trường ở thành phố Pocheon thuộc tỉnh Gyeonggi vào sáng 6/3.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_631_chunk_1",
+    "seed_context": "Hệ thống Trắc địa Thế giới (WGS) là tiêu chuẩn sử dụng trong bản đồ học, trắc địa và định vị vệ tinh, trong đó có hệ thống GPS của Mỹ. Phiên bản hiện tại là WSG 84, được Cơ quan Tình báo Địa không gian Quốc gia Mỹ công bố năm 1994 và lần sửa đổi gần nhất là tháng 6/2004. Theo truyền thông Hàn Quốc, một trong những nguyên nhân khiến phi công KF-16 nhập sai tọa độ có thể do người này phải thao tác trên thiết bị nhập liệu bằng nút bấm và không có bản đồ trực quan để đối chiếu. Trong khi đó, những chiến đấu mới hơn như F-35A sử dụng màn hình cảm ứng và hiển thị bản đồ ngay trên màn hình buồng lái, giúp giảm sai sót trong thao tác nhập tọa độ. Hai tiêm kích KF-16 của không quân Hàn Quốc sáng 6/3 thả nhầm 8 quả bom Mark 82, mỗi quả chứa gần 90 kg thuốc nổ mạnh, xuống khu dân cư gần thao trường ở thành phố Pocheon thuộc tỉnh Gyeonggi, cách biên giới với Triều Tiên khoảng 35-40 km. Sự việc khiến 29 người bị thương, trong đó có 15 dân thường và 14 binh sĩ. Vài tiếng sau khi sự cố xảy ra, không quân Hàn Quốc thông báo phi công trên máy bay dẫn đầu biên đội (số 1) đã \"nhập sai tọa độ mục tiêu và thực hiện thao tác cắt bom bất thường\".",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 15
+  },
+  {
+    "claim_id": "ctx83_claim248",
+    "claim": "Phiên bản hiện tại của Hệ thống Trắc địa Thế giới (WGS) là WSG 84, được Cơ quan Tình báo Địa không gian Quốc gia Mỹ công bố năm 2004 và lần sửa đổi gần nhất là năm 1994.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_631_chunk_1",
+    "seed_context": "Hệ thống Trắc địa Thế giới (WGS) là tiêu chuẩn sử dụng trong bản đồ học, trắc địa và định vị vệ tinh, trong đó có hệ thống GPS của Mỹ. Phiên bản hiện tại là WSG 84, được Cơ quan Tình báo Địa không gian Quốc gia Mỹ công bố năm 1994 và lần sửa đổi gần nhất là tháng 6/2004. Theo truyền thông Hàn Quốc, một trong những nguyên nhân khiến phi công KF-16 nhập sai tọa độ có thể do người này phải thao tác trên thiết bị nhập liệu bằng nút bấm và không có bản đồ trực quan để đối chiếu. Trong khi đó, những chiến đấu mới hơn như F-35A sử dụng màn hình cảm ứng và hiển thị bản đồ ngay trên màn hình buồng lái, giúp giảm sai sót trong thao tác nhập tọa độ. Hai tiêm kích KF-16 của không quân Hàn Quốc sáng 6/3 thả nhầm 8 quả bom Mark 82, mỗi quả chứa gần 90 kg thuốc nổ mạnh, xuống khu dân cư gần thao trường ở thành phố Pocheon thuộc tỉnh Gyeonggi, cách biên giới với Triều Tiên khoảng 35-40 km. Sự việc khiến 29 người bị thương, trong đó có 15 dân thường và 14 binh sĩ. Vài tiếng sau khi sự cố xảy ra, không quân Hàn Quốc thông báo phi công trên máy bay dẫn đầu biên đội (số 1) đã \"nhập sai tọa độ mục tiêu và thực hiện thao tác cắt bom bất thường\".",
+    "faithfulness": [
+      {
+        "rating": 1
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 12
+  },
+  {
+    "claim_id": "ctx83_claim249",
+    "claim": "Chiến đấu cơ F-35A được trang bị hệ thống định vị vệ tinh GPS để giảm sai sót trong thao tác nhập tọa độ.",
+    "label": "NEI",
+    "seed_context_id": "vne_631_chunk_1",
+    "seed_context": "Hệ thống Trắc địa Thế giới (WGS) là tiêu chuẩn sử dụng trong bản đồ học, trắc địa và định vị vệ tinh, trong đó có hệ thống GPS của Mỹ. Phiên bản hiện tại là WSG 84, được Cơ quan Tình báo Địa không gian Quốc gia Mỹ công bố năm 1994 và lần sửa đổi gần nhất là tháng 6/2004. Theo truyền thông Hàn Quốc, một trong những nguyên nhân khiến phi công KF-16 nhập sai tọa độ có thể do người này phải thao tác trên thiết bị nhập liệu bằng nút bấm và không có bản đồ trực quan để đối chiếu. Trong khi đó, những chiến đấu mới hơn như F-35A sử dụng màn hình cảm ứng và hiển thị bản đồ ngay trên màn hình buồng lái, giúp giảm sai sót trong thao tác nhập tọa độ. Hai tiêm kích KF-16 của không quân Hàn Quốc sáng 6/3 thả nhầm 8 quả bom Mark 82, mỗi quả chứa gần 90 kg thuốc nổ mạnh, xuống khu dân cư gần thao trường ở thành phố Pocheon thuộc tỉnh Gyeonggi, cách biên giới với Triều Tiên khoảng 35-40 km. Sự việc khiến 29 người bị thương, trong đó có 15 dân thường và 14 binh sĩ. Vài tiếng sau khi sự cố xảy ra, không quân Hàn Quốc thông báo phi công trên máy bay dẫn đầu biên đội (số 1) đã \"nhập sai tọa độ mục tiêu và thực hiện thao tác cắt bom bất thường\".",
+    "verifiability": [
+      {
+        "rating": 2
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 2
+      }
+    ],
+    "score": 13
+  },
+  {
+    "claim_id": "ctx84_claim250",
+    "claim": "Điều 54 Luật Khoa học, công nghệ và đổi mới sáng tạo 2025 quy định một trong các tiêu chí để trở thành nhân tài là đạt giải thưởng về khoa học, công nghệ uy tín trong nước hoặc quốc tế.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_423_chunk_2",
+    "seed_context": "Điều 54 Luật Khoa học, công nghệ và đổi mới sáng tạo 2025 quy định để trở thành nhân tài cần đáp ứng một trong các tiêu chí. Đó là đạt giải thưởng về khoa học, công nghệ uy tín trong nước hoặc quốc tế; có kết quả nghiên cứu được công bố trên tạp chí khoa học quốc tế hàng đầu hoặc trong các hội nghị quốc tế chuyên ngành. Ngoài ra, điều kiện còn có là tác giả sáng chế hoặc giống cây trồng được bảo hộ; có sản phẩm, mô hình, giải pháp hoặc dịch vụ mới, đột phá được ứng dụng thực tiễn, mang lại giá trị lớn cho phát triển kinh tế, xã hội hoặc bảo vệ môi trường; đã được giao chủ trì dự án trọng điểm quốc gia, quốc tế hoặc dự án khởi nghiệp sáng tạo đột phá.",
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 17
+  },
+  {
+    "claim_id": "ctx84_claim251",
+    "claim": "Theo Điều 54 Luật Khoa học, công nghệ và đổi mới sáng tạo 2025, để trở thành nhân tài, cá nhân phải có ít nhất hai kết quả nghiên cứu được công bố trên tạp chí khoa học quốc tế hàng đầu.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_423_chunk_2",
+    "seed_context": "Điều 54 Luật Khoa học, công nghệ và đổi mới sáng tạo 2025 quy định để trở thành nhân tài cần đáp ứng một trong các tiêu chí. Đó là đạt giải thưởng về khoa học, công nghệ uy tín trong nước hoặc quốc tế; có kết quả nghiên cứu được công bố trên tạp chí khoa học quốc tế hàng đầu hoặc trong các hội nghị quốc tế chuyên ngành. Ngoài ra, điều kiện còn có là tác giả sáng chế hoặc giống cây trồng được bảo hộ; có sản phẩm, mô hình, giải pháp hoặc dịch vụ mới, đột phá được ứng dụng thực tiễn, mang lại giá trị lớn cho phát triển kinh tế, xã hội hoặc bảo vệ môi trường; đã được giao chủ trì dự án trọng điểm quốc gia, quốc tế hoặc dự án khởi nghiệp sáng tạo đột phá.",
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 2
+      }
+    ],
+    "score": 16
+  },
+  {
+    "claim_id": "ctx84_claim252",
+    "claim": "Điều 54 Luật Khoa học, công nghệ và đổi mới sáng tạo 2025 quy định rõ ràng về số lượng dự án khởi nghiệp sáng tạo đột phá mà một cá nhân cần chủ trì để được công nhận là nhân tài.",
+    "label": "NEI",
+    "seed_context_id": "vne_423_chunk_2",
+    "seed_context": "Điều 54 Luật Khoa học, công nghệ và đổi mới sáng tạo 2025 quy định để trở thành nhân tài cần đáp ứng một trong các tiêu chí. Đó là đạt giải thưởng về khoa học, công nghệ uy tín trong nước hoặc quốc tế; có kết quả nghiên cứu được công bố trên tạp chí khoa học quốc tế hàng đầu hoặc trong các hội nghị quốc tế chuyên ngành. Ngoài ra, điều kiện còn có là tác giả sáng chế hoặc giống cây trồng được bảo hộ; có sản phẩm, mô hình, giải pháp hoặc dịch vụ mới, đột phá được ứng dụng thực tiễn, mang lại giá trị lớn cho phát triển kinh tế, xã hội hoặc bảo vệ môi trường; đã được giao chủ trì dự án trọng điểm quốc gia, quốc tế hoặc dự án khởi nghiệp sáng tạo đột phá.",
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 2
+      }
+    ],
+    "score": 16
+  },
+  {
+    "claim_id": "ctx85_claim253",
+    "claim": "Thành phố cần xây dựng hệ thống trạm sạc công cộng tại các trạm xăng, bãi gửi xe, khu dân cư, trung tâm thương mại hỗ trợ nhiều dòng xe để tránh độc quyền và bảo tính cạnh tranh, tiện lợi cho người dân.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_288_chunk_2",
+    "seed_context": "Mức hỗ trợ có thể gồm một phần tài chính để đổi phương tiện hoặc trợ cấp chi phí đi lại. Cạnh đó, cần vận động các hãng xe điện triển khai chương trình đổi xe cũ lấy xe mới, giảm giá xe điện, đặc biệt cho nhóm thu nhập thấp... Thành phố cần xây dựng hệ thống trạm sạc công cộng đặt tại các trạm xăng, bãi gửi xe, khu dân cư, trung tâm thương mại hỗ trợ nhiều dòng xe để tránh độc quyền và bảo tính cạnh tranh, tiện lợi cho người dân. Ngoài ra, cần có quy chuẩn về an toàn sạc điện tại khu dân cư, hướng dẫn sử dụng thiết bị sạc đúng cách để phòng chống cháy nổ. Số xe điện tăng, đồng nghĩa pin hết hạn sử dụng sẽ lớn, thành phố và doanh nghiệp cần có giải pháp thu gom, xử lý tránh gây ô nhiễm môi trường.",
+    "verifiability": [
+      {
+        "rating": 2
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 2
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 12
+  },
+  {
+    "claim_id": "ctx85_claim254",
+    "claim": "Để tránh tình trạng độc quyền, thành phố chỉ cần xây dựng hệ thống trạm sạc công cộng tại các trạm xăng và bãi gửi xe.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_288_chunk_2",
+    "seed_context": "Mức hỗ trợ có thể gồm một phần tài chính để đổi phương tiện hoặc trợ cấp chi phí đi lại. Cạnh đó, cần vận động các hãng xe điện triển khai chương trình đổi xe cũ lấy xe mới, giảm giá xe điện, đặc biệt cho nhóm thu nhập thấp... Thành phố cần xây dựng hệ thống trạm sạc công cộng đặt tại các trạm xăng, bãi gửi xe, khu dân cư, trung tâm thương mại hỗ trợ nhiều dòng xe để tránh độc quyền và bảo tính cạnh tranh, tiện lợi cho người dân. Ngoài ra, cần có quy chuẩn về an toàn sạc điện tại khu dân cư, hướng dẫn sử dụng thiết bị sạc đúng cách để phòng chống cháy nổ. Số xe điện tăng, đồng nghĩa pin hết hạn sử dụng sẽ lớn, thành phố và doanh nghiệp cần có giải pháp thu gom, xử lý tránh gây ô nhiễm môi trường.",
+    "verifiability": [
+      {
+        "rating": 2
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 2
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 13
+  },
+  {
+    "claim_id": "ctx85_claim255",
+    "claim": "Thành phố Hồ Chí Minh đã triển khai chương trình đổi xe cũ lấy xe mới với mức giảm giá 20% cho xe điện vào tháng 1 năm 2023.",
+    "label": "NEI",
+    "seed_context_id": "vne_288_chunk_2",
+    "seed_context": "Mức hỗ trợ có thể gồm một phần tài chính để đổi phương tiện hoặc trợ cấp chi phí đi lại. Cạnh đó, cần vận động các hãng xe điện triển khai chương trình đổi xe cũ lấy xe mới, giảm giá xe điện, đặc biệt cho nhóm thu nhập thấp... Thành phố cần xây dựng hệ thống trạm sạc công cộng đặt tại các trạm xăng, bãi gửi xe, khu dân cư, trung tâm thương mại hỗ trợ nhiều dòng xe để tránh độc quyền và bảo tính cạnh tranh, tiện lợi cho người dân. Ngoài ra, cần có quy chuẩn về an toàn sạc điện tại khu dân cư, hướng dẫn sử dụng thiết bị sạc đúng cách để phòng chống cháy nổ. Số xe điện tăng, đồng nghĩa pin hết hạn sử dụng sẽ lớn, thành phố và doanh nghiệp cần có giải pháp thu gom, xử lý tránh gây ô nhiễm môi trường.",
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 0
+      }
+    ],
+    "score": 12
+  },
+  {
+    "claim_id": "ctx86_claim256",
+    "claim": "Chủ tịch Ủy ban châu Âu Ursula von der Leyen cho biết khối đã chuẩn bị các biện pháp đáp trả nếu các cuộc đàm phán thương mại với Washington thất bại, gói đầu tiên là đáp trả thuế quan đối với thép.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_658_chunk_1",
+    "seed_context": "Càng sớm chắc chắn về thuế thì càng sớm tạo được nền tảng cho tăng trưởng quay trở lại\", ông nói. Nhiều quốc gia đã phản ứng với mức thuế đối ứng của ông Trump. Bộ Thương mại Trung Quốc thúc giục Mỹ \"ngay lập tức\" hủy bỏ thuế đối ứng và \"giải quyết bất đồng với các đối tác thương mại thông qua đối thoại công bằng\", tuyên bố sẽ có biện pháp đáp trả. Chủ tịch Ủy ban châu Âu Ursula von der Leyen cho biết khối đã chuẩn bị các biện pháp đáp trả nếu các cuộc đàm phán thương mại với Washington thất bại, gói đầu tiên là đáp trả thuế quan đối với thép. Trong khi đó, Thủ tướng Australia Anthony Albanese cho rằng quyết định của Mỹ là \"hoàn toàn vô lý\", nhưng nước này sẽ không đáp trả. \"Tổng thống Trump nhắc đến thuế đối ứng. Nếu thực sự có đi có lại thì mức thuế đúng phải là 0%, chứ không phải 10%\", ông nói.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "score": 16
+  },
+  {
+    "claim_id": "ctx86_claim257",
+    "claim": "Thủ tướng Australia Anthony Albanese cho rằng quyết định của Mỹ là \"hoàn toàn vô lý\", nhưng nước này sẽ đáp trả bằng việc áp thuế 10% đối với hàng hóa Mỹ.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_658_chunk_1",
+    "seed_context": "Càng sớm chắc chắn về thuế thì càng sớm tạo được nền tảng cho tăng trưởng quay trở lại\", ông nói. Nhiều quốc gia đã phản ứng với mức thuế đối ứng của ông Trump. Bộ Thương mại Trung Quốc thúc giục Mỹ \"ngay lập tức\" hủy bỏ thuế đối ứng và \"giải quyết bất đồng với các đối tác thương mại thông qua đối thoại công bằng\", tuyên bố sẽ có biện pháp đáp trả. Chủ tịch Ủy ban châu Âu Ursula von der Leyen cho biết khối đã chuẩn bị các biện pháp đáp trả nếu các cuộc đàm phán thương mại với Washington thất bại, gói đầu tiên là đáp trả thuế quan đối với thép. Trong khi đó, Thủ tướng Australia Anthony Albanese cho rằng quyết định của Mỹ là \"hoàn toàn vô lý\", nhưng nước này sẽ không đáp trả. \"Tổng thống Trump nhắc đến thuế đối ứng. Nếu thực sự có đi có lại thì mức thuế đúng phải là 0%, chứ không phải 10%\", ông nói.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 1
+      }
+    ],
+    "score": 12
+  },
+  {
+    "claim_id": "ctx86_claim258",
+    "claim": "Bộ Thương mại Trung Quốc đã công bố chi tiết về các biện pháp đáp trả thuế đối ứng vào ngày 15 tháng 5 năm 2023.",
+    "label": "NEI",
+    "seed_context_id": "vne_658_chunk_1",
+    "seed_context": "Càng sớm chắc chắn về thuế thì càng sớm tạo được nền tảng cho tăng trưởng quay trở lại\", ông nói. Nhiều quốc gia đã phản ứng với mức thuế đối ứng của ông Trump. Bộ Thương mại Trung Quốc thúc giục Mỹ \"ngay lập tức\" hủy bỏ thuế đối ứng và \"giải quyết bất đồng với các đối tác thương mại thông qua đối thoại công bằng\", tuyên bố sẽ có biện pháp đáp trả. Chủ tịch Ủy ban châu Âu Ursula von der Leyen cho biết khối đã chuẩn bị các biện pháp đáp trả nếu các cuộc đàm phán thương mại với Washington thất bại, gói đầu tiên là đáp trả thuế quan đối với thép. Trong khi đó, Thủ tướng Australia Anthony Albanese cho rằng quyết định của Mỹ là \"hoàn toàn vô lý\", nhưng nước này sẽ không đáp trả. \"Tổng thống Trump nhắc đến thuế đối ứng. Nếu thực sự có đi có lại thì mức thuế đúng phải là 0%, chứ không phải 10%\", ông nói.",
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 2
+      }
+    ],
+    "score": 17
+  },
+  {
+    "claim_id": "ctx87_claim259",
+    "claim": "Vào lúc 7h ngày 26/8, Công ty Thoát nước Hà Nội ghi nhận hơn 80 điểm ngập tại Hà Nội, trong đó có điểm trên phố Dương Đình Nghệ ngập tới một mét.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_348_chunk_0",
+    "seed_context": "Từ đêm 25 đến sáng 26/8 Hà Nội mưa to liên tục. Lúc 7h ngày 26/8, Công ty Thoát nước Hà Nội ghi nhận hơn 80 điểm ngập, tập trung ở nội thành, có điểm ở phố Dương Đình Nghệ ngập tới một mét. Đến tối 26/8, thành phố còn 26 điểm ngập ở các tuyến đường: Võ Chí Công (tòa nhà UDIC), Lạc Long Quân, Lê Đức Thọ (quảng trường Mỹ Đình), Dương Đình Nghệ, Phan Văn Trường, Trần Bình, Hoa Bằng, Phúc Xá, Phạm Hùng, Thiên Hiền, Nguyễn Chính, Đường 2,5 Đền Lừ (cạnh hồ Đền Lừ), Huỳnh Thúc Kháng, Thái Hà, Nguyễn Văn Trỗi, Ngọc Lâm, Cổ Linh, Đàm Quang Trung, hầm chui đại Lộ Thăng Long, Cầu Bươu, Yên Xá, Triều Khúc, Yên Nghĩa, Quyết Thắng... Lý giải tình trạng ngập diện rộng và kéo dài, Công ty Thoát nước cho hay do mưa lớn dồn dập trong thời gian ngắn. Thống kê cho thấy trong 24 giờ từ trưa 25/8 đến trưa 26/8, gần 30 xã phường mưa 200-300 mm, trong đó 5 phường trên 310 mm gồm: Hai Bà Trưng (460 mm), Yên Sở (368 mm), Tây Mỗ (352 mm), Yên Nghĩa (334 mm), Ô Chợ Dừa (323 mm). Theo ông Nguyễn Văn Hưởng, Trưởng phòng Dự báo thời tiết, Trung tâm Dự báo Khí tượng Thủy văn quốc gia, Hà Nội mưa lớn do chịu tác động của nhiều hình thái gây mưa.",
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "score": 17
+  },
+  {
+    "claim_id": "ctx87_claim260",
+    "claim": "Vào đêm 25 đến sáng 26/8, Hà Nội chỉ có mưa nhỏ và không ghi nhận điểm ngập nào.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_348_chunk_0",
+    "seed_context": "Từ đêm 25 đến sáng 26/8 Hà Nội mưa to liên tục. Lúc 7h ngày 26/8, Công ty Thoát nước Hà Nội ghi nhận hơn 80 điểm ngập, tập trung ở nội thành, có điểm ở phố Dương Đình Nghệ ngập tới một mét. Đến tối 26/8, thành phố còn 26 điểm ngập ở các tuyến đường: Võ Chí Công (tòa nhà UDIC), Lạc Long Quân, Lê Đức Thọ (quảng trường Mỹ Đình), Dương Đình Nghệ, Phan Văn Trường, Trần Bình, Hoa Bằng, Phúc Xá, Phạm Hùng, Thiên Hiền, Nguyễn Chính, Đường 2,5 Đền Lừ (cạnh hồ Đền Lừ), Huỳnh Thúc Kháng, Thái Hà, Nguyễn Văn Trỗi, Ngọc Lâm, Cổ Linh, Đàm Quang Trung, hầm chui đại Lộ Thăng Long, Cầu Bươu, Yên Xá, Triều Khúc, Yên Nghĩa, Quyết Thắng... Lý giải tình trạng ngập diện rộng và kéo dài, Công ty Thoát nước cho hay do mưa lớn dồn dập trong thời gian ngắn. Thống kê cho thấy trong 24 giờ từ trưa 25/8 đến trưa 26/8, gần 30 xã phường mưa 200-300 mm, trong đó 5 phường trên 310 mm gồm: Hai Bà Trưng (460 mm), Yên Sở (368 mm), Tây Mỗ (352 mm), Yên Nghĩa (334 mm), Ô Chợ Dừa (323 mm). Theo ông Nguyễn Văn Hưởng, Trưởng phòng Dự báo thời tiết, Trung tâm Dự báo Khí tượng Thủy văn quốc gia, Hà Nội mưa lớn do chịu tác động của nhiều hình thái gây mưa.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 2
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 1
+      }
+    ],
+    "score": 12
+  },
+  {
+    "claim_id": "ctx87_claim261",
+    "claim": "Ông Nguyễn Văn Hưởng, Trưởng phòng Dự báo thời tiết, Trung tâm Dự báo Khí tượng Thủy văn quốc gia, cho biết trong 24 giờ từ trưa 25/8 đến trưa 26/8, thành phố Hồ Chí Minh có 5 phường mưa trên 310 mm.",
+    "label": "NEI",
+    "seed_context_id": "vne_348_chunk_0",
+    "seed_context": "Từ đêm 25 đến sáng 26/8 Hà Nội mưa to liên tục. Lúc 7h ngày 26/8, Công ty Thoát nước Hà Nội ghi nhận hơn 80 điểm ngập, tập trung ở nội thành, có điểm ở phố Dương Đình Nghệ ngập tới một mét. Đến tối 26/8, thành phố còn 26 điểm ngập ở các tuyến đường: Võ Chí Công (tòa nhà UDIC), Lạc Long Quân, Lê Đức Thọ (quảng trường Mỹ Đình), Dương Đình Nghệ, Phan Văn Trường, Trần Bình, Hoa Bằng, Phúc Xá, Phạm Hùng, Thiên Hiền, Nguyễn Chính, Đường 2,5 Đền Lừ (cạnh hồ Đền Lừ), Huỳnh Thúc Kháng, Thái Hà, Nguyễn Văn Trỗi, Ngọc Lâm, Cổ Linh, Đàm Quang Trung, hầm chui đại Lộ Thăng Long, Cầu Bươu, Yên Xá, Triều Khúc, Yên Nghĩa, Quyết Thắng... Lý giải tình trạng ngập diện rộng và kéo dài, Công ty Thoát nước cho hay do mưa lớn dồn dập trong thời gian ngắn. Thống kê cho thấy trong 24 giờ từ trưa 25/8 đến trưa 26/8, gần 30 xã phường mưa 200-300 mm, trong đó 5 phường trên 310 mm gồm: Hai Bà Trưng (460 mm), Yên Sở (368 mm), Tây Mỗ (352 mm), Yên Nghĩa (334 mm), Ô Chợ Dừa (323 mm). Theo ông Nguyễn Văn Hưởng, Trưởng phòng Dự báo thời tiết, Trung tâm Dự báo Khí tượng Thủy văn quốc gia, Hà Nội mưa lớn do chịu tác động của nhiều hình thái gây mưa.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 2
+      }
+    ],
+    "score": 15
+  },
+  {
+    "claim_id": "ctx88_claim262",
+    "claim": "Yuri Ignat, quan chức truyền thông không quân Ukraine, ngày 7/1/2025 tuyên bố một tiêm kích F-16 của Ukraine đã bắn hạ 6 tên lửa hành trình Nga trong một chuyến xuất kích vào giữa tháng 12/2024.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_565_chunk_0",
+    "seed_context": "Một số chuyên gia cho rằng Ukraine đã phóng đại khi tuyên bố F-16 hạ 6 tên lửa Nga trong một chuyến xuất kích, số khác nhận định điều này là khả thi. Yuri Ignat, quan chức truyền thông không quân Ukraine, ngày 7/1 tuyên bố một tiêm kích F-16 nước này đã dùng hai tên lửa đối không tầm trung, hai quả đạn tầm ngắn và vài loạt pháo 20 mm để bắn hạ 6 tên lửa hành trình Nga trong một chuyến xuất kích hồi giữa tháng 12/2024. Tuy nhiên, giới chức Ukraine từ đó tới nay chưa công bố bằng chứng nào về trận đánh, khiến một số chuyên gia và phi công quân sự bày tỏ hoài nghi về tính xác thực của thông tin. \"Những tuyên bố kiểu này xuất hiện rất nhiều trong xung đột, song cần xem xét chúng một cách cẩn trọng. Không ai có thể vào cuộc xác minh thông tin giữa chiến sự hỗn loạn. Thành tích của họ chắc chắn gây ấn tượng, song vẫn có khả năng đã được cường điệu hóa\", một cựu phi công không quân Ấn Độ nói với . Cựu phi công Ấn Độ chỉ ra rằng phi công F-16 Ukraine chỉ được huấn luyện cấp tốc trước khi thực chiến, thay vì trải qua khóa đào tạo cơ bản kéo dài ít nhất 9 tháng và nhiều tháng huấn luyện nâng cao.",
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "score": 18
+  },
+  {
+    "claim_id": "ctx88_claim263",
+    "claim": "Cựu phi công không quân Ấn Độ khẳng định phi công F-16 Ukraine đã trải qua khóa đào tạo cơ bản kéo dài 9 tháng và nhiều tháng huấn luyện nâng cao trước khi thực chiến.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_565_chunk_0",
+    "seed_context": "Một số chuyên gia cho rằng Ukraine đã phóng đại khi tuyên bố F-16 hạ 6 tên lửa Nga trong một chuyến xuất kích, số khác nhận định điều này là khả thi. Yuri Ignat, quan chức truyền thông không quân Ukraine, ngày 7/1 tuyên bố một tiêm kích F-16 nước này đã dùng hai tên lửa đối không tầm trung, hai quả đạn tầm ngắn và vài loạt pháo 20 mm để bắn hạ 6 tên lửa hành trình Nga trong một chuyến xuất kích hồi giữa tháng 12/2024. Tuy nhiên, giới chức Ukraine từ đó tới nay chưa công bố bằng chứng nào về trận đánh, khiến một số chuyên gia và phi công quân sự bày tỏ hoài nghi về tính xác thực của thông tin. \"Những tuyên bố kiểu này xuất hiện rất nhiều trong xung đột, song cần xem xét chúng một cách cẩn trọng. Không ai có thể vào cuộc xác minh thông tin giữa chiến sự hỗn loạn. Thành tích của họ chắc chắn gây ấn tượng, song vẫn có khả năng đã được cường điệu hóa\", một cựu phi công không quân Ấn Độ nói với . Cựu phi công Ấn Độ chỉ ra rằng phi công F-16 Ukraine chỉ được huấn luyện cấp tốc trước khi thực chiến, thay vì trải qua khóa đào tạo cơ bản kéo dài ít nhất 9 tháng và nhiều tháng huấn luyện nâng cao.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 1
+      }
+    ],
+    "score": 12
+  },
+  {
+    "claim_id": "ctx88_claim264",
+    "claim": "Giới chức Ukraine đã công bố bằng chứng về việc F-16 bắn hạ 6 tên lửa hành trình Nga vào giữa tháng 12/2024.",
+    "label": "NEI",
+    "seed_context_id": "vne_565_chunk_0",
+    "seed_context": "Một số chuyên gia cho rằng Ukraine đã phóng đại khi tuyên bố F-16 hạ 6 tên lửa Nga trong một chuyến xuất kích, số khác nhận định điều này là khả thi. Yuri Ignat, quan chức truyền thông không quân Ukraine, ngày 7/1 tuyên bố một tiêm kích F-16 nước này đã dùng hai tên lửa đối không tầm trung, hai quả đạn tầm ngắn và vài loạt pháo 20 mm để bắn hạ 6 tên lửa hành trình Nga trong một chuyến xuất kích hồi giữa tháng 12/2024. Tuy nhiên, giới chức Ukraine từ đó tới nay chưa công bố bằng chứng nào về trận đánh, khiến một số chuyên gia và phi công quân sự bày tỏ hoài nghi về tính xác thực của thông tin. \"Những tuyên bố kiểu này xuất hiện rất nhiều trong xung đột, song cần xem xét chúng một cách cẩn trọng. Không ai có thể vào cuộc xác minh thông tin giữa chiến sự hỗn loạn. Thành tích của họ chắc chắn gây ấn tượng, song vẫn có khả năng đã được cường điệu hóa\", một cựu phi công không quân Ấn Độ nói với . Cựu phi công Ấn Độ chỉ ra rằng phi công F-16 Ukraine chỉ được huấn luyện cấp tốc trước khi thực chiến, thay vì trải qua khóa đào tạo cơ bản kéo dài ít nhất 9 tháng và nhiều tháng huấn luyện nâng cao.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 2
+      }
+    ],
+    "score": 14
+  },
+  {
+    "claim_id": "ctx89_claim265",
+    "claim": "Vào năm học 2024, sinh viên Trung Quốc chiếm 20% tổng lượng sinh viên quốc tế tại Harvard, là nhóm du học sinh lớn nhất.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_733_chunk_0",
+    "seed_context": "Sinh viên Trung Quốc tại Harvard hủy những chuyến bay rời Mỹ vì họ lo ngại sẽ không thể quay trở lại, sau khi chính quyền Trump ra lệnh cấm trường tiếp nhận sinh viên quốc tế. Trong năm học 2024, lượng sinh viên Trung Quốc vào học ở Harvard chiếm 20% tổng lượng sinh viên quốc tế, là nhóm du học sinh lớn nhất. \"Tôi nghĩ cộng đồng người Trung Quốc chắc chắn cảm thấy mình bị nhắm mục tiêu rõ ràng hơn so với các nhóm khác\", Zhang, 24 tuổi, nghiên cứu sinh vật lý tại Harvard, cho hay, đề cập đến việc chính quyền Tổng thống Donald Trump ngày 22/5 ban lệnh cấm trường tuyển sinh viên nước ngoài. \"Vài người bạn đã khuyên tôi không nên ở lại chỗ hiện tại nếu mọi chuyện trở nên tồi tệ hơn. Họ nghĩ rằng nhân viên từ Cơ quan Thực thi Di trú và Hải quan có thể đưa tôi ra khỏi căn hộ của mình\", anh nói thêm. Số lượng sinh viên Trung Quốc tại Mỹ đã giảm xuống còn khoảng 277. 000 vào năm 2024 từ mức cao khoảng 370. 000 vào năm 2019. Nguyên nhân một phần do căng thẳng gia tăng giữa hai nền kinh tế lớn nhất thế giới và việc chính phủ Mỹ giám sát chặt chẽ hơn đối với một số sinh viên Trung Quốc.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 15
+  },
+  {
+    "claim_id": "ctx89_claim266",
+    "claim": "Vào năm học 2019, số lượng sinh viên Trung Quốc tại Mỹ đã giảm xuống còn khoảng 277.000.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_733_chunk_0",
+    "seed_context": "Sinh viên Trung Quốc tại Harvard hủy những chuyến bay rời Mỹ vì họ lo ngại sẽ không thể quay trở lại, sau khi chính quyền Trump ra lệnh cấm trường tiếp nhận sinh viên quốc tế. Trong năm học 2024, lượng sinh viên Trung Quốc vào học ở Harvard chiếm 20% tổng lượng sinh viên quốc tế, là nhóm du học sinh lớn nhất. \"Tôi nghĩ cộng đồng người Trung Quốc chắc chắn cảm thấy mình bị nhắm mục tiêu rõ ràng hơn so với các nhóm khác\", Zhang, 24 tuổi, nghiên cứu sinh vật lý tại Harvard, cho hay, đề cập đến việc chính quyền Tổng thống Donald Trump ngày 22/5 ban lệnh cấm trường tuyển sinh viên nước ngoài. \"Vài người bạn đã khuyên tôi không nên ở lại chỗ hiện tại nếu mọi chuyện trở nên tồi tệ hơn. Họ nghĩ rằng nhân viên từ Cơ quan Thực thi Di trú và Hải quan có thể đưa tôi ra khỏi căn hộ của mình\", anh nói thêm. Số lượng sinh viên Trung Quốc tại Mỹ đã giảm xuống còn khoảng 277. 000 vào năm 2024 từ mức cao khoảng 370. 000 vào năm 2019. Nguyên nhân một phần do căng thẳng gia tăng giữa hai nền kinh tế lớn nhất thế giới và việc chính phủ Mỹ giám sát chặt chẽ hơn đối với một số sinh viên Trung Quốc.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 1
+      }
+    ],
+    "score": 13
+  },
+  {
+    "claim_id": "ctx89_claim267",
+    "claim": "Zhang, nghiên cứu sinh vật lý 24 tuổi tại Harvard, đã quyết định rời Mỹ vào ngày 22/5/2024 do lo ngại lệnh cấm của chính quyền Trump.",
+    "label": "NEI",
+    "seed_context_id": "vne_733_chunk_0",
+    "seed_context": "Sinh viên Trung Quốc tại Harvard hủy những chuyến bay rời Mỹ vì họ lo ngại sẽ không thể quay trở lại, sau khi chính quyền Trump ra lệnh cấm trường tiếp nhận sinh viên quốc tế. Trong năm học 2024, lượng sinh viên Trung Quốc vào học ở Harvard chiếm 20% tổng lượng sinh viên quốc tế, là nhóm du học sinh lớn nhất. \"Tôi nghĩ cộng đồng người Trung Quốc chắc chắn cảm thấy mình bị nhắm mục tiêu rõ ràng hơn so với các nhóm khác\", Zhang, 24 tuổi, nghiên cứu sinh vật lý tại Harvard, cho hay, đề cập đến việc chính quyền Tổng thống Donald Trump ngày 22/5 ban lệnh cấm trường tuyển sinh viên nước ngoài. \"Vài người bạn đã khuyên tôi không nên ở lại chỗ hiện tại nếu mọi chuyện trở nên tồi tệ hơn. Họ nghĩ rằng nhân viên từ Cơ quan Thực thi Di trú và Hải quan có thể đưa tôi ra khỏi căn hộ của mình\", anh nói thêm. Số lượng sinh viên Trung Quốc tại Mỹ đã giảm xuống còn khoảng 277. 000 vào năm 2024 từ mức cao khoảng 370. 000 vào năm 2019. Nguyên nhân một phần do căng thẳng gia tăng giữa hai nền kinh tế lớn nhất thế giới và việc chính phủ Mỹ giám sát chặt chẽ hơn đối với một số sinh viên Trung Quốc.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 0
+      }
+    ],
+    "score": 12
+  },
+  {
+    "claim_id": "ctx90_claim268",
+    "claim": "Trung Quốc chiếm tới 70% hoạt động khai thác và khoảng 90% hoạt động chế biến 17 kim loại đất hiếm trên toàn cầu.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_937_chunk_5",
+    "seed_context": "Trung Quốc chiếm tới 70% hoạt động khai thác và khoảng 90% hoạt động chế biến 17 kim loại đất hiếm trên toàn cầu. Theo bà Alicia Garcia Herrero, kinh tế gia tại Natixis, \"cuộc chiến đất hiếm\" lần này không chỉ là vấn đề thương mại, mà là cuộc tái cấu trúc quyền lực công nghệ toàn cầu. Mỗi quyết định áp thuế hay lệnh cấm xuất khẩu của Washington và Bắc Kinh giờ đây đều mang ý nghĩa chiến lược vượt xa phạm vi kinh tế. Và khi tung đòn kiểm soát đất hiếm, Trung Quốc muốn tạo lợi thế để đàm phán về việc nới lỏng đối với hạn chế xuất khẩu chip cũng như công nghệ của Mỹ, Khawaja nhận định. Đây là một trong những yêu cầu hàng đầu của nước này trong các cuộc đàm phán thương mại mà hai bên dự kiến tổ chức trong thời gian tới. \"Chính niềm tin của Trung Quốc rằng ông Trump sẽ nhượng bộ đã khiến họ không ngại leo thang\", Rush Doshi, nhà nghiên cứu tại Đại học Georgetown và từng làm việc trong chính quyền Joe Biden, nhận xét. Tuy nhiên, sức ép thị trường và lợi ích công nghiệp có thể buộc hai bên phải tìm kiếm những giải pháp \"hạ nhiệt có điều kiện\" trong cuộc đấu thương mại.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "score": 15
+  },
+  {
+    "claim_id": "ctx90_claim269",
+    "claim": "Theo bà Alicia Garcia Herrero, kinh tế gia tại Natixis, \"cuộc chiến đất hiếm\" lần này là vấn đề thương mại đơn thuần, không liên quan đến tái cấu trúc quyền lực công nghệ toàn cầu.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_937_chunk_5",
+    "seed_context": "Trung Quốc chiếm tới 70% hoạt động khai thác và khoảng 90% hoạt động chế biến 17 kim loại đất hiếm trên toàn cầu. Theo bà Alicia Garcia Herrero, kinh tế gia tại Natixis, \"cuộc chiến đất hiếm\" lần này không chỉ là vấn đề thương mại, mà là cuộc tái cấu trúc quyền lực công nghệ toàn cầu. Mỗi quyết định áp thuế hay lệnh cấm xuất khẩu của Washington và Bắc Kinh giờ đây đều mang ý nghĩa chiến lược vượt xa phạm vi kinh tế. Và khi tung đòn kiểm soát đất hiếm, Trung Quốc muốn tạo lợi thế để đàm phán về việc nới lỏng đối với hạn chế xuất khẩu chip cũng như công nghệ của Mỹ, Khawaja nhận định. Đây là một trong những yêu cầu hàng đầu của nước này trong các cuộc đàm phán thương mại mà hai bên dự kiến tổ chức trong thời gian tới. \"Chính niềm tin của Trung Quốc rằng ông Trump sẽ nhượng bộ đã khiến họ không ngại leo thang\", Rush Doshi, nhà nghiên cứu tại Đại học Georgetown và từng làm việc trong chính quyền Joe Biden, nhận xét. Tuy nhiên, sức ép thị trường và lợi ích công nghiệp có thể buộc hai bên phải tìm kiếm những giải pháp \"hạ nhiệt có điều kiện\" trong cuộc đấu thương mại.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 2
+      }
+    ],
+    "score": 13
+  },
+  {
+    "claim_id": "ctx90_claim270",
+    "claim": "Trong các cuộc đàm phán thương mại dự kiến tổ chức trong thời gian tới, Trung Quốc yêu cầu Mỹ dỡ bỏ hoàn toàn các biện pháp trừng phạt đối với Huawei.",
+    "label": "NEI",
+    "seed_context_id": "vne_937_chunk_5",
+    "seed_context": "Trung Quốc chiếm tới 70% hoạt động khai thác và khoảng 90% hoạt động chế biến 17 kim loại đất hiếm trên toàn cầu. Theo bà Alicia Garcia Herrero, kinh tế gia tại Natixis, \"cuộc chiến đất hiếm\" lần này không chỉ là vấn đề thương mại, mà là cuộc tái cấu trúc quyền lực công nghệ toàn cầu. Mỗi quyết định áp thuế hay lệnh cấm xuất khẩu của Washington và Bắc Kinh giờ đây đều mang ý nghĩa chiến lược vượt xa phạm vi kinh tế. Và khi tung đòn kiểm soát đất hiếm, Trung Quốc muốn tạo lợi thế để đàm phán về việc nới lỏng đối với hạn chế xuất khẩu chip cũng như công nghệ của Mỹ, Khawaja nhận định. Đây là một trong những yêu cầu hàng đầu của nước này trong các cuộc đàm phán thương mại mà hai bên dự kiến tổ chức trong thời gian tới. \"Chính niềm tin của Trung Quốc rằng ông Trump sẽ nhượng bộ đã khiến họ không ngại leo thang\", Rush Doshi, nhà nghiên cứu tại Đại học Georgetown và từng làm việc trong chính quyền Joe Biden, nhận xét. Tuy nhiên, sức ép thị trường và lợi ích công nghiệp có thể buộc hai bên phải tìm kiếm những giải pháp \"hạ nhiệt có điều kiện\" trong cuộc đấu thương mại.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 2
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 2
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 2
+      }
+    ],
+    "score": 12
+  },
+  {
+    "claim_id": "ctx91_claim271",
+    "claim": "Chủ nhiệm Ủy ban Kinh tế - Tài chính Phan Văn Mãi ủng hộ việc khuyến khích khám sức khỏe tiền hôn nhân, đề nghị xem xét đưa nội dung này thành bắt buộc, chỉ cho phép đăng ký kết hôn sau khi hoàn thành khám sức khỏe.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_405_chunk_2",
+    "seed_context": "Lao động nam có vợ sinh đôi hoặc sinh con thứ hai được nghỉ 10 ngày làm việc; sinh ba trở lên được nghỉ thêm ba ngày cho mỗi con từ con thứ ba. Chủ nhiệm Ủy ban Kinh tế - Tài chính Phan Văn Mãi đồng tình với các nhóm chính sách lớn của dự thảo, nhưng cho rằng cần nghiên cứu thêm chính sách ưu việt để nâng mức sinh ở các đô thị lớn như Hà Nội và TP HCM - nơi có điều kiện sống tốt nhưng tỷ lệ sinh rất thấp. Ông cũng ủng hộ việc khuyến khích khám sức khỏe tiền hôn nhân, song đề nghị xem xét đưa nội dung này thành bắt buộc, chỉ cho phép đăng ký kết hôn sau khi hoàn thành khám sức khỏe. Theo kế hoạch, Luật Dân số sẽ được Chính phủ trình Quốc hội xem xét và thông qua tại kỳ họp thứ 10 khai mạc vào ngày 20/10.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 14
+  },
+  {
+    "claim_id": "ctx91_claim272",
+    "claim": "Luật Dân số dự kiến sẽ được Chính phủ trình Quốc hội xem xét và thông qua tại kỳ họp thứ 10 khai mạc vào ngày 20/11.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_405_chunk_2",
+    "seed_context": "Lao động nam có vợ sinh đôi hoặc sinh con thứ hai được nghỉ 10 ngày làm việc; sinh ba trở lên được nghỉ thêm ba ngày cho mỗi con từ con thứ ba. Chủ nhiệm Ủy ban Kinh tế - Tài chính Phan Văn Mãi đồng tình với các nhóm chính sách lớn của dự thảo, nhưng cho rằng cần nghiên cứu thêm chính sách ưu việt để nâng mức sinh ở các đô thị lớn như Hà Nội và TP HCM - nơi có điều kiện sống tốt nhưng tỷ lệ sinh rất thấp. Ông cũng ủng hộ việc khuyến khích khám sức khỏe tiền hôn nhân, song đề nghị xem xét đưa nội dung này thành bắt buộc, chỉ cho phép đăng ký kết hôn sau khi hoàn thành khám sức khỏe. Theo kế hoạch, Luật Dân số sẽ được Chính phủ trình Quốc hội xem xét và thông qua tại kỳ họp thứ 10 khai mạc vào ngày 20/10.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 2
+      }
+    ],
+    "score": 13
+  },
+  {
+    "claim_id": "ctx91_claim273",
+    "claim": "Chủ nhiệm Ủy ban Kinh tế - Tài chính Phan Văn Mãi đề xuất các chính sách ưu việt để nâng mức sinh ở các đô thị lớn như Hà Nội và TP HCM, bao gồm việc tăng số ngày nghỉ cho lao động nam khi vợ sinh con.",
+    "label": "NEI",
+    "seed_context_id": "vne_405_chunk_2",
+    "seed_context": "Lao động nam có vợ sinh đôi hoặc sinh con thứ hai được nghỉ 10 ngày làm việc; sinh ba trở lên được nghỉ thêm ba ngày cho mỗi con từ con thứ ba. Chủ nhiệm Ủy ban Kinh tế - Tài chính Phan Văn Mãi đồng tình với các nhóm chính sách lớn của dự thảo, nhưng cho rằng cần nghiên cứu thêm chính sách ưu việt để nâng mức sinh ở các đô thị lớn như Hà Nội và TP HCM - nơi có điều kiện sống tốt nhưng tỷ lệ sinh rất thấp. Ông cũng ủng hộ việc khuyến khích khám sức khỏe tiền hôn nhân, song đề nghị xem xét đưa nội dung này thành bắt buộc, chỉ cho phép đăng ký kết hôn sau khi hoàn thành khám sức khỏe. Theo kế hoạch, Luật Dân số sẽ được Chính phủ trình Quốc hội xem xét và thông qua tại kỳ họp thứ 10 khai mạc vào ngày 20/10.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 1
+      }
+    ],
+    "score": 12
+  },
+  {
+    "claim_id": "ctx92_claim274",
+    "claim": "Tháng 1 năm 2016, ngai vàng triều Nguyễn tại điện Thái Hòa đã được công nhận là bảo vật quốc gia.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_211_chunk_1",
+    "seed_context": "Với ngai vua triều Nguyễn bị hư hại, trung tâm sẽ mời các chuyên gia, nghệ nhân để cùng đánh giá và lập phương án tu sửa phù hợp. Ngai vàng triều Nguyễn được đặt ở điện Thái Hòa là hiện vật độc bản mang nhiều giá trị lịch sử, văn hóa. Ngai cao 101 cm, rộng 72 cm, dài 87 cm. Phần đế dài 118 cm, rộng 90 cm, cao 20 cm. Phía trên ngai có bửu tán thếp vàng lộng lẫy. Tất cả đều được làm bằng gỗ sơn son thếp vàng. Tháng 1/2016, ngai vàng được công nhận bảo vật quốc gia. Theo Luật Di sản văn hóa năm 2024, mọi hành vi xâm phạm, làm thay đổi hiện trạng hoặc gây tổn hại đến bảo vật đều bị nghiêm cấm.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 16
+  },
+  {
+    "claim_id": "ctx92_claim275",
+    "claim": "Ngai vàng triều Nguyễn, được làm bằng gỗ sơn son thếp vàng, có chiều cao 101 cm, rộng 72 cm và dài 87 cm, đã được tu sửa hoàn chỉnh vào tháng 1 năm 2016.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_211_chunk_1",
+    "seed_context": "Với ngai vua triều Nguyễn bị hư hại, trung tâm sẽ mời các chuyên gia, nghệ nhân để cùng đánh giá và lập phương án tu sửa phù hợp. Ngai vàng triều Nguyễn được đặt ở điện Thái Hòa là hiện vật độc bản mang nhiều giá trị lịch sử, văn hóa. Ngai cao 101 cm, rộng 72 cm, dài 87 cm. Phần đế dài 118 cm, rộng 90 cm, cao 20 cm. Phía trên ngai có bửu tán thếp vàng lộng lẫy. Tất cả đều được làm bằng gỗ sơn son thếp vàng. Tháng 1/2016, ngai vàng được công nhận bảo vật quốc gia. Theo Luật Di sản văn hóa năm 2024, mọi hành vi xâm phạm, làm thay đổi hiện trạng hoặc gây tổn hại đến bảo vật đều bị nghiêm cấm.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 2
+      }
+    ],
+    "score": 15
+  },
+  {
+    "claim_id": "ctx92_claim276",
+    "claim": "Luật Di sản văn hóa năm 2024 quy định mức phạt cụ thể cho hành vi làm thay đổi hiện trạng bảo vật quốc gia là ngai vàng triều Nguyễn.",
+    "label": "NEI",
+    "seed_context_id": "vne_211_chunk_1",
+    "seed_context": "Với ngai vua triều Nguyễn bị hư hại, trung tâm sẽ mời các chuyên gia, nghệ nhân để cùng đánh giá và lập phương án tu sửa phù hợp. Ngai vàng triều Nguyễn được đặt ở điện Thái Hòa là hiện vật độc bản mang nhiều giá trị lịch sử, văn hóa. Ngai cao 101 cm, rộng 72 cm, dài 87 cm. Phần đế dài 118 cm, rộng 90 cm, cao 20 cm. Phía trên ngai có bửu tán thếp vàng lộng lẫy. Tất cả đều được làm bằng gỗ sơn son thếp vàng. Tháng 1/2016, ngai vàng được công nhận bảo vật quốc gia. Theo Luật Di sản văn hóa năm 2024, mọi hành vi xâm phạm, làm thay đổi hiện trạng hoặc gây tổn hại đến bảo vật đều bị nghiêm cấm.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 2
+      }
+    ],
+    "score": 15
+  },
+  {
+    "claim_id": "ctx93_claim277",
+    "claim": "Bộ trưởng Tài chính Mỹ Scott Bessent đã đưa ra lời khuyên vào ngày 2/4 rằng các quốc gia bị Mỹ áp thuế đối ứng nên bình tĩnh, nghiên cứu kỹ và không trả đũa để tránh tình hình leo thang.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_658_chunk_0",
+    "seed_context": "Bộ trưởng Tài chính Bessent khuyến cáo các quốc gia bị Mỹ áp thuế đối ứng nên \"bình tĩnh ngồi lại, đừng trả đũa\". \"Lời khuyên của tôi với tất cả các quốc gia hiện nay là đừng vội trả đũa. Hãy ngồi lại, nghiên cứu kỹ rồi xem mọi chuyện sẽ diễn ra thế nào. Vì nếu bạn trả đũa, tình hình sẽ leo thang\", Bộ trưởng Tài chính Mỹ Scott Bessent nói với ngày 2/4. Bộ trưởng Bessent lên tiếng sau khi Tổng thống Donald Trump công bố mức thuế nhập khẩu đối ứng mới với 180 đối tác thương mại, khoảng 1/2 số này chịu mức thuế chung 10%, có hiệu lực từ ngày 5/4. Các đối tác thương mại lớn của Mỹ chịu mức cao hơn, lên tới 50%, có hiệu lực từ 9/4. Ông Bessent trước đó nói với các nghị sĩ đảng Cộng hòa tại Thượng viện rằng thuế đối ứng sẽ là \"mức trần\" mà Mỹ áp dụng với các nước. Mức này có thể giảm xuống nếu các đối tác thương mại đáp ứng yêu cầu của chính quyền Trump. Bộ trưởng Bessent cho hay mục tiêu của thuế đối ứng là tạo điều kiện cho tăng trưởng kinh tế dài hạn của Mỹ. \"Chúng tôi đang đưa nước Mỹ quay về quỹ đạo ổn định.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 14
+  },
+  {
+    "claim_id": "ctx93_claim278",
+    "claim": "Tổng thống Donald Trump đã công bố mức thuế nhập khẩu đối ứng mới với 180 đối tác thương mại, trong đó tất cả đều chịu mức thuế chung 10% có hiệu lực từ ngày 5/4.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_658_chunk_0",
+    "seed_context": "Bộ trưởng Tài chính Bessent khuyến cáo các quốc gia bị Mỹ áp thuế đối ứng nên \"bình tĩnh ngồi lại, đừng trả đũa\". \"Lời khuyên của tôi với tất cả các quốc gia hiện nay là đừng vội trả đũa. Hãy ngồi lại, nghiên cứu kỹ rồi xem mọi chuyện sẽ diễn ra thế nào. Vì nếu bạn trả đũa, tình hình sẽ leo thang\", Bộ trưởng Tài chính Mỹ Scott Bessent nói với ngày 2/4. Bộ trưởng Bessent lên tiếng sau khi Tổng thống Donald Trump công bố mức thuế nhập khẩu đối ứng mới với 180 đối tác thương mại, khoảng 1/2 số này chịu mức thuế chung 10%, có hiệu lực từ ngày 5/4. Các đối tác thương mại lớn của Mỹ chịu mức cao hơn, lên tới 50%, có hiệu lực từ 9/4. Ông Bessent trước đó nói với các nghị sĩ đảng Cộng hòa tại Thượng viện rằng thuế đối ứng sẽ là \"mức trần\" mà Mỹ áp dụng với các nước. Mức này có thể giảm xuống nếu các đối tác thương mại đáp ứng yêu cầu của chính quyền Trump. Bộ trưởng Bessent cho hay mục tiêu của thuế đối ứng là tạo điều kiện cho tăng trưởng kinh tế dài hạn của Mỹ. \"Chúng tôi đang đưa nước Mỹ quay về quỹ đạo ổn định.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 2
+      }
+    ],
+    "score": 13
+  },
+  {
+    "claim_id": "ctx93_claim279",
+    "claim": "Bộ trưởng Tài chính Bessent đã thảo luận với các nghị sĩ đảng Dân chủ về việc thuế đối ứng sẽ là mức sàn áp dụng cho các nước.",
+    "label": "NEI",
+    "seed_context_id": "vne_658_chunk_0",
+    "seed_context": "Bộ trưởng Tài chính Bessent khuyến cáo các quốc gia bị Mỹ áp thuế đối ứng nên \"bình tĩnh ngồi lại, đừng trả đũa\". \"Lời khuyên của tôi với tất cả các quốc gia hiện nay là đừng vội trả đũa. Hãy ngồi lại, nghiên cứu kỹ rồi xem mọi chuyện sẽ diễn ra thế nào. Vì nếu bạn trả đũa, tình hình sẽ leo thang\", Bộ trưởng Tài chính Mỹ Scott Bessent nói với ngày 2/4. Bộ trưởng Bessent lên tiếng sau khi Tổng thống Donald Trump công bố mức thuế nhập khẩu đối ứng mới với 180 đối tác thương mại, khoảng 1/2 số này chịu mức thuế chung 10%, có hiệu lực từ ngày 5/4. Các đối tác thương mại lớn của Mỹ chịu mức cao hơn, lên tới 50%, có hiệu lực từ 9/4. Ông Bessent trước đó nói với các nghị sĩ đảng Cộng hòa tại Thượng viện rằng thuế đối ứng sẽ là \"mức trần\" mà Mỹ áp dụng với các nước. Mức này có thể giảm xuống nếu các đối tác thương mại đáp ứng yêu cầu của chính quyền Trump. Bộ trưởng Bessent cho hay mục tiêu của thuế đối ứng là tạo điều kiện cho tăng trưởng kinh tế dài hạn của Mỹ. \"Chúng tôi đang đưa nước Mỹ quay về quỹ đạo ổn định.",
+    "verifiability": [
+      {
+        "rating": 2
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 2
+      }
+    ],
+    "score": 13
+  },
+  {
+    "claim_id": "ctx94_claim280",
+    "claim": "Ehsan Khalid, chuyên gia hàng không và cựu phi công quân sự Ấn Độ, cho rằng báo cáo sơ bộ của AAIB chỉ có thể kết luận tai nạn xảy ra do hai động cơ mất lực đẩy.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_799_chunk_3",
+    "seed_context": "Ehsan Khalid, chuyên gia hàng không và cựu phi công quân sự Ấn Độ, tin rằng những phát hiện trong báo cáo sơ bộ cũng đặt dấu hỏi về vị trí lắp đặt công tắc nhiên liệu và cho rằng vấn đề cần được điều tra rõ hơn. Ông nhấn mạnh không nên vội vàng đổ lỗi cho các phi công. \"Báo cáo sơ bộ của AAIB chỉ có thể kết luận chắc chắn rằng tai nạn xảy ra do hai động cơ mất lực đẩy. Các phi công đã biết động cơ gặp vấn đề và họ cũng không có hành động cố ý gây ra sự cố\", ông Khalid nói. Báo cáo đầy đủ về vụ rơi máy bay dự kiến chỉ được công bố sau vài tháng nữa, khi quá trình điều tra toàn diện kết thúc. \"Không nên vội vàng kết luận vào thời điểm này\", Bộ trưởng Hàng không Dân dụng Ấn Độ Mohan Naidu nói.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 15
+  },
+  {
+    "claim_id": "ctx94_claim281",
+    "claim": "Bộ trưởng Hàng không Dân dụng Ấn Độ Mohan Naidu khẳng định báo cáo đầy đủ về vụ rơi máy bay sẽ được công bố vào tháng 5 năm 2024.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_799_chunk_3",
+    "seed_context": "Ehsan Khalid, chuyên gia hàng không và cựu phi công quân sự Ấn Độ, tin rằng những phát hiện trong báo cáo sơ bộ cũng đặt dấu hỏi về vị trí lắp đặt công tắc nhiên liệu và cho rằng vấn đề cần được điều tra rõ hơn. Ông nhấn mạnh không nên vội vàng đổ lỗi cho các phi công. \"Báo cáo sơ bộ của AAIB chỉ có thể kết luận chắc chắn rằng tai nạn xảy ra do hai động cơ mất lực đẩy. Các phi công đã biết động cơ gặp vấn đề và họ cũng không có hành động cố ý gây ra sự cố\", ông Khalid nói. Báo cáo đầy đủ về vụ rơi máy bay dự kiến chỉ được công bố sau vài tháng nữa, khi quá trình điều tra toàn diện kết thúc. \"Không nên vội vàng kết luận vào thời điểm này\", Bộ trưởng Hàng không Dân dụng Ấn Độ Mohan Naidu nói.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 2
+      }
+    ],
+    "score": 15
+  },
+  {
+    "claim_id": "ctx94_claim282",
+    "claim": "Ehsan Khalid đã đề xuất các biện pháp khắc phục để ngăn chặn sự cố tương tự xảy ra trong tương lai sau khi báo cáo đầy đủ về vụ rơi máy bay được công bố.",
+    "label": "NEI",
+    "seed_context_id": "vne_799_chunk_3",
+    "seed_context": "Ehsan Khalid, chuyên gia hàng không và cựu phi công quân sự Ấn Độ, tin rằng những phát hiện trong báo cáo sơ bộ cũng đặt dấu hỏi về vị trí lắp đặt công tắc nhiên liệu và cho rằng vấn đề cần được điều tra rõ hơn. Ông nhấn mạnh không nên vội vàng đổ lỗi cho các phi công. \"Báo cáo sơ bộ của AAIB chỉ có thể kết luận chắc chắn rằng tai nạn xảy ra do hai động cơ mất lực đẩy. Các phi công đã biết động cơ gặp vấn đề và họ cũng không có hành động cố ý gây ra sự cố\", ông Khalid nói. Báo cáo đầy đủ về vụ rơi máy bay dự kiến chỉ được công bố sau vài tháng nữa, khi quá trình điều tra toàn diện kết thúc. \"Không nên vội vàng kết luận vào thời điểm này\", Bộ trưởng Hàng không Dân dụng Ấn Độ Mohan Naidu nói.",
+    "verifiability": [
+      {
+        "rating": 2
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 2
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 1
+      }
+    ],
+    "score": 11
+  },
+  {
+    "claim_id": "ctx95_claim283",
+    "claim": "Chủ tịch nước Lương Cường đã hội kiến Bí thư thứ nhất, Chủ tịch Cuba Bermudez vào ngày Chủ tịch nước Lương Cường hội kiến Bí thư thứ nhất, Chủ tịch Cuba Bermudez.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_867_chunk_2",
+    "seed_context": "Hai bên nhất trí khuyến khích và tạo điều kiện cho doanh nghiệp hai nước thành lập các liên doanh sản xuất dược phẩm, chuyển giao công nghệ sinh phẩm và hóa dược từ Cuba, thúc đẩy hoạt động nghiên cứu và phát triển về sinh phẩm và dược phẩm công nghệ cao tại Việt Nam nhằm cung cấp các sản phẩm y tế an toàn, hiệu quả. Hai lãnh đạo cũng đồng ý tiếp tục tập trung thúc đẩy hợp tác trong các lĩnh vực có thế mạnh và cùng quan tâm bao gồm: quốc phòng, an ninh, tư pháp, khoa học - công nghệ, xây dựng, văn hóa, thể thao và giao lưu nhân dân. Cùng ngày, Chủ tịch nước Lương Cường hội kiến Bí thư thứ nhất, Chủ tịch Cuba Bermudez, khẳng định Việt Nam luôn trân trọng ghi nhớ tình đoàn kết và sự ủng hộ chí nghĩa, chí tình cả về tinh thần và vật chất mà Cuba đã dành cho Việt Nam trong cuộc đấu tranh giải phóng dân tộc và thống nhất đất nước trước đây, cũng như trong công cuộc bảo vệ và xây dựng Tổ quốc ngày nay. Chủ tịch nước bày tỏ tin tưởng đất nước Cuba anh hùng sẽ vượt qua mọi khó khăn, thách thức hiện nay, tiếp tục đạt được những thắng lợi to lớn hơn nữa trong sự nghiệp xây dựng và bảo vệ tổ quốc.",
+    "verifiability": [
+      {
+        "rating": 0
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 0
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 0
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 0
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 0
+      }
+    ],
+    "score": 0
+  },
+  {
+    "claim_id": "ctx95_claim284",
+    "claim": "Hai bên nhất trí khuyến khích và tạo điều kiện cho doanh nghiệp hai nước thành lập các liên doanh sản xuất dược phẩm, chuyển giao công nghệ sinh phẩm và hóa dược từ Việt Nam, thúc đẩy hoạt động nghiên cứu và phát triển về sinh phẩm và dược phẩm công nghệ cao tại Cuba.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_867_chunk_2",
+    "seed_context": "Hai bên nhất trí khuyến khích và tạo điều kiện cho doanh nghiệp hai nước thành lập các liên doanh sản xuất dược phẩm, chuyển giao công nghệ sinh phẩm và hóa dược từ Cuba, thúc đẩy hoạt động nghiên cứu và phát triển về sinh phẩm và dược phẩm công nghệ cao tại Việt Nam nhằm cung cấp các sản phẩm y tế an toàn, hiệu quả. Hai lãnh đạo cũng đồng ý tiếp tục tập trung thúc đẩy hợp tác trong các lĩnh vực có thế mạnh và cùng quan tâm bao gồm: quốc phòng, an ninh, tư pháp, khoa học - công nghệ, xây dựng, văn hóa, thể thao và giao lưu nhân dân. Cùng ngày, Chủ tịch nước Lương Cường hội kiến Bí thư thứ nhất, Chủ tịch Cuba Bermudez, khẳng định Việt Nam luôn trân trọng ghi nhớ tình đoàn kết và sự ủng hộ chí nghĩa, chí tình cả về tinh thần và vật chất mà Cuba đã dành cho Việt Nam trong cuộc đấu tranh giải phóng dân tộc và thống nhất đất nước trước đây, cũng như trong công cuộc bảo vệ và xây dựng Tổ quốc ngày nay. Chủ tịch nước bày tỏ tin tưởng đất nước Cuba anh hùng sẽ vượt qua mọi khó khăn, thách thức hiện nay, tiếp tục đạt được những thắng lợi to lớn hơn nữa trong sự nghiệp xây dựng và bảo vệ tổ quốc.",
+    "verifiability": [
+      {
+        "rating": 2
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 2
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 2
+      }
+    ],
+    "score": 11
+  },
+  {
+    "claim_id": "ctx95_claim285",
+    "claim": "Chủ tịch nước Lương Cường và Bí thư thứ nhất, Chủ tịch Cuba Bermudez đã thảo luận về việc hợp tác trong lĩnh vực du lịch và y tế vào ngày Chủ tịch nước Lương Cường hội kiến Bí thư thứ nhất, Chủ tịch Cuba Bermudez.",
+    "label": "NEI",
+    "seed_context_id": "vne_867_chunk_2",
+    "seed_context": "Hai bên nhất trí khuyến khích và tạo điều kiện cho doanh nghiệp hai nước thành lập các liên doanh sản xuất dược phẩm, chuyển giao công nghệ sinh phẩm và hóa dược từ Cuba, thúc đẩy hoạt động nghiên cứu và phát triển về sinh phẩm và dược phẩm công nghệ cao tại Việt Nam nhằm cung cấp các sản phẩm y tế an toàn, hiệu quả. Hai lãnh đạo cũng đồng ý tiếp tục tập trung thúc đẩy hợp tác trong các lĩnh vực có thế mạnh và cùng quan tâm bao gồm: quốc phòng, an ninh, tư pháp, khoa học - công nghệ, xây dựng, văn hóa, thể thao và giao lưu nhân dân. Cùng ngày, Chủ tịch nước Lương Cường hội kiến Bí thư thứ nhất, Chủ tịch Cuba Bermudez, khẳng định Việt Nam luôn trân trọng ghi nhớ tình đoàn kết và sự ủng hộ chí nghĩa, chí tình cả về tinh thần và vật chất mà Cuba đã dành cho Việt Nam trong cuộc đấu tranh giải phóng dân tộc và thống nhất đất nước trước đây, cũng như trong công cuộc bảo vệ và xây dựng Tổ quốc ngày nay. Chủ tịch nước bày tỏ tin tưởng đất nước Cuba anh hùng sẽ vượt qua mọi khó khăn, thách thức hiện nay, tiếp tục đạt được những thắng lợi to lớn hơn nữa trong sự nghiệp xây dựng và bảo vệ tổ quốc.",
+    "verifiability": [
+      {
+        "rating": 2
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 0
+      }
+    ],
+    "score": 10
+  },
+  {
+    "claim_id": "ctx96_claim286",
+    "claim": "Vào khoảng 12h30 ngày 10 tháng 6 năm 2023, đám cháy bùng phát từ đường dây cáp viễn thông trên đường Nguyễn Công Trứ, phường Nguyễn Thái Bình, Quận 1, Thành phố Hồ Chí Minh.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_251_chunk_0",
+    "seed_context": "Khoảng 12h30, đám cháy bùng lên từ đường dây cáp viễn thông trên đường Nguyễn Công Trứ, phường Nguyễn Thái Bình. Đường dây này nằm trước quán ăn Thái Lan gần chuỗi chi nhánh ngân hàng, cách chợ Bến Thành một km. Ít phút sau, hỏa hoạn bùng lên dữ dội bào trùm bó dây điện chằng chịt. Nhiều người dùng bình chữa cháy mini dập lửa nhưng không thành. Lửa lan vào bảng hiệu quán ăn cạnh đó, tỏa khói đen mù mịt vào bên trong khiến nhân viên quán ăn và thực khách phải tháo chạy ra ngoài. Chị Thanh Xuân, nhân viên quán ăn, cho biết khi hỏa hoạn trong quán có hơn 30 người. \"Khói đen, sức nóng tỏa vào trong quán, cũng may tất cả mọi người trong quán đã kịp chạy ra ngoài\", chị Xuân nói. Trước khi cháy trên đường dây có nhiều tiếng nổ nhỏ, có thể do chập điện trong cơn mưa. Xe chữa cháy cùng gần 20 chiến sĩ đến hiện trường dập lửa. Lính cứu hỏa kéo vòi rồng khống chế ngọn lửa trong 10 phút. Hỏa hoạn không gây thương vong, song đã làm hư hỏng tài sản của quán ăn.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "score": 17
+  },
+  {
+    "claim_id": "ctx96_claim287",
+    "claim": "Đám cháy bùng phát vào khoảng 13h30 ngày 10 tháng 6 năm 2023, bắt nguồn từ đường dây điện trên đường Nguyễn Huệ, phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_251_chunk_0",
+    "seed_context": "Khoảng 12h30, đám cháy bùng lên từ đường dây cáp viễn thông trên đường Nguyễn Công Trứ, phường Nguyễn Thái Bình. Đường dây này nằm trước quán ăn Thái Lan gần chuỗi chi nhánh ngân hàng, cách chợ Bến Thành một km. Ít phút sau, hỏa hoạn bùng lên dữ dội bào trùm bó dây điện chằng chịt. Nhiều người dùng bình chữa cháy mini dập lửa nhưng không thành. Lửa lan vào bảng hiệu quán ăn cạnh đó, tỏa khói đen mù mịt vào bên trong khiến nhân viên quán ăn và thực khách phải tháo chạy ra ngoài. Chị Thanh Xuân, nhân viên quán ăn, cho biết khi hỏa hoạn trong quán có hơn 30 người. \"Khói đen, sức nóng tỏa vào trong quán, cũng may tất cả mọi người trong quán đã kịp chạy ra ngoài\", chị Xuân nói. Trước khi cháy trên đường dây có nhiều tiếng nổ nhỏ, có thể do chập điện trong cơn mưa. Xe chữa cháy cùng gần 20 chiến sĩ đến hiện trường dập lửa. Lính cứu hỏa kéo vòi rồng khống chế ngọn lửa trong 10 phút. Hỏa hoạn không gây thương vong, song đã làm hư hỏng tài sản của quán ăn.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 2
+      }
+    ],
+    "score": 15
+  },
+  {
+    "claim_id": "ctx96_claim288",
+    "claim": "Nguyên nhân gây cháy trên đường dây cáp viễn thông trước quán ăn Thái Lan trên đường Nguyễn Công Trứ, phường Nguyễn Thái Bình, Quận 1, Thành phố Hồ Chí Minh vào khoảng 12h30 là do một vụ nổ lớn từ thiết bị điện tử.",
+    "label": "NEI",
+    "seed_context_id": "vne_251_chunk_0",
+    "seed_context": "Khoảng 12h30, đám cháy bùng lên từ đường dây cáp viễn thông trên đường Nguyễn Công Trứ, phường Nguyễn Thái Bình. Đường dây này nằm trước quán ăn Thái Lan gần chuỗi chi nhánh ngân hàng, cách chợ Bến Thành một km. Ít phút sau, hỏa hoạn bùng lên dữ dội bào trùm bó dây điện chằng chịt. Nhiều người dùng bình chữa cháy mini dập lửa nhưng không thành. Lửa lan vào bảng hiệu quán ăn cạnh đó, tỏa khói đen mù mịt vào bên trong khiến nhân viên quán ăn và thực khách phải tháo chạy ra ngoài. Chị Thanh Xuân, nhân viên quán ăn, cho biết khi hỏa hoạn trong quán có hơn 30 người. \"Khói đen, sức nóng tỏa vào trong quán, cũng may tất cả mọi người trong quán đã kịp chạy ra ngoài\", chị Xuân nói. Trước khi cháy trên đường dây có nhiều tiếng nổ nhỏ, có thể do chập điện trong cơn mưa. Xe chữa cháy cùng gần 20 chiến sĩ đến hiện trường dập lửa. Lính cứu hỏa kéo vòi rồng khống chế ngọn lửa trong 10 phút. Hỏa hoạn không gây thương vong, song đã làm hư hỏng tài sản của quán ăn.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 2
+      }
+    ],
+    "score": 15
+  },
+  {
+    "claim_id": "ctx97_claim289",
+    "claim": "Từ ngày nghị quyết có hiệu lực đến hết năm 2030, Hà Nội dự kiến miễn 100% lệ phí trước bạ và lệ phí đăng ký biển số đối với phương tiện giao thông xanh.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_286_chunk_0",
+    "seed_context": "Sở Xây dựng Hà Nội đang lấy ý kiến các sở, ngành và đơn vị liên quan cho dự thảo Nghị quyết về chuyển đổi phương tiện xanh (xe điện) và phát triển hệ thống trạm sạc trên địa bàn. Văn bản đưa ra một số chính sách về hỗ trợ tài chính và ưu đãi; biện pháp hạn chế và điều tiết phương tiện gây ô nhiễm; chính sách phát triển và hỗ trợ hạ tầng năng lượng sạch. Cụ thể, người dân có xe máy chạy xăng hoặc diesel (đăng ký trước thời điểm nghị quyết có hiệu lực) tại các vùng phát thải thấp, khi chuyển đổi sang phương tiện xanh có giá trị từ 15 triệu đồng trở lên có thể được hỗ trợ 3 triệu đồng. Mức hỗ trợ 4 triệu đồng áp dụng với hộ cận nghèo; 5 triệu đồng với hộ nghèo. Mỗi cá nhân được hỗ trợ tối đa một xe đến hết năm 2030. Thành phố dự kiến miễn 100% lệ phí trước bạ và lệ phí đăng ký biển số đối với phương tiện giao thông xanh từ ngày nghị quyết có hiệu lực đến hết năm 2030. Các đơn vị dịch vụ công ích, đơn vị vận tải hành khách (trừ xe buýt) và vận tải hàng hóa, doanh nghiệp đầu tư cơ sở thu hồi, tái chế xe cũ dự kiến được hỗ trợ vay vốn ưu đãi với lãi suất 3-5%/năm, hạn mức 100% giá trị hợp đồng, thời gian vay tối đa 5 năm.",
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 3
+      }
+    ],
+    "score": 15
+  }
+]
