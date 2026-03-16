@@ -1,0 +1,1532 @@
+[
+  {
+    "claim_id": "ctx1_claim1",
+    "claim": "Bành đã quyên góp toàn bộ lợi nhuận từ buổi livestream đầu tiên cho tổ chức từ thiện tìm kiếm trẻ em Con Ơi Về Nhà tại Trung Quốc.",
+    "seed_context_id": "vne_1024_chunk_2",
+    "seed_context": "Bành trở thành tình nguyện viên giúp đỡ các gia đình tìm kiếm trẻ em mất tích và kiếm sống bằng cách bán đồ gia dụng trên mạng xã hội. Anh quyên góp toàn bộ lợi nhuận từ buổi livestream đầu tiên cho tổ chức từ thiện tìm kiếm trẻ em Con Ơi Về Nhà. Nạn buôn bán người, đặc biệt là các vụ án buôn bán trẻ em và nhận con nuôi bất hợp pháp, cũng như bóc lột tình dục và lao động, là vấn đề Trung Quốc đã cố gắng giải quyết. Dữ liệu cho thấy các vụ bắt cóc, buôn bán phụ nữ và trẻ em năm 2021 đã giảm 86,2% so với năm 2013, nhưng nhiều trẻ em bị bắt cóc từ hàng chục năm trước vẫn chưa được tìm thấy. Câu chuyện của Bành đã chạm đến trái tim của người dùng mạng xã hội tại Trung Quốc. \"Tôi ngưỡng mộ lòng can đảm của anh ấy. Không phải ai cũng có thể từ bỏ tất cả những gì mình đã gây dựng để bắt đầu lại ở một thành phố mới. Hy vọng gia đình anh sẽ hạnh phúc\", một người viết. \"Cả kẻ buôn người và kẻ mua đều phải chịu hình phạt nghiêm khắc. Tiền bạc không bao giờ mua được tình yêu thực sự hay tình cảm gia đình\", một người khác nhấn mạnh.",
+    "model_label": "SUPPORTED",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 2,
+      "specificity": 4,
+      "clarity": 3,
+      "faithfulness": 4
+    },
+    "claim_score": 16
+  },
+  {
+    "claim_id": "ctx1_claim2",
+    "claim": "Nạn buôn bán người, đặc biệt là các vụ án buôn bán trẻ em tại Trung Quốc năm 2021 đã tăng 86,2% so với năm 2013.",
+    "seed_context_id": "vne_1024_chunk_2",
+    "seed_context": "Bành trở thành tình nguyện viên giúp đỡ các gia đình tìm kiếm trẻ em mất tích và kiếm sống bằng cách bán đồ gia dụng trên mạng xã hội. Anh quyên góp toàn bộ lợi nhuận từ buổi livestream đầu tiên cho tổ chức từ thiện tìm kiếm trẻ em Con Ơi Về Nhà. Nạn buôn bán người, đặc biệt là các vụ án buôn bán trẻ em và nhận con nuôi bất hợp pháp, cũng như bóc lột tình dục và lao động, là vấn đề Trung Quốc đã cố gắng giải quyết. Dữ liệu cho thấy các vụ bắt cóc, buôn bán phụ nữ và trẻ em năm 2021 đã giảm 86,2% so với năm 2013, nhưng nhiều trẻ em bị bắt cóc từ hàng chục năm trước vẫn chưa được tìm thấy. Câu chuyện của Bành đã chạm đến trái tim của người dùng mạng xã hội tại Trung Quốc. \"Tôi ngưỡng mộ lòng can đảm của anh ấy. Không phải ai cũng có thể từ bỏ tất cả những gì mình đã gây dựng để bắt đầu lại ở một thành phố mới. Hy vọng gia đình anh sẽ hạnh phúc\", một người viết. \"Cả kẻ buôn người và kẻ mua đều phải chịu hình phạt nghiêm khắc. Tiền bạc không bao giờ mua được tình yêu thực sự hay tình cảm gia đình\", một người khác nhấn mạnh.",
+    "model_label": "REFUTED",
+    "human_label": "REFUTED",
+    "scores": {
+      "verifiability": 4,
+      "atomicity": 4,
+      "specificity": 4,
+      "clarity": 4,
+      "faithfulness": 4
+    },
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx1_claim3",
+    "claim": "Bành bắt đầu công việc tình nguyện giúp đỡ các gia đình tìm kiếm trẻ em mất tích tại Bắc Kinh.",
+    "seed_context_id": "vne_1024_chunk_2",
+    "seed_context": "Bành trở thành tình nguyện viên giúp đỡ các gia đình tìm kiếm trẻ em mất tích và kiếm sống bằng cách bán đồ gia dụng trên mạng xã hội. Anh quyên góp toàn bộ lợi nhuận từ buổi livestream đầu tiên cho tổ chức từ thiện tìm kiếm trẻ em Con Ơi Về Nhà. Nạn buôn bán người, đặc biệt là các vụ án buôn bán trẻ em và nhận con nuôi bất hợp pháp, cũng như bóc lột tình dục và lao động, là vấn đề Trung Quốc đã cố gắng giải quyết. Dữ liệu cho thấy các vụ bắt cóc, buôn bán phụ nữ và trẻ em năm 2021 đã giảm 86,2% so với năm 2013, nhưng nhiều trẻ em bị bắt cóc từ hàng chục năm trước vẫn chưa được tìm thấy. Câu chuyện của Bành đã chạm đến trái tim của người dùng mạng xã hội tại Trung Quốc. \"Tôi ngưỡng mộ lòng can đảm của anh ấy. Không phải ai cũng có thể từ bỏ tất cả những gì mình đã gây dựng để bắt đầu lại ở một thành phố mới. Hy vọng gia đình anh sẽ hạnh phúc\", một người viết. \"Cả kẻ buôn người và kẻ mua đều phải chịu hình phạt nghiêm khắc. Tiền bạc không bao giờ mua được tình yêu thực sự hay tình cảm gia đình\", một người khác nhấn mạnh.",
+    "model_label": "NEI",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 3,
+      "specificity": 3,
+      "clarity": 3,
+      "faithfulness": 4
+    },
+    "claim_score": 16
+  },
+  {
+    "claim_id": "ctx2_claim5",
+    "claim": "Hơn 59% người Nhật Bản ở độ tuổi 20-29 cho biết họ uống bia rượu thường xuyên, trong đó 10,3% uống 4-6 lần mỗi tuần.",
+    "seed_context_id": "vne_887_chunk_0",
+    "seed_context": "Người trẻ ở Nhật Bản dùng thức uống có cồn ngày càng ít và cũng nhìn nhận tiêu cực về văn hóa \"nhậu xã giao\", muốn cuộc sống cân bằng hơn. Gần 44% người Nhật Bản ở độ tuổi 20-29 chưa từng uống rượu bia và khoảng 16% cho biết họ uống không quá một lần mỗi tháng, theo khảo sát \"Tiêu thụ Đồ uống có cồn của Gen Z\" được công ty tư vấn tiếp thị Mery công bố hồi tháng 8. Kết quả phản ánh sự thay đổi rõ rệt trong thói quen xã hội tại Nhật Bản, nơi vốn coi bia là \"món giải khát quốc dân\" mỗi mùa hè. Khoảng 1/6 người tham gia khảo sát cho biết họ uống bia rượu thường xuyên, trong đó 10,3% uống 4-6 lần mỗi tuần và 7,7% gần như uống mỗi ngày. Ngược lại, hơn 59% gần như không uống. Khi được hỏi lý do, 33,7% trả lời \"không có lý do cụ thể\", 24% nói họ \"không chịu được rượu\", 22,6% thấy \"vẫn vui khi không uống\" và 21,6% không thích mùi vị. Khoảng 18% cho biết lo ngại về tác động đến sức khỏe, 10% cho rằng đồ uống có cồn đắt đỏ, còn 7% nói bạn bè họ cũng không uống. Trong khảo sát, khoảng 60% người tham gia bày tỏ quan điểm tiêu cực với văn hóa \"nhậu xã giao\" để gắn kết với đồng nghiệp.",
+    "model_label": "REFUTED",
+    "human_label": "REFUTED",
+    "scores": {
+      "verifiability": 4,
+      "atomicity": 2,
+      "specificity": 4,
+      "clarity": 4,
+      "faithfulness": 3
+    },
+    "claim_score": 17
+  },
+  {
+    "claim_id": "ctx2_claim6",
+    "claim": "Công ty tư vấn tiếp thị Mery đã thực hiện khảo sát về tiêu thụ đồ uống có cồn của Gen Z tại Tokyo vào tháng 8.",
+    "seed_context_id": "vne_887_chunk_0",
+    "seed_context": "Người trẻ ở Nhật Bản dùng thức uống có cồn ngày càng ít và cũng nhìn nhận tiêu cực về văn hóa \"nhậu xã giao\", muốn cuộc sống cân bằng hơn. Gần 44% người Nhật Bản ở độ tuổi 20-29 chưa từng uống rượu bia và khoảng 16% cho biết họ uống không quá một lần mỗi tháng, theo khảo sát \"Tiêu thụ Đồ uống có cồn của Gen Z\" được công ty tư vấn tiếp thị Mery công bố hồi tháng 8. Kết quả phản ánh sự thay đổi rõ rệt trong thói quen xã hội tại Nhật Bản, nơi vốn coi bia là \"món giải khát quốc dân\" mỗi mùa hè. Khoảng 1/6 người tham gia khảo sát cho biết họ uống bia rượu thường xuyên, trong đó 10,3% uống 4-6 lần mỗi tuần và 7,7% gần như uống mỗi ngày. Ngược lại, hơn 59% gần như không uống. Khi được hỏi lý do, 33,7% trả lời \"không có lý do cụ thể\", 24% nói họ \"không chịu được rượu\", 22,6% thấy \"vẫn vui khi không uống\" và 21,6% không thích mùi vị. Khoảng 18% cho biết lo ngại về tác động đến sức khỏe, 10% cho rằng đồ uống có cồn đắt đỏ, còn 7% nói bạn bè họ cũng không uống. Trong khảo sát, khoảng 60% người tham gia bày tỏ quan điểm tiêu cực với văn hóa \"nhậu xã giao\" để gắn kết với đồng nghiệp.",
+    "model_label": "NEI",
+    "human_label": "NOT_ENOUGH_INFO",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 3,
+      "specificity": 4,
+      "clarity": 4,
+      "faithfulness": 3
+    },
+    "claim_score": 17
+  },
+  {
+    "claim_id": "ctx3_claim7",
+    "claim": "Vào những năm 1990, nhà khoa học Mã đã phát hiện ra lỗi trong máy phát điện nhập khẩu cho tàu ngầm Trung Quốc và khắc phục vấn đề này với chi phí 5.000 USD.",
+    "seed_context_id": "vne_970_chunk_1",
+    "seed_context": "Nhưng nếu từ chối, tôi sẽ bị cấm thi lại đại học vào năm sau. Để sáng tạo và khám phá thì phải có tự do, làm sao có thể thực hiện điều đó khi bị gò bó bởi kỷ luật trong quân đội\", ông kể lại suy nghĩ khi đó. Dù vậy, tài năng và sức sáng tạo của Mã không bị mai một mà còn phát triển mạnh mẽ. Ông say mê nghiên cứu những công nghệ tiên tiến, cũng như tìm cách giải quyết những thách thức tầm cỡ thế giới. Mã trở nên nổi tiếng vào những năm 1990, khi phát hiện ra lỗi trong máy phát điện nhập từ nước ngoài cho tàu ngầm Trung Quốc. Dù phải làm việc trong phòng thí nghiệm cải tạo từ nhà tắm bỏ không, Mã đã khắc phục được vấn đề có thể gây thiệt hại hàng triệu USD, với chi phí vỏn vẹn 5. 000 USD. Đột phá mang tính nền tảng nhất của nhà khoa học này là trong lĩnh vực hệ thống năng lượng tích hợp (IPS). Ông đề xuất ý tưởng về máy phát điện tích hợp dòng điện xoay chiều và một chiều, có độ tin cậy cao, gọn nhẹ và mạnh mẽ hơn so với thiết bị truyền thống. Mã sau đó thiết kế hàng loạt máy phát điện loại này cho tàu ngầm Trung Quốc.",
+    "model_label": "SUPPORTED",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 3,
+      "specificity": 4,
+      "clarity": 4,
+      "faithfulness": 4
+    },
+    "claim_score": 18
+  },
+  {
+    "claim_id": "ctx3_claim8",
+    "claim": "Nhà khoa học Mã đã đề xuất ý tưởng về máy phát điện tích hợp dòng điện xoay chiều và một chiều, có độ tin cậy cao, gọn nhẹ và mạnh mẽ hơn so với thiết bị truyền thống, sau đó thiết kế hàng loạt cho tàu sân bay Trung Quốc.",
+    "seed_context_id": "vne_970_chunk_1",
+    "seed_context": "Nhưng nếu từ chối, tôi sẽ bị cấm thi lại đại học vào năm sau. Để sáng tạo và khám phá thì phải có tự do, làm sao có thể thực hiện điều đó khi bị gò bó bởi kỷ luật trong quân đội\", ông kể lại suy nghĩ khi đó. Dù vậy, tài năng và sức sáng tạo của Mã không bị mai một mà còn phát triển mạnh mẽ. Ông say mê nghiên cứu những công nghệ tiên tiến, cũng như tìm cách giải quyết những thách thức tầm cỡ thế giới. Mã trở nên nổi tiếng vào những năm 1990, khi phát hiện ra lỗi trong máy phát điện nhập từ nước ngoài cho tàu ngầm Trung Quốc. Dù phải làm việc trong phòng thí nghiệm cải tạo từ nhà tắm bỏ không, Mã đã khắc phục được vấn đề có thể gây thiệt hại hàng triệu USD, với chi phí vỏn vẹn 5. 000 USD. Đột phá mang tính nền tảng nhất của nhà khoa học này là trong lĩnh vực hệ thống năng lượng tích hợp (IPS). Ông đề xuất ý tưởng về máy phát điện tích hợp dòng điện xoay chiều và một chiều, có độ tin cậy cao, gọn nhẹ và mạnh mẽ hơn so với thiết bị truyền thống. Mã sau đó thiết kế hàng loạt máy phát điện loại này cho tàu ngầm Trung Quốc.",
+    "model_label": "REFUTED",
+    "human_label": "REFUTED",
+    "scores": {
+      "verifiability": 2,
+      "atomicity": 3,
+      "specificity": 3,
+      "clarity": 3,
+      "faithfulness": 2
+    },
+    "claim_score": 13
+  },
+  {
+    "claim_id": "ctx3_claim9",
+    "claim": "Mã bắt đầu sự nghiệp của mình tại một phòng thí nghiệm hiện đại ở Bắc Kinh vào năm 1985.",
+    "seed_context_id": "vne_970_chunk_1",
+    "seed_context": "Nhưng nếu từ chối, tôi sẽ bị cấm thi lại đại học vào năm sau. Để sáng tạo và khám phá thì phải có tự do, làm sao có thể thực hiện điều đó khi bị gò bó bởi kỷ luật trong quân đội\", ông kể lại suy nghĩ khi đó. Dù vậy, tài năng và sức sáng tạo của Mã không bị mai một mà còn phát triển mạnh mẽ. Ông say mê nghiên cứu những công nghệ tiên tiến, cũng như tìm cách giải quyết những thách thức tầm cỡ thế giới. Mã trở nên nổi tiếng vào những năm 1990, khi phát hiện ra lỗi trong máy phát điện nhập từ nước ngoài cho tàu ngầm Trung Quốc. Dù phải làm việc trong phòng thí nghiệm cải tạo từ nhà tắm bỏ không, Mã đã khắc phục được vấn đề có thể gây thiệt hại hàng triệu USD, với chi phí vỏn vẹn 5. 000 USD. Đột phá mang tính nền tảng nhất của nhà khoa học này là trong lĩnh vực hệ thống năng lượng tích hợp (IPS). Ông đề xuất ý tưởng về máy phát điện tích hợp dòng điện xoay chiều và một chiều, có độ tin cậy cao, gọn nhẹ và mạnh mẽ hơn so với thiết bị truyền thống. Mã sau đó thiết kế hàng loạt máy phát điện loại này cho tàu ngầm Trung Quốc.",
+    "model_label": "NEI",
+    "human_label": "NOT_ENOUGH_INFO",
+    "scores": {
+      "verifiability": 1,
+      "atomicity": 3,
+      "specificity": 2,
+      "clarity": 3,
+      "faithfulness": 1
+    },
+    "claim_score": 10
+  },
+  {
+    "claim_id": "ctx4_claim10",
+    "claim": "Vào ngày 15/4, Liên minh châu Âu (EU) đã bắt đầu áp thuế 25% với các sản phẩm nhập khẩu từ Mỹ.",
+    "seed_context_id": "vne_672_chunk_3",
+    "seed_context": "Mỹ sẽ lớn mạnh và tốt đẹp hơn bao giờ hết\", ông viết. Vài phút sau, ông tiếp tục đăng \"đây là thời điểm tuyệt vời để mua vào\". Trong lúc đó, Bộ trưởng Thương mại Mỹ Howard Lutnick trả lời cuộc điện thoại từ quan chức thương mại hàng đầu Liên minh châu Âu (EU) Maros Sefcovic. EU thông báo bắt đầu áp thuế 25% với hàng loạt sản phẩm nhập khẩu Mỹ từ ngày 15/4. Bên trong Nhà Trắng, các cuộc điện thoại từ giám đốc doanh nghiệp, thành viên đảng Cộng hòa và đồng minh của ông Trump đổ về, thúc giục Tổng thống xem xét lại thuế quan. Các giám đốc doanh nghiệp cũng liên lạc với Chánh văn phòng Nhà Trắng Susie Wiles, Phó tổng thống JD Vance và Bộ trưởng Tài chính Scott Bessent, khi những người có quan điểm cứng rắn về thương mại tiếp tục ủng hộ đòn thuế trong các cuộc phỏng vấn trên truyền hình, giữa lúc thị trường tiếp tục rơi vào hỗn loạn. Các nguồn tin cho hay bà Wiles đã thuyết phục thành công ông Trump rằng sự sụp đổ của thị trường sẽ khiến ông mất đi nguồn ủng hộ chính trị đáng kể, điều rất cần cho những mục tiêu chương trình nghị sự tương lai.",
+    "model_label": "SUPPORTED",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 4,
+      "specificity": 3,
+      "clarity": 4,
+      "faithfulness": 4
+    },
+    "claim_score": 18
+  },
+  {
+    "claim_id": "ctx4_claim11",
+    "claim": "Bộ trưởng Thương mại Mỹ Howard Lutnick đã thúc giục Tổng thống xem xét lại thuế quan trong các cuộc điện thoại từ các giám đốc doanh nghiệp.",
+    "seed_context_id": "vne_672_chunk_3",
+    "seed_context": "Mỹ sẽ lớn mạnh và tốt đẹp hơn bao giờ hết\", ông viết. Vài phút sau, ông tiếp tục đăng \"đây là thời điểm tuyệt vời để mua vào\". Trong lúc đó, Bộ trưởng Thương mại Mỹ Howard Lutnick trả lời cuộc điện thoại từ quan chức thương mại hàng đầu Liên minh châu Âu (EU) Maros Sefcovic. EU thông báo bắt đầu áp thuế 25% với hàng loạt sản phẩm nhập khẩu Mỹ từ ngày 15/4. Bên trong Nhà Trắng, các cuộc điện thoại từ giám đốc doanh nghiệp, thành viên đảng Cộng hòa và đồng minh của ông Trump đổ về, thúc giục Tổng thống xem xét lại thuế quan. Các giám đốc doanh nghiệp cũng liên lạc với Chánh văn phòng Nhà Trắng Susie Wiles, Phó tổng thống JD Vance và Bộ trưởng Tài chính Scott Bessent, khi những người có quan điểm cứng rắn về thương mại tiếp tục ủng hộ đòn thuế trong các cuộc phỏng vấn trên truyền hình, giữa lúc thị trường tiếp tục rơi vào hỗn loạn. Các nguồn tin cho hay bà Wiles đã thuyết phục thành công ông Trump rằng sự sụp đổ của thị trường sẽ khiến ông mất đi nguồn ủng hộ chính trị đáng kể, điều rất cần cho những mục tiêu chương trình nghị sự tương lai.",
+    "model_label": "REFUTED",
+    "human_label": "REFUTED",
+    "scores": {
+      "verifiability": 2,
+      "atomicity": 3,
+      "specificity": 2,
+      "clarity": 3,
+      "faithfulness": 2
+    },
+    "claim_score": 12
+  },
+  {
+    "claim_id": "ctx4_claim12",
+    "claim": "Chánh văn phòng Nhà Trắng Susie Wiles đã thuyết phục ông Trump rằng thị trường sụp đổ sẽ khiến ông mất đi nguồn ủng hộ chính trị đáng kể để theo đuổi các mục tiêu chương trình nghị sự tương lai.",
+    "seed_context_id": "vne_672_chunk_3",
+    "seed_context": "Mỹ sẽ lớn mạnh và tốt đẹp hơn bao giờ hết\", ông viết. Vài phút sau, ông tiếp tục đăng \"đây là thời điểm tuyệt vời để mua vào\". Trong lúc đó, Bộ trưởng Thương mại Mỹ Howard Lutnick trả lời cuộc điện thoại từ quan chức thương mại hàng đầu Liên minh châu Âu (EU) Maros Sefcovic. EU thông báo bắt đầu áp thuế 25% với hàng loạt sản phẩm nhập khẩu Mỹ từ ngày 15/4. Bên trong Nhà Trắng, các cuộc điện thoại từ giám đốc doanh nghiệp, thành viên đảng Cộng hòa và đồng minh của ông Trump đổ về, thúc giục Tổng thống xem xét lại thuế quan. Các giám đốc doanh nghiệp cũng liên lạc với Chánh văn phòng Nhà Trắng Susie Wiles, Phó tổng thống JD Vance và Bộ trưởng Tài chính Scott Bessent, khi những người có quan điểm cứng rắn về thương mại tiếp tục ủng hộ đòn thuế trong các cuộc phỏng vấn trên truyền hình, giữa lúc thị trường tiếp tục rơi vào hỗn loạn. Các nguồn tin cho hay bà Wiles đã thuyết phục thành công ông Trump rằng sự sụp đổ của thị trường sẽ khiến ông mất đi nguồn ủng hộ chính trị đáng kể, điều rất cần cho những mục tiêu chương trình nghị sự tương lai.",
+    "model_label": "NEI",
+    "human_label": "NOT_ENOUGH_INFO",
+    "scores": {
+      "verifiability": 2,
+      "atomicity": 1,
+      "specificity": 2,
+      "clarity": 2,
+      "faithfulness": 1
+    },
+    "claim_score": 8
+  },
+  {
+    "claim_id": "ctx5_claim13",
+    "claim": "Tập đoàn Công nghiệp Hàng không Hàn Quốc (KAI) đã chế tạo 140 chiếc KF-16 dựa trên dòng F-16C/D theo giấy phép của Mỹ, áp dụng khoảng 2.500 thay đổi so với mẫu nguyên bản.",
+    "seed_context_id": "vne_629_chunk_2",
+    "seed_context": "Tập đoàn Công nghiệp Hàng không Hàn Quốc (KAI) chế tạo KF-16 trên cơ sở dòng F-16C/D theo giấy phép của Mỹ, áp dụng khoảng 2. 500 thay đổi so với mẫu nguyên bản. Tổng cộng 140 chiếc KF-16 đã xuất xưởng, các tiêm kích đầu tiên được không quân Hàn Quốc biên chế tháng 12/1994.",
+    "model_label": "SUPPORTED",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 3,
+      "specificity": 4,
+      "clarity": 3,
+      "faithfulness": 4
+    },
+    "claim_score": 17
+  },
+  {
+    "claim_id": "ctx5_claim14",
+    "claim": "Tập đoàn Công nghiệp Hàng không Hàn Quốc (KAI) đã chế tạo 140 chiếc KF-16 dựa trên dòng F-16C/D theo giấy phép của Mỹ, áp dụng khoảng 1.500 thay đổi so với mẫu nguyên bản.",
+    "seed_context_id": "vne_629_chunk_2",
+    "seed_context": "Tập đoàn Công nghiệp Hàng không Hàn Quốc (KAI) chế tạo KF-16 trên cơ sở dòng F-16C/D theo giấy phép của Mỹ, áp dụng khoảng 2. 500 thay đổi so với mẫu nguyên bản. Tổng cộng 140 chiếc KF-16 đã xuất xưởng, các tiêm kích đầu tiên được không quân Hàn Quốc biên chế tháng 12/1994.",
+    "model_label": "REFUTED",
+    "human_label": "REFUTED",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 2,
+      "specificity": 4,
+      "clarity": 3,
+      "faithfulness": 3
+    },
+    "claim_score": 15
+  },
+  {
+    "claim_id": "ctx5_claim15",
+    "claim": "Không quân Hàn Quốc đã biên chế những chiếc tiêm kích KF-16 đầu tiên vào tháng 12/1994 và sử dụng chúng cho các nhiệm vụ huấn luyện phi công.",
+    "seed_context_id": "vne_629_chunk_2",
+    "seed_context": "Tập đoàn Công nghiệp Hàng không Hàn Quốc (KAI) chế tạo KF-16 trên cơ sở dòng F-16C/D theo giấy phép của Mỹ, áp dụng khoảng 2. 500 thay đổi so với mẫu nguyên bản. Tổng cộng 140 chiếc KF-16 đã xuất xưởng, các tiêm kích đầu tiên được không quân Hàn Quốc biên chế tháng 12/1994.",
+    "model_label": "NEI",
+    "human_label": "NOT_ENOUGH_INFO",
+    "scores": {
+      "verifiability": 2,
+      "atomicity": 2,
+      "specificity": 3,
+      "clarity": 3,
+      "faithfulness": 1
+    },
+    "claim_score": 11
+  },
+  {
+    "claim_id": "ctx6_claim16",
+    "claim": "Đại biểu Dương Phước, Phó trưởng đoàn đại biểu Quốc hội tỉnh Quảng Nam, đề nghị Chính phủ ban hành cơ chế ràng buộc trách nhiệm và hướng dẫn triển khai cụ thể để cấp xã thực hiện hiệu quả chức năng, nhiệm vụ.",
+    "seed_context_id": "vne_247_chunk_1",
+    "seed_context": "Bổ sung nguồn lực để cấp xã phục vụ người dân, doanh nghiệp Đại biểu Dương Văn Phước (Phó trưởng đoàn đại biểu Quốc hội tỉnh Quảng Nam) nêu thực trạng khi chính quyền địa phương hai cấp được triển khai, cấp xã sẽ là nơi trực tiếp tiếp nhận, xử lý và giải quyết phần lớn thủ tục hành chính - cũng là cấp gần nhất với người dân và doanh nghiệp. Tuy nhiên sau sắp xếp bộ máy, nếu đội ngũ cán bộ, công chức không được trang bị đầy đủ kỹ năng chuyên môn, đạo đức công vụ và nhận thức đúng đắn, có thể dẫn tới tâm lý né tránh, gây cản trở cho việc thực thi các chính sách tiến bộ của Đảng và Nhà nước. Do đó, ông đề nghị Chính phủ sớm ban hành cơ chế ràng buộc trách nhiệm và hướng dẫn triển khai cụ thể, để cấp xã có đủ cơ sở pháp lý thực hiện hiệu quả chức năng, nhiệm vụ. Đồng thời, cấp xã cần được đầu tư toàn diện cả về nhân lực, vật lực và cơ chế chính sách nhằm tạo môi trường làm việc chuyên nghiệp, thuận lợi để cán bộ công chức cấp xã cống hiến và trưởng thành. Cùng cho ý kiến về đội ngũ cán bộ cơ sở, đại biểu Siu Hương (Phó trưởng đoàn đại biểu Quốc hội tỉnh Gia Lai) đề xuất Chính phủ xây dựng chiến lược dài hạn về công tác cán bộ người dân tộc thiểu số.",
+    "model_label": "SUPPORTED",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "verifiability": 4,
+      "atomicity": 2,
+      "specificity": 3,
+      "clarity": 3,
+      "faithfulness": 4
+    },
+    "claim_score": 16
+  },
+  {
+    "claim_id": "ctx6_claim17",
+    "claim": "Đại biểu Siu Hương, Phó trưởng đoàn đại biểu Quốc hội tỉnh Gia Lai, đề xuất Chính phủ xây dựng chiến lược ngắn hạn về công tác cán bộ người dân tộc thiểu số.",
+    "seed_context_id": "vne_247_chunk_1",
+    "seed_context": "Bổ sung nguồn lực để cấp xã phục vụ người dân, doanh nghiệp Đại biểu Dương Văn Phước (Phó trưởng đoàn đại biểu Quốc hội tỉnh Quảng Nam) nêu thực trạng khi chính quyền địa phương hai cấp được triển khai, cấp xã sẽ là nơi trực tiếp tiếp nhận, xử lý và giải quyết phần lớn thủ tục hành chính - cũng là cấp gần nhất với người dân và doanh nghiệp. Tuy nhiên sau sắp xếp bộ máy, nếu đội ngũ cán bộ, công chức không được trang bị đầy đủ kỹ năng chuyên môn, đạo đức công vụ và nhận thức đúng đắn, có thể dẫn tới tâm lý né tránh, gây cản trở cho việc thực thi các chính sách tiến bộ của Đảng và Nhà nước. Do đó, ông đề nghị Chính phủ sớm ban hành cơ chế ràng buộc trách nhiệm và hướng dẫn triển khai cụ thể, để cấp xã có đủ cơ sở pháp lý thực hiện hiệu quả chức năng, nhiệm vụ. Đồng thời, cấp xã cần được đầu tư toàn diện cả về nhân lực, vật lực và cơ chế chính sách nhằm tạo môi trường làm việc chuyên nghiệp, thuận lợi để cán bộ công chức cấp xã cống hiến và trưởng thành. Cùng cho ý kiến về đội ngũ cán bộ cơ sở, đại biểu Siu Hương (Phó trưởng đoàn đại biểu Quốc hội tỉnh Gia Lai) đề xuất Chính phủ xây dựng chiến lược dài hạn về công tác cán bộ người dân tộc thiểu số.",
+    "model_label": "REFUTED",
+    "human_label": "REFUTED",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 3,
+      "specificity": 3,
+      "clarity": 3,
+      "faithfulness": 3
+    },
+    "claim_score": 15
+  },
+  {
+    "claim_id": "ctx6_claim18",
+    "claim": "Chính phủ đã phê duyệt kế hoạch đầu tư nâng cấp cơ sở vật chất cho tất cả các cấp xã trên toàn quốc vào năm 2025.",
+    "seed_context_id": "vne_247_chunk_1",
+    "seed_context": "Bổ sung nguồn lực để cấp xã phục vụ người dân, doanh nghiệp Đại biểu Dương Văn Phước (Phó trưởng đoàn đại biểu Quốc hội tỉnh Quảng Nam) nêu thực trạng khi chính quyền địa phương hai cấp được triển khai, cấp xã sẽ là nơi trực tiếp tiếp nhận, xử lý và giải quyết phần lớn thủ tục hành chính - cũng là cấp gần nhất với người dân và doanh nghiệp. Tuy nhiên sau sắp xếp bộ máy, nếu đội ngũ cán bộ, công chức không được trang bị đầy đủ kỹ năng chuyên môn, đạo đức công vụ và nhận thức đúng đắn, có thể dẫn tới tâm lý né tránh, gây cản trở cho việc thực thi các chính sách tiến bộ của Đảng và Nhà nước. Do đó, ông đề nghị Chính phủ sớm ban hành cơ chế ràng buộc trách nhiệm và hướng dẫn triển khai cụ thể, để cấp xã có đủ cơ sở pháp lý thực hiện hiệu quả chức năng, nhiệm vụ. Đồng thời, cấp xã cần được đầu tư toàn diện cả về nhân lực, vật lực và cơ chế chính sách nhằm tạo môi trường làm việc chuyên nghiệp, thuận lợi để cán bộ công chức cấp xã cống hiến và trưởng thành. Cùng cho ý kiến về đội ngũ cán bộ cơ sở, đại biểu Siu Hương (Phó trưởng đoàn đại biểu Quốc hội tỉnh Gia Lai) đề xuất Chính phủ xây dựng chiến lược dài hạn về công tác cán bộ người dân tộc thiểu số.",
+    "model_label": "NEI",
+    "human_label": "NOT_ENOUGH_INFO",
+    "scores": {
+      "verifiability": 2,
+      "atomicity": 4,
+      "specificity": 2,
+      "clarity": 3,
+      "faithfulness": 2
+    },
+    "claim_score": 13
+  },
+  {
+    "claim_id": "ctx7_claim19",
+    "claim": "Ông Buffett, một tỷ phú, có tài sản ròng ước tính 168,2 tỷ USD, chủ yếu từ cổ phần Berkshire và dự định quyên góp gần như toàn bộ tài sản cho các quỹ từ thiện sau khi qua đời.",
+    "seed_context_id": "vne_703_chunk_2",
+    "seed_context": "ước tính tài sản ròng của ông Buffett đạt 168,2 tỷ USD, hầu như đến từ cổ phần trong Berkshire. Tỷ phú khẳng định không có ý định bán cổ phiếu và sẽ quyên góp gần như toàn bộ tài sản cho các quỹ từ thiện sau khi qua đời.",
+    "model_label": "SUPPORTED",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "verifiability": 4,
+      "atomicity": 2,
+      "specificity": 3,
+      "clarity": 3,
+      "faithfulness": 4
+    },
+    "claim_score": 16
+  },
+  {
+    "claim_id": "ctx7_claim20",
+    "claim": "Ông Buffett, một tỷ phú, có tài sản ròng ước tính 168,2 tỷ USD, chủ yếu từ cổ phần Berkshire và dự định bán toàn bộ cổ phiếu cũng như quyên góp gần như toàn bộ tài sản cho các quỹ từ thiện sau khi qua đời.",
+    "seed_context_id": "vne_703_chunk_2",
+    "seed_context": "ước tính tài sản ròng của ông Buffett đạt 168,2 tỷ USD, hầu như đến từ cổ phần trong Berkshire. Tỷ phú khẳng định không có ý định bán cổ phiếu và sẽ quyên góp gần như toàn bộ tài sản cho các quỹ từ thiện sau khi qua đời.",
+    "model_label": "REFUTED",
+    "human_label": "REFUTED",
+    "scores": {
+      "verifiability": 4,
+      "atomicity": 3,
+      "specificity": 3,
+      "clarity": 4,
+      "faithfulness": 4
+    },
+    "claim_score": 18
+  },
+  {
+    "claim_id": "ctx7_claim21",
+    "claim": "Ông Buffett, một tỷ phú, có tài sản ròng ước tính 168,2 tỷ USD, chủ yếu từ cổ phần Berkshire và dự định quyên góp gần như toàn bộ tài sản cho các quỹ từ thiện tại Omaha sau khi qua đời.",
+    "seed_context_id": "vne_703_chunk_2",
+    "seed_context": "ước tính tài sản ròng của ông Buffett đạt 168,2 tỷ USD, hầu như đến từ cổ phần trong Berkshire. Tỷ phú khẳng định không có ý định bán cổ phiếu và sẽ quyên góp gần như toàn bộ tài sản cho các quỹ từ thiện sau khi qua đời.",
+    "model_label": "NEI",
+    "human_label": "NOT_ENOUGH_INFO",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 3,
+      "specificity": 3,
+      "clarity": 3,
+      "faithfulness": 3
+    },
+    "claim_score": 15
+  },
+  {
+    "claim_id": "ctx8_claim22",
+    "claim": "Việc nước này chào bán J-10CE cho Colombia đánh dấu một bước tiến trong chiến lược mở rộng ảnh hưởng của Bắc Kinh tại khu vực Mỹ Latin, theo nhận định của chuyên gia Trương Học Phong.",
+    "seed_context_id": "vne_724_chunk_6",
+    "seed_context": "Việc nước này chào bán J-10CE cho Colombia đánh dấu một bước tiến trong chiến lược mở rộng ảnh hưởng của Bắc Kinh tại khu vực Mỹ Latin, cũng như củng cố danh tiếng của J-10CE trên thị trường vũ khí quốc tế, chuyên gia Trương Học Phong nhận định. (Theo )",
+    "model_label": "SUPPORTED",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "verifiability": 2,
+      "atomicity": 2,
+      "specificity": 3,
+      "clarity": 2,
+      "faithfulness": 3
+    },
+    "claim_score": 12
+  },
+  {
+    "claim_id": "ctx8_claim23",
+    "claim": "Việc nước này chào bán J-10CE cho Colombia đánh dấu một bước thụt lùi trong chiến lược mở rộng ảnh hưởng của Bắc Kinh tại khu vực Mỹ Latin, theo nhận định của chuyên gia Trương Học Phong.",
+    "seed_context_id": "vne_724_chunk_6",
+    "seed_context": "Việc nước này chào bán J-10CE cho Colombia đánh dấu một bước tiến trong chiến lược mở rộng ảnh hưởng của Bắc Kinh tại khu vực Mỹ Latin, cũng như củng cố danh tiếng của J-10CE trên thị trường vũ khí quốc tế, chuyên gia Trương Học Phong nhận định. (Theo )",
+    "model_label": "REFUTED",
+    "human_label": "REFUTED",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 3,
+      "specificity": 3,
+      "clarity": 3,
+      "faithfulness": 4
+    },
+    "claim_score": 16
+  },
+  {
+    "claim_id": "ctx8_claim24",
+    "claim": "Chuyên gia Trương Học Phong nhận định rằng việc Trung Quốc chào bán J-10CE cho Colombia vào tháng 3 năm 2023 đã củng cố danh tiếng của J-10CE trên thị trường vũ khí quốc tế.",
+    "seed_context_id": "vne_724_chunk_6",
+    "seed_context": "Việc nước này chào bán J-10CE cho Colombia đánh dấu một bước tiến trong chiến lược mở rộng ảnh hưởng của Bắc Kinh tại khu vực Mỹ Latin, cũng như củng cố danh tiếng của J-10CE trên thị trường vũ khí quốc tế, chuyên gia Trương Học Phong nhận định. (Theo )",
+    "model_label": "NEI",
+    "human_label": "NOT_ENOUGH_INFO",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 2,
+      "specificity": 3,
+      "clarity": 3,
+      "faithfulness": 3
+    },
+    "claim_score": 14
+  },
+  {
+    "claim_id": "ctx9_claim25",
+    "claim": "Chủ tịch Hội đồng Cố vấn Kinh tế Nhà Trắng Stephen Miran từng học tại Đại học Harvard.",
+    "seed_context_id": "vne_689_chunk_5",
+    "seed_context": "Chủ tịch Hội đồng Cố vấn Kinh tế Nhà Trắng Stephen Miran, Bộ trưởng Y tế và Dịch vụ Nhân sinh Robert F. Kennedy Jr. cũng từng học tại Đại học Harvard. Quốc hội Mỹ có 15 nghị sĩ Cộng hòa từng học tại Harvard, bằng khoảng một phần ba số nghị sĩ đảng Dân chủ có hồ sơ tương tự.",
+    "model_label": "SUPPORTED",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "verifiability": 4,
+      "atomicity": 4,
+      "specificity": 4,
+      "clarity": 4,
+      "faithfulness": 4
+    },
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx9_claim26",
+    "claim": "Bộ trưởng Y tế và Dịch vụ Nhân sinh Robert F. Kennedy Jr. từng học tại Đại học Stanford.",
+    "seed_context_id": "vne_689_chunk_5",
+    "seed_context": "Chủ tịch Hội đồng Cố vấn Kinh tế Nhà Trắng Stephen Miran, Bộ trưởng Y tế và Dịch vụ Nhân sinh Robert F. Kennedy Jr. cũng từng học tại Đại học Harvard. Quốc hội Mỹ có 15 nghị sĩ Cộng hòa từng học tại Harvard, bằng khoảng một phần ba số nghị sĩ đảng Dân chủ có hồ sơ tương tự.",
+    "model_label": "REFUTED",
+    "human_label": "REFUTED",
+    "scores": {
+      "verifiability": 4,
+      "atomicity": 4,
+      "specificity": 3,
+      "clarity": 3,
+      "faithfulness": 4
+    },
+    "claim_score": 18
+  },
+  {
+    "claim_id": "ctx9_claim27",
+    "claim": "Nghị sĩ Cộng hòa tại Quốc hội Mỹ có 20 người từng học tại Harvard.",
+    "seed_context_id": "vne_689_chunk_5",
+    "seed_context": "Chủ tịch Hội đồng Cố vấn Kinh tế Nhà Trắng Stephen Miran, Bộ trưởng Y tế và Dịch vụ Nhân sinh Robert F. Kennedy Jr. cũng từng học tại Đại học Harvard. Quốc hội Mỹ có 15 nghị sĩ Cộng hòa từng học tại Harvard, bằng khoảng một phần ba số nghị sĩ đảng Dân chủ có hồ sơ tương tự.",
+    "model_label": "NEI",
+    "human_label": "NOT_ENOUGH_INFO",
+    "scores": {
+      "verifiability": 4,
+      "atomicity": 4,
+      "specificity": 3,
+      "clarity": 3,
+      "faithfulness": 4
+    },
+    "claim_score": 18
+  },
+  {
+    "claim_id": "ctx10_claim28",
+    "claim": "Rạng sáng ngày hôm nay, Không quân Ukraine thông báo đã đánh chặn thành công toàn bộ 4 tên lửa siêu vượt âm Kinzhal và 10 tên lửa hành trình Kh-101 được Nga phóng vào nước này.",
+    "seed_context_id": "vne_755_chunk_0",
+    "seed_context": "Không quân Ukraine thông báo đánh chặn 479 vũ khí được Nga phóng vào nước này rạng sáng nay, trong đó có toàn bộ 14 tên lửa Kinzhal và Kh-101. Bộ tư lệnh không quân Ukraine hôm nay cho biết Nga tập kích nước này bằng 4 tên lửa siêu vượt âm Kinzhal, 10 tên lửa hành trình Kh-101 phóng từ oanh tạc cơ chiến lược, 3 tên lửa diệt hạm siêu thanh Kh-22, hai tên lửa diệt radar Kh-31P, một tên lửa chống hạm cận âm Kh-35, cùng 479 máy bay không người lái (UAV) tự sát dòng Geran và phi cơ mồi bẫy. Đây là cuộc tấn công mà quân đội Nga sử dụng nhiều UAV tự sát và mồi bẫy nhất kể từ đầu xung đột, vượt qua mức kỷ lục 472 chiếc hôm 1/6. \"Các đơn vị phòng không Ukraine đã bắn hạ cả 4 tên lửa Kinzhal, 10 quả Kh-101, toàn bộ tên lửa Kh-31P và Kh-35, cùng 277 UAV tự sát. Các biện pháp chế áp điện tử cũng khiến hai tên lửa Kh-22 và 183 UAV bị lạc đường\", cơ quan này cho hay. Không quân Ukraine không đề cập tên lửa Kh-22 và 19 UAV còn lại, nhưng thêm rằng họ đã ghi nhận 10 địa điểm trúng tập kích và mảnh vỡ rơi xuống 17 khu vực.",
+    "model_label": "SUPPORTED",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 2,
+      "specificity": 4,
+      "clarity": 3,
+      "faithfulness": 3
+    },
+    "claim_score": 15
+  },
+  {
+    "claim_id": "ctx10_claim29",
+    "claim": "Bộ tư lệnh không quân Ukraine cho biết Nga tập kích nước này bằng 3 tên lửa siêu thanh Kh-22 và 479 máy bay không người lái (UAV) tự sát dòng Geran, tuy nhiên chỉ đánh chặn được 277 UAV.",
+    "seed_context_id": "vne_755_chunk_0",
+    "seed_context": "Không quân Ukraine thông báo đánh chặn 479 vũ khí được Nga phóng vào nước này rạng sáng nay, trong đó có toàn bộ 14 tên lửa Kinzhal và Kh-101. Bộ tư lệnh không quân Ukraine hôm nay cho biết Nga tập kích nước này bằng 4 tên lửa siêu vượt âm Kinzhal, 10 tên lửa hành trình Kh-101 phóng từ oanh tạc cơ chiến lược, 3 tên lửa diệt hạm siêu thanh Kh-22, hai tên lửa diệt radar Kh-31P, một tên lửa chống hạm cận âm Kh-35, cùng 479 máy bay không người lái (UAV) tự sát dòng Geran và phi cơ mồi bẫy. Đây là cuộc tấn công mà quân đội Nga sử dụng nhiều UAV tự sát và mồi bẫy nhất kể từ đầu xung đột, vượt qua mức kỷ lục 472 chiếc hôm 1/6. \"Các đơn vị phòng không Ukraine đã bắn hạ cả 4 tên lửa Kinzhal, 10 quả Kh-101, toàn bộ tên lửa Kh-31P và Kh-35, cùng 277 UAV tự sát. Các biện pháp chế áp điện tử cũng khiến hai tên lửa Kh-22 và 183 UAV bị lạc đường\", cơ quan này cho hay. Không quân Ukraine không đề cập tên lửa Kh-22 và 19 UAV còn lại, nhưng thêm rằng họ đã ghi nhận 10 địa điểm trúng tập kích và mảnh vỡ rơi xuống 17 khu vực.",
+    "model_label": "REFUTED",
+    "human_label": "REFUTED",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 2,
+      "specificity": 3,
+      "clarity": 3,
+      "faithfulness": 3
+    },
+    "claim_score": 14
+  },
+  {
+    "claim_id": "ctx10_claim30",
+    "claim": "Trong cuộc tấn công rạng sáng ngày hôm nay, Không quân Ukraine đã ghi nhận 10 địa điểm trúng tập kích và mảnh vỡ tên lửa Kh-22 rơi xuống 17 khu vực khác nhau.",
+    "seed_context_id": "vne_755_chunk_0",
+    "seed_context": "Không quân Ukraine thông báo đánh chặn 479 vũ khí được Nga phóng vào nước này rạng sáng nay, trong đó có toàn bộ 14 tên lửa Kinzhal và Kh-101. Bộ tư lệnh không quân Ukraine hôm nay cho biết Nga tập kích nước này bằng 4 tên lửa siêu vượt âm Kinzhal, 10 tên lửa hành trình Kh-101 phóng từ oanh tạc cơ chiến lược, 3 tên lửa diệt hạm siêu thanh Kh-22, hai tên lửa diệt radar Kh-31P, một tên lửa chống hạm cận âm Kh-35, cùng 479 máy bay không người lái (UAV) tự sát dòng Geran và phi cơ mồi bẫy. Đây là cuộc tấn công mà quân đội Nga sử dụng nhiều UAV tự sát và mồi bẫy nhất kể từ đầu xung đột, vượt qua mức kỷ lục 472 chiếc hôm 1/6. \"Các đơn vị phòng không Ukraine đã bắn hạ cả 4 tên lửa Kinzhal, 10 quả Kh-101, toàn bộ tên lửa Kh-31P và Kh-35, cùng 277 UAV tự sát. Các biện pháp chế áp điện tử cũng khiến hai tên lửa Kh-22 và 183 UAV bị lạc đường\", cơ quan này cho hay. Không quân Ukraine không đề cập tên lửa Kh-22 và 19 UAV còn lại, nhưng thêm rằng họ đã ghi nhận 10 địa điểm trúng tập kích và mảnh vỡ rơi xuống 17 khu vực.",
+    "model_label": "NEI",
+    "human_label": "NOT_ENOUGH_INFO",
+    "scores": {
+      "verifiability": 1,
+      "atomicity": 2,
+      "specificity": 2,
+      "clarity": 3,
+      "faithfulness": 3
+    },
+    "claim_score": 11
+  },
+  {
+    "claim_id": "ctx11_claim31",
+    "claim": "Vào tháng 8/2024, chiếc máy bay An-22 cuối cùng mang mã hiệu RF-09309 đã bay đến thành phố Yekaterinburg để làm vật trưng bày tại bảo tàng quân sự ở thị trấn Verkhnyaya Pyshma.",
+    "seed_context_id": "vne_1010_chunk_2",
+    "seed_context": "Vào tháng 8/2024, xuất hiện thông tin dòng An-22 đã bị loại biên, chiếc cuối cùng mang mã hiệu RF-09309 đã bay đến thành phố Yekaterinburg để làm vật trưng bày tại bảo tàng quân sự ở thị trấn Verkhnyaya Pyshma. Dù vậy, máy bay không xuất hiện trong các ảnh vệ tinh chụp bảo tàng gần đây, cho thấy kế hoạch dường như đã thay đổi.",
+    "model_label": "SUPPORTED",
+    "human_label": "NOT_ENOUGH_INFO",
+    "scores": {
+      "verifiability": 1,
+      "atomicity": 2,
+      "specificity": 3,
+      "clarity": 3,
+      "faithfulness": 1
+    },
+    "claim_score": 10
+  },
+  {
+    "claim_id": "ctx11_claim32",
+    "claim": "Vào tháng 8/2023, chiếc máy bay An-22 cuối cùng mang mã hiệu RF-09309 đã bay đến thành phố Yekaterinburg để làm vật trưng bày tại bảo tàng quân sự ở thị trấn Verkhnyaya Pyshma.",
+    "seed_context_id": "vne_1010_chunk_2",
+    "seed_context": "Vào tháng 8/2024, xuất hiện thông tin dòng An-22 đã bị loại biên, chiếc cuối cùng mang mã hiệu RF-09309 đã bay đến thành phố Yekaterinburg để làm vật trưng bày tại bảo tàng quân sự ở thị trấn Verkhnyaya Pyshma. Dù vậy, máy bay không xuất hiện trong các ảnh vệ tinh chụp bảo tàng gần đây, cho thấy kế hoạch dường như đã thay đổi.",
+    "model_label": "REFUTED",
+    "human_label": "REFUTED",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 2,
+      "specificity": 4,
+      "clarity": 4,
+      "faithfulness": 3
+    },
+    "claim_score": 16
+  },
+  {
+    "claim_id": "ctx11_claim33",
+    "claim": "Vào tháng 8/2024, chiếc máy bay An-22 cuối cùng mang mã hiệu RF-09309 đã được trưng bày tại bảo tàng quân sự ở thị trấn Verkhnyaya Pyshma, thành phố Yekaterinburg.",
+    "seed_context_id": "vne_1010_chunk_2",
+    "seed_context": "Vào tháng 8/2024, xuất hiện thông tin dòng An-22 đã bị loại biên, chiếc cuối cùng mang mã hiệu RF-09309 đã bay đến thành phố Yekaterinburg để làm vật trưng bày tại bảo tàng quân sự ở thị trấn Verkhnyaya Pyshma. Dù vậy, máy bay không xuất hiện trong các ảnh vệ tinh chụp bảo tàng gần đây, cho thấy kế hoạch dường như đã thay đổi.",
+    "model_label": "NEI",
+    "human_label": "NOT_ENOUGH_INFO",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 3,
+      "specificity": 3,
+      "clarity": 3,
+      "faithfulness": 4
+    },
+    "claim_score": 16
+  },
+  {
+    "claim_id": "ctx12_claim34",
+    "claim": "Ông Thanh đề xuất vận động các hãng xe điện triển khai chương trình đổi xe cũ lấy xe mới, khuyến khích giảm giá xe điện, đặc biệt cho nhóm thu nhập thấp.",
+    "seed_context_id": "vne_282_chunk_1",
+    "seed_context": "Xe máy còn mới, có giá trị sử dụng sẽ được hỗ trợ nhiều hơn khi chuyển đổi; xe quá cũ có thể không hỗ trợ nhưng được khuyến khích thu hồi. Mức hỗ trợ có thể gồm một phần tài chính để đổi phương tiện hoặc trợ cấp chi phí đi lại nếu người dân chuyển sang sử dụng phương tiện công cộng. \"Cần vận động các hãng xe điện triển khai chương trình đổi xe cũ lấy xe mới, khuyến khích giảm giá xe điện, đặc biệt cho nhóm thu nhập thấp\", ông Thanh nói. Nhà nước có thể miễn thuế trước bạ, giảm thuế tiêu thụ đặc biệt hoặc hỗ trợ lãi suất trả góp cho người dân khi mua xe điện chính hãng. Một yêu cầu cấp thiết là phát triển hạ tầng phục vụ xe điện. TS Bình đề xuất thành phố xây dựng hệ thống trạm sạc công cộng đặt tại các bãi gửi xe, khu dân cư, trung tâm thương mại - tương tự trạm xăng hiện nay. Để tránh tình trạng độc quyền, Hà Nội cũng cần thiết kế các điểm sạc mở, hỗ trợ nhiều dòng xe khác nhau, đảm bảo tính cạnh tranh và tiện lợi. Ngoài ra, cần có quy chuẩn về an toàn sạc điện tại khu dân cư, hướng dẫn sử dụng thiết bị sạc đúng cách để phòng chống cháy nổ.",
+    "model_label": "SUPPORTED",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "verifiability": 1,
+      "atomicity": 3,
+      "specificity": 3,
+      "clarity": 3,
+      "faithfulness": 3
+    },
+    "claim_score": 13
+  },
+  {
+    "claim_id": "ctx12_claim35",
+    "claim": "Xe quá cũ sẽ được hỗ trợ tài chính để đổi phương tiện hoặc trợ cấp chi phí đi lại nếu người dân chuyển sang sử dụng phương tiện công cộng.",
+    "seed_context_id": "vne_282_chunk_1",
+    "seed_context": "Xe máy còn mới, có giá trị sử dụng sẽ được hỗ trợ nhiều hơn khi chuyển đổi; xe quá cũ có thể không hỗ trợ nhưng được khuyến khích thu hồi. Mức hỗ trợ có thể gồm một phần tài chính để đổi phương tiện hoặc trợ cấp chi phí đi lại nếu người dân chuyển sang sử dụng phương tiện công cộng. \"Cần vận động các hãng xe điện triển khai chương trình đổi xe cũ lấy xe mới, khuyến khích giảm giá xe điện, đặc biệt cho nhóm thu nhập thấp\", ông Thanh nói. Nhà nước có thể miễn thuế trước bạ, giảm thuế tiêu thụ đặc biệt hoặc hỗ trợ lãi suất trả góp cho người dân khi mua xe điện chính hãng. Một yêu cầu cấp thiết là phát triển hạ tầng phục vụ xe điện. TS Bình đề xuất thành phố xây dựng hệ thống trạm sạc công cộng đặt tại các bãi gửi xe, khu dân cư, trung tâm thương mại - tương tự trạm xăng hiện nay. Để tránh tình trạng độc quyền, Hà Nội cũng cần thiết kế các điểm sạc mở, hỗ trợ nhiều dòng xe khác nhau, đảm bảo tính cạnh tranh và tiện lợi. Ngoài ra, cần có quy chuẩn về an toàn sạc điện tại khu dân cư, hướng dẫn sử dụng thiết bị sạc đúng cách để phòng chống cháy nổ.",
+    "model_label": "REFUTED",
+    "human_label": "REFUTED",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 3,
+      "specificity": 4,
+      "clarity": 3,
+      "faithfulness": 3
+    },
+    "claim_score": 16
+  },
+  {
+    "claim_id": "ctx12_claim36",
+    "claim": "TS Bình đề xuất thành phố xây dựng hệ thống trạm sạc công cộng đặt tại các bãi gửi xe, khu dân cư, trung tâm thương mại với mức phí sạc được quy định rõ ràng.",
+    "seed_context_id": "vne_282_chunk_1",
+    "seed_context": "Xe máy còn mới, có giá trị sử dụng sẽ được hỗ trợ nhiều hơn khi chuyển đổi; xe quá cũ có thể không hỗ trợ nhưng được khuyến khích thu hồi. Mức hỗ trợ có thể gồm một phần tài chính để đổi phương tiện hoặc trợ cấp chi phí đi lại nếu người dân chuyển sang sử dụng phương tiện công cộng. \"Cần vận động các hãng xe điện triển khai chương trình đổi xe cũ lấy xe mới, khuyến khích giảm giá xe điện, đặc biệt cho nhóm thu nhập thấp\", ông Thanh nói. Nhà nước có thể miễn thuế trước bạ, giảm thuế tiêu thụ đặc biệt hoặc hỗ trợ lãi suất trả góp cho người dân khi mua xe điện chính hãng. Một yêu cầu cấp thiết là phát triển hạ tầng phục vụ xe điện. TS Bình đề xuất thành phố xây dựng hệ thống trạm sạc công cộng đặt tại các bãi gửi xe, khu dân cư, trung tâm thương mại - tương tự trạm xăng hiện nay. Để tránh tình trạng độc quyền, Hà Nội cũng cần thiết kế các điểm sạc mở, hỗ trợ nhiều dòng xe khác nhau, đảm bảo tính cạnh tranh và tiện lợi. Ngoài ra, cần có quy chuẩn về an toàn sạc điện tại khu dân cư, hướng dẫn sử dụng thiết bị sạc đúng cách để phòng chống cháy nổ.",
+    "model_label": "NEI",
+    "human_label": "NOT_ENOUGH_INFO",
+    "scores": {
+      "verifiability": 2,
+      "atomicity": 3,
+      "specificity": 2,
+      "clarity": 3,
+      "faithfulness": 3
+    },
+    "claim_score": 13
+  },
+  {
+    "claim_id": "ctx13_claim37",
+    "claim": "Vào lúc 16h ngày 27/11/2023, hỏa hoạn tại tầng 11 của tòa nhà Parkson Thái Hà, nằm ở ngõ 218 Tây Sơn, đã được lực lượng chức năng dập tắt.",
+    "seed_context_id": "vne_158_chunk_1",
+    "seed_context": "Tầng 11 bị lửa tràn vào làm cháy nhiều vật dụng. Người dân ngõ 218 Tây Sơn phải tạm lánh. Lực lượng chức năng hạn chế người dân ra vào ngõ, chị Nguyễn Thu Hằng, nhân viên văn phòng ở ngõ 218 cho biết. Đến 16h, hỏa hoạn được dập tắt. Công an vẫn đang phong tỏa hiện trường, điều tra nguyên nhân và thống kê thiệt hại từ vụ cháy. Theo một số nhân chứng, có người bị ngạt khói được đưa ra ngoài. Parkson Thái Hà là tòa nhà thương mại với tổng diện tích sàn 11.000 m2, nằm ngay ngã tư giữa các phố Thái Hà, Chùa Bộc, Tây Sơn. Do vị trí đẹp, giao thông thuận lợi, nhiều doanh nghiệp, cơ sở ăn uống thuê mặt bằng ở đây kinh doanh.",
+    "model_label": "SUPPORTED",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "verifiability": 4,
+      "atomicity": 4,
+      "specificity": 4,
+      "clarity": 4,
+      "faithfulness": 4
+    },
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx13_claim38",
+    "claim": "Vào lúc 16h ngày 27/11/2023, hỏa hoạn tại tầng 11 của tòa nhà Parkson Thái Hà, nằm ở ngõ 218 Tây Sơn, đã lan rộng ra toàn bộ khu vực ngã tư và gây ảnh hưởng đến giao thông các phố Thái Hà, Chùa Bộc, Tây Sơn.",
+    "seed_context_id": "vne_158_chunk_1",
+    "seed_context": "Tầng 11 bị lửa tràn vào làm cháy nhiều vật dụng. Người dân ngõ 218 Tây Sơn phải tạm lánh. Lực lượng chức năng hạn chế người dân ra vào ngõ, chị Nguyễn Thu Hằng, nhân viên văn phòng ở ngõ 218 cho biết. Đến 16h, hỏa hoạn được dập tắt. Công an vẫn đang phong tỏa hiện trường, điều tra nguyên nhân và thống kê thiệt hại từ vụ cháy. Theo một số nhân chứng, có người bị ngạt khói được đưa ra ngoài. Parkson Thái Hà là tòa nhà thương mại với tổng diện tích sàn 11.000 m2, nằm ngay ngã tư giữa các phố Thái Hà, Chùa Bộc, Tây Sơn. Do vị trí đẹp, giao thông thuận lợi, nhiều doanh nghiệp, cơ sở ăn uống thuê mặt bằng ở đây kinh doanh.",
+    "model_label": "REFUTED",
+    "human_label": "REFUTED",
+    "scores": {
+      "verifiability": 4,
+      "atomicity": 2,
+      "specificity": 4,
+      "clarity": 3,
+      "faithfulness": 3
+    },
+    "claim_score": 16
+  },
+  {
+    "claim_id": "ctx13_claim39",
+    "claim": "Chị Nguyễn Thu Hằng, nhân viên văn phòng ở ngõ 218 Tây Sơn, đã cung cấp thông tin về việc có người bị ngạt khói được đưa ra ngoài trong vụ cháy xảy ra tại tầng 11 của tòa nhà Parkson Thái Hà.",
+    "seed_context_id": "vne_158_chunk_1",
+    "seed_context": "Tầng 11 bị lửa tràn vào làm cháy nhiều vật dụng. Người dân ngõ 218 Tây Sơn phải tạm lánh. Lực lượng chức năng hạn chế người dân ra vào ngõ, chị Nguyễn Thu Hằng, nhân viên văn phòng ở ngõ 218 cho biết. Đến 16h, hỏa hoạn được dập tắt. Công an vẫn đang phong tỏa hiện trường, điều tra nguyên nhân và thống kê thiệt hại từ vụ cháy. Theo một số nhân chứng, có người bị ngạt khói được đưa ra ngoài. Parkson Thái Hà là tòa nhà thương mại với tổng diện tích sàn 11.000 m2, nằm ngay ngã tư giữa các phố Thái Hà, Chùa Bộc, Tây Sơn. Do vị trí đẹp, giao thông thuận lợi, nhiều doanh nghiệp, cơ sở ăn uống thuê mặt bằng ở đây kinh doanh.",
+    "model_label": "NEI",
+    "human_label": "NOT_ENOUGH_INFO",
+    "scores": {
+      "verifiability": 2,
+      "atomicity": 3,
+      "specificity": 3,
+      "clarity": 4,
+      "faithfulness": 3
+    },
+    "claim_score": 15
+  },
+  {
+    "claim_id": "ctx14_claim40",
+    "claim": "Tổng thống Trump đôi khi lập luận rằng đòn thuế nhằm buộc các nhà sản xuất ôtô và dược phẩm phải sản xuất tại Mỹ.",
+    "seed_context_id": "vne_660_chunk_3",
+    "seed_context": "Không ít người đang đặt câu hỏi mục tiêu cuối cùng của đòn thuế mà Tổng thống Trump tung ra là gì. Ông đôi khi lập luận rằng muốn buộc các công ty, trong đó có những nhà sản xuất ôtô và dược phẩm, phải sản xuất tại Mỹ. Lúc khác, ông lại nói mục đích chỉ đơn giản nhằm khắc phục tình trạng bất công hay là cách để bù đắp cho việc giảm thuế trong nước. Đối với các đối tác toàn cầu của Mỹ, mục đích của đòn thuế mà Tổng thống Trump hướng tới là yếu tố tối quan trọng. Nếu mục tiêu của ông Trump là làm cho hệ thống thương mại công bằng hơn, đó sẽ là cánh cửa để đàm phán. Ví dụ, châu Âu có thể điều chỉnh thuế đối với ôtô để gây sức ép buộc chính quyền Trump có lập trường ít quyết liệt hơn. Nếu mục đích của Tổng thống Trump là nhằm gia tăng ngân khố Mỹ, đây sẽ là điểm khởi đầu khó khăn hơn đối với các đối tác thương mại. Trong trường hợp đó, để tìm kiếm một thỏa thuận giảm thuế quan, các đối tác của Mỹ nhiều khả năng sẽ phải chấp nhận những khoản cắt giảm doanh thu trong làm ăn với Mỹ. Trước tình hình khó lường đó, các đối tác đang tìm mọi cách trong khả năng để tìm hiểu, suy đoán những gì sắp diễn ra, đồng thời đưa ra những phản ứng thận trọng.",
+    "model_label": "SUPPORTED",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 4,
+      "specificity": 3,
+      "clarity": 4,
+      "faithfulness": 4
+    },
+    "claim_score": 18
+  },
+  {
+    "claim_id": "ctx14_claim41",
+    "claim": "Mục tiêu của đòn thuế mà Tổng thống Trump tung ra là nhằm gia tăng ngân khố của các đối tác toàn cầu của Mỹ.",
+    "seed_context_id": "vne_660_chunk_3",
+    "seed_context": "Không ít người đang đặt câu hỏi mục tiêu cuối cùng của đòn thuế mà Tổng thống Trump tung ra là gì. Ông đôi khi lập luận rằng muốn buộc các công ty, trong đó có những nhà sản xuất ôtô và dược phẩm, phải sản xuất tại Mỹ. Lúc khác, ông lại nói mục đích chỉ đơn giản nhằm khắc phục tình trạng bất công hay là cách để bù đắp cho việc giảm thuế trong nước. Đối với các đối tác toàn cầu của Mỹ, mục đích của đòn thuế mà Tổng thống Trump hướng tới là yếu tố tối quan trọng. Nếu mục tiêu của ông Trump là làm cho hệ thống thương mại công bằng hơn, đó sẽ là cánh cửa để đàm phán. Ví dụ, châu Âu có thể điều chỉnh thuế đối với ôtô để gây sức ép buộc chính quyền Trump có lập trường ít quyết liệt hơn. Nếu mục đích của Tổng thống Trump là nhằm gia tăng ngân khố Mỹ, đây sẽ là điểm khởi đầu khó khăn hơn đối với các đối tác thương mại. Trong trường hợp đó, để tìm kiếm một thỏa thuận giảm thuế quan, các đối tác của Mỹ nhiều khả năng sẽ phải chấp nhận những khoản cắt giảm doanh thu trong làm ăn với Mỹ. Trước tình hình khó lường đó, các đối tác đang tìm mọi cách trong khả năng để tìm hiểu, suy đoán những gì sắp diễn ra, đồng thời đưa ra những phản ứng thận trọng.",
+    "model_label": "REFUTED",
+    "human_label": "REFUTED",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 4,
+      "specificity": 3,
+      "clarity": 4,
+      "faithfulness": 4
+    },
+    "claim_score": 18
+  },
+  {
+    "claim_id": "ctx14_claim42",
+    "claim": "Châu Âu đã điều chỉnh thuế đối với ôtô vào năm 2019 để gây sức ép buộc chính quyền Trump có lập trường ít quyết liệt hơn.",
+    "seed_context_id": "vne_660_chunk_3",
+    "seed_context": "Không ít người đang đặt câu hỏi mục tiêu cuối cùng của đòn thuế mà Tổng thống Trump tung ra là gì. Ông đôi khi lập luận rằng muốn buộc các công ty, trong đó có những nhà sản xuất ôtô và dược phẩm, phải sản xuất tại Mỹ. Lúc khác, ông lại nói mục đích chỉ đơn giản nhằm khắc phục tình trạng bất công hay là cách để bù đắp cho việc giảm thuế trong nước. Đối với các đối tác toàn cầu của Mỹ, mục đích của đòn thuế mà Tổng thống Trump hướng tới là yếu tố tối quan trọng. Nếu mục tiêu của ông Trump là làm cho hệ thống thương mại công bằng hơn, đó sẽ là cánh cửa để đàm phán. Ví dụ, châu Âu có thể điều chỉnh thuế đối với ôtô để gây sức ép buộc chính quyền Trump có lập trường ít quyết liệt hơn. Nếu mục đích của Tổng thống Trump là nhằm gia tăng ngân khố Mỹ, đây sẽ là điểm khởi đầu khó khăn hơn đối với các đối tác thương mại. Trong trường hợp đó, để tìm kiếm một thỏa thuận giảm thuế quan, các đối tác của Mỹ nhiều khả năng sẽ phải chấp nhận những khoản cắt giảm doanh thu trong làm ăn với Mỹ. Trước tình hình khó lường đó, các đối tác đang tìm mọi cách trong khả năng để tìm hiểu, suy đoán những gì sắp diễn ra, đồng thời đưa ra những phản ứng thận trọng.",
+    "model_label": "NEI",
+    "human_label": "NOT_ENOUGH_INFO",
+    "scores": {
+      "verifiability": 4,
+      "atomicity": 4,
+      "specificity": 3,
+      "clarity": 4,
+      "faithfulness": 3
+    },
+    "claim_score": 18
+  },
+  {
+    "claim_id": "ctx15_claim43",
+    "claim": "Vào ngày mai, dự báo tình trạng ô nhiễm không khí tại Hà Nội sẽ giảm dần do không khí lạnh suy yếu.",
+    "seed_context_id": "vne_6_chunk_1",
+    "seed_context": "Trang này đưa ra dự báo tình trạng ô nhiễm không khí ở Hà Nội sẽ giảm dần từ ngày mai. Đợt ô nhiễm không khí ở Hà Nội đã duy trì 7 ngày nay khi không khí lạnh suy yếu, đêm trời lạnh, ngày nắng hanh, các yếu tố giúp giảm ô nhiễm như gió, mưa gần như không có. Không chỉ Hà Nội mà nhiều tỉnh miền Bắc cũng đang đối mặt với tình trạng ô nhiễm không khí. Theo hệ thống quan trắc của Cục Kiểm soát ô nhiễm môi trường, một số trạm đã trên mức rất xấu như TP Bắc Giang (Bắc Giang) chỉ số AQI 237, Hải Dương 237, Hưng Yên 237, Thái Bình 238, Thái Nguyên 207. Các chuyên gia khuyến nghị tình trạng ô nhiễm không khí ở Hà Nội cũng như miền Bắc sẽ tiếp diễn. Người dân cần hạn chế tối đa hoạt động ngoài trời, khi phải ra ngoài cần đeo khẩu trang đạt tiêu chuẩn. Nhóm người nhạy cảm, có tiền sử bệnh hô hấp nên ở trong nhà và giảm hoạt động mạnh. Cả Bộ Tài nguyên và Môi trường cũng như TP Hà Nội đang triển khai nhiều kế hoạch để giảm thiểu ô nhiễm không khí. Trong đó có việc xây dựng vùng phát thải thấp, chuyển đổi phương tiện công cộng, thân thiện môi trường, rửa đường, quây rào ở các công trình xây dựng.",
+    "model_label": "SUPPORTED",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "verifiability": 2,
+      "atomicity": 4,
+      "specificity": 2,
+      "clarity": 3,
+      "faithfulness": 4
+    },
+    "claim_score": 15
+  },
+  {
+    "claim_id": "ctx15_claim44",
+    "claim": "Vào ngày 15 tháng 1 năm 2024, chỉ số AQI tại thành phố Bắc Giang là 137, cho thấy chất lượng không khí ở mức kém.",
+    "seed_context_id": "vne_6_chunk_1",
+    "seed_context": "Trang này đưa ra dự báo tình trạng ô nhiễm không khí ở Hà Nội sẽ giảm dần từ ngày mai. Đợt ô nhiễm không khí ở Hà Nội đã duy trì 7 ngày nay khi không khí lạnh suy yếu, đêm trời lạnh, ngày nắng hanh, các yếu tố giúp giảm ô nhiễm như gió, mưa gần như không có. Không chỉ Hà Nội mà nhiều tỉnh miền Bắc cũng đang đối mặt với tình trạng ô nhiễm không khí. Theo hệ thống quan trắc của Cục Kiểm soát ô nhiễm môi trường, một số trạm đã trên mức rất xấu như TP Bắc Giang (Bắc Giang) chỉ số AQI 237, Hải Dương 237, Hưng Yên 237, Thái Bình 238, Thái Nguyên 207. Các chuyên gia khuyến nghị tình trạng ô nhiễm không khí ở Hà Nội cũng như miền Bắc sẽ tiếp diễn. Người dân cần hạn chế tối đa hoạt động ngoài trời, khi phải ra ngoài cần đeo khẩu trang đạt tiêu chuẩn. Nhóm người nhạy cảm, có tiền sử bệnh hô hấp nên ở trong nhà và giảm hoạt động mạnh. Cả Bộ Tài nguyên và Môi trường cũng như TP Hà Nội đang triển khai nhiều kế hoạch để giảm thiểu ô nhiễm không khí. Trong đó có việc xây dựng vùng phát thải thấp, chuyển đổi phương tiện công cộng, thân thiện môi trường, rửa đường, quây rào ở các công trình xây dựng.",
+    "model_label": "REFUTED",
+    "human_label": "REFUTED",
+    "scores": {
+      "verifiability": 4,
+      "atomicity": 4,
+      "specificity": 4,
+      "clarity": 4,
+      "faithfulness": 4
+    },
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx15_claim45",
+    "claim": "Bộ Tài nguyên và Môi trường đã ban hành quy định mới về tiêu chuẩn khẩu trang trong phòng chống ô nhiễm không khí tại Hà Nội vào cuối năm 2023.",
+    "seed_context_id": "vne_6_chunk_1",
+    "seed_context": "Trang này đưa ra dự báo tình trạng ô nhiễm không khí ở Hà Nội sẽ giảm dần từ ngày mai. Đợt ô nhiễm không khí ở Hà Nội đã duy trì 7 ngày nay khi không khí lạnh suy yếu, đêm trời lạnh, ngày nắng hanh, các yếu tố giúp giảm ô nhiễm như gió, mưa gần như không có. Không chỉ Hà Nội mà nhiều tỉnh miền Bắc cũng đang đối mặt với tình trạng ô nhiễm không khí. Theo hệ thống quan trắc của Cục Kiểm soát ô nhiễm môi trường, một số trạm đã trên mức rất xấu như TP Bắc Giang (Bắc Giang) chỉ số AQI 237, Hải Dương 237, Hưng Yên 237, Thái Bình 238, Thái Nguyên 207. Các chuyên gia khuyến nghị tình trạng ô nhiễm không khí ở Hà Nội cũng như miền Bắc sẽ tiếp diễn. Người dân cần hạn chế tối đa hoạt động ngoài trời, khi phải ra ngoài cần đeo khẩu trang đạt tiêu chuẩn. Nhóm người nhạy cảm, có tiền sử bệnh hô hấp nên ở trong nhà và giảm hoạt động mạnh. Cả Bộ Tài nguyên và Môi trường cũng như TP Hà Nội đang triển khai nhiều kế hoạch để giảm thiểu ô nhiễm không khí. Trong đó có việc xây dựng vùng phát thải thấp, chuyển đổi phương tiện công cộng, thân thiện môi trường, rửa đường, quây rào ở các công trình xây dựng.",
+    "model_label": "NEI",
+    "human_label": "NOT_ENOUGH_INFO",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 4,
+      "specificity": 3,
+      "clarity": 3,
+      "faithfulness": 2
+    },
+    "claim_score": 15
+  },
+  {
+    "claim_id": "ctx16_claim46",
+    "claim": "UBND TP Hà Nội đã đồng ý cho quận Ba Đình nghiên cứu phương án nâng chiều cao tối đa lên 40 tầng đối với khu chung cư cũ Thành Công khi cải tạo, xây dựng lại.",
+    "seed_context_id": "vne_114_chunk_0",
+    "seed_context": "UBND TP Hà Nội vừa thống nhất cho quận Ba Đình nghiên cứu phương án nâng chiều cao tối đa lên 40 tầng đối với khu chung cư cũ Thành Công khi cải tạo, xây dựng lại. Theo ông Đỗ Hà Thanh, Trưởng phòng Kinh tế Hạ tầng quận Ba Đình, đồ án cải tạo chung cư cũ của quận được thực hiện trên cơ sở gom các tòa nhà chung cư cũ thành một tòa nhà cao tầng. Trước đây, quận đề xuất một số phương án nâng chiều cao các tòa nhà lên 25-30 tầng, nhưng sau khi xem xét, thành phố chỉ đạo có thể nâng lên 40 tầng để tạo thêm quỹ đất xây dựng công trình công cộng và cây xanh phục vụ người dân. Việc tăng số tầng phải đảm bảo nguyên tắc giảm mật độ xây dựng, tăng chiều cao nhưng không tăng số dân. \"Tăng chiều cao sẽ tạo ra quỹ đất sàn thương mại dịch vụ, giúp người dân tái định cư có nhu cầu mua thêm, đồng thời tăng sức hấp dẫn đối với các nhà đầu tư quan tâm đến cải tạo chung cư cũ\", ông Thanh nói. Theo ông, thành phố đã giao quận phối hợp với đơn vị tư vấn hoàn thiện phương án và trình Sở Quy hoạch Kiến trúc thẩm định để phê duyệt trước ngày 25/3.",
+    "model_label": "SUPPORTED",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "faithfulness": 4,
+      "verifiability": 3,
+      "atomicity": 4,
+      "specificity": 3,
+      "clarity": 3
+    },
+    "claim_score": 17
+  },
+  {
+    "claim_id": "ctx16_claim47",
+    "claim": "Ông Đỗ Hà Thanh, Trưởng phòng Kinh tế Hạ tầng quận Ba Đình, cho biết thành phố chỉ đạo có thể nâng chiều cao các tòa nhà chung cư cũ lên 25-30 tầng.",
+    "seed_context_id": "vne_114_chunk_0",
+    "seed_context": "UBND TP Hà Nội vừa thống nhất cho quận Ba Đình nghiên cứu phương án nâng chiều cao tối đa lên 40 tầng đối với khu chung cư cũ Thành Công khi cải tạo, xây dựng lại. Theo ông Đỗ Hà Thanh, Trưởng phòng Kinh tế Hạ tầng quận Ba Đình, đồ án cải tạo chung cư cũ của quận được thực hiện trên cơ sở gom các tòa nhà chung cư cũ thành một tòa nhà cao tầng. Trước đây, quận đề xuất một số phương án nâng chiều cao các tòa nhà lên 25-30 tầng, nhưng sau khi xem xét, thành phố chỉ đạo có thể nâng lên 40 tầng để tạo thêm quỹ đất xây dựng công trình công cộng và cây xanh phục vụ người dân. Việc tăng số tầng phải đảm bảo nguyên tắc giảm mật độ xây dựng, tăng chiều cao nhưng không tăng số dân. \"Tăng chiều cao sẽ tạo ra quỹ đất sàn thương mại dịch vụ, giúp người dân tái định cư có nhu cầu mua thêm, đồng thời tăng sức hấp dẫn đối với các nhà đầu tư quan tâm đến cải tạo chung cư cũ\", ông Thanh nói. Theo ông, thành phố đã giao quận phối hợp với đơn vị tư vấn hoàn thiện phương án và trình Sở Quy hoạch Kiến trúc thẩm định để phê duyệt trước ngày 25/3.",
+    "model_label": "REFUTED",
+    "human_label": "REFUTED",
+    "scores": {
+      "verifiability": 2,
+      "atomicity": 3,
+      "specificity": 3,
+      "clarity": 3,
+      "faithfulness": 3
+    },
+    "claim_score": 14
+  },
+  {
+    "claim_id": "ctx16_claim48",
+    "claim": "Quận Ba Đình phối hợp với đơn vị tư vấn hoàn thiện phương án và trình Sở Quy hoạch Kiến trúc thẩm định để phê duyệt trước ngày 25/4.",
+    "seed_context_id": "vne_114_chunk_0",
+    "seed_context": "UBND TP Hà Nội vừa thống nhất cho quận Ba Đình nghiên cứu phương án nâng chiều cao tối đa lên 40 tầng đối với khu chung cư cũ Thành Công khi cải tạo, xây dựng lại. Theo ông Đỗ Hà Thanh, Trưởng phòng Kinh tế Hạ tầng quận Ba Đình, đồ án cải tạo chung cư cũ của quận được thực hiện trên cơ sở gom các tòa nhà chung cư cũ thành một tòa nhà cao tầng. Trước đây, quận đề xuất một số phương án nâng chiều cao các tòa nhà lên 25-30 tầng, nhưng sau khi xem xét, thành phố chỉ đạo có thể nâng lên 40 tầng để tạo thêm quỹ đất xây dựng công trình công cộng và cây xanh phục vụ người dân. Việc tăng số tầng phải đảm bảo nguyên tắc giảm mật độ xây dựng, tăng chiều cao nhưng không tăng số dân. \"Tăng chiều cao sẽ tạo ra quỹ đất sàn thương mại dịch vụ, giúp người dân tái định cư có nhu cầu mua thêm, đồng thời tăng sức hấp dẫn đối với các nhà đầu tư quan tâm đến cải tạo chung cư cũ\", ông Thanh nói. Theo ông, thành phố đã giao quận phối hợp với đơn vị tư vấn hoàn thiện phương án và trình Sở Quy hoạch Kiến trúc thẩm định để phê duyệt trước ngày 25/3.",
+    "model_label": "NEI",
+    "human_label": "REFUTED",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 3,
+      "specificity": 4,
+      "clarity": 4,
+      "faithfulness": 4
+    },
+    "claim_score": 18
+  },
+  {
+    "claim_id": "ctx17_claim49",
+    "claim": "Chủ tịch Ủy ban châu Âu Ursula von der Leyen nhấn mạnh rằng các lệnh trừng phạt từ Mỹ và gói trừng phạt sắp được thông qua của Liên minh châu Âu sẽ duy trì áp lực tập thể lên Nga.",
+    "seed_context_id": "vne_942_chunk_5",
+    "seed_context": "Chủ tịch Ủy ban châu Âu (EC) Ursula von der Leyen ngay lập tức ca ngợi lệnh trừng phạt từ Mỹ, nhấn mạnh cùng với gói trừng phạt thứ 19 của Liên minh châu Âu (EU) sắp được thông qua, chúng sẽ gửi đi tín hiệu rõ ràng từ hai bờ Đại Tây Dương rằng áp lực tập thể lên Nga sẽ được duy trì. EU dự kiến áp lệnh cấm nhập khẩu khí tự nhiên hóa lỏng Nga, đưa các tàu chở dầu thuộc \"hạm đội bóng tối\" của Nga vào danh sách đen, cấm giao dịch tài chính với Rosneft và Gazprom Neft, đồng thời nhắm mục tiêu vào một số ngân hàng và thực thể Nga đang giúp Moskva né tránh những lệnh trừng phạt hiện có. Động thái từ chính quyền Trump \"là rất quan trọng vì đây là lần đầu tiên Mỹ sử dụng các biện pháp trừng phạt trực tiếp đánh vào điểm yếu nhất của Nga, nguồn thu từ dầu mỏ\", Michael Carpenter, chuyên gia cấp cao tại Viện Nghiên cứu Chiến lược Quốc tế (IISS), trụ sở tại London, Anh, bình luận. Chính quyền cựu tổng thống Barack Obama từng nhắm mục tiêu vào hoạt động thăm dò dầu mỏ phi truyền thống, dưới vùng nước sâu và ở Bắc Cực của các công ty dầu mỏ Nga, nhưng hành động mới nhất từ Tổng thống Trump còn quyết liệt hơn thế khi trừng phạt toàn diện những công ty này, Carpenter nói thêm.",
+    "model_label": "SUPPORTED",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 3,
+      "specificity": 3,
+      "clarity": 4,
+      "faithfulness": 4
+    },
+    "claim_score": 17
+  },
+  {
+    "claim_id": "ctx17_claim50",
+    "claim": "Michael Carpenter, chuyên gia cấp cao tại Viện Nghiên cứu Chiến lược Quốc tế, cho rằng hành động của chính quyền cựu tổng thống Barack Obama quyết liệt hơn lệnh trừng phạt toàn diện của Tổng thống Trump nhắm vào các công ty dầu mỏ Nga.",
+    "seed_context_id": "vne_942_chunk_5",
+    "seed_context": "Chủ tịch Ủy ban châu Âu (EC) Ursula von der Leyen ngay lập tức ca ngợi lệnh trừng phạt từ Mỹ, nhấn mạnh cùng với gói trừng phạt thứ 19 của Liên minh châu Âu (EU) sắp được thông qua, chúng sẽ gửi đi tín hiệu rõ ràng từ hai bờ Đại Tây Dương rằng áp lực tập thể lên Nga sẽ được duy trì. EU dự kiến áp lệnh cấm nhập khẩu khí tự nhiên hóa lỏng Nga, đưa các tàu chở dầu thuộc \"hạm đội bóng tối\" của Nga vào danh sách đen, cấm giao dịch tài chính với Rosneft và Gazprom Neft, đồng thời nhắm mục tiêu vào một số ngân hàng và thực thể Nga đang giúp Moskva né tránh những lệnh trừng phạt hiện có. Động thái từ chính quyền Trump \"là rất quan trọng vì đây là lần đầu tiên Mỹ sử dụng các biện pháp trừng phạt trực tiếp đánh vào điểm yếu nhất của Nga, nguồn thu từ dầu mỏ\", Michael Carpenter, chuyên gia cấp cao tại Viện Nghiên cứu Chiến lược Quốc tế (IISS), trụ sở tại London, Anh, bình luận. Chính quyền cựu tổng thống Barack Obama từng nhắm mục tiêu vào hoạt động thăm dò dầu mỏ phi truyền thống, dưới vùng nước sâu và ở Bắc Cực của các công ty dầu mỏ Nga, nhưng hành động mới nhất từ Tổng thống Trump còn quyết liệt hơn thế khi trừng phạt toàn diện những công ty này, Carpenter nói thêm.",
+    "model_label": "REFUTED",
+    "human_label": "REFUTED",
+    "scores": {
+      "verifiability": 4,
+      "atomicity": 3,
+      "specificity": 4,
+      "clarity": 4,
+      "faithfulness": 4
+    },
+    "claim_score": 19
+  },
+  {
+    "claim_id": "ctx17_claim51",
+    "claim": "Tổng thống Trump đã tuyên bố rằng các biện pháp trừng phạt mới sẽ giúp Nga tăng cường xuất khẩu khí tự nhiên hóa lỏng sang châu Âu vào cuối năm 2024.",
+    "seed_context_id": "vne_942_chunk_5",
+    "seed_context": "Chủ tịch Ủy ban châu Âu (EC) Ursula von der Leyen ngay lập tức ca ngợi lệnh trừng phạt từ Mỹ, nhấn mạnh cùng với gói trừng phạt thứ 19 của Liên minh châu Âu (EU) sắp được thông qua, chúng sẽ gửi đi tín hiệu rõ ràng từ hai bờ Đại Tây Dương rằng áp lực tập thể lên Nga sẽ được duy trì. EU dự kiến áp lệnh cấm nhập khẩu khí tự nhiên hóa lỏng Nga, đưa các tàu chở dầu thuộc \"hạm đội bóng tối\" của Nga vào danh sách đen, cấm giao dịch tài chính với Rosneft và Gazprom Neft, đồng thời nhắm mục tiêu vào một số ngân hàng và thực thể Nga đang giúp Moskva né tránh những lệnh trừng phạt hiện có. Động thái từ chính quyền Trump \"là rất quan trọng vì đây là lần đầu tiên Mỹ sử dụng các biện pháp trừng phạt trực tiếp đánh vào điểm yếu nhất của Nga, nguồn thu từ dầu mỏ\", Michael Carpenter, chuyên gia cấp cao tại Viện Nghiên cứu Chiến lược Quốc tế (IISS), trụ sở tại London, Anh, bình luận. Chính quyền cựu tổng thống Barack Obama từng nhắm mục tiêu vào hoạt động thăm dò dầu mỏ phi truyền thống, dưới vùng nước sâu và ở Bắc Cực của các công ty dầu mỏ Nga, nhưng hành động mới nhất từ Tổng thống Trump còn quyết liệt hơn thế khi trừng phạt toàn diện những công ty này, Carpenter nói thêm.",
+    "model_label": "NEI",
+    "human_label": "NOT_ENOUGH_INFO",
+    "scores": {
+      "verifiability": 4,
+      "atomicity": 3,
+      "specificity": 4,
+      "clarity": 4,
+      "faithfulness": 4
+    },
+    "claim_score": 19
+  },
+  {
+    "claim_id": "ctx18_claim52",
+    "claim": "Đại diện Đội 6 khuyến cáo tài xế khi xe bị sự cố nên mặc áo phản quang và đặt chóp nón báo hiệu cách xa 150 m để xe phía sau sớm nhận biết.",
+    "seed_context_id": "vne_283_chunk_1",
+    "seed_context": "Ngoài ra, Đội 6 cũng phối hợp các lực lượng khác triển khai nhiều chuyên đề riêng theo kế hoạch của Cục CSGT. Tuy vậy, đơn vị này nhận định cao tốc thiếu làn dừng khẩn cấp bộc lộ một số bất cập. Để giảm thiểu rủi ro, CSGT khuyến cáo chủ xe, tài xế trang bị thêm phương tiện bảo hộ, áo phản quang, chóp nón báo hiệu. \"Khi xe bị sự cố, tài xế nên mặc áo phản quang, đặt chóp nón báo hiệu từ xa cách 150 m để xe phía sau sớm nhận biết\", đại diện Đội 6 nói. Cả nước hiện có hơn 2.000 km cao tốc, trong đó 654 km thuộc 11 dự án thành phần nằm trên trục Bắc - Nam phía Đông giai đoạn một (2017-2020), đồng loạt đưa vào khai thác những năm gần đây. Giai đoạn hai (2021-2025) cũng đang được triển khai với tổng chiều dài khoảng 721 km, trong đó cuối năm nay dự kiến 4 dự án thành phần hoàn thành. Do khó khăn nguồn vốn, nhiều đoạn được phân kỳ đầu tư với quy mô 2 làn xe, hoặc 4 làn, chưa có làn dừng khẩn cấp liên tục. Tuy nhiên, quá trình khai thác phát sinh nhiều bất cập nên thời gian qua, Chính phủ đã chỉ đạo các bộ ngành liên quan nghiên cứu phương án mở rộng, trong đó tính đến việc triển khai theo phương thức đối tác công tư (PPP) sau khi nhiều doanh nghiệp tư nhân đề xuất tham gia.",
+    "model_label": "SUPPORTED",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "verifiability": 2,
+      "atomicity": 3,
+      "specificity": 2,
+      "clarity": 3,
+      "faithfulness": 4
+    },
+    "claim_score": 14
+  },
+  {
+    "claim_id": "ctx18_claim53",
+    "claim": "Chính phủ đã chỉ đạo nghiên cứu phương án mở rộng các tuyến cao tốc Việt Nam theo hình thức đối tác công tư (PPP) sau khi các doanh nghiệp nhà nước đề xuất tham gia.",
+    "seed_context_id": "vne_283_chunk_1",
+    "seed_context": "Ngoài ra, Đội 6 cũng phối hợp các lực lượng khác triển khai nhiều chuyên đề riêng theo kế hoạch của Cục CSGT. Tuy vậy, đơn vị này nhận định cao tốc thiếu làn dừng khẩn cấp bộc lộ một số bất cập. Để giảm thiểu rủi ro, CSGT khuyến cáo chủ xe, tài xế trang bị thêm phương tiện bảo hộ, áo phản quang, chóp nón báo hiệu. \"Khi xe bị sự cố, tài xế nên mặc áo phản quang, đặt chóp nón báo hiệu từ xa cách 150 m để xe phía sau sớm nhận biết\", đại diện Đội 6 nói. Cả nước hiện có hơn 2.000 km cao tốc, trong đó 654 km thuộc 11 dự án thành phần nằm trên trục Bắc - Nam phía Đông giai đoạn một (2017-2020), đồng loạt đưa vào khai thác những năm gần đây. Giai đoạn hai (2021-2025) cũng đang được triển khai với tổng chiều dài khoảng 721 km, trong đó cuối năm nay dự kiến 4 dự án thành phần hoàn thành. Do khó khăn nguồn vốn, nhiều đoạn được phân kỳ đầu tư với quy mô 2 làn xe, hoặc 4 làn, chưa có làn dừng khẩn cấp liên tục. Tuy nhiên, quá trình khai thác phát sinh nhiều bất cập nên thời gian qua, Chính phủ đã chỉ đạo các bộ ngành liên quan nghiên cứu phương án mở rộng, trong đó tính đến việc triển khai theo phương thức đối tác công tư (PPP) sau khi nhiều doanh nghiệp tư nhân đề xuất tham gia.",
+    "model_label": "REFUTED",
+    "human_label": "REFUTED",
+    "scores": {
+      "verifiability": 4,
+      "atomicity": 2,
+      "specificity": 3,
+      "clarity": 3,
+      "faithfulness": 4
+    },
+    "claim_score": 16
+  },
+  {
+    "claim_id": "ctx18_claim54",
+    "claim": "Đội 6 đã phối hợp với các lực lượng khác triển khai các chuyên đề theo kế hoạch của Cục CSGT trên toàn bộ hơn 2.000 km cao tốc của cả nước vào năm 2019.",
+    "seed_context_id": "vne_283_chunk_1",
+    "seed_context": "Ngoài ra, Đội 6 cũng phối hợp các lực lượng khác triển khai nhiều chuyên đề riêng theo kế hoạch của Cục CSGT. Tuy vậy, đơn vị này nhận định cao tốc thiếu làn dừng khẩn cấp bộc lộ một số bất cập. Để giảm thiểu rủi ro, CSGT khuyến cáo chủ xe, tài xế trang bị thêm phương tiện bảo hộ, áo phản quang, chóp nón báo hiệu. \"Khi xe bị sự cố, tài xế nên mặc áo phản quang, đặt chóp nón báo hiệu từ xa cách 150 m để xe phía sau sớm nhận biết\", đại diện Đội 6 nói. Cả nước hiện có hơn 2.000 km cao tốc, trong đó 654 km thuộc 11 dự án thành phần nằm trên trục Bắc - Nam phía Đông giai đoạn một (2017-2020), đồng loạt đưa vào khai thác những năm gần đây. Giai đoạn hai (2021-2025) cũng đang được triển khai với tổng chiều dài khoảng 721 km, trong đó cuối năm nay dự kiến 4 dự án thành phần hoàn thành. Do khó khăn nguồn vốn, nhiều đoạn được phân kỳ đầu tư với quy mô 2 làn xe, hoặc 4 làn, chưa có làn dừng khẩn cấp liên tục. Tuy nhiên, quá trình khai thác phát sinh nhiều bất cập nên thời gian qua, Chính phủ đã chỉ đạo các bộ ngành liên quan nghiên cứu phương án mở rộng, trong đó tính đến việc triển khai theo phương thức đối tác công tư (PPP) sau khi nhiều doanh nghiệp tư nhân đề xuất tham gia.",
+    "model_label": "NEI",
+    "human_label": "NOT_ENOUGH_INFO",
+    "scores": {
+      "verifiability": 2,
+      "atomicity": 3,
+      "specificity": 3,
+      "clarity": 3,
+      "faithfulness": 3
+    },
+    "claim_score": 14
+  },
+  {
+    "claim_id": "ctx19_claim55",
+    "claim": "Trong bài phát biểu đầu nhiệm kỳ tại Đồi Capitol ngày 4/3, Tổng thống Mỹ Donald Trump đã đề cập đến Lesotho khi liệt kê các khoản chi tiêu chính phủ mà ông cho là lãng phí, cụ thể là 8 triệu USD cho quyền LGBTQI+.",
+    "seed_context_id": "vne_628_chunk_0",
+    "seed_context": "Chính phủ Lesotho bày tỏ nỗi sốc khi Tổng thống Mỹ nói \"chưa ai nghe đến nước này\" trong phát biểu trước quốc hội. Trong bài phát biểu đầu nhiệm kỳ trước lưỡng viện quốc hội tại Đồi Capitol ngày 4/3, Tổng thống Mỹ Donald Trump nhắc đến Lesotho khi ông liệt kê các khoản chi tiêu của chính phủ mà ông cho là lãng phí. \"8 triệu USD để thúc đẩy quyền LGBTQI+ tại Lesotho, quốc gia châu Phi mà chưa ai từng nghe đến\", ông Trump nói trong khi các quan chức và nghị sĩ đảng Cộng hòa bật cười. Lesotho là vương quốc ở cực nam châu Phi, nằm hoàn toàn bên trong Nam Phi và là thành viên của Khối Thịnh vượng chung. Đất nước có dân số 2,2 triệu người, diện tích hơn 30. 000 km2, nằm ở dãy núi Maloti, nơi có đỉnh núi cao nhất châu Phi. Lesotho có biệt danh là \"vương quốc núi\" hay \"vương quốc trên trời\". Sau bài phát biểu của ông Trump, Ngoại trưởng Lesotho Lejone Mpotjoane bày tỏ nỗi sốc khi Tổng thống Mỹ \"gọi một quốc gia có chủ quyền theo cách này\". \"Tôi rất ngạc nhiên khi quốc gia 'chưa ai từng nghe đến' lại là nước mà Mỹ có phái bộ thường trực\", ông Mpotjoane nói.",
+    "model_label": "SUPPORTED",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "verifiability": 4,
+      "atomicity": 2,
+      "specificity": 3,
+      "clarity": 2,
+      "faithfulness": 4
+    },
+    "claim_score": 15
+  },
+  {
+    "claim_id": "ctx19_claim56",
+    "claim": "Trong bài phát biểu trước quốc hội ngày 4/3, Tổng thống Mỹ Donald Trump đã ca ngợi Lesotho là một quốc gia châu Phi quan trọng và được nhiều người biết đến, đồng thời nhấn mạnh các khoản đầu tư của Mỹ tại đây.",
+    "seed_context_id": "vne_628_chunk_0",
+    "seed_context": "Chính phủ Lesotho bày tỏ nỗi sốc khi Tổng thống Mỹ nói \"chưa ai nghe đến nước này\" trong phát biểu trước quốc hội. Trong bài phát biểu đầu nhiệm kỳ trước lưỡng viện quốc hội tại Đồi Capitol ngày 4/3, Tổng thống Mỹ Donald Trump nhắc đến Lesotho khi ông liệt kê các khoản chi tiêu của chính phủ mà ông cho là lãng phí. \"8 triệu USD để thúc đẩy quyền LGBTQI+ tại Lesotho, quốc gia châu Phi mà chưa ai từng nghe đến\", ông Trump nói trong khi các quan chức và nghị sĩ đảng Cộng hòa bật cười. Lesotho là vương quốc ở cực nam châu Phi, nằm hoàn toàn bên trong Nam Phi và là thành viên của Khối Thịnh vượng chung. Đất nước có dân số 2,2 triệu người, diện tích hơn 30. 000 km2, nằm ở dãy núi Maloti, nơi có đỉnh núi cao nhất châu Phi. Lesotho có biệt danh là \"vương quốc núi\" hay \"vương quốc trên trời\". Sau bài phát biểu của ông Trump, Ngoại trưởng Lesotho Lejone Mpotjoane bày tỏ nỗi sốc khi Tổng thống Mỹ \"gọi một quốc gia có chủ quyền theo cách này\". \"Tôi rất ngạc nhiên khi quốc gia 'chưa ai từng nghe đến' lại là nước mà Mỹ có phái bộ thường trực\", ông Mpotjoane nói.",
+    "model_label": "REFUTED",
+    "human_label": "REFUTED",
+    "scores": {
+      "verifiability": 4,
+      "atomicity": 2,
+      "specificity": 3,
+      "clarity": 3,
+      "faithfulness": 3
+    },
+    "claim_score": 15
+  },
+  {
+    "claim_id": "ctx19_claim57",
+    "claim": "Ngoại trưởng Lesotho Lejone Mpotjoane đã gửi thư phản đối chính thức tới Nhà Trắng vào ngày 5/3 về việc Tổng thống Mỹ Donald Trump miệt thị Lesotho trong bài phát biểu.",
+    "seed_context_id": "vne_628_chunk_0",
+    "seed_context": "Chính phủ Lesotho bày tỏ nỗi sốc khi Tổng thống Mỹ nói \"chưa ai nghe đến nước này\" trong phát biểu trước quốc hội. Trong bài phát biểu đầu nhiệm kỳ trước lưỡng viện quốc hội tại Đồi Capitol ngày 4/3, Tổng thống Mỹ Donald Trump nhắc đến Lesotho khi ông liệt kê các khoản chi tiêu của chính phủ mà ông cho là lãng phí. \"8 triệu USD để thúc đẩy quyền LGBTQI+ tại Lesotho, quốc gia châu Phi mà chưa ai từng nghe đến\", ông Trump nói trong khi các quan chức và nghị sĩ đảng Cộng hòa bật cười. Lesotho là vương quốc ở cực nam châu Phi, nằm hoàn toàn bên trong Nam Phi và là thành viên của Khối Thịnh vượng chung. Đất nước có dân số 2,2 triệu người, diện tích hơn 30. 000 km2, nằm ở dãy núi Maloti, nơi có đỉnh núi cao nhất châu Phi. Lesotho có biệt danh là \"vương quốc núi\" hay \"vương quốc trên trời\". Sau bài phát biểu của ông Trump, Ngoại trưởng Lesotho Lejone Mpotjoane bày tỏ nỗi sốc khi Tổng thống Mỹ \"gọi một quốc gia có chủ quyền theo cách này\". \"Tôi rất ngạc nhiên khi quốc gia 'chưa ai từng nghe đến' lại là nước mà Mỹ có phái bộ thường trực\", ông Mpotjoane nói.",
+    "model_label": "NEI",
+    "human_label": "NOT_ENOUGH_INFO",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 4,
+      "specificity": 4,
+      "clarity": 3,
+      "faithfulness": 3
+    },
+    "claim_score": 17
+  },
+  {
+    "claim_id": "ctx20_claim58",
+    "claim": "Vào một ngày cụ thể, dữ liệu vệ tinh trên Hệ thống Quản lý Tài nguyên Thông tin về Hỏa hoạn (FIRMS) của NASA cho thấy đám cháy tại một khu công nghiệp ở phía đông Kharkov cũng như tại nhà máy sản xuất phi cơ ở phía bắc thành phố sau cuộc tập kích của UAV Nga.",
+    "seed_context_id": "vne_812_chunk_2",
+    "seed_context": "Trong khi đó, sân bay quốc tế Zhulyany ở quận Solomiansky là nơi đặt trận địa phòng không Patriot bảo vệ thủ đô. Dữ liệu vệ tinh trên Hệ thống Quản lý Tài nguyên Thông tin về Hỏa hoạn (FIRMS) của NASA cùng ngày cho thấy đám cháy tại một khu công nghiệp ở phía đông Kharkov, cũng như tại nhà máy sản xuất phi cơ ở phía bắc thành phố sau cuộc tập kích của UAV Nga. Bộ Quốc phòng Nga thông báo đã tiến hành cuộc tập kích hiệp đồng bằng vũ khí tầm xa chính xác cao phóng từ trên không, mặt đất và trên biển, trong đó có tên lửa siêu vượt âm Kinzhal, nhằm vào các doanh nghiệp công nghiệp quốc phòng và hạ tầng sân bay quân sự của Ukraine. \"Đòn tấn công đã hoàn tất nhiệm vụ đề ra. Tất cả mục tiêu chỉ định đều bị đánh trúng\", cơ quan này cho hay. Trong bản tin cập nhật tình hình chiến trường sau đó, Bộ Quốc phòng Nga cho biết đã phá hủy ba bệ phóng và một radar hỏa lực AN/MPQ-65 của tổ hợp phòng không Patriot trong vòng 24 giờ qua, song không nêu địa điểm cụ thể. Nga gần đây tiến hành nhiều cuộc tập kích hiệp đồng quy mô lớn bằng tên lửa và UAV nhằm vào Ukraine, trong lúc đối phương thiếu hụt nghiêm trọng tên lửa phòng không, đặc biệt là đạn cho tổ hợp Patriot, sau khi Mỹ đình chỉ viện trợ quân sự.",
+    "model_label": "SUPPORTED",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "verifiability": 2,
+      "atomicity": 3,
+      "specificity": 3,
+      "clarity": 3,
+      "faithfulness": 3
+    },
+    "claim_score": 14
+  },
+  {
+    "claim_id": "ctx20_claim59",
+    "claim": "Vào ngày 18 tháng 5 năm 2023, Bộ Quốc phòng Nga cho biết đã phá hủy bốn bệ phóng và một radar hỏa lực AN/MPQ-65 của tổ hợp phòng không Patriot tại sân bay quốc tế Zhulyany.",
+    "seed_context_id": "vne_812_chunk_2",
+    "seed_context": "Trong khi đó, sân bay quốc tế Zhulyany ở quận Solomiansky là nơi đặt trận địa phòng không Patriot bảo vệ thủ đô. Dữ liệu vệ tinh trên Hệ thống Quản lý Tài nguyên Thông tin về Hỏa hoạn (FIRMS) của NASA cùng ngày cho thấy đám cháy tại một khu công nghiệp ở phía đông Kharkov, cũng như tại nhà máy sản xuất phi cơ ở phía bắc thành phố sau cuộc tập kích của UAV Nga. Bộ Quốc phòng Nga thông báo đã tiến hành cuộc tập kích hiệp đồng bằng vũ khí tầm xa chính xác cao phóng từ trên không, mặt đất và trên biển, trong đó có tên lửa siêu vượt âm Kinzhal, nhằm vào các doanh nghiệp công nghiệp quốc phòng và hạ tầng sân bay quân sự của Ukraine. \"Đòn tấn công đã hoàn tất nhiệm vụ đề ra. Tất cả mục tiêu chỉ định đều bị đánh trúng\", cơ quan này cho hay. Trong bản tin cập nhật tình hình chiến trường sau đó, Bộ Quốc phòng Nga cho biết đã phá hủy ba bệ phóng và một radar hỏa lực AN/MPQ-65 của tổ hợp phòng không Patriot trong vòng 24 giờ qua, song không nêu địa điểm cụ thể. Nga gần đây tiến hành nhiều cuộc tập kích hiệp đồng quy mô lớn bằng tên lửa và UAV nhằm vào Ukraine, trong lúc đối phương thiếu hụt nghiêm trọng tên lửa phòng không, đặc biệt là đạn cho tổ hợp Patriot, sau khi Mỹ đình chỉ viện trợ quân sự.",
+    "model_label": "REFUTED",
+    "human_label": "NOT_ENOUGH_INFO",
+    "scores": {
+      "verifiability": 2,
+      "atomicity": 3,
+      "specificity": 2,
+      "clarity": 2,
+      "faithfulness": 3
+    },
+    "claim_score": 12
+  },
+  {
+    "claim_id": "ctx20_claim60",
+    "claim": "Sân bay quốc tế Zhulyany, nơi đặt trận địa phòng không Patriot bảo vệ thủ đô, đã được nâng cấp cơ sở hạ tầng vào cuối năm 2022 để tăng cường khả năng phòng thủ.",
+    "seed_context_id": "vne_812_chunk_2",
+    "seed_context": "Trong khi đó, sân bay quốc tế Zhulyany ở quận Solomiansky là nơi đặt trận địa phòng không Patriot bảo vệ thủ đô. Dữ liệu vệ tinh trên Hệ thống Quản lý Tài nguyên Thông tin về Hỏa hoạn (FIRMS) của NASA cùng ngày cho thấy đám cháy tại một khu công nghiệp ở phía đông Kharkov, cũng như tại nhà máy sản xuất phi cơ ở phía bắc thành phố sau cuộc tập kích của UAV Nga. Bộ Quốc phòng Nga thông báo đã tiến hành cuộc tập kích hiệp đồng bằng vũ khí tầm xa chính xác cao phóng từ trên không, mặt đất và trên biển, trong đó có tên lửa siêu vượt âm Kinzhal, nhằm vào các doanh nghiệp công nghiệp quốc phòng và hạ tầng sân bay quân sự của Ukraine. \"Đòn tấn công đã hoàn tất nhiệm vụ đề ra. Tất cả mục tiêu chỉ định đều bị đánh trúng\", cơ quan này cho hay. Trong bản tin cập nhật tình hình chiến trường sau đó, Bộ Quốc phòng Nga cho biết đã phá hủy ba bệ phóng và một radar hỏa lực AN/MPQ-65 của tổ hợp phòng không Patriot trong vòng 24 giờ qua, song không nêu địa điểm cụ thể. Nga gần đây tiến hành nhiều cuộc tập kích hiệp đồng quy mô lớn bằng tên lửa và UAV nhằm vào Ukraine, trong lúc đối phương thiếu hụt nghiêm trọng tên lửa phòng không, đặc biệt là đạn cho tổ hợp Patriot, sau khi Mỹ đình chỉ viện trợ quân sự.",
+    "model_label": "NEI",
+    "human_label": "NOT_ENOUGH_INFO",
+    "scores": {
+      "verifiability": 2,
+      "atomicity": 3,
+      "specificity": 4,
+      "clarity": 2,
+      "faithfulness": 2
+    },
+    "claim_score": 13
+  },
+  {
+    "claim_id": "ctx21_claim61",
+    "claim": "Vào tháng 9/2024, Tổng công ty Đường sắt Việt Nam đã cân nhắc sử dụng tàu hàng để giữ cầu Đuống và Long Biên sau bão Yagi.",
+    "seed_context_id": "vne_408_chunk_1",
+    "seed_context": "Theo Tổng công ty Đường sắt Việt Nam, phương án dùng tàu hàng để tăng tải trọng, trấn giữ cầu từng được thực hiện tại cầu Long Biên năm 1971 khi nước sông Hồng dâng cao. Tháng 9/2024, sau bão Yagi, phương án này cũng được tính tới để giữ cầu Đuống và Long Biên, nhưng không thực hiện vì nước sông Hồng không lên nữa. Chiều 9/10, nước lũ từ thượng nguồn đổ về mạnh đã cuốn phăng khoảng 20 m lớp nền và đá trên tuyến đường sắt Hà Nội - Thái Nguyên, đoạn qua xã Trung Giã (huyện Sóc Sơn cũ), để lại hai thanh ray trơ trên không. Sự cố chỉ ảnh hưởng về hạ tầng vì tuyến Hà Nội - Thái Nguyên hiện không còn chạy tàu khách, chỉ phục vụ chở hàng với tần suất khoảng 3-4 chuyến mỗi tháng. Các đơn vị liên quan đang lên phương án sửa chữa, gia cố lại đoạn bị hỏng.",
+    "model_label": "SUPPORTED",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "verifiability": 4,
+      "atomicity": 4,
+      "specificity": 3,
+      "clarity": 4,
+      "faithfulness": 4
+    },
+    "claim_score": 19
+  },
+  {
+    "claim_id": "ctx21_claim62",
+    "claim": "Khoảng 20 mét lớp nền và đá trên tuyến đường sắt Hà Nội - Thái Nguyên, đoạn qua xã Trung Giã (huyện Sóc Sơn cũ) đã bị lũ cuốn trôi vào chiều 10/10, khiến hai thanh ray trơ trên không.",
+    "seed_context_id": "vne_408_chunk_1",
+    "seed_context": "Theo Tổng công ty Đường sắt Việt Nam, phương án dùng tàu hàng để tăng tải trọng, trấn giữ cầu từng được thực hiện tại cầu Long Biên năm 1971 khi nước sông Hồng dâng cao. Tháng 9/2024, sau bão Yagi, phương án này cũng được tính tới để giữ cầu Đuống và Long Biên, nhưng không thực hiện vì nước sông Hồng không lên nữa. Chiều 9/10, nước lũ từ thượng nguồn đổ về mạnh đã cuốn phăng khoảng 20 m lớp nền và đá trên tuyến đường sắt Hà Nội - Thái Nguyên, đoạn qua xã Trung Giã (huyện Sóc Sơn cũ), để lại hai thanh ray trơ trên không. Sự cố chỉ ảnh hưởng về hạ tầng vì tuyến Hà Nội - Thái Nguyên hiện không còn chạy tàu khách, chỉ phục vụ chở hàng với tần suất khoảng 3-4 chuyến mỗi tháng. Các đơn vị liên quan đang lên phương án sửa chữa, gia cố lại đoạn bị hỏng.",
+    "model_label": "REFUTED",
+    "human_label": "REFUTED",
+    "scores": {
+      "verifiability": 4,
+      "atomicity": 2,
+      "specificity": 4,
+      "clarity": 3,
+      "faithfulness": 4
+    },
+    "claim_score": 17
+  },
+  {
+    "claim_id": "ctx21_claim63",
+    "claim": "Tổng công ty Đường sắt Việt Nam đã đề xuất phương án gia cố cầu Long Biên bằng tàu hàng vào năm 1971 để đối phó với nước sông Hồng dâng cao.",
+    "seed_context_id": "vne_408_chunk_1",
+    "seed_context": "Theo Tổng công ty Đường sắt Việt Nam, phương án dùng tàu hàng để tăng tải trọng, trấn giữ cầu từng được thực hiện tại cầu Long Biên năm 1971 khi nước sông Hồng dâng cao. Tháng 9/2024, sau bão Yagi, phương án này cũng được tính tới để giữ cầu Đuống và Long Biên, nhưng không thực hiện vì nước sông Hồng không lên nữa. Chiều 9/10, nước lũ từ thượng nguồn đổ về mạnh đã cuốn phăng khoảng 20 m lớp nền và đá trên tuyến đường sắt Hà Nội - Thái Nguyên, đoạn qua xã Trung Giã (huyện Sóc Sơn cũ), để lại hai thanh ray trơ trên không. Sự cố chỉ ảnh hưởng về hạ tầng vì tuyến Hà Nội - Thái Nguyên hiện không còn chạy tàu khách, chỉ phục vụ chở hàng với tần suất khoảng 3-4 chuyến mỗi tháng. Các đơn vị liên quan đang lên phương án sửa chữa, gia cố lại đoạn bị hỏng.",
+    "model_label": "NEI",
+    "human_label": "REFUTED",
+    "scores": {
+      "verifiability": 4,
+      "atomicity": 3,
+      "specificity": 4,
+      "faithfulness": 3,
+      "clarity": 4
+    },
+    "claim_score": 18
+  },
+  {
+    "claim_id": "ctx22_claim64",
+    "claim": "Vào ngày 9/4, Bộ Tài chính Trung Quốc thông báo áp thuế 84% đối với hàng nhập khẩu từ Mỹ bắt đầu từ ngày 10/4 để đáp trả đòn thuế của Washington.",
+    "seed_context_id": "vne_673_chunk_2",
+    "seed_context": "Ngày 9/4, khi mức thuế 84% của Mỹ có hiệu lực, Trung Quốc thông báo sẽ trả đũa quyết liệt. Phát ngôn viên Bộ Ngoại giao Trung Quốc Lâm Kiếm tuyên bố Trung Quốc \"không bao giờ chấp nhận hành vi ngạo mạn và bắt nạt\" và \"chắc chắn sẽ đáp trả\". Bộ Tài chính Trung Quốc cuối chiều 9/4 thông báo từ 10/4 sẽ áp thuế 84% với hàng nhập khẩu Mỹ để đáp trả đòn thuế của Washington. Bộ Thương mại Trung Quốc cũng đưa 12 công ty Mỹ vào danh sách kiểm soát xuất khẩu và 6 doanh nghiệp vào danh sách \"thực thể không đáng tin cậy\". Phản ứng này của Trung Quốc dường như khác xa với kỳ vọng của ông Trump. Tổng thống Mỹ hôm 9/4 tuyên bố ông đang chờ cuộc gọi từ Chủ tịch Trung Quốc Tập Cận Bình và tin rằng Bắc Kinh \"rất muốn đàm phán\", chỉ là \"chưa biết phải bắt đầu như thế nào\". Khoảng 6 giờ sau, ông Trump thông báo tăng thuế với Trung Quốc từ 104% lên 125%, trong khi giảm thuế đối ứng còn 10%, hoãn thi hành 90 ngày, với hơn 75 quốc gia đã liên lạc với giới chức Mỹ để đàm phán thỏa thuận thương mại và \"không trả đũa\" đòn thuế.",
+    "model_label": "SUPPORTED",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "verifiability": 4,
+      "atomicity": 4,
+      "specificity": 4,
+      "clarity": 4,
+      "faithfulness": 4
+    },
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx22_claim65",
+    "claim": "Vào ngày 9/4, Tổng thống Mỹ Donald Trump tuyên bố ông đang chờ cuộc gọi từ Chủ tịch Trung Quốc Tập Cận Bình và tin rằng Bắc Kinh muốn đàm phán về thỏa thuận thương mại.",
+    "seed_context_id": "vne_673_chunk_2",
+    "seed_context": "Ngày 9/4, khi mức thuế 84% của Mỹ có hiệu lực, Trung Quốc thông báo sẽ trả đũa quyết liệt. Phát ngôn viên Bộ Ngoại giao Trung Quốc Lâm Kiếm tuyên bố Trung Quốc \"không bao giờ chấp nhận hành vi ngạo mạn và bắt nạt\" và \"chắc chắn sẽ đáp trả\". Bộ Tài chính Trung Quốc cuối chiều 9/4 thông báo từ 10/4 sẽ áp thuế 84% với hàng nhập khẩu Mỹ để đáp trả đòn thuế của Washington. Bộ Thương mại Trung Quốc cũng đưa 12 công ty Mỹ vào danh sách kiểm soát xuất khẩu và 6 doanh nghiệp vào danh sách \"thực thể không đáng tin cậy\". Phản ứng này của Trung Quốc dường như khác xa với kỳ vọng của ông Trump. Tổng thống Mỹ hôm 9/4 tuyên bố ông đang chờ cuộc gọi từ Chủ tịch Trung Quốc Tập Cận Bình và tin rằng Bắc Kinh \"rất muốn đàm phán\", chỉ là \"chưa biết phải bắt đầu như thế nào\". Khoảng 6 giờ sau, ông Trump thông báo tăng thuế với Trung Quốc từ 104% lên 125%, trong khi giảm thuế đối ứng còn 10%, hoãn thi hành 90 ngày, với hơn 75 quốc gia đã liên lạc với giới chức Mỹ để đàm phán thỏa thuận thương mại và \"không trả đũa\" đòn thuế.",
+    "model_label": "REFUTED",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "verifiability": 4,
+      "atomicity": 3,
+      "specificity": 4,
+      "clarity": 4,
+      "faithfulness": 4
+    },
+    "claim_score": 19
+  },
+  {
+    "claim_id": "ctx22_claim66",
+    "claim": "Vào ngày 10/4, Bộ Thương mại Trung Quốc đã công bố chi tiết về các công ty Mỹ bị đưa vào danh sách kiểm soát xuất khẩu và danh sách 'thực thể không đáng tin cậy'.",
+    "seed_context_id": "vne_673_chunk_2",
+    "seed_context": "Ngày 9/4, khi mức thuế 84% của Mỹ có hiệu lực, Trung Quốc thông báo sẽ trả đũa quyết liệt. Phát ngôn viên Bộ Ngoại giao Trung Quốc Lâm Kiếm tuyên bố Trung Quốc \"không bao giờ chấp nhận hành vi ngạo mạn và bắt nạt\" và \"chắc chắn sẽ đáp trả\". Bộ Tài chính Trung Quốc cuối chiều 9/4 thông báo từ 10/4 sẽ áp thuế 84% với hàng nhập khẩu Mỹ để đáp trả đòn thuế của Washington. Bộ Thương mại Trung Quốc cũng đưa 12 công ty Mỹ vào danh sách kiểm soát xuất khẩu và 6 doanh nghiệp vào danh sách \"thực thể không đáng tin cậy\". Phản ứng này của Trung Quốc dường như khác xa với kỳ vọng của ông Trump. Tổng thống Mỹ hôm 9/4 tuyên bố ông đang chờ cuộc gọi từ Chủ tịch Trung Quốc Tập Cận Bình và tin rằng Bắc Kinh \"rất muốn đàm phán\", chỉ là \"chưa biết phải bắt đầu như thế nào\". Khoảng 6 giờ sau, ông Trump thông báo tăng thuế với Trung Quốc từ 104% lên 125%, trong khi giảm thuế đối ứng còn 10%, hoãn thi hành 90 ngày, với hơn 75 quốc gia đã liên lạc với giới chức Mỹ để đàm phán thỏa thuận thương mại và \"không trả đũa\" đòn thuế.",
+    "model_label": "NEI",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 3,
+      "specificity": 4,
+      "clarity": 3,
+      "faithfulness": 4
+    },
+    "claim_score": 17
+  },
+  {
+    "claim_id": "ctx23_claim67",
+    "claim": "Cao tốc Bến Lức - Long Thành dài gần 58 km, với dự kiến hoàn thành toàn tuyến vào năm 2026.",
+    "seed_context_id": "vne_181_chunk_0",
+    "seed_context": "Cao tốc Bến Lức - Long Thành dài gần 58 km. Từ tháng 2, VEC đưa vào khai thác 10 km và cuối tháng 4 đã thêm 18 km. Các đoạn đường đã khai thác đi qua tỉnh Long An, phía tây TP HCM và cuối tuyến ở Đồng Nai. Toàn tuyến dự kiến hoàn thành vào năm 2026. VEC (đơn vị chủ đầu tư) đề xuất phương án thu phí 2.000 đồng/km/xe quy chuẩn (CPU), chu kỳ điều chỉnh giá được đề xuất là ba năm/lần, mỗi lần tăng 12%. Theo VEC, việc sớm tổ chức thu phí nhằm đảm bảo hiệu quả đầu tư, vận hành ổn định và duy trì an toàn tài chính. Đây cũng là nguồn thu chính để đơn vị thực hiện nghĩa vụ trả nợ gốc, lãi vay ODA và duy trì hoạt động vận hành các tuyến cao tốc khác. Ngoài ra, do tuyến đường đi qua địa hình phức tạp, nhiều công trình kỹ thuật lớn như cầu vượt sông, hầm chui dân sinh có chi phí bảo trì, quản lý, vận hành rất cao. Không thu phí sẽ khiến VEC thiếu kinh phí để duy tu, bảo dưỡng định kỳ, tiềm ẩn nguy cơ mất an toàn giao thông. Mức phí 2.000 đồng/km được cho là phù hợp với phương án tài chính đã được Bộ Xây dựng phê duyệt, đồng thời đảm bảo hài hòa giữa khả năng chi trả của người dân và yêu cầu tài chính của doanh nghiệp.",
+    "model_label": "SUPPORTED",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 4,
+      "specificity": 4,
+      "clarity": 4,
+      "faithfulness": 4
+    },
+    "claim_score": 19
+  },
+  {
+    "claim_id": "ctx23_claim68",
+    "claim": "VEC đề xuất phương án thu phí 2.500 đồng/km/xe quy chuẩn (CPU), chu kỳ điều chỉnh giá là hai năm/lần, mỗi lần tăng 15%.",
+    "seed_context_id": "vne_181_chunk_0",
+    "seed_context": "Cao tốc Bến Lức - Long Thành dài gần 58 km. Từ tháng 2, VEC đưa vào khai thác 10 km và cuối tháng 4 đã thêm 18 km. Các đoạn đường đã khai thác đi qua tỉnh Long An, phía tây TP HCM và cuối tuyến ở Đồng Nai. Toàn tuyến dự kiến hoàn thành vào năm 2026. VEC (đơn vị chủ đầu tư) đề xuất phương án thu phí 2.000 đồng/km/xe quy chuẩn (CPU), chu kỳ điều chỉnh giá được đề xuất là ba năm/lần, mỗi lần tăng 12%. Theo VEC, việc sớm tổ chức thu phí nhằm đảm bảo hiệu quả đầu tư, vận hành ổn định và duy trì an toàn tài chính. Đây cũng là nguồn thu chính để đơn vị thực hiện nghĩa vụ trả nợ gốc, lãi vay ODA và duy trì hoạt động vận hành các tuyến cao tốc khác. Ngoài ra, do tuyến đường đi qua địa hình phức tạp, nhiều công trình kỹ thuật lớn như cầu vượt sông, hầm chui dân sinh có chi phí bảo trì, quản lý, vận hành rất cao. Không thu phí sẽ khiến VEC thiếu kinh phí để duy tu, bảo dưỡng định kỳ, tiềm ẩn nguy cơ mất an toàn giao thông. Mức phí 2.000 đồng/km được cho là phù hợp với phương án tài chính đã được Bộ Xây dựng phê duyệt, đồng thời đảm bảo hài hòa giữa khả năng chi trả của người dân và yêu cầu tài chính của doanh nghiệp.",
+    "model_label": "REFUTED",
+    "human_label": "REFUTED",
+    "scores": {
+      "verifiability": 4,
+      "atomicity": 4,
+      "specificity": 4,
+      "clarity": 4,
+      "faithfulness": 4
+    },
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx23_claim69",
+    "claim": "VEC đã hoàn thành việc xây dựng cầu vượt sông Đồng Nai trên tuyến cao tốc Bến Lức - Long Thành vào tháng 12 năm 2023.",
+    "seed_context_id": "vne_181_chunk_0",
+    "seed_context": "Cao tốc Bến Lức - Long Thành dài gần 58 km. Từ tháng 2, VEC đưa vào khai thác 10 km và cuối tháng 4 đã thêm 18 km. Các đoạn đường đã khai thác đi qua tỉnh Long An, phía tây TP HCM và cuối tuyến ở Đồng Nai. Toàn tuyến dự kiến hoàn thành vào năm 2026. VEC (đơn vị chủ đầu tư) đề xuất phương án thu phí 2.000 đồng/km/xe quy chuẩn (CPU), chu kỳ điều chỉnh giá được đề xuất là ba năm/lần, mỗi lần tăng 12%. Theo VEC, việc sớm tổ chức thu phí nhằm đảm bảo hiệu quả đầu tư, vận hành ổn định và duy trì an toàn tài chính. Đây cũng là nguồn thu chính để đơn vị thực hiện nghĩa vụ trả nợ gốc, lãi vay ODA và duy trì hoạt động vận hành các tuyến cao tốc khác. Ngoài ra, do tuyến đường đi qua địa hình phức tạp, nhiều công trình kỹ thuật lớn như cầu vượt sông, hầm chui dân sinh có chi phí bảo trì, quản lý, vận hành rất cao. Không thu phí sẽ khiến VEC thiếu kinh phí để duy tu, bảo dưỡng định kỳ, tiềm ẩn nguy cơ mất an toàn giao thông. Mức phí 2.000 đồng/km được cho là phù hợp với phương án tài chính đã được Bộ Xây dựng phê duyệt, đồng thời đảm bảo hài hòa giữa khả năng chi trả của người dân và yêu cầu tài chính của doanh nghiệp.",
+    "model_label": "NEI",
+    "human_label": "NOT_ENOUGH_INFO",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 3,
+      "specificity": 4,
+      "clarity": 3,
+      "faithfulness": 2
+    },
+    "claim_score": 15
+  },
+  {
+    "claim_id": "ctx24_claim70",
+    "claim": "Vào chiều 14/3, UBND TP.HCM báo cáo với Đoàn đại biểu quốc hội thành phố về việc giám sát chính sách pháp luật phát triển và sử dụng nguồn nhân lực giai đoạn 2021-2024.",
+    "seed_context_id": "vne_110_chunk_0",
+    "seed_context": "Đó là một phần trong báo cáo của UBND TP HCM với Đoàn đại biểu quốc hội thành phố giám sát thực hiện chính sách pháp luật về phát triển và sử dụng nguồn nhân lực trên địa bàn giai đoạn 2021-2024, chiều 14/3. Từ năm 2021 đến 2024, bình quân mỗi năm, Trung tâm Dự báo nhu cầu nhân lực và Thông tin thị trường lao động thành phố (Falmi) khảo sát thông tin hơn 144.000 ứng viên tìm kiếm việc làm. Theo đó, khi xét đến tiêu chí tiền lương khi tìm việc, có 31,76% lao động muốn lương trên 20 triệu đồng mỗi tháng - mức lương có đông người tìm việc mong muốn đạt được nhất. Tiếp theo, mức lương được nhiều lao động lựa chọn là 5-10 triệu đồng mỗi tháng chiếm 25,83%, chỉ 3,64% chấp nhận lương dưới 5 triệu đồng mỗi tháng. Ngược lại, khi khảo sát hơn 285.000 vị trí cần tuyển người ở doanh nghiệp, chỉ 9,77% vị trí có lương trên 20 triệu đồng mỗi tháng, đây cũng là vị trí có nhu cầu tuyển ít nhất trên thị trường. Mức lương 5-10 triệu đồng chiếm đến 44,47% tổng nhu cầu tuyển dụng và có đến 11,37% công việc chỉ trả lương dưới 5 triệu đồng mỗi tháng.",
+    "model_label": "SUPPORTED",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "verifiability": 4,
+      "atomicity": 4,
+      "specificity": 4,
+      "clarity": 4,
+      "faithfulness": 4
+    },
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx24_claim71",
+    "claim": "Trong giai đoạn 2021-2024, 31,76% vị trí tuyển dụng tại các doanh nghiệp ở TP.HCM có mức lương trên 20 triệu đồng mỗi tháng.",
+    "seed_context_id": "vne_110_chunk_0",
+    "seed_context": "Đó là một phần trong báo cáo của UBND TP HCM với Đoàn đại biểu quốc hội thành phố giám sát thực hiện chính sách pháp luật về phát triển và sử dụng nguồn nhân lực trên địa bàn giai đoạn 2021-2024, chiều 14/3. Từ năm 2021 đến 2024, bình quân mỗi năm, Trung tâm Dự báo nhu cầu nhân lực và Thông tin thị trường lao động thành phố (Falmi) khảo sát thông tin hơn 144.000 ứng viên tìm kiếm việc làm. Theo đó, khi xét đến tiêu chí tiền lương khi tìm việc, có 31,76% lao động muốn lương trên 20 triệu đồng mỗi tháng - mức lương có đông người tìm việc mong muốn đạt được nhất. Tiếp theo, mức lương được nhiều lao động lựa chọn là 5-10 triệu đồng mỗi tháng chiếm 25,83%, chỉ 3,64% chấp nhận lương dưới 5 triệu đồng mỗi tháng. Ngược lại, khi khảo sát hơn 285.000 vị trí cần tuyển người ở doanh nghiệp, chỉ 9,77% vị trí có lương trên 20 triệu đồng mỗi tháng, đây cũng là vị trí có nhu cầu tuyển ít nhất trên thị trường. Mức lương 5-10 triệu đồng chiếm đến 44,47% tổng nhu cầu tuyển dụng và có đến 11,37% công việc chỉ trả lương dưới 5 triệu đồng mỗi tháng.",
+    "model_label": "REFUTED",
+    "human_label": "REFUTED",
+    "scores": {
+      "verifiability": 4,
+      "atomicity": 4,
+      "specificity": 3,
+      "clarity": 4,
+      "faithfulness": 4
+    },
+    "claim_score": 19
+  },
+  {
+    "claim_id": "ctx24_claim72",
+    "claim": "Trung tâm Dự báo nhu cầu nhân lực và Thông tin thị trường lao động thành phố (Falmi) đã tiến hành đánh giá năng lực ứng viên trong giai đoạn 2021-2024.",
+    "seed_context_id": "vne_110_chunk_0",
+    "seed_context": "Đó là một phần trong báo cáo của UBND TP HCM với Đoàn đại biểu quốc hội thành phố giám sát thực hiện chính sách pháp luật về phát triển và sử dụng nguồn nhân lực trên địa bàn giai đoạn 2021-2024, chiều 14/3. Từ năm 2021 đến 2024, bình quân mỗi năm, Trung tâm Dự báo nhu cầu nhân lực và Thông tin thị trường lao động thành phố (Falmi) khảo sát thông tin hơn 144.000 ứng viên tìm kiếm việc làm. Theo đó, khi xét đến tiêu chí tiền lương khi tìm việc, có 31,76% lao động muốn lương trên 20 triệu đồng mỗi tháng - mức lương có đông người tìm việc mong muốn đạt được nhất. Tiếp theo, mức lương được nhiều lao động lựa chọn là 5-10 triệu đồng mỗi tháng chiếm 25,83%, chỉ 3,64% chấp nhận lương dưới 5 triệu đồng mỗi tháng. Ngược lại, khi khảo sát hơn 285.000 vị trí cần tuyển người ở doanh nghiệp, chỉ 9,77% vị trí có lương trên 20 triệu đồng mỗi tháng, đây cũng là vị trí có nhu cầu tuyển ít nhất trên thị trường. Mức lương 5-10 triệu đồng chiếm đến 44,47% tổng nhu cầu tuyển dụng và có đến 11,37% công việc chỉ trả lương dưới 5 triệu đồng mỗi tháng.",
+    "model_label": "NEI",
+    "human_label": "NOT_ENOUGH_INFO",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 3,
+      "specificity": 3,
+      "clarity": 4,
+      "faithfulness": 4
+    },
+    "claim_score": 17
+  },
+  {
+    "claim_id": "ctx25_claim73",
+    "claim": "Trong một cuộc phỏng vấn, James Blair, giám đốc chính trị hàng đầu của ông Trump, cho biết Tổng thống sẽ tham gia sâu rộng hơn vào cuộc bầu cử giữa kỳ năm 2026.",
+    "seed_context_id": "vne_520_chunk_3",
+    "seed_context": "\"Vấn đề là đảng nào đang được thúc đẩy nhiều hơn và hiện tại đảng Dân chủ rõ ràng đang có ưu thế đấy\", ông cho hay. Một chiến lược gia Cộng hòa tại Bắc Carolina giấu tên đã cảnh báo về tương lai thảm khốc khi ứng viên Dân chủ Roy Cooper đang có cơ hội lớn để lật ngược tình thế và giành lại một ghế thượng nghị sĩ vào năm tới. \"Những ứng viên Cộng hòa không chuẩn bị cho thách thức về tỷ lệ cử tri đi bầu vào năm 2026 đều đang tự lừa dối bản thân\", người này nói. \"Nếu ông Trump có tên trên lá phiếu, tỷ lệ cử tri Cộng hòa đi bầu sẽ tăng mạnh, nếu không, nó sẽ sụt giảm nghiêm trọng. Có một nhóm người chỉ là cử tri của Tổng thống Trump mà thôi. Dường như không có cách nào đưa họ đến điểm bỏ phiếu\". Để trấn an những đảng viên lo âu, James Blair, giám đốc chính trị hàng đầu của ông Trump, trong một cuộc phỏng vấn với cho biết Tổng thống sẽ \"tham gia sâu rộng hơn vào cuộc bầu cử giữa kỳ\". \"Với nhiều hoạt động vận động tranh cử trong năm tới cùng nhiều nguồn lực được đưa vào các khu vực phù hợp cho những ứng viên thích hợp, những lo lắng về tỷ lệ cử tri đi bầu của đảng Cộng hòa là vấn đề hoàn toàn có thể vượt qua\", ông nói.",
+    "model_label": "SUPPORTED",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "verifiability": 4,
+      "atomicity": 4,
+      "specificity": 4,
+      "clarity": 4,
+      "faithfulness": 4
+    },
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx25_claim74",
+    "claim": "Một chiến lược gia Cộng hòa tại Bắc Carolina giấu tên cảnh báo rằng ứng viên Cộng hòa Roy Cooper đang có cơ hội lớn để giành lại một ghế thượng nghị sĩ vào năm 2026.",
+    "seed_context_id": "vne_520_chunk_3",
+    "seed_context": "\"Vấn đề là đảng nào đang được thúc đẩy nhiều hơn và hiện tại đảng Dân chủ rõ ràng đang có ưu thế đấy\", ông cho hay. Một chiến lược gia Cộng hòa tại Bắc Carolina giấu tên đã cảnh báo về tương lai thảm khốc khi ứng viên Dân chủ Roy Cooper đang có cơ hội lớn để lật ngược tình thế và giành lại một ghế thượng nghị sĩ vào năm tới. \"Những ứng viên Cộng hòa không chuẩn bị cho thách thức về tỷ lệ cử tri đi bầu vào năm 2026 đều đang tự lừa dối bản thân\", người này nói. \"Nếu ông Trump có tên trên lá phiếu, tỷ lệ cử tri Cộng hòa đi bầu sẽ tăng mạnh, nếu không, nó sẽ sụt giảm nghiêm trọng. Có một nhóm người chỉ là cử tri của Tổng thống Trump mà thôi. Dường như không có cách nào đưa họ đến điểm bỏ phiếu\". Để trấn an những đảng viên lo âu, James Blair, giám đốc chính trị hàng đầu của ông Trump, trong một cuộc phỏng vấn với cho biết Tổng thống sẽ \"tham gia sâu rộng hơn vào cuộc bầu cử giữa kỳ\". \"Với nhiều hoạt động vận động tranh cử trong năm tới cùng nhiều nguồn lực được đưa vào các khu vực phù hợp cho những ứng viên thích hợp, những lo lắng về tỷ lệ cử tri đi bầu của đảng Cộng hòa là vấn đề hoàn toàn có thể vượt qua\", ông nói.",
+    "model_label": "REFUTED",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "verifiability": 4,
+      "atomicity": 3,
+      "specificity": 3,
+      "clarity": 4,
+      "faithfulness": 4
+    },
+    "claim_score": 18
+  },
+  {
+    "claim_id": "ctx25_claim75",
+    "claim": "James Blair, giám đốc chính trị hàng đầu của ông Trump, tiết lộ kế hoạch chi tiết về việc phân bổ nguồn lực cho các ứng viên Dân chủ tại các khu vực bầu cử quan trọng vào năm 2026.",
+    "seed_context_id": "vne_520_chunk_3",
+    "seed_context": "\"Vấn đề là đảng nào đang được thúc đẩy nhiều hơn và hiện tại đảng Dân chủ rõ ràng đang có ưu thế đấy\", ông cho hay. Một chiến lược gia Cộng hòa tại Bắc Carolina giấu tên đã cảnh báo về tương lai thảm khốc khi ứng viên Dân chủ Roy Cooper đang có cơ hội lớn để lật ngược tình thế và giành lại một ghế thượng nghị sĩ vào năm tới. \"Những ứng viên Cộng hòa không chuẩn bị cho thách thức về tỷ lệ cử tri đi bầu vào năm 2026 đều đang tự lừa dối bản thân\", người này nói. \"Nếu ông Trump có tên trên lá phiếu, tỷ lệ cử tri Cộng hòa đi bầu sẽ tăng mạnh, nếu không, nó sẽ sụt giảm nghiêm trọng. Có một nhóm người chỉ là cử tri của Tổng thống Trump mà thôi. Dường như không có cách nào đưa họ đến điểm bỏ phiếu\". Để trấn an những đảng viên lo âu, James Blair, giám đốc chính trị hàng đầu của ông Trump, trong một cuộc phỏng vấn với cho biết Tổng thống sẽ \"tham gia sâu rộng hơn vào cuộc bầu cử giữa kỳ\". \"Với nhiều hoạt động vận động tranh cử trong năm tới cùng nhiều nguồn lực được đưa vào các khu vực phù hợp cho những ứng viên thích hợp, những lo lắng về tỷ lệ cử tri đi bầu của đảng Cộng hòa là vấn đề hoàn toàn có thể vượt qua\", ông nói.",
+    "model_label": "NEI",
+    "human_label": "NOT_ENOUGH_INFO",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 4,
+      "specificity": 3,
+      "clarity": 3,
+      "faithfulness": 3
+    },
+    "claim_score": 16
+  },
+  {
+    "claim_id": "ctx26_claim76",
+    "claim": "Quỹ Nhân đạo Gaza (GHF), một tổ chức tư nhân của Mỹ, đã vận hành 4 điểm phân phát thực phẩm do lính đánh thuê bảo vệ tại Gaza, nơi hơn 1.000 dân thường đã thiệt mạng khi đi nhận cứu trợ kể từ khi GHF bắt đầu hoạt động gần hai tháng trước.",
+    "seed_context_id": "vne_821_chunk_4",
+    "seed_context": "Israel trong những tháng qua cho phép viện trợ nhỏ giọt vào Gaza, phần lớn được phân phối bởi Quỹ Nhân đạo Gaza (GHF), một tổ chức tư nhân của Mỹ. GHF vận hành 4 điểm phân phát thực phẩm do lính đánh thuê bảo vệ. Mô hình này bị các tổ chức quốc tế chỉ trích là \"bẫy chết người\", khi buộc dân thường phải di chuyển quá xa và tập trung đông đúc, khiến bạo lực dễ bùng phát. Kể từ khi GHF bắt đầu hoạt động tại Gaza gần hai tháng trước, cơ quan y tế Gaza đã thống kê hơn 1. 000 trường hợp dân thường thiệt mạng khi đi nhận cứu trợ.",
+    "model_label": "SUPPORTED",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "verifiability": 4,
+      "atomicity": 4,
+      "specificity": 3,
+      "clarity": 4,
+      "faithfulness": 4
+    },
+    "claim_score": 19
+  },
+  {
+    "claim_id": "ctx26_claim77",
+    "claim": "Kể từ khi GHF bắt đầu hoạt động tại Gaza gần hai năm trước, cơ quan y tế Gaza đã thống kê hơn 1.000 trường hợp dân thường thiệt mạng khi đi nhận cứu trợ.",
+    "seed_context_id": "vne_821_chunk_4",
+    "seed_context": "Israel trong những tháng qua cho phép viện trợ nhỏ giọt vào Gaza, phần lớn được phân phối bởi Quỹ Nhân đạo Gaza (GHF), một tổ chức tư nhân của Mỹ. GHF vận hành 4 điểm phân phát thực phẩm do lính đánh thuê bảo vệ. Mô hình này bị các tổ chức quốc tế chỉ trích là \"bẫy chết người\", khi buộc dân thường phải di chuyển quá xa và tập trung đông đúc, khiến bạo lực dễ bùng phát. Kể từ khi GHF bắt đầu hoạt động tại Gaza gần hai tháng trước, cơ quan y tế Gaza đã thống kê hơn 1. 000 trường hợp dân thường thiệt mạng khi đi nhận cứu trợ.",
+    "model_label": "REFUTED",
+    "human_label": "REFUTED",
+    "scores": {
+      "verifiability": 4,
+      "atomicity": 4,
+      "specificity": 3,
+      "clarity": 3,
+      "faithfulness": 4
+    },
+    "claim_score": 18
+  },
+  {
+    "claim_id": "ctx26_claim78",
+    "claim": "Quỹ Nhân đạo Gaza (GHF) đã sử dụng các tình nguyện viên thay vì lính đánh thuê để bảo vệ 4 điểm phân phát thực phẩm tại Gaza.",
+    "seed_context_id": "vne_821_chunk_4",
+    "seed_context": "Israel trong những tháng qua cho phép viện trợ nhỏ giọt vào Gaza, phần lớn được phân phối bởi Quỹ Nhân đạo Gaza (GHF), một tổ chức tư nhân của Mỹ. GHF vận hành 4 điểm phân phát thực phẩm do lính đánh thuê bảo vệ. Mô hình này bị các tổ chức quốc tế chỉ trích là \"bẫy chết người\", khi buộc dân thường phải di chuyển quá xa và tập trung đông đúc, khiến bạo lực dễ bùng phát. Kể từ khi GHF bắt đầu hoạt động tại Gaza gần hai tháng trước, cơ quan y tế Gaza đã thống kê hơn 1. 000 trường hợp dân thường thiệt mạng khi đi nhận cứu trợ.",
+    "model_label": "NEI",
+    "human_label": "NOT_ENOUGH_INFO",
+    "scores": {
+      "verifiability": 2,
+      "atomicity": 4,
+      "specificity": 3,
+      "clarity": 3,
+      "faithfulness": 3
+    },
+    "claim_score": 15
+  },
+  {
+    "claim_id": "ctx27_claim79",
+    "claim": "Vào tháng 5, hàng trăm cán bộ, viên chức từ trung tâm hành chính tỉnh Bình Phước cũ được xe 45 chỗ đưa đến phường Trấn Biên (TP Biên Hòa) làm việc tại các sở ngành sau sáp nhập.",
+    "seed_context_id": "vne_263_chunk_0",
+    "seed_context": "Tại Đồng Nai , từ 5h, hàng trăm cán bộ, viên chức từ trung tâm hành chính tỉnh Bình Phước cũ (TP Đồng Xoài) được xe 45 chỗ đưa đến phường Trấn Biên (TP Biên Hòa) làm việc tại các sở ngành sau sáp nhập. Những cán bộ có nhu cầu đi xe chủ yếu làm ở Văn phòng UBND tỉnh, Sở Nông nghiệp và Môi trường, Công thương, Văn hóa, Xây dựng. Chị Thu Thảo, cán bộ Văn phòng UBND tỉnh Bình Phước cũ, cho biết đã thuê nhà gần cơ quan mới để tiện đi lại: \"Tôi sẽ đi xe về nhà cuối tuần, còn trong tuần ở lại tập trung cho công việc\", chị nói. Ông Não Thiên Anh Minh, Phó giám đốc Sở Xây dựng Đồng Nai cho biết trong sáng nay, tỉnh đã bố trí 5 xe loại 45 chỗ chở 212 cán bộ từ Bình Phước qua. \"Đến nay chúng tôi đã tiếp nhận gần 500 cán bộ đăng ký đi xe theo lịch trình của 25 sở ngành, đơn vị\", ông Minh nói. Các tuyến xe sẽ di chuyển từ Trung tâm hành chính Bình Phước đến Trung tâm hành chính tỉnh Đồng Nai dài 90 km, thời gian di chuyển khoảng 2 giờ. Giai đoạn đầu, 32 xe sẽ hoạt động mỗi tuần hai lượt đi - về, tổng kinh phí hơn 8,6 tỷ đồng trong 6 tháng.",
+    "model_label": "SUPPORTED",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 3,
+      "faithfulness": 3,
+      "clarity": 4,
+      "specificity": 3
+    },
+    "claim_score": 16
+  },
+  {
+    "claim_id": "ctx27_claim80",
+    "claim": "Ông Não Thiên Anh Minh, Phó giám đốc Sở Xây dựng Đồng Nai, cho biết trong sáng ngày 25 tháng 12, tỉnh đã bố trí 3 xe loại 45 chỗ chở 212 cán bộ từ Bình Phước qua.",
+    "seed_context_id": "vne_263_chunk_0",
+    "seed_context": "Tại Đồng Nai , từ 5h, hàng trăm cán bộ, viên chức từ trung tâm hành chính tỉnh Bình Phước cũ (TP Đồng Xoài) được xe 45 chỗ đưa đến phường Trấn Biên (TP Biên Hòa) làm việc tại các sở ngành sau sáp nhập. Những cán bộ có nhu cầu đi xe chủ yếu làm ở Văn phòng UBND tỉnh, Sở Nông nghiệp và Môi trường, Công thương, Văn hóa, Xây dựng. Chị Thu Thảo, cán bộ Văn phòng UBND tỉnh Bình Phước cũ, cho biết đã thuê nhà gần cơ quan mới để tiện đi lại: \"Tôi sẽ đi xe về nhà cuối tuần, còn trong tuần ở lại tập trung cho công việc\", chị nói. Ông Não Thiên Anh Minh, Phó giám đốc Sở Xây dựng Đồng Nai cho biết trong sáng nay, tỉnh đã bố trí 5 xe loại 45 chỗ chở 212 cán bộ từ Bình Phước qua. \"Đến nay chúng tôi đã tiếp nhận gần 500 cán bộ đăng ký đi xe theo lịch trình của 25 sở ngành, đơn vị\", ông Minh nói. Các tuyến xe sẽ di chuyển từ Trung tâm hành chính Bình Phước đến Trung tâm hành chính tỉnh Đồng Nai dài 90 km, thời gian di chuyển khoảng 2 giờ. Giai đoạn đầu, 32 xe sẽ hoạt động mỗi tuần hai lượt đi - về, tổng kinh phí hơn 8,6 tỷ đồng trong 6 tháng.",
+    "model_label": "REFUTED",
+    "human_label": "REFUTED",
+    "scores": {
+      "verifiability": 4,
+      "atomicity": 3,
+      "specificity": 3,
+      "clarity": 4,
+      "faithfulness": 4
+    },
+    "claim_score": 18
+  },
+  {
+    "claim_id": "ctx27_claim81",
+    "claim": "Các cán bộ từ Văn phòng UBND tỉnh, Sở Nông nghiệp và Môi trường, Công thương, Văn hóa, Xây dựng sẽ được hỗ trợ nhà ở tại thành phố Biên Hòa.",
+    "seed_context_id": "vne_263_chunk_0",
+    "seed_context": "Tại Đồng Nai , từ 5h, hàng trăm cán bộ, viên chức từ trung tâm hành chính tỉnh Bình Phước cũ (TP Đồng Xoài) được xe 45 chỗ đưa đến phường Trấn Biên (TP Biên Hòa) làm việc tại các sở ngành sau sáp nhập. Những cán bộ có nhu cầu đi xe chủ yếu làm ở Văn phòng UBND tỉnh, Sở Nông nghiệp và Môi trường, Công thương, Văn hóa, Xây dựng. Chị Thu Thảo, cán bộ Văn phòng UBND tỉnh Bình Phước cũ, cho biết đã thuê nhà gần cơ quan mới để tiện đi lại: \"Tôi sẽ đi xe về nhà cuối tuần, còn trong tuần ở lại tập trung cho công việc\", chị nói. Ông Não Thiên Anh Minh, Phó giám đốc Sở Xây dựng Đồng Nai cho biết trong sáng nay, tỉnh đã bố trí 5 xe loại 45 chỗ chở 212 cán bộ từ Bình Phước qua. \"Đến nay chúng tôi đã tiếp nhận gần 500 cán bộ đăng ký đi xe theo lịch trình của 25 sở ngành, đơn vị\", ông Minh nói. Các tuyến xe sẽ di chuyển từ Trung tâm hành chính Bình Phước đến Trung tâm hành chính tỉnh Đồng Nai dài 90 km, thời gian di chuyển khoảng 2 giờ. Giai đoạn đầu, 32 xe sẽ hoạt động mỗi tuần hai lượt đi - về, tổng kinh phí hơn 8,6 tỷ đồng trong 6 tháng.",
+    "model_label": "NEI",
+    "human_label": "NOT_ENOUGH_INFO",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 3,
+      "specificity": 4,
+      "clarity": 3,
+      "faithfulness": 3
+    },
+    "claim_score": 16
+  },
+  {
+    "claim_id": "ctx28_claim82",
+    "claim": "Vào tháng trước, truyền thông Đức đã đưa tin về một giáo viên trường dạy nghề ở North Rhine-Westphalia bị phát hiện nghỉ ốm từ năm 2009 nhưng vẫn nhận lương đầy đủ.",
+    "seed_context_id": "vne_888_chunk_2",
+    "seed_context": "Vấn đề này đã trở thành chủ đề tranh cãi vào tháng trước, khi truyền thông Đức đưa tin về một giáo viên trường dạy nghề ở North Rhine-Westphalia bị phát hiện nghỉ ốm từ năm 2009 những vẫn nhận lương đầy đủ. \"Điều này không thể tiếp tục tồn tại. Cần phải thay đổi. Làm việc bán thời gian không thể trở thành lẽ đương nhiên của nền kinh tế Đức\", Michael Kretschmer, thủ hiến bang Saxony kiêm phó chủ tịch đảng Liên minh Dân chủ Cơ đốc giáo (CDU), nói. Kretschmer cho hay tại Saxony, ngành điều dưỡng và chăm sóc sức khỏe đang bị ảnh hưởng nghiêm trọng vì xu hướng giảm giờ làm và mỗi lần tăng lương đều đi kèm giảm giờ làm việc. \"Chúng ta phải trở thành bang dẫn đầu về số giờ làm, thay vì cứ tụt lại phía sau\", ông nói. Christopher Sitzmann, sinh viên luật 27 tuổi, cho rằng \"cuộc sống không chỉ có công việc\", mà cần có những hoạt động cá nhân. Tuy nhiên, Kampeter cho rằng tư duy của người Đức về cân bằng giữa công việc và cuộc sống đang bị nghiêng quá nhiều về phía \"cuộc sống\". \"Họ dường như đang hiểu lầm rằng có thể có cuộc sống tốt mà không cần làm việc\", ông nói.",
+    "model_label": "SUPPORTED",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 4,
+      "specificity": 3,
+      "clarity": 4,
+      "faithfulness": 4
+    },
+    "claim_score": 18
+  },
+  {
+    "claim_id": "ctx28_claim83",
+    "claim": "Michael Kretschmer, thủ hiến bang Saxony kiêm phó chủ tịch đảng Liên minh Dân chủ Cơ đốc giáo (CDU), cho rằng làm việc bán thời gian là lẽ đương nhiên của nền kinh tế Đức.",
+    "seed_context_id": "vne_888_chunk_2",
+    "seed_context": "Vấn đề này đã trở thành chủ đề tranh cãi vào tháng trước, khi truyền thông Đức đưa tin về một giáo viên trường dạy nghề ở North Rhine-Westphalia bị phát hiện nghỉ ốm từ năm 2009 những vẫn nhận lương đầy đủ. \"Điều này không thể tiếp tục tồn tại. Cần phải thay đổi. Làm việc bán thời gian không thể trở thành lẽ đương nhiên của nền kinh tế Đức\", Michael Kretschmer, thủ hiến bang Saxony kiêm phó chủ tịch đảng Liên minh Dân chủ Cơ đốc giáo (CDU), nói. Kretschmer cho hay tại Saxony, ngành điều dưỡng và chăm sóc sức khỏe đang bị ảnh hưởng nghiêm trọng vì xu hướng giảm giờ làm và mỗi lần tăng lương đều đi kèm giảm giờ làm việc. \"Chúng ta phải trở thành bang dẫn đầu về số giờ làm, thay vì cứ tụt lại phía sau\", ông nói. Christopher Sitzmann, sinh viên luật 27 tuổi, cho rằng \"cuộc sống không chỉ có công việc\", mà cần có những hoạt động cá nhân. Tuy nhiên, Kampeter cho rằng tư duy của người Đức về cân bằng giữa công việc và cuộc sống đang bị nghiêng quá nhiều về phía \"cuộc sống\". \"Họ dường như đang hiểu lầm rằng có thể có cuộc sống tốt mà không cần làm việc\", ông nói.",
+    "model_label": "REFUTED",
+    "human_label": "REFUTED",
+    "scores": {
+      "verifiability": 4,
+      "atomicity": 3,
+      "specificity": 4,
+      "clarity": 4,
+      "faithfulness": 4
+    },
+    "claim_score": 19
+  },
+  {
+    "claim_id": "ctx28_claim84",
+    "claim": "Christopher Sitzmann, sinh viên luật 27 tuổi, cho rằng cần có những hoạt động cá nhân thay vì tập trung vào công việc.",
+    "seed_context_id": "vne_888_chunk_2",
+    "seed_context": "Vấn đề này đã trở thành chủ đề tranh cãi vào tháng trước, khi truyền thông Đức đưa tin về một giáo viên trường dạy nghề ở North Rhine-Westphalia bị phát hiện nghỉ ốm từ năm 2009 những vẫn nhận lương đầy đủ. \"Điều này không thể tiếp tục tồn tại. Cần phải thay đổi. Làm việc bán thời gian không thể trở thành lẽ đương nhiên của nền kinh tế Đức\", Michael Kretschmer, thủ hiến bang Saxony kiêm phó chủ tịch đảng Liên minh Dân chủ Cơ đốc giáo (CDU), nói. Kretschmer cho hay tại Saxony, ngành điều dưỡng và chăm sóc sức khỏe đang bị ảnh hưởng nghiêm trọng vì xu hướng giảm giờ làm và mỗi lần tăng lương đều đi kèm giảm giờ làm việc. \"Chúng ta phải trở thành bang dẫn đầu về số giờ làm, thay vì cứ tụt lại phía sau\", ông nói. Christopher Sitzmann, sinh viên luật 27 tuổi, cho rằng \"cuộc sống không chỉ có công việc\", mà cần có những hoạt động cá nhân. Tuy nhiên, Kampeter cho rằng tư duy của người Đức về cân bằng giữa công việc và cuộc sống đang bị nghiêng quá nhiều về phía \"cuộc sống\". \"Họ dường như đang hiểu lầm rằng có thể có cuộc sống tốt mà không cần làm việc\", ông nói.",
+    "model_label": "NEI",
+    "human_label": "REFUTED",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 3,
+      "specificity": 4,
+      "clarity": 4,
+      "faithfulness": 4
+    },
+    "claim_score": 18
+  },
+  {
+    "claim_id": "ctx29_claim85",
+    "claim": "Quy định mới của Bắc Kinh yêu cầu các công ty trên toàn thế giới phải xin giấy phép nếu xuất khẩu sản phẩm có chứa đất hiếm của Trung Quốc, ngay cả với một lượng rất nhỏ, theo Singleton.",
+    "seed_context_id": "vne_930_chunk_3",
+    "seed_context": "\"Những lời đe dọa nhằm thể hiện sự cứng rắn và trừng phạt đối với Bắc Kinh, còn thái độ mềm mỏng hơn sau đó nhằm xoa dịu thị trường và trấn an các đồng minh. Ông Trump cùng đội ngũ của mình dường như tin rằng Bắc Kinh đã tính toán sai và họ đang tạo điều kiện để ông Tập có thể rút lại hành động, ngăn leo thang thêm\", Singleton nhận xét. Đất hiếm vốn rất quan trọng đối với ngành sản xuất chất bán dẫn, chiến đấu cơ và nhiều công nghệ tiên tiến khác. Việc Trung Quốc hạn chế xuất khẩu đất hiếm có thể giáng đòn trực tiếp vào nền tảng công nghiệp và quốc phòng Mỹ. Dù cam kết thoát phụ thuộc vào đất hiếm Trung Quốc, viễn cảnh đó còn xa vời với Mỹ, theo giới quan sát. Quy định mới của Bắc Kinh yêu cầu các công ty trên toàn thế giới phải xin giấy phép nếu xuất khẩu sản phẩm có chứa đất hiếm của Trung Quốc, dù là một lượng rất nhỏ. Việc kiểm soát này cũng được áp dụng nếu các khoáng sản được sản xuất bằng công nghệ khai thác, chế biến hoặc sản xuất nam châm của Trung Quốc. Đặc biệt, các công ty có liên quan đến quân đội nước ngoài sẽ bị từ chối cấp phép.",
+    "model_label": "SUPPORTED",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 3,
+      "specificity": 3,
+      "clarity": 4,
+      "faithfulness": 4
+    },
+    "claim_score": 17
+  },
+  {
+    "claim_id": "ctx29_claim86",
+    "claim": "Việc Trung Quốc hạn chế xuất khẩu đất hiếm có thể giáng đòn trực tiếp vào nền tảng công nghiệp và quốc phòng Trung Quốc, theo giới quan sát.",
+    "seed_context_id": "vne_930_chunk_3",
+    "seed_context": "\"Những lời đe dọa nhằm thể hiện sự cứng rắn và trừng phạt đối với Bắc Kinh, còn thái độ mềm mỏng hơn sau đó nhằm xoa dịu thị trường và trấn an các đồng minh. Ông Trump cùng đội ngũ của mình dường như tin rằng Bắc Kinh đã tính toán sai và họ đang tạo điều kiện để ông Tập có thể rút lại hành động, ngăn leo thang thêm\", Singleton nhận xét. Đất hiếm vốn rất quan trọng đối với ngành sản xuất chất bán dẫn, chiến đấu cơ và nhiều công nghệ tiên tiến khác. Việc Trung Quốc hạn chế xuất khẩu đất hiếm có thể giáng đòn trực tiếp vào nền tảng công nghiệp và quốc phòng Mỹ. Dù cam kết thoát phụ thuộc vào đất hiếm Trung Quốc, viễn cảnh đó còn xa vời với Mỹ, theo giới quan sát. Quy định mới của Bắc Kinh yêu cầu các công ty trên toàn thế giới phải xin giấy phép nếu xuất khẩu sản phẩm có chứa đất hiếm của Trung Quốc, dù là một lượng rất nhỏ. Việc kiểm soát này cũng được áp dụng nếu các khoáng sản được sản xuất bằng công nghệ khai thác, chế biến hoặc sản xuất nam châm của Trung Quốc. Đặc biệt, các công ty có liên quan đến quân đội nước ngoài sẽ bị từ chối cấp phép.",
+    "model_label": "REFUTED",
+    "human_label": "REFUTED",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 4,
+      "specificity": 3,
+      "clarity": 3,
+      "faithfulness": 4
+    },
+    "claim_score": 17
+  },
+  {
+    "claim_id": "ctx29_claim87",
+    "claim": "Ông Trump cùng đội ngũ của mình tin rằng Bắc Kinh đã tính toán sai và đang tạo điều kiện để ông Tập có thể rút lại hành động, ngăn leo thang thêm vào tháng 5 năm 2023.",
+    "seed_context_id": "vne_930_chunk_3",
+    "seed_context": "\"Những lời đe dọa nhằm thể hiện sự cứng rắn và trừng phạt đối với Bắc Kinh, còn thái độ mềm mỏng hơn sau đó nhằm xoa dịu thị trường và trấn an các đồng minh. Ông Trump cùng đội ngũ của mình dường như tin rằng Bắc Kinh đã tính toán sai và họ đang tạo điều kiện để ông Tập có thể rút lại hành động, ngăn leo thang thêm\", Singleton nhận xét. Đất hiếm vốn rất quan trọng đối với ngành sản xuất chất bán dẫn, chiến đấu cơ và nhiều công nghệ tiên tiến khác. Việc Trung Quốc hạn chế xuất khẩu đất hiếm có thể giáng đòn trực tiếp vào nền tảng công nghiệp và quốc phòng Mỹ. Dù cam kết thoát phụ thuộc vào đất hiếm Trung Quốc, viễn cảnh đó còn xa vời với Mỹ, theo giới quan sát. Quy định mới của Bắc Kinh yêu cầu các công ty trên toàn thế giới phải xin giấy phép nếu xuất khẩu sản phẩm có chứa đất hiếm của Trung Quốc, dù là một lượng rất nhỏ. Việc kiểm soát này cũng được áp dụng nếu các khoáng sản được sản xuất bằng công nghệ khai thác, chế biến hoặc sản xuất nam châm của Trung Quốc. Đặc biệt, các công ty có liên quan đến quân đội nước ngoài sẽ bị từ chối cấp phép.",
+    "model_label": "NEI",
+    "human_label": "NOT_ENOUGH_INFO",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 3,
+      "specificity": 4,
+      "clarity": 4,
+      "faithfulness": 4
+    },
+    "claim_score": 18
+  },
+  {
+    "claim_id": "ctx30_claim88",
+    "claim": "Vào tháng 7, Viện Nghiên cứu phát triển TP HCM (HIDS) dự kiến công bố lộ trình chi tiết về đề án chuyển đổi 400.000 xe máy xăng sang xe điện, tập trung vào nhóm tài xế công nghệ và giao hàng.",
+    "seed_context_id": "vne_213_chunk_0",
+    "seed_context": "Đề án chuyển đổi 400.000 xe máy xăng sang xe điện đang được TP HCM hoàn thiện, tập trung vào nhóm tài xế công nghệ và giao hàng. Viện Nghiên cứu phát triển TP HCM (HIDS) đang xây dựng kế hoạch tổng thể, dự kiến công bố lộ trình chi tiết vào tháng 7. Theo Thạc sĩ Lê Thanh Hải, Giám đốc Trung tâm Tư vấn ứng dụng kinh tế (thuộc HIDS), đề án được thiết kế theo hướng phát triển xanh và bền vững, đồng thời giảm tối đa chi phí chuyển đổi cho tài xế. \"Tài xế sẽ không phải bỏ thêm chi phí đầu tư ban đầu nếu biết cách tận dụng khoản tiết kiệm từ tiền xăng để trả góp xe mới\", ông Hải nói. Khảo sát hơn 400 tài xế của HIDS cho thấy, mỗi ngày họ đi khoảng 80-120 km, chi phí nhiên liệu cho xe xăng khoảng 70.000-100.000 đồng. Do đặc thù tài xế công nghệ là hoạt động nhiều trong giờ cao điểm, chở nặng, kẹt xe, dừng chờ... nên hao phí nhiên liệu cao hơn mức thông thường, từ ít nhất 20-40%. Trong khi xe điện chỉ tiêu tốn khoảng 20.000 đồng. Trung bình mỗi tháng tài xế có thể tiết kiệm từ 1 đến 2 triệu đồng nếu chuyển sang sử dụng xe điện.",
+    "model_label": "SUPPORTED",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "specificity": 3,
+      "clarity": 3,
+      "faithfulness": 4,
+      "verifiability": 3,
+      "atomicity": 4
+    },
+    "claim_score": 17
+  },
+  {
+    "claim_id": "ctx30_claim89",
+    "claim": "Thạc sĩ Lê Thanh Hải, Giám đốc Trung tâm Tư vấn ứng dụng kinh tế (thuộc HIDS), cho biết tài xế sẽ phải bỏ thêm chi phí đầu tư ban đầu đáng kể để có thể chuyển đổi sang xe điện trong đề án của TP HCM.",
+    "seed_context_id": "vne_213_chunk_0",
+    "seed_context": "Đề án chuyển đổi 400.000 xe máy xăng sang xe điện đang được TP HCM hoàn thiện, tập trung vào nhóm tài xế công nghệ và giao hàng. Viện Nghiên cứu phát triển TP HCM (HIDS) đang xây dựng kế hoạch tổng thể, dự kiến công bố lộ trình chi tiết vào tháng 7. Theo Thạc sĩ Lê Thanh Hải, Giám đốc Trung tâm Tư vấn ứng dụng kinh tế (thuộc HIDS), đề án được thiết kế theo hướng phát triển xanh và bền vững, đồng thời giảm tối đa chi phí chuyển đổi cho tài xế. \"Tài xế sẽ không phải bỏ thêm chi phí đầu tư ban đầu nếu biết cách tận dụng khoản tiết kiệm từ tiền xăng để trả góp xe mới\", ông Hải nói. Khảo sát hơn 400 tài xế của HIDS cho thấy, mỗi ngày họ đi khoảng 80-120 km, chi phí nhiên liệu cho xe xăng khoảng 70.000-100.000 đồng. Do đặc thù tài xế công nghệ là hoạt động nhiều trong giờ cao điểm, chở nặng, kẹt xe, dừng chờ... nên hao phí nhiên liệu cao hơn mức thông thường, từ ít nhất 20-40%. Trong khi xe điện chỉ tiêu tốn khoảng 20.000 đồng. Trung bình mỗi tháng tài xế có thể tiết kiệm từ 1 đến 2 triệu đồng nếu chuyển sang sử dụng xe điện.",
+    "model_label": "REFUTED",
+    "human_label": "REFUTED",
+    "scores": {
+      "verifiability": 4,
+      "atomicity": 3,
+      "specificity": 4,
+      "clarity": 3,
+      "faithfulness": 4
+    },
+    "claim_score": 18
+  },
+  {
+    "claim_id": "ctx30_claim90",
+    "claim": "Trung bình mỗi tháng, tài xế công nghệ tại TP HCM có thể tiết kiệm từ 3 đến 4 triệu đồng nếu chuyển sang sử dụng xe điện, theo khảo sát của HIDS.",
+    "seed_context_id": "vne_213_chunk_0",
+    "seed_context": "Đề án chuyển đổi 400.000 xe máy xăng sang xe điện đang được TP HCM hoàn thiện, tập trung vào nhóm tài xế công nghệ và giao hàng. Viện Nghiên cứu phát triển TP HCM (HIDS) đang xây dựng kế hoạch tổng thể, dự kiến công bố lộ trình chi tiết vào tháng 7. Theo Thạc sĩ Lê Thanh Hải, Giám đốc Trung tâm Tư vấn ứng dụng kinh tế (thuộc HIDS), đề án được thiết kế theo hướng phát triển xanh và bền vững, đồng thời giảm tối đa chi phí chuyển đổi cho tài xế. \"Tài xế sẽ không phải bỏ thêm chi phí đầu tư ban đầu nếu biết cách tận dụng khoản tiết kiệm từ tiền xăng để trả góp xe mới\", ông Hải nói. Khảo sát hơn 400 tài xế của HIDS cho thấy, mỗi ngày họ đi khoảng 80-120 km, chi phí nhiên liệu cho xe xăng khoảng 70.000-100.000 đồng. Do đặc thù tài xế công nghệ là hoạt động nhiều trong giờ cao điểm, chở nặng, kẹt xe, dừng chờ... nên hao phí nhiên liệu cao hơn mức thông thường, từ ít nhất 20-40%. Trong khi xe điện chỉ tiêu tốn khoảng 20.000 đồng. Trung bình mỗi tháng tài xế có thể tiết kiệm từ 1 đến 2 triệu đồng nếu chuyển sang sử dụng xe điện.",
+    "model_label": "NEI",
+    "human_label": "NOT_ENOUGH_INFO",
+    "scores": {
+      "verifiability": 2,
+      "atomicity": 3,
+      "specificity": 2,
+      "clarity": 2,
+      "faithfulness": 3
+    },
+    "claim_score": 12
+  },
+  {
+    "claim_id": "ctx31_claim91",
+    "claim": "Fitch Ratings nhận định kinh tế Nga sẽ chỉ tăng trưởng tiềm năng 1% sau năm 2025 do giai đoạn tăng trưởng nóng nhờ chi tiêu quân sự.",
+    "seed_context_id": "vne_954_chunk_3",
+    "seed_context": "Tuy nhiên, Fitch Ratings nhận định sau giai đoạn tăng trưởng nóng nhờ chi tiêu quân sự, kinh tế Nga đang chững lại, tăng trưởng tiềm năng chỉ 1% sau 2025. Trong bối cảnh đó, việc siết chặt kỷ luật tài khóa, cắt giảm chi tiêu không thiết yếu giúp Nga tránh lạm phát phi mã và duy trì khả năng vay mượn từ các đối tác bên ngoài. Đối với người dân Nga, việc chính phủ thắt chặt kỷ luật tài khóa đồng nghĩa với ít hỗ trợ xã hội hơn, như giảm trợ cấp năng lượng trong mùa đông. Trong khi đó, người dân Nga cũng phải đối mặt áp lực tài chính cá nhân ngày càng lớn. Các cuộc khảo sát cho thấy nhiều người Nga vẫn lạc quan về triển vọng kinh tế, nhưng hành vi \"thắt lưng buộc bụng\" đã trở thành xu hướng phổ biến, từ cắt giảm mua sắm không thiết yếu đến tìm kiếm việc làm thêm để bù đắp thu nhập. Một cuộc khảo sát của hồi tháng 7 cho thấy 38% người lao động Nga không có khoản dự phòng tài chính, khiến họ dễ bị tổn thương trước biến động kinh tế. Người dân tại những thành phố lớn như Moskva và St. Petersburg đang chuyển sang mua sắm hàng hóa địa phương tại chợ truyền thống thay cho hàng nhập khẩu ở siêu thị, cắt giảm chi tiêu cho du lịch và giải trí.",
+    "model_label": "SUPPORTED",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 3,
+      "specificity": 4,
+      "clarity": 4,
+      "faithfulness": 4
+    },
+    "claim_score": 18
+  },
+  {
+    "claim_id": "ctx31_claim92",
+    "claim": "Trong tháng 7, 68% người lao động Nga có khoản dự phòng tài chính, giúp họ ít bị tổn thương trước biến động kinh tế.",
+    "seed_context_id": "vne_954_chunk_3",
+    "seed_context": "Tuy nhiên, Fitch Ratings nhận định sau giai đoạn tăng trưởng nóng nhờ chi tiêu quân sự, kinh tế Nga đang chững lại, tăng trưởng tiềm năng chỉ 1% sau 2025. Trong bối cảnh đó, việc siết chặt kỷ luật tài khóa, cắt giảm chi tiêu không thiết yếu giúp Nga tránh lạm phát phi mã và duy trì khả năng vay mượn từ các đối tác bên ngoài. Đối với người dân Nga, việc chính phủ thắt chặt kỷ luật tài khóa đồng nghĩa với ít hỗ trợ xã hội hơn, như giảm trợ cấp năng lượng trong mùa đông. Trong khi đó, người dân Nga cũng phải đối mặt áp lực tài chính cá nhân ngày càng lớn. Các cuộc khảo sát cho thấy nhiều người Nga vẫn lạc quan về triển vọng kinh tế, nhưng hành vi \"thắt lưng buộc bụng\" đã trở thành xu hướng phổ biến, từ cắt giảm mua sắm không thiết yếu đến tìm kiếm việc làm thêm để bù đắp thu nhập. Một cuộc khảo sát của hồi tháng 7 cho thấy 38% người lao động Nga không có khoản dự phòng tài chính, khiến họ dễ bị tổn thương trước biến động kinh tế. Người dân tại những thành phố lớn như Moskva và St. Petersburg đang chuyển sang mua sắm hàng hóa địa phương tại chợ truyền thống thay cho hàng nhập khẩu ở siêu thị, cắt giảm chi tiêu cho du lịch và giải trí.",
+    "model_label": "REFUTED",
+    "human_label": "REFUTED",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 3,
+      "specificity": 3,
+      "clarity": 3,
+      "faithfulness": 4
+    },
+    "claim_score": 16
+  },
+  {
+    "claim_id": "ctx31_claim93",
+    "claim": "Người dân tại Moskva và St. Petersburg đang cắt giảm chi tiêu cho giáo dục và y tế do áp lực tài chính cá nhân ngày càng lớn.",
+    "seed_context_id": "vne_954_chunk_3",
+    "seed_context": "Tuy nhiên, Fitch Ratings nhận định sau giai đoạn tăng trưởng nóng nhờ chi tiêu quân sự, kinh tế Nga đang chững lại, tăng trưởng tiềm năng chỉ 1% sau 2025. Trong bối cảnh đó, việc siết chặt kỷ luật tài khóa, cắt giảm chi tiêu không thiết yếu giúp Nga tránh lạm phát phi mã và duy trì khả năng vay mượn từ các đối tác bên ngoài. Đối với người dân Nga, việc chính phủ thắt chặt kỷ luật tài khóa đồng nghĩa với ít hỗ trợ xã hội hơn, như giảm trợ cấp năng lượng trong mùa đông. Trong khi đó, người dân Nga cũng phải đối mặt áp lực tài chính cá nhân ngày càng lớn. Các cuộc khảo sát cho thấy nhiều người Nga vẫn lạc quan về triển vọng kinh tế, nhưng hành vi \"thắt lưng buộc bụng\" đã trở thành xu hướng phổ biến, từ cắt giảm mua sắm không thiết yếu đến tìm kiếm việc làm thêm để bù đắp thu nhập. Một cuộc khảo sát của hồi tháng 7 cho thấy 38% người lao động Nga không có khoản dự phòng tài chính, khiến họ dễ bị tổn thương trước biến động kinh tế. Người dân tại những thành phố lớn như Moskva và St. Petersburg đang chuyển sang mua sắm hàng hóa địa phương tại chợ truyền thống thay cho hàng nhập khẩu ở siêu thị, cắt giảm chi tiêu cho du lịch và giải trí.",
+    "model_label": "NEI",
+    "human_label": "NOT_ENOUGH_INFO",
+    "scores": {
+      "verifiability": 2,
+      "atomicity": 3,
+      "specificity": 4,
+      "clarity": 3,
+      "faithfulness": 2
+    },
+    "claim_score": 14
+  },
+  {
+    "claim_id": "ctx32_claim94",
+    "claim": "Khảo sát của CNN vào tháng 10/2023 cho thấy hơn 60% người Mỹ phản đối mức thuế 25% áp dụng cho hàng hóa nhập khẩu từ Mexico và Canada.",
+    "seed_context_id": "vne_610_chunk_3",
+    "seed_context": "Khảo sát của CNN cho thấy người Mỹ phản đối áp thuế 25% đối với hàng nhập khẩu nhôm thép, trong khi hơn 60% người được Washington Post hỏi phản đối mức thuế 25% với hàng hóa từ Mexico, Canada. Khoảng 70% người Mỹ cho rằng chính sách thuế quan thường làm tăng giá hàng hóa ở nước này. Nỗ lực tinh giản chính phủ mà ông Trump cùng đồng minh Elon Musk đang thúc đẩy cũng không được ủng hộ. 58% người được hỏi trong cuộc thăm dò của Washington Post phản đối sa thải lượng lớn nhân viên chính phủ, cao hơn 19 điểm phần trăm so với mức ủng hộ. Ngoài trục xuất hàng loạt người di cư, chính sách áp thuế 10% với hàng hóa Trung Quốc là lĩnh vực ông Trump được ủng hộ nhiều hơn phản đối, với tỷ lệ lần lượt là 50% và 45%. Tuy nhiên, vẫn có những dấu hiệu đáng cảnh báo ngay cả với vấn đề trục xuất người nhập cư trái phép vốn được ủng hộ. 57% người được hỏi phản đối mạnh mẽ trục xuất người nhập cư không giấy tờ không trong diện phạm tội, 70% không đồng ý trục xuất người đến Mỹ từ khi còn nhỏ và 66% phản đối trục xuất những người có con là công dân Mỹ.",
+    "model_label": "SUPPORTED",
+    "human_label": "SUPPORTED",
+    "scores": {
+      "specificity": 2,
+      "clarity": 2,
+      "faithfulness": 2,
+      "verifiability": 2,
+      "atomicity": 4
+    },
+    "claim_score": 12
+  },
+  {
+    "claim_id": "ctx32_claim95",
+    "claim": "Theo khảo sát của Washington Post, 58% người Mỹ ủng hộ việc sa thải lượng lớn nhân viên chính phủ trong nỗ lực tinh giản bộ máy.",
+    "seed_context_id": "vne_610_chunk_3",
+    "seed_context": "Khảo sát của CNN cho thấy người Mỹ phản đối áp thuế 25% đối với hàng nhập khẩu nhôm thép, trong khi hơn 60% người được Washington Post hỏi phản đối mức thuế 25% với hàng hóa từ Mexico, Canada. Khoảng 70% người Mỹ cho rằng chính sách thuế quan thường làm tăng giá hàng hóa ở nước này. Nỗ lực tinh giản chính phủ mà ông Trump cùng đồng minh Elon Musk đang thúc đẩy cũng không được ủng hộ. 58% người được hỏi trong cuộc thăm dò của Washington Post phản đối sa thải lượng lớn nhân viên chính phủ, cao hơn 19 điểm phần trăm so với mức ủng hộ. Ngoài trục xuất hàng loạt người di cư, chính sách áp thuế 10% với hàng hóa Trung Quốc là lĩnh vực ông Trump được ủng hộ nhiều hơn phản đối, với tỷ lệ lần lượt là 50% và 45%. Tuy nhiên, vẫn có những dấu hiệu đáng cảnh báo ngay cả với vấn đề trục xuất người nhập cư trái phép vốn được ủng hộ. 57% người được hỏi phản đối mạnh mẽ trục xuất người nhập cư không giấy tờ không trong diện phạm tội, 70% không đồng ý trục xuất người đến Mỹ từ khi còn nhỏ và 66% phản đối trục xuất những người có con là công dân Mỹ.",
+    "model_label": "REFUTED",
+    "human_label": "REFUTED",
+    "scores": {
+      "verifiability": 4,
+      "atomicity": 4,
+      "specificity": 3,
+      "clarity": 3,
+      "faithfulness": 4
+    },
+    "claim_score": 18
+  },
+  {
+    "claim_id": "ctx32_claim96",
+    "claim": "Vào tháng 10/2023, ông Trump đã ký một thỏa thuận thương mại mới với Trung Quốc, loại bỏ hoàn toàn thuế quan đối với tất cả các mặt hàng nhập khẩu.",
+    "seed_context_id": "vne_610_chunk_3",
+    "seed_context": "Khảo sát của CNN cho thấy người Mỹ phản đối áp thuế 25% đối với hàng nhập khẩu nhôm thép, trong khi hơn 60% người được Washington Post hỏi phản đối mức thuế 25% với hàng hóa từ Mexico, Canada. Khoảng 70% người Mỹ cho rằng chính sách thuế quan thường làm tăng giá hàng hóa ở nước này. Nỗ lực tinh giản chính phủ mà ông Trump cùng đồng minh Elon Musk đang thúc đẩy cũng không được ủng hộ. 58% người được hỏi trong cuộc thăm dò của Washington Post phản đối sa thải lượng lớn nhân viên chính phủ, cao hơn 19 điểm phần trăm so với mức ủng hộ. Ngoài trục xuất hàng loạt người di cư, chính sách áp thuế 10% với hàng hóa Trung Quốc là lĩnh vực ông Trump được ủng hộ nhiều hơn phản đối, với tỷ lệ lần lượt là 50% và 45%. Tuy nhiên, vẫn có những dấu hiệu đáng cảnh báo ngay cả với vấn đề trục xuất người nhập cư trái phép vốn được ủng hộ. 57% người được hỏi phản đối mạnh mẽ trục xuất người nhập cư không giấy tờ không trong diện phạm tội, 70% không đồng ý trục xuất người đến Mỹ từ khi còn nhỏ và 66% phản đối trục xuất những người có con là công dân Mỹ.",
+    "model_label": "NEI",
+    "human_label": "NOT_ENOUGH_INFO",
+    "scores": {
+      "verifiability": 3,
+      "atomicity": 3,
+      "specificity": 3,
+      "clarity": 3,
+      "faithfulness": 4
+    },
+    "claim_score": 16
+  },
+  {
+    "claim_id": "ctx33_claim97",
+    "claim": "Charlie Kirk, người sáng lập 31 tuổi của tổ chức bảo thủ Turning Point USA, đã qua đời vì một phát đạn bắn vào cổ trong một vụ nổ súng xảy ra vào ngày 10/9.",
+    "seed_context_id": "vne_882_chunk_0",
+    "seed_context": "Mỹ đang chứng kiến một kiểu \"bình thường mới\" đáng sợ, khi các vụ bạo lực, ám sát gia tăng và dường như trở thành một phần trong đời sống chính trị ở nước này. Trong buổi diễn thuyết về \"Sự trở lại của nước Mỹ\" ngày 10/9, Charlie Kirk, người sáng lập 31 tuổi của tổ chức bảo thủ Turning Point USA, nhận được câu hỏi từ một khán giả về các vụ xả súng hàng loạt. Ngay sau đó, chính Kirk trở thành nạn nhân của một vụ nổ súng. Nhà hoạt động chính trị nổi tiếng này qua đời vì một phát đạn bắn vào cổ. Cảnh sát chưa bắt được nghi phạm, cũng như chưa xác định được động cơ vụ ám sát, nhưng giới quan sát cho hay sự việc có tất cả dấu hiệu của một vụ giết người với động cơ chính trị. \"Các xã hội dân chủ sẽ luôn có những bất đồng chính trị, nhưng chúng ta không được phép để Mỹ trở thành một đất nước giải quyết bất đồng bằng bạo lực\", cựu nghị sĩ Dân chủ Gabby Giffords nói. Chính Giffords cũng từng bị bắn vào đầu trong vụ ám sát hụt năm 2011. Trong 14 năm kể từ đó, các vụ tấn công và đe dọa nhằm vào chính trị gia Mỹ đã tăng đột biến.",
+    "model_label": "SUPPORTED",
+    "human_label": null,
+    "scores": {},
+    "claim_score": 0
+  }
+]
