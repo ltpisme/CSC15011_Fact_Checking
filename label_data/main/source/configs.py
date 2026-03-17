@@ -18,11 +18,11 @@ BASE_DIR = Path(__file__).resolve().parent.parent.parent.parent
 load_dotenv(BASE_DIR / ".env")
 
 
-KB_PATH = BASE_DIR / os.getenv("KNOWLEDGE_BASE_PATH", "label_data/main/data/knowledge_base.json")
+KB_PATH = BASE_DIR / os.getenv("KNOWLEDGE_BASE_PATH", "label_data/main/data/kb.jsonl")
 KB_EMBED_PATH = BASE_DIR / os.getenv("KNOWLEDGE_EMBED_BASE_PATH", "label_data/main/data/kb_embeddings.npy")
 OUTPUT_PATH = BASE_DIR / os.getenv("OUTPUT_PATH", "label_data/main/data/output_dataset.json")
 FAILED_LOG_PATH = BASE_DIR / os.getenv("FAILED_LOG_PATH", "label_data/main/data/failed_log.json")
-CLAIM_PATH = BASE_DIR / os.getenv("CLAIM_CONTEXT_PATH", "label_data/main/data/tuoitre.jsonl")
+CLAIM_PATH = BASE_DIR / os.getenv("CLAIM_CONTEXT_PATH", "label_data/main/data/context_claim_gen.jsonl")
 
 
 

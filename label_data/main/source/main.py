@@ -40,7 +40,9 @@ logger = logging.getLogger(__name__)
 
 MY_API_KEY = os.getenv("API_KEY")
 
-
+print(KB_PATH)
+print(KB_EMBED_PATH)
+print(CLAIM_PATH)
 def call_openrouter(
     model: str,
     system_prompt: str,
@@ -199,38 +201,69 @@ def _save_failed_log(failed: list[dict]) -> None:
     tmp_path.replace(FAILED_LOG_PATH)
 
 
-def run_factcheck_pipeline(n=2500, batch_size=20) -> list[dict]:
+from tqdm import tqdm
+from datetime import datetime, timezone
 
-
+def run_factcheck_pipeline(n=127, batch_size=20) -> list[dict]:
     """Load Knowledge Base"""
-    with open(KB_PATH, "r", encoding="utf-8") as f:
-        kb_data = [json.loads(line) for line in f if line.strip()]
-    kb_embeddings = np.load(KB_EMBED_PATH)
-    print("HOÀN THÀNH LẤY KB")
-    """Load Context to generate Claim data"""
-    with open(CLAIM_PATH, "r", encoding="utf-8") as f:
-        claim_data = [json.loads(line) for line in f if line.strip()]
+    kb_data = []
+    with open(KB_PATH, "r", encoding="utf-8-sig") as f:
+        for line in f:
+            line = line.strip()
+            if line:
+                try:
+                    kb_data.append(json.loads(line))
+                except json.JSONDecodeError:
+                    continue
     
+    kb_embeddings = np.load(KB_EMBED_PATH)
+    print("--- HOÀN THÀNH LẤY KB ---")
 
-
-
-
-
-
+    """Load Existing Results & Filter Used Contexts"""
+    # 1. Load các claim đã làm
     results, processed_claims = _load_existing_results()
     failed_logs = _load_failed_log()
+    
+    # 2. Xây dựng tập hợp các context ĐÃ DÙNG để lọc (Tránh gọi lại LLM vô ích)
+   
+    used_context_texts = {r.get("seed_context", "") for r in results if "seed_context" in r}
 
-    # Biến tạm để theo dõi số lượng claim mới thêm vào trong phiên chạy này
+    """Load and Filter Contexts"""
+    all_contexts = []
+    with open(CLAIM_PATH, "r", encoding="utf-8") as f:
+        for line in f:
+            if not line.strip():
+                continue
+            ctx = json.loads(line)
+            # Lọc ngay từ lúc đọc file: Chỉ giữ context chưa làm
+            if ctx["text"] not in used_context_texts:
+                all_contexts.append(ctx)
+
+    # 3. Trộn ngẫu nhiên các context CÒN LẠI (đảm bảo không trùng & ngẫu nhiên)
+    random.shuffle(all_contexts)
+    
+    # Tính số lượng thực tế cần chạy
+    actual_n = min(n, len(all_contexts))
+    
+    print(f"--- Tổng context còn lại chưa xử lý: {len(all_contexts)} ---")
+    if actual_n == 0:
+        print("Không còn context mới nào để xử lý. Dừng pipeline.")
+        return results
+
     new_claims_count = 0
 
-    for i in range(n):
-        # Đảm bảo mỗi vòng lặp lấy một context ngẫu nhiên mới
-        seed_context = random.choice(claim_data)
-        logger.info(f"Vòng {i+1}/{n} - Context: {seed_context['text'][:50]}...")
+    # Khởi tạo progress bar
+    pbar = tqdm(total=actual_n, desc="Fact-checking Pipeline", unit="ctx")
 
+    for i in range(actual_n):
+        seed_context = all_contexts[i]
+        
+        # Cập nhật thanh tiến trình
+        pbar.set_postfix({"ctx": i+1, "new_claims": new_claims_count})
+
+        # --- BƯỚC GEN CLAIM ---
         claims = generate_claims(seed_context["text"])
         if not claims:
-            logger.warning("Không có claim nào được tạo, bỏ qua vòng này.")
             failed_logs.append({
                 "claim": None,
                 "seed_context": seed_context["text"][:200],
@@ -238,11 +271,14 @@ def run_factcheck_pipeline(n=2500, batch_size=20) -> list[dict]:
                 "error": "LLM trả về danh sách claims rỗng",
                 "timestamp": datetime.now(timezone.utc).isoformat(),
             })
+            pbar.update(1)
             continue
 
+        # --- XỬ LÝ TỪNG CLAIM ---
         for claim_item in claims:
             claim_text = claim_item["claim"]
 
+            # Double-check để chống trùng Claim (đề phòng 2 context gen ra claim giống nhau)
             if claim_text in processed_claims:
                 continue
 
@@ -250,25 +286,22 @@ def run_factcheck_pipeline(n=2500, batch_size=20) -> list[dict]:
                 # Bước 1: Truy xuất bằng chứng
                 evidences = retrieve_hybrid_bge(claim_text, kb_data, kb_embeddings)
 
-
-                # evidences = retrieve_tfidf(claim_text, kb_data)
-
                 # Bước 2: Voting
                 voting_result = vote_on_claim(claim_text, evidences)
 
-                # Nếu tất cả voters thất bại, không lưu vào dataset chính
                 if voting_result["consensus_score"].startswith("0/"):
-                    logger.warning("Tất cả voters thất bại cho claim: %s", claim_text[:80])
                     failed_logs.append({
                         "claim": claim_text,
                         "stage": "voting",
-                        "error": "Tất cả voters trả về lỗi, không có nhãn đáng tin cậy",
+                        "error": "Tất cả voters trả về lỗi",
                         "timestamp": datetime.now(timezone.utc).isoformat(),
                     })
                     continue
 
+                # Đóng gói kết quả (Quan trọng: Lưu lại seed_context để lần sau lọc)
                 result = {
                     "claim": claim_text,
+                    "seed_context": seed_context["text"],  
                     "final_label": voting_result["final_label"],
                     "status": voting_result["status"],
                     "qc_tag": voting_result["qc_tag"],
@@ -277,13 +310,17 @@ def run_factcheck_pipeline(n=2500, batch_size=20) -> list[dict]:
                     "voter_details": voting_result["voter_details"],
                 }
 
-                # Thêm vào list results trong bộ nhớ
                 results.append(result)
                 processed_claims.add(claim_text)
                 new_claims_count += 1
 
+                # KIỂM TRA BATCH: Lưu file sau mỗi 'batch_size' claim MỚI
+                if new_claims_count % batch_size == 0:
+                    _save_all_results(results)
+                    _save_failed_log(failed_logs)
+
             except Exception as e:
-                logger.error("Lỗi khi xử lý claim '%s': %s", claim_text[:80], e)
+                # logger.error(f"Lỗi khi xử lý claim: {e}") # Có thể comment lại để tránh spam log
                 failed_logs.append({
                     "claim": claim_text,
                     "stage": "processing",
@@ -291,18 +328,30 @@ def run_factcheck_pipeline(n=2500, batch_size=20) -> list[dict]:
                     "timestamp": datetime.now(timezone.utc).isoformat(),
                 })
 
-            # KIỂM TRA BATCH: Lưu file sau mỗi 'batch_size' claim mới
-            if new_claims_count > 0 and new_claims_count % batch_size == 0:
-                _save_all_results(results)
-                _save_failed_log(failed_logs)
-                logger.info(f"--- Đã lưu Batch: Tổng cộng {len(results)} claims, {len(failed_logs)} lỗi ---")
+        # Cập nhật tiến trình sau khi xong 1 context
+        pbar.update(1)
 
-    # Lưu lần cuối để tránh sót các claim lẻ ở cuối
-    _save_all_results(results)
-    _save_failed_log(failed_logs)
-    logger.info(f"Pipeline hoàn tất. Tổng cộng: {len(results)} claims, {len(failed_logs)} lỗi.")
+    pbar.close()
+
+    # Lưu vét lần cuối (tránh sót các claim dư ra ngoài batch_size)
+    if new_claims_count > 0:
+        _save_all_results(results)
+        _save_failed_log(failed_logs)
+
+    print(f"--- Pipeline hoàn tất! Sinh mới: {new_claims_count} claims. Tổng dataset: {len(results)} ---")
     return results
 
 
 if __name__ == "__main__":
-    run_factcheck_pipeline(37, 1)
+    run_factcheck_pipeline(37, 5)
+
+
+#2473
+#15/03 - đợt 1: 379 data - score: 0.585 - price: 0.69 - tổng: 379
+#15/03 - đợt 2: 750 data - score: 0.584 - price: 0.99 - tổng: 1129
+#16/03 - đợt 3: 537 data - score: 0.586 - price: 1.295   - tổng: 1666
+#16/03 - đợt 4:
+#16/03 - đợt 5:
+#17/03 - đợt 6:
+#17/03 - đợt 7:
+#17/03 - đợt 8:
