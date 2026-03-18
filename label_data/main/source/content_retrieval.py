@@ -126,7 +126,7 @@ def retrieve_hybrid_bge(claim: str, kb_data: list[dict], kb_embeddings: np.ndarr
     1. BM25 lọc ra n đoạn văn chứa từ khóa/con số giống nhất.
     2. BGE-M3 chọn ra k đoạn văn có ngữ nghĩa khớp nhất từ n đoạn đó.
     """
-    print("chạy hàm hybrid")
+    # print("chạy hàm hybrid")
     # --- BƯỚC 1: BM25 (Sparse Retrieval) ---
     bm25 = _get_bm25_instance(kb_data)
     tokenized_query = ViTokenizer.tokenize(claim).lower().split()
@@ -136,7 +136,7 @@ def retrieve_hybrid_bge(claim: str, kb_data: list[dict], kb_embeddings: np.ndarr
     
     # Lấy n index có điểm BM25 cao nhất
     candidate_indices = np.argsort(bm25_scores)[-n:][::-1]
-    print(candidate_indices)
+    # print(candidate_indices)
     # --- BƯỚC 2: BGE-M3 (Dense Reranking) ---
     model = _get_bge_model()
     claim_vec = model.encode([claim])["dense_vecs"] # (1, dim)
