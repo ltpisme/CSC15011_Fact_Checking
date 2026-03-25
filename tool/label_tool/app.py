@@ -2,7 +2,7 @@ import customtkinter as ctk
 import json
 import os
 
-ctk.set_appearance_mode("dark")
+ctk.set_appearance_mode("light")
 ctk.set_default_color_theme("blue")
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -29,11 +29,17 @@ class LabelApp(ctk.CTk):
     # ─────────────────────────── UI BUILD ────────────────────────────
 
     def build_ui(self):
-        # ── Title ──────────────────────────────────────────────────
-        self.title_label = ctk.CTkLabel(
-            self, text="MANUAL LABEL TOOL", font=("Arial", 22, "bold")
+        # ── Header: Fact-checking Task status ─────────────────────
+        self.header_frame = ctk.CTkFrame(self, fg_color="transparent")
+        self.header_frame.pack(pady=(15, 2), padx=30, fill="x")
+
+        self.status_indicator = ctk.CTkLabel(
+            self.header_frame,
+            text="Fact-checking Task - Status: -",
+            font=("Arial", 14),
+            text_color="#666666",
         )
-        self.title_label.pack(pady=(15, 5))
+        self.status_indicator.pack(side="left")
 
         # ── Navigation row ─────────────────────────────────────────
         self.nav_frame = ctk.CTkFrame(self, fg_color="transparent")
@@ -45,7 +51,7 @@ class LabelApp(ctk.CTk):
         self.prev_button.pack(side="left", padx=(0, 8))
 
         self.progress_label = ctk.CTkLabel(
-            self.nav_frame, text="0/0", font=("Arial", 14, "bold")
+            self.nav_frame, text="0/0", font=("Arial", 14, "bold"), text_color="#333333"
         )
         self.progress_label.pack(side="left", padx=8)
 
@@ -55,7 +61,7 @@ class LabelApp(ctk.CTk):
         self.next_button.pack(side="left", padx=(0, 8))
 
         self.labeled_count_label = ctk.CTkLabel(
-            self.nav_frame, text="Đã nhãn: 0/0", font=("Arial", 12)
+            self.nav_frame, text="Đã nhãn: 0/0", font=("Arial", 12), text_color="#444444"
         )
         self.labeled_count_label.pack(side="left", padx=15)
 
@@ -65,39 +71,48 @@ class LabelApp(ctk.CTk):
         self.current_label_indicator.pack(side="right", padx=5)
 
         # ── Claim ──────────────────────────────────────────────────
-        self.claim_outer = ctk.CTkFrame(self, fg_color="#1e2a35", corner_radius=8)
-        self.claim_outer.pack(pady=6, padx=30, fill="x")
+        self.claim_outer = ctk.CTkFrame(
+            self,
+            fg_color="#f0f7ff",
+            corner_radius=12,
+            border_width=2,
+            border_color="#2196f3",
+        )
+        self.claim_outer.pack(pady=(10, 6), padx=30, fill="x")
 
         ctk.CTkLabel(
             self.claim_outer,
-            text="CLAIM",
-            font=("Arial", 13, "bold"),
-            text_color="#f39c12",
-        ).pack(anchor="w", padx=12, pady=(8, 2))
+            text="🔎 Claim cần kiểm chứng:",
+            font=("Arial", 14, "bold"),
+            text_color="#1a1a1a",
+        ).pack(anchor="w", padx=15, pady=(12, 4))
 
         self.claim_text = ctk.CTkTextbox(
             self.claim_outer,
             height=80,
             wrap="word",
             font=("Arial", 13),
-            fg_color="#253545",
+            fg_color="#deeffe",
+            text_color="#111111",
         )
-        self.claim_text.pack(fill="x", padx=12, pady=(0, 10))
+        self.claim_text.pack(fill="x", padx=15, pady=(0, 12))
         self.claim_text.configure(state="disabled")
 
         # ── Evidence ───────────────────────────────────────────────
-        evidence_header = ctk.CTkFrame(self, fg_color="#f39c12", corner_radius=6)
-        evidence_header.pack(fill="x", padx=30, pady=(8, 0))
         ctk.CTkLabel(
-            evidence_header,
-            text="📄  EVIDENCE",
-            font=("Arial", 17, "bold"),
-            text_color="#1a252f",
-        ).pack(anchor="w", padx=14, pady=6)
+            self,
+            text="📚 Danh sách minh chứng (Evidences):",
+            font=("Arial", 14, "bold"),
+            text_color="#1a1a1a",
+        ).pack(anchor="w", padx=30, pady=(6, 2))
 
         self.evidence_frame = ctk.CTkScrollableFrame(
-            self, fg_color="#1e2a35", height=340, corner_radius=8,
-            border_width=2, border_color="#f39c12"
+            self,
+            fg_color="#f5f5f5",
+            height=300,
+            corner_radius=8,
+            border_width=1,
+            border_color="#e0e0e0",
         )
         self.evidence_frame.pack(pady=(0, 4), padx=30, fill="both", expand=True)
 
@@ -112,72 +127,90 @@ class LabelApp(ctk.CTk):
             width=230,
             height=28,
             font=("Arial", 11),
-            fg_color="#2c3e50",
-            hover_color="#3d5166",
+            fg_color="#5c6bc0",
+            hover_color="#3949ab",
             command=self.toggle_ai_votes,
         )
         self.ai_toggle_btn.pack(side="left")
 
         self.ai_votes_frame = ctk.CTkScrollableFrame(
-            self, fg_color="#1a252f", height=100, corner_radius=6
+            self, fg_color="#eeeeee", height=100, corner_radius=6
         )
         # Not packed initially; shown on toggle
 
-        # ── Quote input ────────────────────────────────────────────
-        self.quote_outer = ctk.CTkFrame(self, fg_color="transparent")
-        self.quote_outer.pack(pady=8, padx=30, fill="x")
+        # ── Verdict Section ────────────────────────────────────────
+        self.verdict_outer = ctk.CTkFrame(
+            self,
+            fg_color="#ffffff",
+            corner_radius=10,
+            border_width=1,
+            border_color="#cccccc",
+        )
+        self.verdict_outer.pack(pady=10, padx=30, fill="x")
 
         ctk.CTkLabel(
-            self.quote_outer,
-            text="Quote / Ghi chú của bạn:",
-            font=("Arial", 12, "bold"),
-        ).pack(anchor="w")
+            self.verdict_outer,
+            text="🎯 Kết luận của bạn (Verdict):",
+            font=("Arial", 14, "bold"),
+            text_color="#1a1a1a",
+        ).pack(anchor="w", padx=15, pady=(12, 6))
 
-        self.quote_entry = ctk.CTkTextbox(
-            self.quote_outer, height=65, wrap="word", font=("Arial", 12)
-        )
-        self.quote_entry.pack(fill="x", pady=(3, 0))
-
-        # ── Label buttons ──────────────────────────────────────────
-        self.btn_frame = ctk.CTkFrame(self, fg_color="transparent")
-        self.btn_frame.pack(pady=10, padx=30, fill="x")
+        self.btn_frame = ctk.CTkFrame(self.verdict_outer, fg_color="transparent")
+        self.btn_frame.pack(padx=15, fill="x", pady=(0, 4))
 
         self.supported_btn = ctk.CTkButton(
             self.btn_frame,
-            text="✅  SUPPORTED",
-            height=50,
-            font=("Arial", 14, "bold"),
-            fg_color="#27ae60",
-            hover_color="#1e8449",
+            text="✅  Xác thực  (SUPPORTED)",
+            height=45,
+            font=("Arial", 13, "bold"),
+            fg_color="#4CAF50",
+            hover_color="#388E3C",
             command=lambda: self.label_item("SUPPORTED"),
         )
-        self.supported_btn.pack(side="left", padx=(0, 10), expand=True, fill="x")
-
-        self.nei_btn = ctk.CTkButton(
-            self.btn_frame,
-            text="❓  NEI",
-            height=50,
-            font=("Arial", 14, "bold"),
-            fg_color="#7f8c8d",
-            hover_color="#5d6d7e",
-            command=lambda: self.label_item("NEI"),
-        )
-        self.nei_btn.pack(side="left", padx=(0, 10), expand=True, fill="x")
+        self.supported_btn.pack(side="left", padx=(0, 8), expand=True, fill="x")
 
         self.refuted_btn = ctk.CTkButton(
             self.btn_frame,
-            text="❌  REFUTED",
-            height=50,
-            font=("Arial", 14, "bold"),
-            fg_color="#e74c3c",
-            hover_color="#c0392b",
+            text="❌  Sai lệch  (REFUTED)",
+            height=45,
+            font=("Arial", 13, "bold"),
+            fg_color="#F44336",
+            hover_color="#C62828",
             command=lambda: self.label_item("REFUTED"),
         )
-        self.refuted_btn.pack(side="left", expand=True, fill="x")
+        self.refuted_btn.pack(side="left", padx=(0, 8), expand=True, fill="x")
+
+        self.nei_btn = ctk.CTkButton(
+            self.btn_frame,
+            text="❓  Không đủ TT  (NEI)",
+            height=45,
+            font=("Arial", 13, "bold"),
+            fg_color="#9E9E9E",
+            hover_color="#616161",
+            command=lambda: self.label_item("NEI"),
+        )
+        self.nei_btn.pack(side="left", expand=True, fill="x")
+
+        ctk.CTkLabel(
+            self.verdict_outer,
+            text="📝 Ghi chú hoặc lý do (Không bắt buộc):",
+            font=("Arial", 12, "bold"),
+            text_color="#444444",
+        ).pack(anchor="w", padx=15, pady=(10, 2))
+
+        self.quote_entry = ctk.CTkTextbox(
+            self.verdict_outer,
+            height=60,
+            wrap="word",
+            font=("Arial", 12),
+            fg_color="#f9f9f9",
+            text_color="#333333",
+        )
+        self.quote_entry.pack(fill="x", padx=15, pady=(0, 15))
 
         # ── Status bar ─────────────────────────────────────────────
         self.status_label = ctk.CTkLabel(
-            self, text="", text_color="#f39c12", font=("Arial", 11)
+            self, text="", text_color="#1565c0", font=("Arial", 11)
         )
         self.status_label.pack(pady=(4, 8))
 
@@ -251,24 +284,28 @@ class LabelApp(ctk.CTk):
 
         for ev in item.get("evidence", []):
             container = ctk.CTkFrame(
-                self.evidence_frame, fg_color="#253545", corner_radius=6
+                self.evidence_frame,
+                fg_color="#fafafa",
+                corner_radius=8,
+                border_width=1,
+                border_color="#e0e0e0",
             )
-            container.pack(fill="x", pady=4, padx=4)
+            container.pack(fill="x", pady=5, padx=4)
 
             ctk.CTkLabel(
                 container,
-                text=f"🔗  {ev.get('source', '')}",
-                font=("Arial", 13, "bold"),
-                text_color="#5dade2",
-            ).pack(anchor="w", padx=12, pady=(8, 0))
+                text=f"Nguồn: {ev.get('source', '')}",
+                font=("Arial", 12, "bold"),
+                text_color="#1565c0",
+            ).pack(anchor="w", padx=12, pady=(8, 2))
 
             tb = ctk.CTkTextbox(
                 container,
                 height=100,
                 wrap="word",
-                font=("Arial", 14),
-                fg_color="#1a2632",
-                text_color="#ecf0f1",
+                font=("Arial", 13),
+                fg_color="#f0f4f8",
+                text_color="#333333",
             )
             tb.pack(fill="x", padx=12, pady=(4, 10))
             tb.insert("1.0", ev.get("text", ""))
@@ -280,24 +317,24 @@ class LabelApp(ctk.CTk):
 
         for vd in item.get("voter_details", []):
             lbl_color_map = {
-                "SUPPORTED": "#27ae60",
-                "REFUTED": "#e74c3c",
-                "NEI": "#7f8c8d",
+                "SUPPORTED": "#4CAF50",
+                "REFUTED": "#F44336",
+                "NEI": "#9E9E9E",
             }
             vote = vd.get("vote", "")
-            row = ctk.CTkFrame(self.ai_votes_frame, fg_color="#253545", corner_radius=4)
+            row = ctk.CTkFrame(self.ai_votes_frame, fg_color="#e8e8e8", corner_radius=4)
             row.pack(fill="x", pady=3, padx=4)
             ctk.CTkLabel(
                 row,
                 text=f"{vd.get('model', '')}",
                 font=("Arial", 10, "bold"),
-                text_color="#aab8c2",
+                text_color="#555555",
             ).pack(side="left", padx=(8, 4), pady=4)
             ctk.CTkLabel(
                 row,
                 text=vote,
                 font=("Arial", 10, "bold"),
-                text_color=lbl_color_map.get(vote, "white"),
+                text_color=lbl_color_map.get(vote, "#333333"),
             ).pack(side="left", padx=4)
             ctk.CTkLabel(
                 row,
@@ -305,6 +342,7 @@ class LabelApp(ctk.CTk):
                 font=("Arial", 10),
                 wraplength=600,
                 justify="left",
+                text_color="#333333",
             ).pack(side="left", padx=(4, 8), pady=4)
 
         # Quote & label indicator
@@ -314,17 +352,23 @@ class LabelApp(ctk.CTk):
             lbl = res.get("label", "")
             self.quote_entry.insert("1.0", res.get("quote", ""))
             color_map = {
-                "SUPPORTED": "#27ae60",
-                "REFUTED": "#e74c3c",
-                "NEI": "#f39c12",
+                "SUPPORTED": "#4CAF50",
+                "REFUTED": "#F44336",
+                "NEI": "#9E9E9E",
             }
             self.current_label_indicator.configure(
                 text=f"Đã nhãn: {lbl}",
-                text_color=color_map.get(lbl, "white"),
+                text_color=color_map.get(lbl, "#333333"),
+            )
+            self.status_indicator.configure(
+                text=f"Fact-checking Task - Status: Đã nhãn ({lbl})"
             )
         else:
             self.current_label_indicator.configure(
-                text="Chưa nhãn", text_color="#95a5a6"
+                text="Chưa nhãn", text_color="#888888"
+            )
+            self.status_indicator.configure(
+                text="Fact-checking Task - Status: Chưa nhãn"
             )
 
     def toggle_ai_votes(self):
@@ -346,10 +390,13 @@ class LabelApp(ctk.CTk):
         self.save_results()
         self.update_status(f"Đã lưu nhãn: {label}")
 
-        color_map = {"SUPPORTED": "#27ae60", "REFUTED": "#e74c3c", "NEI": "#f39c12"}
+        color_map = {"SUPPORTED": "#4CAF50", "REFUTED": "#F44336", "NEI": "#9E9E9E"}
         self.current_label_indicator.configure(
             text=f"Đã nhãn: {label}",
-            text_color=color_map.get(label, "white"),
+            text_color=color_map.get(label, "#333333"),
+        )
+        self.status_indicator.configure(
+            text=f"Fact-checking Task - Status: Đã nhãn ({label})"
         )
         self.labeled_count_label.configure(
             text=f"Đã nhãn: {len(self.results)}/{self.total}"
