@@ -35,14 +35,15 @@ import numpy as np
 
 
 from FlagEmbedding import BGEM3FlagModel
-
+from rank_bm25 import BM25Okapi
+from pyvi import ViTokenizer
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 
-from rank_bm25 import BM25Okapi
-from pyvi import ViTokenizer
+
+
 
 
 
