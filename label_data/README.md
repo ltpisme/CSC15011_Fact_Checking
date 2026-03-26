@@ -6,22 +6,27 @@
 label_data/
 ├── pyproject.toml               # Cấu hình dự án & dependencies (uv)
 ├── .python-version              # Phiên bản Python
-├── demo/                        # Phiên bản prototype
-│   ├── create_kb.py             # Crawl bài báo & xây dựng Knowledge Base
-│   ├── generate_data.py         # Pipeline tạo + dán nhãn claim (dùng TF-IDF)
-│   ├── knowledge_base.json      # Knowledge Base đầu ra
-│   └── tiered_factcheck_dataset.json  # Dataset mẫu đã gán nhãn
-│
 └── main/                        # Pipeline chính thức
-    ├── data/
-    │   ├── knowledge_base.json  # Knowledge Base
-    │   ├── kb_embeddings.npy    # Cache vector BGE-M3 (pre-computed)
-    │   └── output_dataset.json  # Dataset output (được ghi dần sau mỗi claim)
-    └── source/
-        ├── configs.py           # Prompts, đường dẫn, danh sách model
-        ├── build_cache_bge-m3.py  # Build cache embedding cho Knowledge Base
-        ├── content_retrieval.py   # Truy xuất bằng chứng (BGE-M3 + TF-IDF)
-        └── main.py              # Pipeline chính
+│   ├── data/
+│   │   ├── context/
+│   │   │   └── context_claim_gen.jsonl
+│   │   └── claim/
+│   │       ├── claims_output.json
+│   │       ├── claims_evaluate.json
+│   │       └── failed_log.json
+│   ├── dataset/
+│   │   └── output_dataset.json
+│   ├── source/
+│   │   ├── configs.py
+│   │   ├── build_cache_bge-m3.py
+│   │   ├── claim_extract.py
+│   │   ├── content_retrieval.py
+│   │   └── main.py
+│   └── final_label/
+│       ├── EDA.ipynb
+│       └── human_label_data.json
+├── pyproject.toml
+└── uv.lock
 ```
 
 ---
