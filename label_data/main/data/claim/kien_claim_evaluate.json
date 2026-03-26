@@ -1,0 +1,3633 @@
+[
+  {
+    "claim_id": "ctx97_claim290",
+    "claim": "Hà Nội dự kiến hỗ trợ 3 triệu đồng cho người dân có xe máy chạy xăng hoặc diesel khi chuyển đổi sang phương tiện xanh có giá trị dưới 15 triệu đồng.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_286_chunk_0",
+    "seed_context": "Sở Xây dựng Hà Nội đang lấy ý kiến các sở, ngành và đơn vị liên quan cho dự thảo Nghị quyết về chuyển đổi phương tiện xanh (xe điện) và phát triển hệ thống trạm sạc trên địa bàn. Văn bản đưa ra một số chính sách về hỗ trợ tài chính và ưu đãi; biện pháp hạn chế và điều tiết phương tiện gây ô nhiễm; chính sách phát triển và hỗ trợ hạ tầng năng lượng sạch. Cụ thể, người dân có xe máy chạy xăng hoặc diesel (đăng ký trước thời điểm nghị quyết có hiệu lực) tại các vùng phát thải thấp, khi chuyển đổi sang phương tiện xanh có giá trị từ 15 triệu đồng trở lên có thể được hỗ trợ 3 triệu đồng. Mức hỗ trợ 4 triệu đồng áp dụng với hộ cận nghèo; 5 triệu đồng với hộ nghèo. Mỗi cá nhân được hỗ trợ tối đa một xe đến hết năm 2030. Thành phố dự kiến miễn 100% lệ phí trước bạ và lệ phí đăng ký biển số đối với phương tiện giao thông xanh từ ngày nghị quyết có hiệu lực đến hết năm 2030. Các đơn vị dịch vụ công ích, đơn vị vận tải hành khách (trừ xe buýt) và vận tải hàng hóa, doanh nghiệp đầu tư cơ sở thu hồi, tái chế xe cũ dự kiến được hỗ trợ vay vốn ưu đãi với lãi suất 3-5%/năm, hạn mức 100% giá trị hợp đồng, thời gian vay tối đa 5 năm.",
+    "id": 3554,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2787,
+    "created_at": "2026-03-15T06:15:51.967855Z",
+    "updated_at": "2026-03-15T06:15:51.967855Z",
+    "lead_time": 55.506,
+    "claim_score": 19
+  },
+  {
+    "claim_id": "ctx97_claim291",
+    "claim": "Sở Xây dựng Hà Nội đang lấy ý kiến các sở, ngành và đơn vị liên quan cho dự thảo Nghị quyết về chuyển đổi phương tiện xanh (xe điện) và phát triển hệ thống trạm sạc trên địa bàn thành phố từ ngày 1 tháng 1 năm 2024.",
+    "label": "NEI",
+    "seed_context_id": "vne_286_chunk_0",
+    "seed_context": "Sở Xây dựng Hà Nội đang lấy ý kiến các sở, ngành và đơn vị liên quan cho dự thảo Nghị quyết về chuyển đổi phương tiện xanh (xe điện) và phát triển hệ thống trạm sạc trên địa bàn. Văn bản đưa ra một số chính sách về hỗ trợ tài chính và ưu đãi; biện pháp hạn chế và điều tiết phương tiện gây ô nhiễm; chính sách phát triển và hỗ trợ hạ tầng năng lượng sạch. Cụ thể, người dân có xe máy chạy xăng hoặc diesel (đăng ký trước thời điểm nghị quyết có hiệu lực) tại các vùng phát thải thấp, khi chuyển đổi sang phương tiện xanh có giá trị từ 15 triệu đồng trở lên có thể được hỗ trợ 3 triệu đồng. Mức hỗ trợ 4 triệu đồng áp dụng với hộ cận nghèo; 5 triệu đồng với hộ nghèo. Mỗi cá nhân được hỗ trợ tối đa một xe đến hết năm 2030. Thành phố dự kiến miễn 100% lệ phí trước bạ và lệ phí đăng ký biển số đối với phương tiện giao thông xanh từ ngày nghị quyết có hiệu lực đến hết năm 2030. Các đơn vị dịch vụ công ích, đơn vị vận tải hành khách (trừ xe buýt) và vận tải hàng hóa, doanh nghiệp đầu tư cơ sở thu hồi, tái chế xe cũ dự kiến được hỗ trợ vay vốn ưu đãi với lãi suất 3-5%/năm, hạn mức 100% giá trị hợp đồng, thời gian vay tối đa 5 năm.",
+    "id": 3555,
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2788,
+    "created_at": "2026-03-15T06:16:07.524807Z",
+    "updated_at": "2026-03-15T06:16:07.524807Z",
+    "lead_time": 14.336,
+    "claim_score": 18
+  },
+  {
+    "claim_id": "ctx98_claim292",
+    "claim": "Thành phố kiến nghị bổ sung thêm phó chủ tịch UBND phường, xã đông dân, tương tự quy định từng được áp dụng trước đây theo cơ chế đặc thù của Nghị quyết 98, khi đó các địa phương có trên 50.000 dân được bổ sung thêm một phó chủ tịch.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_317_chunk_2",
+    "seed_context": "Do đó, thành phố kiến nghị bổ sung thêm phó chủ tịch UBND phường, xã đông dân, tương tự quy định từng được áp dụng trước đây theo cơ chế đặc thù của Nghị quyết 98. Khi đó, các địa phương có trên 50.000 dân được bổ sung thêm một phó chủ tịch. Ngoài ra thành phố kiến nghị tăng thẩm quyền cho cấp phường, như ủy quyền cho phó giám đốc Trung tâm hành chính công được ký duyệt một số loại hồ sơ, giảm tải cho bộ máy.",
+    "id": 3556,
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2789,
+    "created_at": "2026-03-15T06:16:45.759224Z",
+    "updated_at": "2026-03-15T06:16:45.759224Z",
+    "lead_time": 32.64,
+    "claim_score": 18
+  },
+  {
+    "claim_id": "ctx98_claim293",
+    "claim": "Thành phố kiến nghị bổ sung thêm phó chủ tịch UBND phường, xã đông dân theo cơ chế đặc thù của Nghị quyết 98, khi đó các địa phương có dưới 50.000 dân được bổ sung thêm một phó chủ tịch.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_317_chunk_2",
+    "seed_context": "Do đó, thành phố kiến nghị bổ sung thêm phó chủ tịch UBND phường, xã đông dân, tương tự quy định từng được áp dụng trước đây theo cơ chế đặc thù của Nghị quyết 98. Khi đó, các địa phương có trên 50.000 dân được bổ sung thêm một phó chủ tịch. Ngoài ra thành phố kiến nghị tăng thẩm quyền cho cấp phường, như ủy quyền cho phó giám đốc Trung tâm hành chính công được ký duyệt một số loại hồ sơ, giảm tải cho bộ máy.",
+    "id": 3557,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2790,
+    "created_at": "2026-03-15T06:17:27.690105Z",
+    "updated_at": "2026-03-15T06:17:27.690105Z",
+    "lead_time": 41.035,
+    "claim_score": 17
+  },
+  {
+    "claim_id": "ctx98_claim294",
+    "claim": "Thành phố kiến nghị tăng thẩm quyền cho cấp phường, như ủy quyền cho giám đốc Trung tâm hành chính công được ký duyệt một số loại hồ sơ, giảm tải cho bộ máy.",
+    "label": "NEI",
+    "seed_context_id": "vne_317_chunk_2",
+    "seed_context": "Do đó, thành phố kiến nghị bổ sung thêm phó chủ tịch UBND phường, xã đông dân, tương tự quy định từng được áp dụng trước đây theo cơ chế đặc thù của Nghị quyết 98. Khi đó, các địa phương có trên 50.000 dân được bổ sung thêm một phó chủ tịch. Ngoài ra thành phố kiến nghị tăng thẩm quyền cho cấp phường, như ủy quyền cho phó giám đốc Trung tâm hành chính công được ký duyệt một số loại hồ sơ, giảm tải cho bộ máy.",
+    "id": 3558,
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2791,
+    "created_at": "2026-03-15T06:17:53.090295Z",
+    "updated_at": "2026-03-15T06:17:53.090295Z",
+    "lead_time": 24.356,
+    "claim_score": 16
+  },
+  {
+    "claim_id": "ctx99_claim295",
+    "claim": "Châu Âu đã công bố kế hoạch áp thuế trả đũa với rượu whisky, xe máy, hàng nông sản cùng hàng loạt sản phẩm nhập khẩu từ Mỹ vào giữa tháng 4 để đáp trả thuế thép và nhôm.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_660_chunk_4",
+    "seed_context": "Ví dụ, châu Âu đã có lập trường cứng rắn hơn so với nhiều nền kinh tế khác, công bố kế hoạch áp thuế trả đũa với rượu whisky, xe máy, hàng nông sản cùng hàng loạt sản phẩm nhập khẩu từ Mỹ để đáp trả thuế thép và nhôm. Nhưng họ đã trì hoãn các biện pháp này cho đến giữa tháng 4 và các nhà hoạch định chính sách vẫn chưa công bố chính xác họ sẽ phản ứng với đợt thuế đối ứng mới nhất như thế nào. Thay vào đó, các quan chức EU nói rõ rằng họ sẵn sàng phản ứng mạnh mẽ, trong đó có việc sử dụng một công cụ mới được tạo ra, cho phép họ nhanh chóng áp dụng những hình phạt như thuế quan hoặc hạn chế tiếp cận thị trường đối với các công ty công nghệ Mỹ. Mục tiêu là đạt được đòn bẩy lợi thế trong các cuộc đàm phán với Mỹ. Các quốc gia EU đang cố gắng tận dụng sức mạnh thị trường tiêu dùng của khối 27 thành viên để buộc Mỹ phải đàm phán. Nhưng kế hoạch phản công này không dễ dàng do các vấn đề địa chính trị khác có liên quan mật thiết, như chi tiêu quốc phòng hay các ràng buộc về chia sẻ công nghệ. Câu hỏi đặt ra là châu Âu sẽ phản ứng với tốc độ như thế nào.",
+    "id": 3559,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2792,
+    "created_at": "2026-03-15T06:18:06.507665Z",
+    "updated_at": "2026-03-15T06:18:06.507665Z",
+    "lead_time": 12.351,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx99_claim296",
+    "claim": "Châu Âu đã trì hoãn các biện pháp trả đũa thuế thép và nhôm cho đến cuối tháng 4 và đã công bố chính xác họ sẽ phản ứng với đợt thuế đối ứng mới nhất như thế nào.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_660_chunk_4",
+    "seed_context": "Ví dụ, châu Âu đã có lập trường cứng rắn hơn so với nhiều nền kinh tế khác, công bố kế hoạch áp thuế trả đũa với rượu whisky, xe máy, hàng nông sản cùng hàng loạt sản phẩm nhập khẩu từ Mỹ để đáp trả thuế thép và nhôm. Nhưng họ đã trì hoãn các biện pháp này cho đến giữa tháng 4 và các nhà hoạch định chính sách vẫn chưa công bố chính xác họ sẽ phản ứng với đợt thuế đối ứng mới nhất như thế nào. Thay vào đó, các quan chức EU nói rõ rằng họ sẵn sàng phản ứng mạnh mẽ, trong đó có việc sử dụng một công cụ mới được tạo ra, cho phép họ nhanh chóng áp dụng những hình phạt như thuế quan hoặc hạn chế tiếp cận thị trường đối với các công ty công nghệ Mỹ. Mục tiêu là đạt được đòn bẩy lợi thế trong các cuộc đàm phán với Mỹ. Các quốc gia EU đang cố gắng tận dụng sức mạnh thị trường tiêu dùng của khối 27 thành viên để buộc Mỹ phải đàm phán. Nhưng kế hoạch phản công này không dễ dàng do các vấn đề địa chính trị khác có liên quan mật thiết, như chi tiêu quốc phòng hay các ràng buộc về chia sẻ công nghệ. Câu hỏi đặt ra là châu Âu sẽ phản ứng với tốc độ như thế nào.",
+    "id": 3560,
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2793,
+    "created_at": "2026-03-15T06:18:33.332041Z",
+    "updated_at": "2026-03-15T06:18:33.332041Z",
+    "lead_time": 25.689,
+    "claim_score": 17
+  },
+  {
+    "claim_id": "ctx99_claim297",
+    "claim": "Các quan chức EU đã sử dụng công cụ mới được tạo ra để nhanh chóng áp dụng những hình phạt như thuế quan hoặc hạn chế tiếp cận thị trường đối với các công ty công nghệ Mỹ vào tháng 3 năm 2023.",
+    "label": "NEI",
+    "seed_context_id": "vne_660_chunk_4",
+    "seed_context": "Ví dụ, châu Âu đã có lập trường cứng rắn hơn so với nhiều nền kinh tế khác, công bố kế hoạch áp thuế trả đũa với rượu whisky, xe máy, hàng nông sản cùng hàng loạt sản phẩm nhập khẩu từ Mỹ để đáp trả thuế thép và nhôm. Nhưng họ đã trì hoãn các biện pháp này cho đến giữa tháng 4 và các nhà hoạch định chính sách vẫn chưa công bố chính xác họ sẽ phản ứng với đợt thuế đối ứng mới nhất như thế nào. Thay vào đó, các quan chức EU nói rõ rằng họ sẵn sàng phản ứng mạnh mẽ, trong đó có việc sử dụng một công cụ mới được tạo ra, cho phép họ nhanh chóng áp dụng những hình phạt như thuế quan hoặc hạn chế tiếp cận thị trường đối với các công ty công nghệ Mỹ. Mục tiêu là đạt được đòn bẩy lợi thế trong các cuộc đàm phán với Mỹ. Các quốc gia EU đang cố gắng tận dụng sức mạnh thị trường tiêu dùng của khối 27 thành viên để buộc Mỹ phải đàm phán. Nhưng kế hoạch phản công này không dễ dàng do các vấn đề địa chính trị khác có liên quan mật thiết, như chi tiêu quốc phòng hay các ràng buộc về chia sẻ công nghệ. Câu hỏi đặt ra là châu Âu sẽ phản ứng với tốc độ như thế nào.",
+    "id": 3561,
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2794,
+    "created_at": "2026-03-15T06:18:58.331894Z",
+    "updated_at": "2026-03-15T06:18:58.331894Z",
+    "lead_time": 23.909,
+    "claim_score": 19
+  },
+  {
+    "claim_id": "ctx100_claim298",
+    "claim": "Trong nhiệm vụ vừa qua, hai cựu đại úy hải quân Mỹ Wilmore và Williams đã bay tổng cộng 195.289.857 km, hoàn thành 4.576 chuyến vòng quanh Trái Đất trong 286 ngày.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_647_chunk_2",
+    "seed_context": "Wilmore và Williams là hai cựu đại úy hải quân Mỹ đã nghỉ hưu và từng thực hiện nhiều nhiệm vụ ngoài không gian. Trong nhiệm vụ vừa qua, hai phi hành gia đã bay tổng cộng 195. 289. 857 km, hoàn thành 4. 576 chuyến vòng quanh Trái Đất trong 286 ngày. Tính đến nay, Williams đã trải qua 608 ngày trong vũ trụ trong suốt sự nghiệp, chỉ xếp sau phi hành gia người Mỹ Peggy Whitson với 675 ngày. Wilmore đã ở ngoài không gian 464 ngày sau ba nhiệm vụ.",
+    "id": 3562,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2795,
+    "created_at": "2026-03-15T06:19:10.480590Z",
+    "updated_at": "2026-03-15T06:19:10.480590Z",
+    "lead_time": 11.168,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx100_claim299",
+    "claim": "Cựu đại úy hải quân Mỹ Wilmore đã ở ngoài không gian 608 ngày sau ba nhiệm vụ, chỉ xếp sau phi hành gia người Mỹ Peggy Whitson với 675 ngày.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_647_chunk_2",
+    "seed_context": "Wilmore và Williams là hai cựu đại úy hải quân Mỹ đã nghỉ hưu và từng thực hiện nhiều nhiệm vụ ngoài không gian. Trong nhiệm vụ vừa qua, hai phi hành gia đã bay tổng cộng 195. 289. 857 km, hoàn thành 4. 576 chuyến vòng quanh Trái Đất trong 286 ngày. Tính đến nay, Williams đã trải qua 608 ngày trong vũ trụ trong suốt sự nghiệp, chỉ xếp sau phi hành gia người Mỹ Peggy Whitson với 675 ngày. Wilmore đã ở ngoài không gian 464 ngày sau ba nhiệm vụ.",
+    "id": 3563,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2796,
+    "created_at": "2026-03-15T06:19:19.963497Z",
+    "updated_at": "2026-03-15T06:19:19.963497Z",
+    "lead_time": 8.231,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx100_claim300",
+    "claim": "Hai cựu đại úy hải quân Mỹ Wilmore và Williams dự kiến sẽ thực hiện một nhiệm vụ mới lên Sao Hỏa vào năm 2025.",
+    "label": "NEI",
+    "seed_context_id": "vne_647_chunk_2",
+    "seed_context": "Wilmore và Williams là hai cựu đại úy hải quân Mỹ đã nghỉ hưu và từng thực hiện nhiều nhiệm vụ ngoài không gian. Trong nhiệm vụ vừa qua, hai phi hành gia đã bay tổng cộng 195. 289. 857 km, hoàn thành 4. 576 chuyến vòng quanh Trái Đất trong 286 ngày. Tính đến nay, Williams đã trải qua 608 ngày trong vũ trụ trong suốt sự nghiệp, chỉ xếp sau phi hành gia người Mỹ Peggy Whitson với 675 ngày. Wilmore đã ở ngoài không gian 464 ngày sau ba nhiệm vụ.",
+    "id": 3564,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2797,
+    "created_at": "2026-03-15T06:19:56.080650Z",
+    "updated_at": "2026-03-15T06:19:56.080650Z",
+    "lead_time": 31.2,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx101_claim301",
+    "claim": "Theo Andrew Phua, CEO phụ trách thị trường Trung Quốc Đại lục của STB, du khách Trung Quốc hiện có xu hướng tìm kiếm trải nghiệm sâu sắc và mang tính tương tác, thay vì chỉ ghé thăm các điểm chụp ảnh nổi tiếng.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_521_chunk_5",
+    "seed_context": "Theo CEO phụ trách thị trường Trung Quốc Đại lục của STB, Andrew Phua, du khách Trung Quốc hiện có xu hướng tìm kiếm trải nghiệm sâu sắc và mang tính tương tác, thay vì chỉ ghé thăm các điểm chụp ảnh nổi tiếng. Rachel Chen, sáng lập công ty du lịch Culture Curious Tours, cho biết ngày càng nhiều du khách ở độ tuổi 30-40 quan tâm đến sự phát triển xã hội và kinh tế của Singapore, thay vì mua sắm hàng hiệu. Để đáp ứng nhu cầu này, công ty bà đã mở các tour tham quan quy hoạch đô thị và nhà ở công cộng, bao gồm việc đến thăm khu dân cư cao tầng và phòng trưng bày giới thiệu quá trình hiện đại hóa của Singapore. Các nhà bán lẻ cũng nhanh chóng thích ứng, hướng tới thu hút khách Trung Quốc bằng những trải nghiệm bắt mắt, dễ chụp hình. Một ví dụ là sân tập golf clubFace, nơi đã hợp tác với các KOL (người ảnh hưởng trên mạng xã hội) để quảng bá thương hiệu. \"Du khách Trung Quốc thích những hoạt động mang tính xã hội, có thể chụp ảnh đẹp, và họ rất nhạy với các video ngắn hay lời giới thiệu truyền miệng\", bà Yeo Yi Juan, phụ trách truyền thông của clubFace cho biết.",
+    "id": 3565,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2798,
+    "created_at": "2026-03-15T06:20:10.136789Z",
+    "updated_at": "2026-03-15T06:20:10.136789Z",
+    "lead_time": 11.142,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx101_claim302",
+    "claim": "Rachel Chen, sáng lập công ty du lịch Culture Curious Tours, cho biết du khách ở độ tuổi 20-30 quan tâm đến sự phát triển xã hội và kinh tế của Singapore, thay vì mua sắm hàng hiệu.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_521_chunk_5",
+    "seed_context": "Theo CEO phụ trách thị trường Trung Quốc Đại lục của STB, Andrew Phua, du khách Trung Quốc hiện có xu hướng tìm kiếm trải nghiệm sâu sắc và mang tính tương tác, thay vì chỉ ghé thăm các điểm chụp ảnh nổi tiếng. Rachel Chen, sáng lập công ty du lịch Culture Curious Tours, cho biết ngày càng nhiều du khách ở độ tuổi 30-40 quan tâm đến sự phát triển xã hội và kinh tế của Singapore, thay vì mua sắm hàng hiệu. Để đáp ứng nhu cầu này, công ty bà đã mở các tour tham quan quy hoạch đô thị và nhà ở công cộng, bao gồm việc đến thăm khu dân cư cao tầng và phòng trưng bày giới thiệu quá trình hiện đại hóa của Singapore. Các nhà bán lẻ cũng nhanh chóng thích ứng, hướng tới thu hút khách Trung Quốc bằng những trải nghiệm bắt mắt, dễ chụp hình. Một ví dụ là sân tập golf clubFace, nơi đã hợp tác với các KOL (người ảnh hưởng trên mạng xã hội) để quảng bá thương hiệu. \"Du khách Trung Quốc thích những hoạt động mang tính xã hội, có thể chụp ảnh đẹp, và họ rất nhạy với các video ngắn hay lời giới thiệu truyền miệng\", bà Yeo Yi Juan, phụ trách truyền thông của clubFace cho biết.",
+    "id": 3566,
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2799,
+    "created_at": "2026-03-15T06:20:42.791653Z",
+    "updated_at": "2026-03-15T06:20:42.791653Z",
+    "lead_time": 26.87,
+    "claim_score": 19
+  },
+  {
+    "claim_id": "ctx101_claim303",
+    "claim": "Bà Yeo Yi Juan, phụ trách truyền thông của clubFace, cho biết các nhà bán lẻ đã hợp tác với các KOL để quảng bá thương hiệu cho các tour tham quan quy hoạch đô thị.",
+    "label": "NEI",
+    "seed_context_id": "vne_521_chunk_5",
+    "seed_context": "Theo CEO phụ trách thị trường Trung Quốc Đại lục của STB, Andrew Phua, du khách Trung Quốc hiện có xu hướng tìm kiếm trải nghiệm sâu sắc và mang tính tương tác, thay vì chỉ ghé thăm các điểm chụp ảnh nổi tiếng. Rachel Chen, sáng lập công ty du lịch Culture Curious Tours, cho biết ngày càng nhiều du khách ở độ tuổi 30-40 quan tâm đến sự phát triển xã hội và kinh tế của Singapore, thay vì mua sắm hàng hiệu. Để đáp ứng nhu cầu này, công ty bà đã mở các tour tham quan quy hoạch đô thị và nhà ở công cộng, bao gồm việc đến thăm khu dân cư cao tầng và phòng trưng bày giới thiệu quá trình hiện đại hóa của Singapore. Các nhà bán lẻ cũng nhanh chóng thích ứng, hướng tới thu hút khách Trung Quốc bằng những trải nghiệm bắt mắt, dễ chụp hình. Một ví dụ là sân tập golf clubFace, nơi đã hợp tác với các KOL (người ảnh hưởng trên mạng xã hội) để quảng bá thương hiệu. \"Du khách Trung Quốc thích những hoạt động mang tính xã hội, có thể chụp ảnh đẹp, và họ rất nhạy với các video ngắn hay lời giới thiệu truyền miệng\", bà Yeo Yi Juan, phụ trách truyền thông của clubFace cho biết.",
+    "id": 3567,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2800,
+    "created_at": "2026-03-15T06:22:27.122650Z",
+    "updated_at": "2026-03-15T06:22:27.122650Z",
+    "lead_time": 25.347,
+    "claim_score": 19
+  },
+  {
+    "claim_id": "ctx102_claim304",
+    "claim": "Đại học Harvard đã đào tạo hơn 24.500 sinh viên đại học và sau đại học, với hơn 162 cựu sinh viên đã giành giải Nobel.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_689_chunk_3",
+    "seed_context": "Tuy nhiên, đa phần quỹ hiến tặng đã được phân bổ cho những dự án đặc biệt, thường là về giáo dục. Trường không thể tùy tiện sử dụng số tiền này nếu không muốn tổn hại danh tiếng và đối mặt rắc rối pháp lý. Theo website Harvard, trường đang đào tạo hơn 24. 500 sinh viên đại học và sau đại học. Trường có hơn 400. 000 cựu sinh viên trên toàn thế giới, hơn 35 triệu người học trên nền tảng trực tuyến Harvard Online, hơn 20. 600 giảng viên và nhân viên. \"Chúng tôi tin vào giá trị của tri thức, sức mạnh của giảng dạy và nghiên cứu, và những công việc mà chúng tôi thực hiện ở đây có thể mang lại lợi ích cho xã hội\", Chủ tịch Đại học Harvard Alan Garber viết trên website trường. Đại học Harvard đứng đầu Bảng xếp hạng học thuật các đại học thế giới (ARWU) nhiều năm. Trong số các cựu sinh viên của trường có 162 người giành giải Nobel ở nhiều lĩnh vực, trong đó có 14 giải Nobel Y học. Ông Barack Obama, đoạt giải Nobel Hòa bình năm 2009, lấy bằng tiến sĩ luật Trường Luật Harvard trước khi trở thành tổng thống da màu đầu tiên của Mỹ.",
+    "id": 3568,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2801,
+    "created_at": "2026-03-15T06:22:39.321728Z",
+    "updated_at": "2026-03-15T06:22:39.321728Z",
+    "lead_time": 11.123,
+    "claim_score": 19
+  },
+  {
+    "claim_id": "ctx102_claim305",
+    "claim": "Chủ tịch Đại học Harvard, Alan Garber, tuyên bố rằng trường tin vào sức mạnh của việc bán các khóa học trực tuyến để mang lại lợi ích cho xã hội.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_689_chunk_3",
+    "seed_context": "Tuy nhiên, đa phần quỹ hiến tặng đã được phân bổ cho những dự án đặc biệt, thường là về giáo dục. Trường không thể tùy tiện sử dụng số tiền này nếu không muốn tổn hại danh tiếng và đối mặt rắc rối pháp lý. Theo website Harvard, trường đang đào tạo hơn 24. 500 sinh viên đại học và sau đại học. Trường có hơn 400. 000 cựu sinh viên trên toàn thế giới, hơn 35 triệu người học trên nền tảng trực tuyến Harvard Online, hơn 20. 600 giảng viên và nhân viên. \"Chúng tôi tin vào giá trị của tri thức, sức mạnh của giảng dạy và nghiên cứu, và những công việc mà chúng tôi thực hiện ở đây có thể mang lại lợi ích cho xã hội\", Chủ tịch Đại học Harvard Alan Garber viết trên website trường. Đại học Harvard đứng đầu Bảng xếp hạng học thuật các đại học thế giới (ARWU) nhiều năm. Trong số các cựu sinh viên của trường có 162 người giành giải Nobel ở nhiều lĩnh vực, trong đó có 14 giải Nobel Y học. Ông Barack Obama, đoạt giải Nobel Hòa bình năm 2009, lấy bằng tiến sĩ luật Trường Luật Harvard trước khi trở thành tổng thống da màu đầu tiên của Mỹ.",
+    "id": 3569,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2802,
+    "created_at": "2026-03-15T06:27:00.042486Z",
+    "updated_at": "2026-03-15T06:27:00.042486Z",
+    "lead_time": 258.685,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx102_claim306",
+    "claim": "Barack Obama, người đoạt giải Nobel Hòa bình năm 2009, đã lấy bằng tiến sĩ luật tại Trường Luật Harvard vào năm 1999.",
+    "label": "NEI",
+    "seed_context_id": "vne_689_chunk_3",
+    "seed_context": "Tuy nhiên, đa phần quỹ hiến tặng đã được phân bổ cho những dự án đặc biệt, thường là về giáo dục. Trường không thể tùy tiện sử dụng số tiền này nếu không muốn tổn hại danh tiếng và đối mặt rắc rối pháp lý. Theo website Harvard, trường đang đào tạo hơn 24. 500 sinh viên đại học và sau đại học. Trường có hơn 400. 000 cựu sinh viên trên toàn thế giới, hơn 35 triệu người học trên nền tảng trực tuyến Harvard Online, hơn 20. 600 giảng viên và nhân viên. \"Chúng tôi tin vào giá trị của tri thức, sức mạnh của giảng dạy và nghiên cứu, và những công việc mà chúng tôi thực hiện ở đây có thể mang lại lợi ích cho xã hội\", Chủ tịch Đại học Harvard Alan Garber viết trên website trường. Đại học Harvard đứng đầu Bảng xếp hạng học thuật các đại học thế giới (ARWU) nhiều năm. Trong số các cựu sinh viên của trường có 162 người giành giải Nobel ở nhiều lĩnh vực, trong đó có 14 giải Nobel Y học. Ông Barack Obama, đoạt giải Nobel Hòa bình năm 2009, lấy bằng tiến sĩ luật Trường Luật Harvard trước khi trở thành tổng thống da màu đầu tiên của Mỹ.",
+    "id": 3570,
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2803,
+    "created_at": "2026-03-15T06:27:15.660071Z",
+    "updated_at": "2026-03-15T06:27:15.660071Z",
+    "lead_time": 14.613,
+    "claim_score": 18
+  },
+  {
+    "claim_id": "ctx103_claim307",
+    "claim": "Vào năm 2023, tài xế Xu Hui, 35 tuổi, đã hoàn thành gần 50 đơn hàng, chạy xe gần 100 km và kiếm được khoảng 46 USD sau hơn 14 giờ làm việc tại Trung Quốc.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_1020_chunk_0",
+    "seed_context": "Hàng triệu shipper Trung Quốc phải chạy xe máy 14 giờ mỗi ngày để nhận 1 USD cho mỗi đơn hàng, khi công việc ngày càng cạnh tranh khắc nghiệt. Gần 11h sáng, tài xế Xu Hui, 35 tuổi, lên xe để bắt đầu đơn hàng đầu tiên trong ngày từ một tiệm trà sữa. 11 phút sau, anh giao xong đơn bánh kem. Đến giữa trưa, anh hoàn thành thêm 7 đơn khác. Cứ như thế, một ngày giao hàng của anh kéo dài từ tiệm burger, quán cà phê, tiệm mỳ cho tới các nhà hàng Trung Đông. Sau đơn trà sữa cuối ngày, công việc của Xu kết thúc lúc hơn 23h30. Tổng cộng anh đã chạy xe gần 100 km, giao gần 50 đơn, với trung bình 15 phút mỗi đơn. Số tiền kiếm được cho ngày hôm đó là khoảng 46 USD. Xu chỉ là một mắt xích nhỏ trong đội quân giao hàng hùng hậu lên tới hơn 200 triệu người của Trung Quốc hiện nay. Khi thị trường lao động truyền thống trở nên khó khăn, nhiều người đã tìm đến các công việc tự do, bán thời gian hoặc phi chính thức. Dữ liệu từ Gavekal Dragonomics cho thấy lao động tự do hiện chiếm khoảng 30% lực lượng lao động phi nông nghiệp ở Trung Quốc, trong khi con số này năm 2013 là 20%.",
+    "id": 3571,
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2804,
+    "created_at": "2026-03-15T06:27:28.007018Z",
+    "updated_at": "2026-03-15T06:27:28.007018Z",
+    "lead_time": 11.207,
+    "claim_score": 18
+  },
+  {
+    "claim_id": "ctx103_claim308",
+    "claim": "Vào năm 2013, lao động tự do đã chiếm khoảng 30% lực lượng lao động phi nông nghiệp ở Trung Quốc, tăng từ 20% vào năm 2023.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_1020_chunk_0",
+    "seed_context": "Hàng triệu shipper Trung Quốc phải chạy xe máy 14 giờ mỗi ngày để nhận 1 USD cho mỗi đơn hàng, khi công việc ngày càng cạnh tranh khắc nghiệt. Gần 11h sáng, tài xế Xu Hui, 35 tuổi, lên xe để bắt đầu đơn hàng đầu tiên trong ngày từ một tiệm trà sữa. 11 phút sau, anh giao xong đơn bánh kem. Đến giữa trưa, anh hoàn thành thêm 7 đơn khác. Cứ như thế, một ngày giao hàng của anh kéo dài từ tiệm burger, quán cà phê, tiệm mỳ cho tới các nhà hàng Trung Đông. Sau đơn trà sữa cuối ngày, công việc của Xu kết thúc lúc hơn 23h30. Tổng cộng anh đã chạy xe gần 100 km, giao gần 50 đơn, với trung bình 15 phút mỗi đơn. Số tiền kiếm được cho ngày hôm đó là khoảng 46 USD. Xu chỉ là một mắt xích nhỏ trong đội quân giao hàng hùng hậu lên tới hơn 200 triệu người của Trung Quốc hiện nay. Khi thị trường lao động truyền thống trở nên khó khăn, nhiều người đã tìm đến các công việc tự do, bán thời gian hoặc phi chính thức. Dữ liệu từ Gavekal Dragonomics cho thấy lao động tự do hiện chiếm khoảng 30% lực lượng lao động phi nông nghiệp ở Trung Quốc, trong khi con số này năm 2013 là 20%.",
+    "id": 3572,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2805,
+    "created_at": "2026-03-15T06:27:45.242946Z",
+    "updated_at": "2026-03-15T06:27:45.242946Z",
+    "lead_time": 16.246,
+    "claim_score": 19
+  },
+  {
+    "claim_id": "ctx103_claim309",
+    "claim": "Tài xế Xu Hui, 35 tuổi, đã sử dụng ứng dụng giao hàng của công ty Meituan để nhận đơn hàng vào ngày 15 tháng 4 năm 2023 tại Bắc Kinh.",
+    "label": "NEI",
+    "seed_context_id": "vne_1020_chunk_0",
+    "seed_context": "Hàng triệu shipper Trung Quốc phải chạy xe máy 14 giờ mỗi ngày để nhận 1 USD cho mỗi đơn hàng, khi công việc ngày càng cạnh tranh khắc nghiệt. Gần 11h sáng, tài xế Xu Hui, 35 tuổi, lên xe để bắt đầu đơn hàng đầu tiên trong ngày từ một tiệm trà sữa. 11 phút sau, anh giao xong đơn bánh kem. Đến giữa trưa, anh hoàn thành thêm 7 đơn khác. Cứ như thế, một ngày giao hàng của anh kéo dài từ tiệm burger, quán cà phê, tiệm mỳ cho tới các nhà hàng Trung Đông. Sau đơn trà sữa cuối ngày, công việc của Xu kết thúc lúc hơn 23h30. Tổng cộng anh đã chạy xe gần 100 km, giao gần 50 đơn, với trung bình 15 phút mỗi đơn. Số tiền kiếm được cho ngày hôm đó là khoảng 46 USD. Xu chỉ là một mắt xích nhỏ trong đội quân giao hàng hùng hậu lên tới hơn 200 triệu người của Trung Quốc hiện nay. Khi thị trường lao động truyền thống trở nên khó khăn, nhiều người đã tìm đến các công việc tự do, bán thời gian hoặc phi chính thức. Dữ liệu từ Gavekal Dragonomics cho thấy lao động tự do hiện chiếm khoảng 30% lực lượng lao động phi nông nghiệp ở Trung Quốc, trong khi con số này năm 2013 là 20%.",
+    "id": 3573,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2806,
+    "created_at": "2026-03-15T06:27:55.713458Z",
+    "updated_at": "2026-03-15T06:27:55.713458Z",
+    "lead_time": 9.423,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx104_claim310",
+    "claim": "Từ năm 2019, tập đoàn quốc phòng Almaz-Antey của Nga đã sản xuất và ra mắt phiên bản Buk-M3, một hệ thống phòng không có khả năng đối phó với nhiều loại mục tiêu khác nhau.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_889_chunk_1",
+    "seed_context": "Không rõ đặc nhiệm Ukraine đã sử dụng loại drone nào, song Militarnyi cho biết mẫu drone này thường được Kiev triển khai để tập kích mục tiêu nằm sâu sau tiền tuyến, đặc biệt là tại bán đảo Crimea, nơi lực lượng của Kiev đã tấn công nhiều hệ thống phòng không, radar, máy bay và tàu thuyền ở xung quanh. Bộ Quốc phòng Nga chưa bình luận về thông tin. Buk là hệ thống phòng không do Liên Xô sản xuất từ những năm 1970 và đã có nhiều phiên bản nâng cấp, trong đó mới nhất là Buk-M3. Do tập đoàn quốc phòng Almaz-Antey của Nga sản xuất và ra mắt từ năm 2019, Buk-M3 được thiết kế để đối phó máy bay cánh bằng, trực thăng, tên lửa hành trình và drone, có thể bám bắt và đánh chặn 36 mục tiêu cùng lúc. Mỗi tổ hợp Buk-M3 hoàn chỉnh thường gồm một xe chỉ huy, một đài radar cảnh giới 9S13M3, tối đa 6 xe chở đạn kiêm bệ phóng và radar (TELAR) 9A317M, radar chỉ thị mục tiêu 9S36M, 12 xe chở đạn kiêm bệ phóng 9A316M, cùng xe vận chuyển và nạp đạn. Nhà sản xuất không công bố giá trị của tổ hợp Buk-M3 hoàn chỉnh, trong khi tình báo Ukraine chi phí xuất xưởng là khoảng 45-50 triệu USD.",
+    "id": 3574,
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2807,
+    "created_at": "2026-03-15T06:28:40.217897Z",
+    "updated_at": "2026-03-15T06:28:40.217897Z",
+    "lead_time": 25.059,
+    "claim_score": 19
+  },
+  {
+    "claim_id": "ctx104_claim311",
+    "claim": "Hệ thống phòng không Buk-M3 của Nga có khả năng bám bắt và đánh chặn tới 40 mục tiêu cùng lúc, với chi phí xuất xưởng khoảng 60 triệu USD theo tình báo Ukraine.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_889_chunk_1",
+    "seed_context": "Không rõ đặc nhiệm Ukraine đã sử dụng loại drone nào, song Militarnyi cho biết mẫu drone này thường được Kiev triển khai để tập kích mục tiêu nằm sâu sau tiền tuyến, đặc biệt là tại bán đảo Crimea, nơi lực lượng của Kiev đã tấn công nhiều hệ thống phòng không, radar, máy bay và tàu thuyền ở xung quanh. Bộ Quốc phòng Nga chưa bình luận về thông tin. Buk là hệ thống phòng không do Liên Xô sản xuất từ những năm 1970 và đã có nhiều phiên bản nâng cấp, trong đó mới nhất là Buk-M3. Do tập đoàn quốc phòng Almaz-Antey của Nga sản xuất và ra mắt từ năm 2019, Buk-M3 được thiết kế để đối phó máy bay cánh bằng, trực thăng, tên lửa hành trình và drone, có thể bám bắt và đánh chặn 36 mục tiêu cùng lúc. Mỗi tổ hợp Buk-M3 hoàn chỉnh thường gồm một xe chỉ huy, một đài radar cảnh giới 9S13M3, tối đa 6 xe chở đạn kiêm bệ phóng và radar (TELAR) 9A317M, radar chỉ thị mục tiêu 9S36M, 12 xe chở đạn kiêm bệ phóng 9A316M, cùng xe vận chuyển và nạp đạn. Nhà sản xuất không công bố giá trị của tổ hợp Buk-M3 hoàn chỉnh, trong khi tình báo Ukraine chi phí xuất xưởng là khoảng 45-50 triệu USD.",
+    "id": 3575,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2808,
+    "created_at": "2026-03-15T06:29:11.994656Z",
+    "updated_at": "2026-03-15T06:29:11.994656Z",
+    "lead_time": 27.319,
+    "claim_score": 19
+  },
+  {
+    "claim_id": "ctx104_claim312",
+    "claim": "Đặc nhiệm Ukraine đã sử dụng mẫu drone tiên tiến nhất của Nga để tấn công các hệ thống phòng không Buk-M3 tại bán đảo Crimea vào tháng 10 năm 2023.",
+    "label": "NEI",
+    "seed_context_id": "vne_889_chunk_1",
+    "seed_context": "Không rõ đặc nhiệm Ukraine đã sử dụng loại drone nào, song Militarnyi cho biết mẫu drone này thường được Kiev triển khai để tập kích mục tiêu nằm sâu sau tiền tuyến, đặc biệt là tại bán đảo Crimea, nơi lực lượng của Kiev đã tấn công nhiều hệ thống phòng không, radar, máy bay và tàu thuyền ở xung quanh. Bộ Quốc phòng Nga chưa bình luận về thông tin. Buk là hệ thống phòng không do Liên Xô sản xuất từ những năm 1970 và đã có nhiều phiên bản nâng cấp, trong đó mới nhất là Buk-M3. Do tập đoàn quốc phòng Almaz-Antey của Nga sản xuất và ra mắt từ năm 2019, Buk-M3 được thiết kế để đối phó máy bay cánh bằng, trực thăng, tên lửa hành trình và drone, có thể bám bắt và đánh chặn 36 mục tiêu cùng lúc. Mỗi tổ hợp Buk-M3 hoàn chỉnh thường gồm một xe chỉ huy, một đài radar cảnh giới 9S13M3, tối đa 6 xe chở đạn kiêm bệ phóng và radar (TELAR) 9A317M, radar chỉ thị mục tiêu 9S36M, 12 xe chở đạn kiêm bệ phóng 9A316M, cùng xe vận chuyển và nạp đạn. Nhà sản xuất không công bố giá trị của tổ hợp Buk-M3 hoàn chỉnh, trong khi tình báo Ukraine chi phí xuất xưởng là khoảng 45-50 triệu USD.",
+    "id": 3576,
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2809,
+    "created_at": "2026-03-15T06:29:22.266777Z",
+    "updated_at": "2026-03-15T06:29:22.266777Z",
+    "lead_time": 9.288,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx105_claim313",
+    "claim": "Ông Đinh Thanh Quang, Phó giám đốc Ban Quản lý rừng phòng hộ Đồng Hới và ven biển tỉnh Quảng Trị, cho biết 5 ha rừng phòng hộ tại Bắc Hòa và Tân Hải đã bị lấn chiếm làm hồ nuôi cá lóc.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_310_chunk_1",
+    "seed_context": "Trong khi nuôi cá lóc cho thu nhập khá nên nhiều người chuyển đổi nghề. \"Thị trường tiêu thụ cá lóc thuận lợi nên tôi đã đào ba ao, rộng gần 1.000 m2 trên đất sản xuất, lót bạt nuôi\", người này nói. Nguồn nước được bơm từ giếng khoan, sau khi cho cá ăn thì mỗi hồ xả hàng trăm mét khối nước ra môi trường để loại bỏ chất thải. Nước chảy ra cát trắng theo mương đổ trực tiếp ra biển. Việc hút nước ngầm nuôi cá đã ảnh hưởng đến nước sinh hoạt. Một người dân cho biết trước đây đào giếng sâu khoảng 3 m có nguồn nước trong, sạch sinh hoạt. Tuy nhiên, từ khi phong trào nuôi cá lóc trên cát phát triển, nguồn nước ô nhiễm, giếng cạn khô. Để có nước sử dụng, người dân chuyển qua giếng khoan sâu hàng chục mét nhưng nguồn nước ô nhiễm. \"Tôi bơm lên bể, lọc qua cát nhưng nước nhiễm phèn, đục\", người này nói. Ngoài ra, tại hai thôn có dòng chảy nước thải màu xanh lam hôi tanh, xác cá lóc chết từ các hồ nuôi được vứt xuống bốc mùi hôi thối. Hiện người dân không dám tắm biển đoạn qua khu vực này. Ông Đinh Thanh Quang, Phó giám đốc Ban Quản lý rừng phòng hộ Đồng Hới và ven biển tỉnh Quảng Trị, cho biết rừng bị lấn chiếm làm hồ nuôi cá lóc ở Bắc Hòa và Tân Hải thuộc diện tích 5 ha rừng phòng hộ đã được bàn giao cho chính quyền địa phương quản lý.",
+    "id": 3577,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2810,
+    "created_at": "2026-03-15T06:29:36.309277Z",
+    "updated_at": "2026-03-15T06:29:36.309277Z",
+    "lead_time": 12.98,
+    "claim_score": 19
+  },
+  {
+    "claim_id": "ctx105_claim314",
+    "claim": "Trước khi phong trào nuôi cá lóc trên cát phát triển tại khu vực này, người dân sử dụng giếng khoan sâu hàng chục mét để lấy nước sinh hoạt.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_310_chunk_1",
+    "seed_context": "Trong khi nuôi cá lóc cho thu nhập khá nên nhiều người chuyển đổi nghề. \"Thị trường tiêu thụ cá lóc thuận lợi nên tôi đã đào ba ao, rộng gần 1.000 m2 trên đất sản xuất, lót bạt nuôi\", người này nói. Nguồn nước được bơm từ giếng khoan, sau khi cho cá ăn thì mỗi hồ xả hàng trăm mét khối nước ra môi trường để loại bỏ chất thải. Nước chảy ra cát trắng theo mương đổ trực tiếp ra biển. Việc hút nước ngầm nuôi cá đã ảnh hưởng đến nước sinh hoạt. Một người dân cho biết trước đây đào giếng sâu khoảng 3 m có nguồn nước trong, sạch sinh hoạt. Tuy nhiên, từ khi phong trào nuôi cá lóc trên cát phát triển, nguồn nước ô nhiễm, giếng cạn khô. Để có nước sử dụng, người dân chuyển qua giếng khoan sâu hàng chục mét nhưng nguồn nước ô nhiễm. \"Tôi bơm lên bể, lọc qua cát nhưng nước nhiễm phèn, đục\", người này nói. Ngoài ra, tại hai thôn có dòng chảy nước thải màu xanh lam hôi tanh, xác cá lóc chết từ các hồ nuôi được vứt xuống bốc mùi hôi thối. Hiện người dân không dám tắm biển đoạn qua khu vực này. Ông Đinh Thanh Quang, Phó giám đốc Ban Quản lý rừng phòng hộ Đồng Hới và ven biển tỉnh Quảng Trị, cho biết rừng bị lấn chiếm làm hồ nuôi cá lóc ở Bắc Hòa và Tân Hải thuộc diện tích 5 ha rừng phòng hộ đã được bàn giao cho chính quyền địa phương quản lý.",
+    "id": 3578,
+    "specificity": [
+      {
+        "rating": 2
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2811,
+    "created_at": "2026-03-15T06:29:54.080461Z",
+    "updated_at": "2026-03-15T06:29:54.080461Z",
+    "lead_time": 16.694,
+    "claim_score": 16
+  },
+  {
+    "claim_id": "ctx105_claim315",
+    "claim": "Nước thải từ các hồ nuôi cá lóc được xử lý bằng hệ thống lọc than hoạt tính trước khi xả ra biển.",
+    "label": "NEI",
+    "seed_context_id": "vne_310_chunk_1",
+    "seed_context": "Trong khi nuôi cá lóc cho thu nhập khá nên nhiều người chuyển đổi nghề. \"Thị trường tiêu thụ cá lóc thuận lợi nên tôi đã đào ba ao, rộng gần 1.000 m2 trên đất sản xuất, lót bạt nuôi\", người này nói. Nguồn nước được bơm từ giếng khoan, sau khi cho cá ăn thì mỗi hồ xả hàng trăm mét khối nước ra môi trường để loại bỏ chất thải. Nước chảy ra cát trắng theo mương đổ trực tiếp ra biển. Việc hút nước ngầm nuôi cá đã ảnh hưởng đến nước sinh hoạt. Một người dân cho biết trước đây đào giếng sâu khoảng 3 m có nguồn nước trong, sạch sinh hoạt. Tuy nhiên, từ khi phong trào nuôi cá lóc trên cát phát triển, nguồn nước ô nhiễm, giếng cạn khô. Để có nước sử dụng, người dân chuyển qua giếng khoan sâu hàng chục mét nhưng nguồn nước ô nhiễm. \"Tôi bơm lên bể, lọc qua cát nhưng nước nhiễm phèn, đục\", người này nói. Ngoài ra, tại hai thôn có dòng chảy nước thải màu xanh lam hôi tanh, xác cá lóc chết từ các hồ nuôi được vứt xuống bốc mùi hôi thối. Hiện người dân không dám tắm biển đoạn qua khu vực này. Ông Đinh Thanh Quang, Phó giám đốc Ban Quản lý rừng phòng hộ Đồng Hới và ven biển tỉnh Quảng Trị, cho biết rừng bị lấn chiếm làm hồ nuôi cá lóc ở Bắc Hòa và Tân Hải thuộc diện tích 5 ha rừng phòng hộ đã được bàn giao cho chính quyền địa phương quản lý.",
+    "id": 3579,
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2812,
+    "created_at": "2026-03-15T06:31:03.818204Z",
+    "updated_at": "2026-03-15T06:31:03.818204Z",
+    "lead_time": 62.011,
+    "claim_score": 17
+  },
+  {
+    "claim_id": "ctx106_claim316",
+    "claim": "Vào ngày 17/2, Bộ Công an đã ban hành hướng dẫn về phân cấp tiếp nhận, giải quyết thủ tục hành chính và dịch vụ công trực tuyến sau khi bỏ cấp công an huyện.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_92_chunk_0",
+    "seed_context": "Tại buổi họp báo Chính phủ thường kỳ chiều 5/3, thiếu tướng Hoàng Anh Tuyên, Phó chánh văn phòng kiêm người phát ngôn Bộ Công an, cho biết sau khi bỏ cấp công an huyện, Bộ Công an đã đẩy mạnh phân cấp thực hiện thủ tục hành chính cho công an cấp xã nhằm đảm bảo phục vụ người dân thuận tiện nhất ngay từ cơ sở. Bộ đã xây dựng tài liệu, tập huấn và bổ sung phương tiện để công an cấp xã có thể thực hiện tốt nhiệm vụ này. Theo đó, ngày 17/2, Bộ Công an đã ban hành hướng dẫn về phân cấp tiếp nhận, giải quyết thủ tục hành chính và dịch vụ công trực tuyến trong bối cảnh không còn tổ chức công an cấp huyện. Hướng dẫn nêu công an xã tại những nơi đủ điều kiện sẽ được thực hiện tối đa 35 thủ tục hành chính và dịch vụ công trực tuyến trong các lĩnh vực như: Quản lý xuất nhập cảnh, cấp và quản lý căn cước, định danh và xác thực điện tử, quản lý ngành nghề đầu tư kinh doanh có điều kiện về an ninh trật tự, đăng ký và quản lý phương tiện giao thông cơ giới đường bộ. Kể từ ngày 1/3, tại những địa phương đủ điều kiện, người dân có thể thực hiện một số thủ tục hành chính tại công an xã thay vì phải lên cấp huyện như trước đây.",
+    "id": 3580,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2813,
+    "created_at": "2026-03-15T06:31:35.188009Z",
+    "updated_at": "2026-03-15T06:31:35.188009Z",
+    "lead_time": 29.181,
+    "claim_score": 19
+  },
+  {
+    "claim_id": "ctx106_claim317",
+    "claim": "Kể từ ngày 1/3, người dân tại những địa phương đủ điều kiện có thể thực hiện tối đa 45 thủ tục hành chính tại công an xã thay vì phải lên cấp huyện.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_92_chunk_0",
+    "seed_context": "Tại buổi họp báo Chính phủ thường kỳ chiều 5/3, thiếu tướng Hoàng Anh Tuyên, Phó chánh văn phòng kiêm người phát ngôn Bộ Công an, cho biết sau khi bỏ cấp công an huyện, Bộ Công an đã đẩy mạnh phân cấp thực hiện thủ tục hành chính cho công an cấp xã nhằm đảm bảo phục vụ người dân thuận tiện nhất ngay từ cơ sở. Bộ đã xây dựng tài liệu, tập huấn và bổ sung phương tiện để công an cấp xã có thể thực hiện tốt nhiệm vụ này. Theo đó, ngày 17/2, Bộ Công an đã ban hành hướng dẫn về phân cấp tiếp nhận, giải quyết thủ tục hành chính và dịch vụ công trực tuyến trong bối cảnh không còn tổ chức công an cấp huyện. Hướng dẫn nêu công an xã tại những nơi đủ điều kiện sẽ được thực hiện tối đa 35 thủ tục hành chính và dịch vụ công trực tuyến trong các lĩnh vực như: Quản lý xuất nhập cảnh, cấp và quản lý căn cước, định danh và xác thực điện tử, quản lý ngành nghề đầu tư kinh doanh có điều kiện về an ninh trật tự, đăng ký và quản lý phương tiện giao thông cơ giới đường bộ. Kể từ ngày 1/3, tại những địa phương đủ điều kiện, người dân có thể thực hiện một số thủ tục hành chính tại công an xã thay vì phải lên cấp huyện như trước đây.",
+    "id": 3581,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2814,
+    "created_at": "2026-03-15T06:31:48.816617Z",
+    "updated_at": "2026-03-15T06:31:48.816617Z",
+    "lead_time": 12.534,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx106_claim318",
+    "claim": "Thiếu tướng Hoàng Anh Tuyên đã chỉ đạo công an cấp xã triển khai các biện pháp phòng chống tội phạm về ma túy từ ngày 1/3.",
+    "label": "NEI",
+    "seed_context_id": "vne_92_chunk_0",
+    "seed_context": "Tại buổi họp báo Chính phủ thường kỳ chiều 5/3, thiếu tướng Hoàng Anh Tuyên, Phó chánh văn phòng kiêm người phát ngôn Bộ Công an, cho biết sau khi bỏ cấp công an huyện, Bộ Công an đã đẩy mạnh phân cấp thực hiện thủ tục hành chính cho công an cấp xã nhằm đảm bảo phục vụ người dân thuận tiện nhất ngay từ cơ sở. Bộ đã xây dựng tài liệu, tập huấn và bổ sung phương tiện để công an cấp xã có thể thực hiện tốt nhiệm vụ này. Theo đó, ngày 17/2, Bộ Công an đã ban hành hướng dẫn về phân cấp tiếp nhận, giải quyết thủ tục hành chính và dịch vụ công trực tuyến trong bối cảnh không còn tổ chức công an cấp huyện. Hướng dẫn nêu công an xã tại những nơi đủ điều kiện sẽ được thực hiện tối đa 35 thủ tục hành chính và dịch vụ công trực tuyến trong các lĩnh vực như: Quản lý xuất nhập cảnh, cấp và quản lý căn cước, định danh và xác thực điện tử, quản lý ngành nghề đầu tư kinh doanh có điều kiện về an ninh trật tự, đăng ký và quản lý phương tiện giao thông cơ giới đường bộ. Kể từ ngày 1/3, tại những địa phương đủ điều kiện, người dân có thể thực hiện một số thủ tục hành chính tại công an xã thay vì phải lên cấp huyện như trước đây.",
+    "id": 3582,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2815,
+    "created_at": "2026-03-15T06:34:32.427930Z",
+    "updated_at": "2026-03-15T06:34:32.427930Z",
+    "lead_time": 162.038,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx107_claim319",
+    "claim": "Tại các tỉnh thường xuyên có lũ lụt, ông khuyến cáo lắp đặt các cột bão lũ tại từng khu dân cư, thôn, ấp, hiển thị mức nước dâng để người dân đối chiếu với nhà ở.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_473_chunk_2",
+    "seed_context": "Ở các tỉnh thường xuyên lũ lụt, ông khuyến cáo lắp các cột bão lũ tại từng khu dân cư, thôn, ấp, hiển thị mức nước dâng để người dân đối chiếu với nhà ở. \"Càng cụ thể, gần gũi, người dân càng dễ chủ động phòng tránh\", ông nói.",
+    "id": 3583,
+    "specificity": [
+      {
+        "rating": 2
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2816,
+    "created_at": "2026-03-15T06:35:26.037776Z",
+    "updated_at": "2026-03-15T06:35:26.037776Z",
+    "lead_time": 52.594,
+    "claim_score": 17
+  },
+  {
+    "claim_id": "ctx107_claim320",
+    "claim": "Trong các khu dân cư, thôn, ấp tại các tỉnh thường xuyên có lũ lụt, ông khuyến cáo lắp đặt các cột bão lũ chỉ hiển thị nhiệt độ môi trường để người dân đối chiếu với nhà ở.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_473_chunk_2",
+    "seed_context": "Ở các tỉnh thường xuyên lũ lụt, ông khuyến cáo lắp các cột bão lũ tại từng khu dân cư, thôn, ấp, hiển thị mức nước dâng để người dân đối chiếu với nhà ở. \"Càng cụ thể, gần gũi, người dân càng dễ chủ động phòng tránh\", ông nói.",
+    "id": 3584,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 2
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2817,
+    "created_at": "2026-03-15T06:35:42.637776Z",
+    "updated_at": "2026-03-15T06:35:42.637776Z",
+    "lead_time": 11.506,
+    "claim_score": 18
+  },
+  {
+    "claim_id": "ctx107_claim321",
+    "claim": "Tại các tỉnh thường xuyên có lũ lụt, ông khuyến cáo lắp đặt các cột bão lũ tại từng khu dân cư, thôn, ấp, hiển thị mức nước dâng và dự báo thời tiết cho người dân đối chiếu với nhà ở.",
+    "label": "NEI",
+    "seed_context_id": "vne_473_chunk_2",
+    "seed_context": "Ở các tỉnh thường xuyên lũ lụt, ông khuyến cáo lắp các cột bão lũ tại từng khu dân cư, thôn, ấp, hiển thị mức nước dâng để người dân đối chiếu với nhà ở. \"Càng cụ thể, gần gũi, người dân càng dễ chủ động phòng tránh\", ông nói.",
+    "id": 3585,
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 2
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2818,
+    "created_at": "2026-03-15T06:35:51.793254Z",
+    "updated_at": "2026-03-15T06:35:51.793254Z",
+    "lead_time": 8.121,
+    "claim_score": 17
+  },
+  {
+    "claim_id": "ctx108_claim322",
+    "claim": "Đặc phái viên của ông Trump, Keith Kellogg, đã gặp Tổng thống Zelensky tại Kiev vào ngày 14/7 để thảo luận về việc tăng cường năng lực phòng không, sản xuất chung và mua sắm vũ khí quốc phòng với sự hợp tác của châu Âu.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_800_chunk_2",
+    "seed_context": "Đặc phái viên của ông Trump, Keith Kellogg, ngày 14/7 đã gặp Tổng thống Zelensky tại Kiev. Ông Zelensky ca ngợi \"cuộc gặp hiệu quả\", cho biết họ đã thảo luận về việc \"tăng cường năng lực phòng không của Ukraine, sản xuất chung và mua sắm vũ khí quốc phòng với sự hợp tác của châu Âu\". Lãnh đạo Ukraine bày tỏ \"biết ơn Tổng thống Trump vì những tín hiệu ủng hộ quan trọng và những quyết định tích cực cho cả hai nước\".",
+    "id": 3586,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2819,
+    "created_at": "2026-03-15T06:36:08.716823Z",
+    "updated_at": "2026-03-15T06:36:08.717836Z",
+    "lead_time": 15.601,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx108_claim323",
+    "claim": "Đặc phái viên của ông Trump, Keith Kellogg, đã gặp Tổng thống Zelensky tại Kiev vào ngày 14/7 và thảo luận về việc giảm thiểu năng lực phòng không của Ukraine, sản xuất vũ khí riêng lẻ và mua sắm vũ khí quốc phòng mà không có sự hợp tác của châu Âu.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_800_chunk_2",
+    "seed_context": "Đặc phái viên của ông Trump, Keith Kellogg, ngày 14/7 đã gặp Tổng thống Zelensky tại Kiev. Ông Zelensky ca ngợi \"cuộc gặp hiệu quả\", cho biết họ đã thảo luận về việc \"tăng cường năng lực phòng không của Ukraine, sản xuất chung và mua sắm vũ khí quốc phòng với sự hợp tác của châu Âu\". Lãnh đạo Ukraine bày tỏ \"biết ơn Tổng thống Trump vì những tín hiệu ủng hộ quan trọng và những quyết định tích cực cho cả hai nước\".",
+    "id": 3587,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2820,
+    "created_at": "2026-03-15T06:36:16.187630Z",
+    "updated_at": "2026-03-15T06:36:16.187630Z",
+    "lead_time": 5.322,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx108_claim324",
+    "claim": "Tổng thống Trump đã đích thân đến Kiev vào ngày 14/7 để gặp Tổng thống Zelensky và thảo luận về các thỏa thuận hợp tác quốc phòng trong tương lai.",
+    "label": "NEI",
+    "seed_context_id": "vne_800_chunk_2",
+    "seed_context": "Đặc phái viên của ông Trump, Keith Kellogg, ngày 14/7 đã gặp Tổng thống Zelensky tại Kiev. Ông Zelensky ca ngợi \"cuộc gặp hiệu quả\", cho biết họ đã thảo luận về việc \"tăng cường năng lực phòng không của Ukraine, sản xuất chung và mua sắm vũ khí quốc phòng với sự hợp tác của châu Âu\". Lãnh đạo Ukraine bày tỏ \"biết ơn Tổng thống Trump vì những tín hiệu ủng hộ quan trọng và những quyết định tích cực cho cả hai nước\".",
+    "id": 3588,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2821,
+    "created_at": "2026-03-15T06:36:28.144512Z",
+    "updated_at": "2026-03-15T06:36:28.144512Z",
+    "lead_time": 10.817,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx109_claim325",
+    "claim": "Tổng thống Donald Trump vào ngày 1 tháng 8 đã sa thải Erika McEntarfer, ủy viên Cục Thống kê Lao động thuộc Bộ Lao động Mỹ, vì cho rằng bà có ý đồ chính trị.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_828_chunk_0",
+    "seed_context": "Việc Cục Thống kê Lao động điều chỉnh giảm mạnh số liệu về việc làm đã khiến ông Trump phẫn nộ, sa thải lãnh đạo cơ quan này vì cho rằng bà có \"ý đồ chính trị\". Tổng thống Donald Trump ngày 1/8 thông báo sa thải Erika McEntarfer, ủy viên Cục Thống kê Lao động (BLS) thuộc Bộ Lao động Mỹ. Động thái diễn ra sau khi cơ quan này công bố báo cáo việc làm tháng 7, trong đó điều chỉnh giảm đáng kể số liệu việc làm được tạo ra ở nước Mỹ trong hai tháng trước. Báo cáo của BLS ngày 1/8 cho thấy kinh tế Mỹ tháng 7 chỉ tạo thêm 73. 000 việc làm, thấp hơn nhiều so với con số kỳ vọng 115. 000. BLS cũng điều chỉnh số liệu về việc làm mới được tạo ra trong tháng 5 và 6, lần lượt giảm từ 144. 000 còn 19. 000 và từ 147. 000 còn 14. 000. Tổng cộng số việc làm nước Mỹ tạo ra trong hai tháng này bị điều chỉnh giảm 258. 000. \"Làm gì có ai sai đến mức như vậy? Chúng ta cần số liệu việc làm chính xác. Tôi đã chỉ đạo sa thải ngay lập tức quan chức được ông Biden bổ nhiệm có ý đồ chính trị này\", ông Trump viết trên mạng xã hội Truth Social, đề cập đến bà McEntarfer.",
+    "id": 3589,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2822,
+    "created_at": "2026-03-15T06:36:43.832015Z",
+    "updated_at": "2026-03-15T06:36:43.832015Z",
+    "lead_time": 14.741,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx109_claim326",
+    "claim": "Báo cáo việc làm tháng 7 của Cục Thống kê Lao động Mỹ cho thấy kinh tế nước này đã tạo thêm 115.000 việc làm, cao hơn con số kỳ vọng 73.000.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_828_chunk_0",
+    "seed_context": "Việc Cục Thống kê Lao động điều chỉnh giảm mạnh số liệu về việc làm đã khiến ông Trump phẫn nộ, sa thải lãnh đạo cơ quan này vì cho rằng bà có \"ý đồ chính trị\". Tổng thống Donald Trump ngày 1/8 thông báo sa thải Erika McEntarfer, ủy viên Cục Thống kê Lao động (BLS) thuộc Bộ Lao động Mỹ. Động thái diễn ra sau khi cơ quan này công bố báo cáo việc làm tháng 7, trong đó điều chỉnh giảm đáng kể số liệu việc làm được tạo ra ở nước Mỹ trong hai tháng trước. Báo cáo của BLS ngày 1/8 cho thấy kinh tế Mỹ tháng 7 chỉ tạo thêm 73. 000 việc làm, thấp hơn nhiều so với con số kỳ vọng 115. 000. BLS cũng điều chỉnh số liệu về việc làm mới được tạo ra trong tháng 5 và 6, lần lượt giảm từ 144. 000 còn 19. 000 và từ 147. 000 còn 14. 000. Tổng cộng số việc làm nước Mỹ tạo ra trong hai tháng này bị điều chỉnh giảm 258. 000. \"Làm gì có ai sai đến mức như vậy? Chúng ta cần số liệu việc làm chính xác. Tôi đã chỉ đạo sa thải ngay lập tức quan chức được ông Biden bổ nhiệm có ý đồ chính trị này\", ông Trump viết trên mạng xã hội Truth Social, đề cập đến bà McEntarfer.",
+    "id": 3590,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2823,
+    "created_at": "2026-03-15T06:36:55.025254Z",
+    "updated_at": "2026-03-15T06:36:55.025254Z",
+    "lead_time": 10.205,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx109_claim327",
+    "claim": "Erika McEntarfer, ủy viên Cục Thống kê Lao động, đã đưa ra một báo cáo mới về việc làm tại các bang miền Nam nước Mỹ vào tháng 8 năm 2023.",
+    "label": "NEI",
+    "seed_context_id": "vne_828_chunk_0",
+    "seed_context": "Việc Cục Thống kê Lao động điều chỉnh giảm mạnh số liệu về việc làm đã khiến ông Trump phẫn nộ, sa thải lãnh đạo cơ quan này vì cho rằng bà có \"ý đồ chính trị\". Tổng thống Donald Trump ngày 1/8 thông báo sa thải Erika McEntarfer, ủy viên Cục Thống kê Lao động (BLS) thuộc Bộ Lao động Mỹ. Động thái diễn ra sau khi cơ quan này công bố báo cáo việc làm tháng 7, trong đó điều chỉnh giảm đáng kể số liệu việc làm được tạo ra ở nước Mỹ trong hai tháng trước. Báo cáo của BLS ngày 1/8 cho thấy kinh tế Mỹ tháng 7 chỉ tạo thêm 73. 000 việc làm, thấp hơn nhiều so với con số kỳ vọng 115. 000. BLS cũng điều chỉnh số liệu về việc làm mới được tạo ra trong tháng 5 và 6, lần lượt giảm từ 144. 000 còn 19. 000 và từ 147. 000 còn 14. 000. Tổng cộng số việc làm nước Mỹ tạo ra trong hai tháng này bị điều chỉnh giảm 258. 000. \"Làm gì có ai sai đến mức như vậy? Chúng ta cần số liệu việc làm chính xác. Tôi đã chỉ đạo sa thải ngay lập tức quan chức được ông Biden bổ nhiệm có ý đồ chính trị này\", ông Trump viết trên mạng xã hội Truth Social, đề cập đến bà McEntarfer.",
+    "id": 3591,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2824,
+    "created_at": "2026-03-15T06:37:14.560919Z",
+    "updated_at": "2026-03-15T06:37:14.560919Z",
+    "lead_time": 18.572,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx110_claim328",
+    "claim": "Vào chiều ngày 10/11, Quốc hội đã cho ý kiến về dự thảo Luật Dân số, trong đó ba nhóm phụ nữ được Nhà nước hỗ trợ tài chính để đảm bảo mức sinh tối thiểu bao gồm phụ nữ dân tộc thiểu số, phụ nữ sinh đủ hai con trước 35 tuổi và phụ nữ ở địa phương có mức sinh thay thế thấp.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_453_chunk_0",
+    "seed_context": "Chiều 10/11, Quốc hội cho ý kiến về dự thảo Luật Dân số. Theo dự thảo, ba nhóm phụ nữ được Nhà nước hỗ trợ tài chính nhằm bảo đảm mức sinh tối thiểu gồm: phụ nữ dân tộc thiểu số, phụ nữ sinh đủ hai con trước 35 tuổi và phụ nữ ở địa phương có mức sinh thay thế thấp. Các hình thức hỗ trợ có thể là trợ cấp tiền mặt, ưu tiên mua hoặc thuê nhà ở xã hội, được hỗ trợ chi phí khám thai, sinh nở và nuôi con nhỏ. Ông Tô Văn Tám, Ủy viên Thường trực Ủy ban Pháp luật, cho rằng quy định như vậy \"chưa toàn diện và chưa công bằng\", vì những phụ nữ sinh đủ hai con nhưng sau 35 tuổi sẽ không được thụ hưởng chính sách. Phần lớn phụ nữ sinh muộn đều do hoàn cảnh - áp lực công việc, điều kiện kinh tế, sự nghiệp, hoặc lập gia đình muộn, chứ không phải do chủ đích. \"Sau đó họ sinh đủ hai con nhưng lại không được hỗ trợ, điều này chưa công bằng và thật sự tội nghiệp. Chỉ vì yếu tố tuổi tác mà bị loại khỏi chính sách là không hợp lý\", ông nói, đề nghị mở rộng chính sách cho phụ nữ sinh đủ hai con ở mọi độ tuổi.",
+    "id": 3592,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2825,
+    "created_at": "2026-03-15T06:37:58.057788Z",
+    "updated_at": "2026-03-15T06:37:58.057788Z",
+    "lead_time": 26.261,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx110_claim329",
+    "claim": "Ông Tô Văn Tám đề nghị mở rộng chính sách hỗ trợ tài chính cho phụ nữ sinh đủ hai con sau 35 tuổi tại địa phương có mức sinh thay thế cao.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_453_chunk_0",
+    "seed_context": "Chiều 10/11, Quốc hội cho ý kiến về dự thảo Luật Dân số. Theo dự thảo, ba nhóm phụ nữ được Nhà nước hỗ trợ tài chính nhằm bảo đảm mức sinh tối thiểu gồm: phụ nữ dân tộc thiểu số, phụ nữ sinh đủ hai con trước 35 tuổi và phụ nữ ở địa phương có mức sinh thay thế thấp. Các hình thức hỗ trợ có thể là trợ cấp tiền mặt, ưu tiên mua hoặc thuê nhà ở xã hội, được hỗ trợ chi phí khám thai, sinh nở và nuôi con nhỏ. Ông Tô Văn Tám, Ủy viên Thường trực Ủy ban Pháp luật, cho rằng quy định như vậy \"chưa toàn diện và chưa công bằng\", vì những phụ nữ sinh đủ hai con nhưng sau 35 tuổi sẽ không được thụ hưởng chính sách. Phần lớn phụ nữ sinh muộn đều do hoàn cảnh - áp lực công việc, điều kiện kinh tế, sự nghiệp, hoặc lập gia đình muộn, chứ không phải do chủ đích. \"Sau đó họ sinh đủ hai con nhưng lại không được hỗ trợ, điều này chưa công bằng và thật sự tội nghiệp. Chỉ vì yếu tố tuổi tác mà bị loại khỏi chính sách là không hợp lý\", ông nói, đề nghị mở rộng chính sách cho phụ nữ sinh đủ hai con ở mọi độ tuổi.",
+    "id": 3593,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2826,
+    "created_at": "2026-03-15T06:38:06.203655Z",
+    "updated_at": "2026-03-15T06:38:06.203655Z",
+    "lead_time": 7.242,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx110_claim330",
+    "claim": "Dự thảo Luật Dân số đề xuất các hình thức hỗ trợ tài chính cho phụ nữ bao gồm trợ cấp tiền mặt, ưu tiên mua nhà ở xã hội, và hỗ trợ chi phí khám thai, sinh nở và nuôi con nhỏ tại Thành phố Hồ Chí Minh.",
+    "label": "NEI",
+    "seed_context_id": "vne_453_chunk_0",
+    "seed_context": "Chiều 10/11, Quốc hội cho ý kiến về dự thảo Luật Dân số. Theo dự thảo, ba nhóm phụ nữ được Nhà nước hỗ trợ tài chính nhằm bảo đảm mức sinh tối thiểu gồm: phụ nữ dân tộc thiểu số, phụ nữ sinh đủ hai con trước 35 tuổi và phụ nữ ở địa phương có mức sinh thay thế thấp. Các hình thức hỗ trợ có thể là trợ cấp tiền mặt, ưu tiên mua hoặc thuê nhà ở xã hội, được hỗ trợ chi phí khám thai, sinh nở và nuôi con nhỏ. Ông Tô Văn Tám, Ủy viên Thường trực Ủy ban Pháp luật, cho rằng quy định như vậy \"chưa toàn diện và chưa công bằng\", vì những phụ nữ sinh đủ hai con nhưng sau 35 tuổi sẽ không được thụ hưởng chính sách. Phần lớn phụ nữ sinh muộn đều do hoàn cảnh - áp lực công việc, điều kiện kinh tế, sự nghiệp, hoặc lập gia đình muộn, chứ không phải do chủ đích. \"Sau đó họ sinh đủ hai con nhưng lại không được hỗ trợ, điều này chưa công bằng và thật sự tội nghiệp. Chỉ vì yếu tố tuổi tác mà bị loại khỏi chính sách là không hợp lý\", ông nói, đề nghị mở rộng chính sách cho phụ nữ sinh đủ hai con ở mọi độ tuổi.",
+    "id": 3594,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2827,
+    "created_at": "2026-03-15T06:38:19.103101Z",
+    "updated_at": "2026-03-15T06:38:19.103101Z",
+    "lead_time": 11.967,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx111_claim331",
+    "claim": "Chánh văn phòng của Tổng thống Ukraine Andriy Yermak cho biết vào ngày 23/2 rằng vòng đàm phán tiếp theo với Mỹ về thỏa thuận khoáng sản vẫn tiếp diễn.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_615_chunk_3",
+    "seed_context": "Chánh văn phòng của Tổng thống Ukraine Andriy Yermak ngày 23/2 cho hay vòng đàm phán tiếp theo với Mỹ về thỏa thuận khoáng sản vẫn tiếp diễn. \"Chúng tôi đang tiếp tục đối thoại với các đối tác. Không ai từ chối bất cứ điều gì, chúng tôi đang tiến hành quy trình làm việc theo thông lệ\", ông nói. Các nhà bình luận người Ukraine trong khi đó chỉ trích yêu sách khoáng sản của chính quyền Trump. \"Giống như chúng ta đã thua cuộc chiến với Mỹ. Với tôi, điều này giống như bồi thường thiệt hại\", Volodymyr Landa, chuyên gia cấp cao tại Trung tâm Nghiên cứu Chiến lược Kinh tế ở Kiev, nhận xét. Tổng trữ lượng khoáng sản của Ukraine trị giá xấp xỉ 14,8 nghìn tỷ USD, trong đó có lithium, titan và uranium, cũng như than, thép, quặng sắt và khí đá phiến đáy biển. Landa cho hay nhiều mỏ hiện không được khai thác do đặc điểm địa chất hay bất ổn chính trị. Số khác nằm ở những khu vực do Nga kiểm soát. Các mỏ lithium của Ukraine, với trữ lượng khoảng 500. 000 tấn, nằm trong số những mỏ lớn nhất ở châu Âu. Một địa điểm nằm tại Kruta Balka, gần cảng miền nam Berdiansk, nơi Nga nắm quyền kiểm soát kể từ đầu cuộc xung đột.",
+    "id": 3595,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2828,
+    "created_at": "2026-03-15T06:39:32.172697Z",
+    "updated_at": "2026-03-15T06:39:32.172697Z",
+    "lead_time": 72.195,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx111_claim332",
+    "claim": "Chuyên gia cấp cao tại Trung tâm Nghiên cứu Chiến lược Kinh tế ở Kiev Volodymyr Landa tuyên bố vào ngày 23/2 rằng Ukraine đã đồng ý với yêu sách khoáng sản của chính quyền Trump như một khoản bồi thường chiến tranh.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_615_chunk_3",
+    "seed_context": "Chánh văn phòng của Tổng thống Ukraine Andriy Yermak ngày 23/2 cho hay vòng đàm phán tiếp theo với Mỹ về thỏa thuận khoáng sản vẫn tiếp diễn. \"Chúng tôi đang tiếp tục đối thoại với các đối tác. Không ai từ chối bất cứ điều gì, chúng tôi đang tiến hành quy trình làm việc theo thông lệ\", ông nói. Các nhà bình luận người Ukraine trong khi đó chỉ trích yêu sách khoáng sản của chính quyền Trump. \"Giống như chúng ta đã thua cuộc chiến với Mỹ. Với tôi, điều này giống như bồi thường thiệt hại\", Volodymyr Landa, chuyên gia cấp cao tại Trung tâm Nghiên cứu Chiến lược Kinh tế ở Kiev, nhận xét. Tổng trữ lượng khoáng sản của Ukraine trị giá xấp xỉ 14,8 nghìn tỷ USD, trong đó có lithium, titan và uranium, cũng như than, thép, quặng sắt và khí đá phiến đáy biển. Landa cho hay nhiều mỏ hiện không được khai thác do đặc điểm địa chất hay bất ổn chính trị. Số khác nằm ở những khu vực do Nga kiểm soát. Các mỏ lithium của Ukraine, với trữ lượng khoảng 500. 000 tấn, nằm trong số những mỏ lớn nhất ở châu Âu. Một địa điểm nằm tại Kruta Balka, gần cảng miền nam Berdiansk, nơi Nga nắm quyền kiểm soát kể từ đầu cuộc xung đột.",
+    "id": 3596,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2829,
+    "created_at": "2026-03-15T06:40:24.797650Z",
+    "updated_at": "2026-03-15T06:40:29.761753Z",
+    "lead_time": 22.161,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx111_claim333",
+    "claim": "Tổng trữ lượng khoáng sản của Ukraine, ước tính khoảng 14,8 nghìn tỷ USD, bao gồm các mỏ vàng và kim cương chưa được khai thác do bất ổn chính trị và nằm ở các khu vực do Nga kiểm soát.",
+    "label": "NEI",
+    "seed_context_id": "vne_615_chunk_3",
+    "seed_context": "Chánh văn phòng của Tổng thống Ukraine Andriy Yermak ngày 23/2 cho hay vòng đàm phán tiếp theo với Mỹ về thỏa thuận khoáng sản vẫn tiếp diễn. \"Chúng tôi đang tiếp tục đối thoại với các đối tác. Không ai từ chối bất cứ điều gì, chúng tôi đang tiến hành quy trình làm việc theo thông lệ\", ông nói. Các nhà bình luận người Ukraine trong khi đó chỉ trích yêu sách khoáng sản của chính quyền Trump. \"Giống như chúng ta đã thua cuộc chiến với Mỹ. Với tôi, điều này giống như bồi thường thiệt hại\", Volodymyr Landa, chuyên gia cấp cao tại Trung tâm Nghiên cứu Chiến lược Kinh tế ở Kiev, nhận xét. Tổng trữ lượng khoáng sản của Ukraine trị giá xấp xỉ 14,8 nghìn tỷ USD, trong đó có lithium, titan và uranium, cũng như than, thép, quặng sắt và khí đá phiến đáy biển. Landa cho hay nhiều mỏ hiện không được khai thác do đặc điểm địa chất hay bất ổn chính trị. Số khác nằm ở những khu vực do Nga kiểm soát. Các mỏ lithium của Ukraine, với trữ lượng khoảng 500. 000 tấn, nằm trong số những mỏ lớn nhất ở châu Âu. Một địa điểm nằm tại Kruta Balka, gần cảng miền nam Berdiansk, nơi Nga nắm quyền kiểm soát kể từ đầu cuộc xung đột.",
+    "id": 3597,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2830,
+    "created_at": "2026-03-15T06:40:53.834357Z",
+    "updated_at": "2026-03-15T06:40:53.834357Z",
+    "lead_time": 23.102,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx112_claim334",
+    "claim": "Nhiều tuyến đường Trần Xuân Soạn, Phạm Hữu Lầu, quốc lộ 50 tại quận 7 và huyện Bình Chánh cũ đã bị ngập kéo dài vào thời điểm xảy ra tình hình thời tiết bất lợi.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_472_chunk_1",
+    "seed_context": "Nhiều tuyến Trần Xuân Soạn, Phạm Hữu Lầu, quốc lộ 50 (quận 7 và huyện Bình Chánh cũ) bị ngập kéo dài, gây xáo trộn giao thông và sinh hoạt của người dân. Ngoài Dầu Tiếng, nhiều hồ thủy lợi, thủy điện ở Nam Trung Bộ và Đông Nam Bộ cũng đang xả tràn để giảm áp lực và cắt lũ hạ du, nhất là các hồ đã đầy nước sau trận lũ lịch sử vừa qua như: Sông Ba Hạ, Sông Hinh, Sông Cái Nha Trang, Đồng Nai. Trước tình hình này, Sở Nông nghiệp và Môi trường TP HCM đề nghị Công ty Khai thác Thủy lợi Miền Nam, Thủy điện Trị An và các đơn vị quản lý hồ chứa căn cứ diễn biến mưa, mực nước hồ và triều hạ du để điều tiết phù hợp, vừa bảo đảm an toàn công trình, vừa giảm ngập cho hạ du, tránh tổ hợp bất lợi khi mưa lớn trùng thời điểm xả lũ. Các đơn vị khác được yêu cầu chủ động phương án ứng phó và khắc phục nhanh sự cố hạ tầng kỹ thuật. Liên quan ứng phó áp thấp nhiệt đới có khả năng mạnh lên thành bão số 15, các sở, ngành và địa phương được yêu cầu theo dõi dự báo, chuẩn bị phương án ứng phó và lực lượng, phương tiện cứu nạn khi có tình huống.",
+    "id": 3598,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2831,
+    "created_at": "2026-03-15T06:41:23.730897Z",
+    "updated_at": "2026-03-15T06:41:30.349119Z",
+    "lead_time": 30.559,
+    "claim_score": 19
+  },
+  {
+    "claim_id": "ctx112_claim335",
+    "claim": "Vào tháng 10 năm 2023, Sở Nông nghiệp và Môi trường TP HCM đã yêu cầu các đơn vị quản lý hồ chứa ưu tiên xả lũ hoàn toàn để cắt lũ hạ du, bất chấp nguy cơ gây ngập lụt.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_472_chunk_1",
+    "seed_context": "Nhiều tuyến Trần Xuân Soạn, Phạm Hữu Lầu, quốc lộ 50 (quận 7 và huyện Bình Chánh cũ) bị ngập kéo dài, gây xáo trộn giao thông và sinh hoạt của người dân. Ngoài Dầu Tiếng, nhiều hồ thủy lợi, thủy điện ở Nam Trung Bộ và Đông Nam Bộ cũng đang xả tràn để giảm áp lực và cắt lũ hạ du, nhất là các hồ đã đầy nước sau trận lũ lịch sử vừa qua như: Sông Ba Hạ, Sông Hinh, Sông Cái Nha Trang, Đồng Nai. Trước tình hình này, Sở Nông nghiệp và Môi trường TP HCM đề nghị Công ty Khai thác Thủy lợi Miền Nam, Thủy điện Trị An và các đơn vị quản lý hồ chứa căn cứ diễn biến mưa, mực nước hồ và triều hạ du để điều tiết phù hợp, vừa bảo đảm an toàn công trình, vừa giảm ngập cho hạ du, tránh tổ hợp bất lợi khi mưa lớn trùng thời điểm xả lũ. Các đơn vị khác được yêu cầu chủ động phương án ứng phó và khắc phục nhanh sự cố hạ tầng kỹ thuật. Liên quan ứng phó áp thấp nhiệt đới có khả năng mạnh lên thành bão số 15, các sở, ngành và địa phương được yêu cầu theo dõi dự báo, chuẩn bị phương án ứng phó và lực lượng, phương tiện cứu nạn khi có tình huống.",
+    "id": 3599,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2832,
+    "created_at": "2026-03-15T06:41:51.274401Z",
+    "updated_at": "2026-03-15T06:41:51.274401Z",
+    "lead_time": 19.903,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx112_claim336",
+    "claim": "Hồ thủy điện Dầu Tiếng đã tiến hành xả tràn 500 mét khối mỗi giây vào hạ du để giảm áp lực nước vào ngày 15 tháng 9 năm 2023.",
+    "label": "NEI",
+    "seed_context_id": "vne_472_chunk_1",
+    "seed_context": "Nhiều tuyến Trần Xuân Soạn, Phạm Hữu Lầu, quốc lộ 50 (quận 7 và huyện Bình Chánh cũ) bị ngập kéo dài, gây xáo trộn giao thông và sinh hoạt của người dân. Ngoài Dầu Tiếng, nhiều hồ thủy lợi, thủy điện ở Nam Trung Bộ và Đông Nam Bộ cũng đang xả tràn để giảm áp lực và cắt lũ hạ du, nhất là các hồ đã đầy nước sau trận lũ lịch sử vừa qua như: Sông Ba Hạ, Sông Hinh, Sông Cái Nha Trang, Đồng Nai. Trước tình hình này, Sở Nông nghiệp và Môi trường TP HCM đề nghị Công ty Khai thác Thủy lợi Miền Nam, Thủy điện Trị An và các đơn vị quản lý hồ chứa căn cứ diễn biến mưa, mực nước hồ và triều hạ du để điều tiết phù hợp, vừa bảo đảm an toàn công trình, vừa giảm ngập cho hạ du, tránh tổ hợp bất lợi khi mưa lớn trùng thời điểm xả lũ. Các đơn vị khác được yêu cầu chủ động phương án ứng phó và khắc phục nhanh sự cố hạ tầng kỹ thuật. Liên quan ứng phó áp thấp nhiệt đới có khả năng mạnh lên thành bão số 15, các sở, ngành và địa phương được yêu cầu theo dõi dự báo, chuẩn bị phương án ứng phó và lực lượng, phương tiện cứu nạn khi có tình huống.",
+    "id": 3600,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2833,
+    "created_at": "2026-03-15T06:42:00.628354Z",
+    "updated_at": "2026-03-15T06:42:00.628354Z",
+    "lead_time": 7.755,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx113_claim337",
+    "claim": "Khu vực miền nam California đã trải qua hai thập kỷ hạn hán, tiếp theo là hai năm mưa nhiều, làm cho thảm thực vật phát triển mạnh và dễ cháy.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_559_chunk_4",
+    "seed_context": "Khu vực miền nam California đã trải qua hai thập kỷ hạn hán, sau đó là hai năm mưa đặc biệt nhiều, khiến các thảm thực vật phát triển mạnh và dễ bùng cháy. Nhiều người dân địa phương cũng cảm nhận rõ hơn cảnh báo của giới khoa học rằng các hiện tượng thời tiết cực đoan đang tăng tần suất, cường độ. \"Có lẽ biến đổi khí hậu đang ảnh hưởng đến mọi thứ. Thế giới đang trong tình cảnh tồi tệ và chúng ta cần hành động nhiều hơn nữa\", Debbie Collins, chủ cửa hàng ở Los Angeles, cho hay.",
+    "id": 3601,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2834,
+    "created_at": "2026-03-15T06:42:29.030222Z",
+    "updated_at": "2026-03-15T06:42:29.030222Z",
+    "lead_time": 27.061,
+    "claim_score": 19
+  },
+  {
+    "claim_id": "ctx113_claim338",
+    "claim": "Debbie Collins, chủ cửa hàng ở Los Angeles, tin rằng biến đổi khí hậu không ảnh hưởng đến các hiện tượng thời tiết cực đoan.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_559_chunk_4",
+    "seed_context": "Khu vực miền nam California đã trải qua hai thập kỷ hạn hán, sau đó là hai năm mưa đặc biệt nhiều, khiến các thảm thực vật phát triển mạnh và dễ bùng cháy. Nhiều người dân địa phương cũng cảm nhận rõ hơn cảnh báo của giới khoa học rằng các hiện tượng thời tiết cực đoan đang tăng tần suất, cường độ. \"Có lẽ biến đổi khí hậu đang ảnh hưởng đến mọi thứ. Thế giới đang trong tình cảnh tồi tệ và chúng ta cần hành động nhiều hơn nữa\", Debbie Collins, chủ cửa hàng ở Los Angeles, cho hay.",
+    "id": 3602,
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2835,
+    "created_at": "2026-03-15T06:42:57.137697Z",
+    "updated_at": "2026-03-15T06:42:57.137697Z",
+    "lead_time": 26.945,
+    "claim_score": 19
+  },
+  {
+    "claim_id": "ctx113_claim339",
+    "claim": "Debbie Collins, chủ cửa hàng ở Los Angeles, đã đề xuất các giải pháp cụ thể để ứng phó với biến đổi khí hậu vào năm 2023.",
+    "label": "NEI",
+    "seed_context_id": "vne_559_chunk_4",
+    "seed_context": "Khu vực miền nam California đã trải qua hai thập kỷ hạn hán, sau đó là hai năm mưa đặc biệt nhiều, khiến các thảm thực vật phát triển mạnh và dễ bùng cháy. Nhiều người dân địa phương cũng cảm nhận rõ hơn cảnh báo của giới khoa học rằng các hiện tượng thời tiết cực đoan đang tăng tần suất, cường độ. \"Có lẽ biến đổi khí hậu đang ảnh hưởng đến mọi thứ. Thế giới đang trong tình cảnh tồi tệ và chúng ta cần hành động nhiều hơn nữa\", Debbie Collins, chủ cửa hàng ở Los Angeles, cho hay.",
+    "id": 3603,
+    "verifiability": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2836,
+    "created_at": "2026-03-15T06:43:02.727802Z",
+    "updated_at": "2026-03-15T06:43:02.727802Z",
+    "lead_time": 4.594,
+    "claim_score": 19
+  },
+  {
+    "claim_id": "ctx114_claim340",
+    "claim": "Vào khoảng 1h ngày xảy ra sự việc, xe khách do tài xế Nguyễn Khắc Định điều khiển đã chuyển làn và va chạm với xe khách do ông Trần Việt Hùng lái cùng chiều trên cao tốc Vĩnh Hảo - Phan Thiết, đoạn qua huyện Bắc Bình.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_38_chunk_0",
+    "seed_context": "Khoảng 1h, xe khách do tài xế Nguyễn Khắc Định (Bắc Ninh) lái chạy hướng Phan Thiết - Vĩnh Hảo. Khi đến huyện Bắc Bình, ôtô này chuyển làn và va chạm xe khách do ông Trần Việt Hùng (Phú Yên) lái cùng chiều. Sau đó, xe khách bị đẩy đi và tiếp tục va chạm đuôi ôtô 5 chỗ chạy phía trước cùng chiều. Cú tông khiến đuôi ôtô 5 chỗ bị móp méo, hư hỏng. Xe khách lao tiếp vào dải phân cách, rồi nằm chắn ngang đường. Sự cố không gây thương vong nhưng cao tốc qua khu vực bị ùn tắc kéo dài khoảng 4 km, từ vị trí xảy ra tai nạn đến nút giao Chợ Lầu. CSGT và đơn vị tuần đường đã đến hiện trường điều tiết giao thông và xử lý hiện trường. Cảnh sát tạm đóng đoạn đường, hướng dẫn các xe tại các nút giao Chợ Lầu và Đại Ninh rẽ hướng quốc lộ 1, đi tiếp ra Ninh Thuận để tránh ùn tắc. Đến 6h, hiện trường tai nạn vẫn đang được xử lý. Rạng sáng qua, cũng trên cao tốc này, 5 ôtô tông liên hoàn ở huyện Hàm Thuận Bắc gây ùn tắc kéo dài, lực lượng chức năng phải đóng lối vào cao tốc trong nhiều giờ. Cao tốc Vĩnh Hảo - Phan Thiết dài hơn 100 km đi qua 4 huyện (Hàm Thuận Nam, Hàm Thuận Bắc, Bắc Bình và Tuy Phong) của Bình Thuận, là một đoạn tuyến của cao tốc nối TP HCM với Nha Trang (Khánh Hòa).",
+    "id": 3604,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2837,
+    "created_at": "2026-03-15T06:47:25.013267Z",
+    "updated_at": "2026-03-15T06:47:25.013267Z",
+    "lead_time": 253.159,
+    "claim_score": 19
+  },
+  {
+    "claim_id": "ctx114_claim341",
+    "claim": "Vụ tai nạn trên cao tốc Vĩnh Hảo - Phan Thiết vào rạng sáng qua đã khiến 5 người tử vong tại chỗ.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_38_chunk_0",
+    "seed_context": "Khoảng 1h, xe khách do tài xế Nguyễn Khắc Định (Bắc Ninh) lái chạy hướng Phan Thiết - Vĩnh Hảo. Khi đến huyện Bắc Bình, ôtô này chuyển làn và va chạm xe khách do ông Trần Việt Hùng (Phú Yên) lái cùng chiều. Sau đó, xe khách bị đẩy đi và tiếp tục va chạm đuôi ôtô 5 chỗ chạy phía trước cùng chiều. Cú tông khiến đuôi ôtô 5 chỗ bị móp méo, hư hỏng. Xe khách lao tiếp vào dải phân cách, rồi nằm chắn ngang đường. Sự cố không gây thương vong nhưng cao tốc qua khu vực bị ùn tắc kéo dài khoảng 4 km, từ vị trí xảy ra tai nạn đến nút giao Chợ Lầu. CSGT và đơn vị tuần đường đã đến hiện trường điều tiết giao thông và xử lý hiện trường. Cảnh sát tạm đóng đoạn đường, hướng dẫn các xe tại các nút giao Chợ Lầu và Đại Ninh rẽ hướng quốc lộ 1, đi tiếp ra Ninh Thuận để tránh ùn tắc. Đến 6h, hiện trường tai nạn vẫn đang được xử lý. Rạng sáng qua, cũng trên cao tốc này, 5 ôtô tông liên hoàn ở huyện Hàm Thuận Bắc gây ùn tắc kéo dài, lực lượng chức năng phải đóng lối vào cao tốc trong nhiều giờ. Cao tốc Vĩnh Hảo - Phan Thiết dài hơn 100 km đi qua 4 huyện (Hàm Thuận Nam, Hàm Thuận Bắc, Bắc Bình và Tuy Phong) của Bình Thuận, là một đoạn tuyến của cao tốc nối TP HCM với Nha Trang (Khánh Hòa).",
+    "id": 3605,
+    "specificity": [
+      {
+        "rating": 1
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 2
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2838,
+    "created_at": "2026-03-15T06:47:44.178973Z",
+    "updated_at": "2026-03-15T06:47:44.178973Z",
+    "lead_time": 17.967,
+    "claim_score": 14
+  },
+  {
+    "claim_id": "ctx114_claim342",
+    "claim": "Tài xế Nguyễn Khắc Định, điều khiển xe khách gây tai nạn trên cao tốc Vĩnh Hảo - Phan Thiết vào khoảng 1h, đã bị CSGT tạm giữ tại hiện trường để điều tra.",
+    "label": "NEI",
+    "seed_context_id": "vne_38_chunk_0",
+    "seed_context": "Khoảng 1h, xe khách do tài xế Nguyễn Khắc Định (Bắc Ninh) lái chạy hướng Phan Thiết - Vĩnh Hảo. Khi đến huyện Bắc Bình, ôtô này chuyển làn và va chạm xe khách do ông Trần Việt Hùng (Phú Yên) lái cùng chiều. Sau đó, xe khách bị đẩy đi và tiếp tục va chạm đuôi ôtô 5 chỗ chạy phía trước cùng chiều. Cú tông khiến đuôi ôtô 5 chỗ bị móp méo, hư hỏng. Xe khách lao tiếp vào dải phân cách, rồi nằm chắn ngang đường. Sự cố không gây thương vong nhưng cao tốc qua khu vực bị ùn tắc kéo dài khoảng 4 km, từ vị trí xảy ra tai nạn đến nút giao Chợ Lầu. CSGT và đơn vị tuần đường đã đến hiện trường điều tiết giao thông và xử lý hiện trường. Cảnh sát tạm đóng đoạn đường, hướng dẫn các xe tại các nút giao Chợ Lầu và Đại Ninh rẽ hướng quốc lộ 1, đi tiếp ra Ninh Thuận để tránh ùn tắc. Đến 6h, hiện trường tai nạn vẫn đang được xử lý. Rạng sáng qua, cũng trên cao tốc này, 5 ôtô tông liên hoàn ở huyện Hàm Thuận Bắc gây ùn tắc kéo dài, lực lượng chức năng phải đóng lối vào cao tốc trong nhiều giờ. Cao tốc Vĩnh Hảo - Phan Thiết dài hơn 100 km đi qua 4 huyện (Hàm Thuận Nam, Hàm Thuận Bắc, Bắc Bình và Tuy Phong) của Bình Thuận, là một đoạn tuyến của cao tốc nối TP HCM với Nha Trang (Khánh Hòa).",
+    "id": 3606,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "reason": "Thiếu thời điểm nào xảy ra",
+    "annotator": 1,
+    "annotation_id": 2839,
+    "created_at": "2026-03-15T06:48:05.159125Z",
+    "updated_at": "2026-03-15T06:48:05.159125Z",
+    "lead_time": 19.926,
+    "claim_score": 19
+  },
+  {
+    "claim_id": "ctx115_claim343",
+    "claim": "Vào năm 2024, quân đội Trung Quốc đã giới thiệu một mẫu chó robot có thể hoạt động độc lập trong 2-4 giờ tại cuộc diễn tập Rồng vàng với Campuchia.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_832_chunk_1",
+    "seed_context": "Những cỗ máy này còn leo cầu thang rất linh hoạt và có khả năng nhắm bắn, khai hỏa vào bia mục tiêu. Theo Chong Ja Ian, phó giáo sư tại Đại học Quốc gia Singapore, sự ra đời của các robot dạng này là dấu hiệu cho thấy chiến trường trong tương lai sẽ trở nên nguy hiểm và mang tính tự động hóa hơn. Ông cho rằng Trung Quốc công bố video trình diễn tính năng của sói robot nhằm \"khơi dậy lòng tự hào quốc gia ở trong nước, cũng như răn đe các đối thủ tiềm tàng bên ngoài\". Bắc Kinh đang dồn nhiều nguồn lực để đầu tư vào công nghệ robot, lĩnh vực mà một số chuyên gia nhận định Trung Quốc hiện chiếm ưu thế so với Mỹ. Quân đội nước này rất tích cực phô diễn các thành tựu về quốc phòng, trong đó có vũ khí được tích công nghệ tiên tiến như robot, tại các cuộc diễn tập chung với nước ngoài. Trong cuộc diễn tập Rồng vàng 2024 với Campuchia năm ngoái, quân đội Trung Quốc giới thiệu một mẫu chó robot chạy bằng pin, có thể hoạt động độc lập trong 2-4 giờ và thực hiện nhiều động tác linh hoạt như di chuyển tới - lui, nằm xuống và bật nhảy vượt chướng ngại vật.",
+    "id": 3607,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2840,
+    "created_at": "2026-03-15T06:48:18.698085Z",
+    "updated_at": "2026-03-15T06:48:18.699932Z",
+    "lead_time": 12.096,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx115_claim344",
+    "claim": "Phó giáo sư Chong Ja Ian tại Đại học Quốc gia Singapore cho rằng việc Trung Quốc công bố video trình diễn sói robot nhằm mục đích giảm bớt lòng tự hào quốc gia và khuyến khích các đối thủ tiềm tàng tấn công.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_832_chunk_1",
+    "seed_context": "Những cỗ máy này còn leo cầu thang rất linh hoạt và có khả năng nhắm bắn, khai hỏa vào bia mục tiêu. Theo Chong Ja Ian, phó giáo sư tại Đại học Quốc gia Singapore, sự ra đời của các robot dạng này là dấu hiệu cho thấy chiến trường trong tương lai sẽ trở nên nguy hiểm và mang tính tự động hóa hơn. Ông cho rằng Trung Quốc công bố video trình diễn tính năng của sói robot nhằm \"khơi dậy lòng tự hào quốc gia ở trong nước, cũng như răn đe các đối thủ tiềm tàng bên ngoài\". Bắc Kinh đang dồn nhiều nguồn lực để đầu tư vào công nghệ robot, lĩnh vực mà một số chuyên gia nhận định Trung Quốc hiện chiếm ưu thế so với Mỹ. Quân đội nước này rất tích cực phô diễn các thành tựu về quốc phòng, trong đó có vũ khí được tích công nghệ tiên tiến như robot, tại các cuộc diễn tập chung với nước ngoài. Trong cuộc diễn tập Rồng vàng 2024 với Campuchia năm ngoái, quân đội Trung Quốc giới thiệu một mẫu chó robot chạy bằng pin, có thể hoạt động độc lập trong 2-4 giờ và thực hiện nhiều động tác linh hoạt như di chuyển tới - lui, nằm xuống và bật nhảy vượt chướng ngại vật.",
+    "id": 3608,
+    "clarity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2841,
+    "created_at": "2026-03-15T06:56:01.267717Z",
+    "updated_at": "2026-03-15T06:56:01.267717Z",
+    "lead_time": 453.499,
+    "claim_score": 16
+  },
+  {
+    "claim_id": "ctx115_claim345",
+    "claim": "Các robot dạng sói do Trung Quốc phát triển có khả năng tự động di chuyển đến các địa điểm được chỉ định mà không cần sự can thiệp của con người.",
+    "label": "NEI",
+    "seed_context_id": "vne_832_chunk_1",
+    "seed_context": "Những cỗ máy này còn leo cầu thang rất linh hoạt và có khả năng nhắm bắn, khai hỏa vào bia mục tiêu. Theo Chong Ja Ian, phó giáo sư tại Đại học Quốc gia Singapore, sự ra đời của các robot dạng này là dấu hiệu cho thấy chiến trường trong tương lai sẽ trở nên nguy hiểm và mang tính tự động hóa hơn. Ông cho rằng Trung Quốc công bố video trình diễn tính năng của sói robot nhằm \"khơi dậy lòng tự hào quốc gia ở trong nước, cũng như răn đe các đối thủ tiềm tàng bên ngoài\". Bắc Kinh đang dồn nhiều nguồn lực để đầu tư vào công nghệ robot, lĩnh vực mà một số chuyên gia nhận định Trung Quốc hiện chiếm ưu thế so với Mỹ. Quân đội nước này rất tích cực phô diễn các thành tựu về quốc phòng, trong đó có vũ khí được tích công nghệ tiên tiến như robot, tại các cuộc diễn tập chung với nước ngoài. Trong cuộc diễn tập Rồng vàng 2024 với Campuchia năm ngoái, quân đội Trung Quốc giới thiệu một mẫu chó robot chạy bằng pin, có thể hoạt động độc lập trong 2-4 giờ và thực hiện nhiều động tác linh hoạt như di chuyển tới - lui, nằm xuống và bật nhảy vượt chướng ngại vật.",
+    "id": 3609,
+    "specificity": [
+      {
+        "rating": 2
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2842,
+    "created_at": "2026-03-15T06:56:22.701008Z",
+    "updated_at": "2026-03-15T06:56:22.701008Z",
+    "lead_time": 13.172,
+    "claim_score": 18
+  },
+  {
+    "claim_id": "ctx116_claim346",
+    "claim": "Vào đầu tháng 12/2025, thành phố Hà Nội đã bổ sung 500 xe đạp điện vào hệ thống xe đạp công cộng, với mục tiêu nâng tổng số lên 5.000 xe trước tháng 7/2026.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_487_chunk_2",
+    "seed_context": "Đến đầu tháng 12/2025, thành phố đã đưa thêm 500 xe đạp điện vào hệ thống xe đạp công cộng, dự kiến tăng lên 5.000 xe trước tháng 7/2026. Với chung cư cao tầng, lãnh đạo Sở Xây dựng cho biết các vướng mắc về bố trí sạc hiện thuộc thẩm quyền giải quyết của UBND xã, phường. Trước mắt, địa phương phối hợp ban quản trị chung cư rà soát, phân khu để xe điện riêng và bố trí trụ sạc bảo đảm an toàn phòng cháy, chữa cháy. Theo thống kê, Hà Nội hiện có hơn 8 triệu phương tiện, trong đó khoảng 6,9 triệu xe máy, cùng hơn 1,2 triệu phương tiện từ các địa phương khác thường xuyên lưu thông. Thành phố xác định phát thải từ giao thông đường bộ chiếm 58-74% tổng nguồn ô nhiễm không khí. Nghị quyết vùng phát thải thấp dự kiến có hiệu lực từ tháng 7/2026.",
+    "id": 3610,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2843,
+    "created_at": "2026-03-15T06:56:36.639228Z",
+    "updated_at": "2026-03-15T06:56:36.639228Z",
+    "lead_time": 6.569,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx116_claim347",
+    "claim": "Thành phố Hà Nội dự kiến sẽ có 500 xe đạp điện vào tháng 7/2026, trong khi số lượng xe máy lưu thông là hơn 1,2 triệu chiếc.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_487_chunk_2",
+    "seed_context": "Đến đầu tháng 12/2025, thành phố đã đưa thêm 500 xe đạp điện vào hệ thống xe đạp công cộng, dự kiến tăng lên 5.000 xe trước tháng 7/2026. Với chung cư cao tầng, lãnh đạo Sở Xây dựng cho biết các vướng mắc về bố trí sạc hiện thuộc thẩm quyền giải quyết của UBND xã, phường. Trước mắt, địa phương phối hợp ban quản trị chung cư rà soát, phân khu để xe điện riêng và bố trí trụ sạc bảo đảm an toàn phòng cháy, chữa cháy. Theo thống kê, Hà Nội hiện có hơn 8 triệu phương tiện, trong đó khoảng 6,9 triệu xe máy, cùng hơn 1,2 triệu phương tiện từ các địa phương khác thường xuyên lưu thông. Thành phố xác định phát thải từ giao thông đường bộ chiếm 58-74% tổng nguồn ô nhiễm không khí. Nghị quyết vùng phát thải thấp dự kiến có hiệu lực từ tháng 7/2026.",
+    "id": 3611,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2844,
+    "created_at": "2026-03-15T06:57:14.969418Z",
+    "updated_at": "2026-03-15T06:57:14.969418Z",
+    "lead_time": 37.392,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx116_claim348",
+    "claim": "UBND xã, phường tại Hà Nội đang xem xét việc lắp đặt 100 trạm sạc xe đạp điện tại các chung cư cao tầng trước tháng 7/2026.",
+    "label": "NEI",
+    "seed_context_id": "vne_487_chunk_2",
+    "seed_context": "Đến đầu tháng 12/2025, thành phố đã đưa thêm 500 xe đạp điện vào hệ thống xe đạp công cộng, dự kiến tăng lên 5.000 xe trước tháng 7/2026. Với chung cư cao tầng, lãnh đạo Sở Xây dựng cho biết các vướng mắc về bố trí sạc hiện thuộc thẩm quyền giải quyết của UBND xã, phường. Trước mắt, địa phương phối hợp ban quản trị chung cư rà soát, phân khu để xe điện riêng và bố trí trụ sạc bảo đảm an toàn phòng cháy, chữa cháy. Theo thống kê, Hà Nội hiện có hơn 8 triệu phương tiện, trong đó khoảng 6,9 triệu xe máy, cùng hơn 1,2 triệu phương tiện từ các địa phương khác thường xuyên lưu thông. Thành phố xác định phát thải từ giao thông đường bộ chiếm 58-74% tổng nguồn ô nhiễm không khí. Nghị quyết vùng phát thải thấp dự kiến có hiệu lực từ tháng 7/2026.",
+    "id": 3612,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2845,
+    "created_at": "2026-03-15T06:57:32.822089Z",
+    "updated_at": "2026-03-15T06:57:32.822089Z",
+    "lead_time": 8.884,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx117_claim349",
+    "claim": "Shiina Ito, chủ tiệm trang sức tại khu Asakusa, Tokyo, cho biết doanh số cửa hàng không giảm dù lượng khách Trung Quốc đến Nhật Bản trong tháng này ít đi do quan hệ Tokyo-Bắc Kinh căng thẳng.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_979_chunk_0",
+    "seed_context": "Tiệm trang sức của Shiina Ito tại Tokyo những ngày qua vắng khách Trung Quốc, nhưng cô không lo lắng vì khách Nhật Bản đã quay lại. Quan hệ Tokyo - Bắc Kinh trở nên căng thẳng trong tháng này sau phát ngôn của Thủ tướng Nhật Bản Sanae Takaichi về vấn đề Đài Loan, làm dấy lên lo ngại ảnh hưởng đến ngành du lịch, đặc biệt là các cửa hàng, quán ăn và khách sạn Nhật vốn phụ thuộc vào dòng tiền từ du khách Trung Quốc. Tuy nhiên, nhiều doanh nghiệp vẫn tỏ ra bình thản. Shiina Ito, chủ tiệm trang sức tại khu Asakusa, Tokyo, cho biết cửa hàng những ngày qua có ít khách Trung Quốc sau khi Bắc Kinh khuyến cáo công dân tránh đến Nhật, nhưng cô không quá lo lắng vì khách nội địa đang quay trở lại khi không còn cảnh xếp hàng chờ đợi. \"Khi khách Trung Quốc ít đi, người Nhật lại có không gian mua sắm thoải mái hơn, nên doanh số của chúng tôi không giảm\", Ito nói. Trước khi căng thẳng ngoại giao giữa hai nước nổ ra, người Trung Quốc chiếm một nửa lượng khách tại cửa hàng của Ito. Người dân khu Asakusa từ lâu đã quen với hình ảnh đám đông du khách nói tiếng Trung chen chân trong những con hẻm nhỏ đầy cửa tiệm truyền thống tại đây.",
+    "id": 3613,
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2846,
+    "created_at": "2026-03-15T06:57:47.873789Z",
+    "updated_at": "2026-03-15T06:57:47.873789Z",
+    "lead_time": 14.108,
+    "claim_score": 19
+  },
+  {
+    "claim_id": "ctx117_claim350",
+    "claim": "Thủ tướng Nhật Bản Sanae Takaichi đã phát biểu ủng hộ Đài Loan, dẫn đến việc Bắc Kinh khuyến cáo công dân tránh đến Nhật Bản và làm giảm một nửa lượng khách Trung Quốc tại tiệm trang sức của Shiina Ito ở Asakusa, Tokyo.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_979_chunk_0",
+    "seed_context": "Tiệm trang sức của Shiina Ito tại Tokyo những ngày qua vắng khách Trung Quốc, nhưng cô không lo lắng vì khách Nhật Bản đã quay lại. Quan hệ Tokyo - Bắc Kinh trở nên căng thẳng trong tháng này sau phát ngôn của Thủ tướng Nhật Bản Sanae Takaichi về vấn đề Đài Loan, làm dấy lên lo ngại ảnh hưởng đến ngành du lịch, đặc biệt là các cửa hàng, quán ăn và khách sạn Nhật vốn phụ thuộc vào dòng tiền từ du khách Trung Quốc. Tuy nhiên, nhiều doanh nghiệp vẫn tỏ ra bình thản. Shiina Ito, chủ tiệm trang sức tại khu Asakusa, Tokyo, cho biết cửa hàng những ngày qua có ít khách Trung Quốc sau khi Bắc Kinh khuyến cáo công dân tránh đến Nhật, nhưng cô không quá lo lắng vì khách nội địa đang quay trở lại khi không còn cảnh xếp hàng chờ đợi. \"Khi khách Trung Quốc ít đi, người Nhật lại có không gian mua sắm thoải mái hơn, nên doanh số của chúng tôi không giảm\", Ito nói. Trước khi căng thẳng ngoại giao giữa hai nước nổ ra, người Trung Quốc chiếm một nửa lượng khách tại cửa hàng của Ito. Người dân khu Asakusa từ lâu đã quen với hình ảnh đám đông du khách nói tiếng Trung chen chân trong những con hẻm nhỏ đầy cửa tiệm truyền thống tại đây.",
+    "id": 3614,
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2847,
+    "created_at": "2026-03-15T06:58:01.154609Z",
+    "updated_at": "2026-03-15T06:58:01.154609Z",
+    "lead_time": 10.32,
+    "claim_score": 18
+  },
+  {
+    "claim_id": "ctx117_claim351",
+    "claim": "Trong tháng này, các cửa hàng, quán ăn và khách sạn Nhật Bản tại Tokyo đã ghi nhận sự sụt giảm doanh thu nghiêm trọng do lượng khách du lịch Trung Quốc giảm mạnh sau phát ngôn của Thủ tướng Sanae Takaichi về vấn đề Đài Loan.",
+    "label": "NEI",
+    "seed_context_id": "vne_979_chunk_0",
+    "seed_context": "Tiệm trang sức của Shiina Ito tại Tokyo những ngày qua vắng khách Trung Quốc, nhưng cô không lo lắng vì khách Nhật Bản đã quay lại. Quan hệ Tokyo - Bắc Kinh trở nên căng thẳng trong tháng này sau phát ngôn của Thủ tướng Nhật Bản Sanae Takaichi về vấn đề Đài Loan, làm dấy lên lo ngại ảnh hưởng đến ngành du lịch, đặc biệt là các cửa hàng, quán ăn và khách sạn Nhật vốn phụ thuộc vào dòng tiền từ du khách Trung Quốc. Tuy nhiên, nhiều doanh nghiệp vẫn tỏ ra bình thản. Shiina Ito, chủ tiệm trang sức tại khu Asakusa, Tokyo, cho biết cửa hàng những ngày qua có ít khách Trung Quốc sau khi Bắc Kinh khuyến cáo công dân tránh đến Nhật, nhưng cô không quá lo lắng vì khách nội địa đang quay trở lại khi không còn cảnh xếp hàng chờ đợi. \"Khi khách Trung Quốc ít đi, người Nhật lại có không gian mua sắm thoải mái hơn, nên doanh số của chúng tôi không giảm\", Ito nói. Trước khi căng thẳng ngoại giao giữa hai nước nổ ra, người Trung Quốc chiếm một nửa lượng khách tại cửa hàng của Ito. Người dân khu Asakusa từ lâu đã quen với hình ảnh đám đông du khách nói tiếng Trung chen chân trong những con hẻm nhỏ đầy cửa tiệm truyền thống tại đây.",
+    "id": 3615,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2848,
+    "created_at": "2026-03-15T06:58:24.117708Z",
+    "updated_at": "2026-03-15T06:58:24.117708Z",
+    "lead_time": 20.43,
+    "claim_score": 18
+  },
+  {
+    "claim_id": "ctx118_claim352",
+    "claim": "Vào ngày 8/10, Tổng thống Colombia Gustavo Petro cho biết trên xuồng bị tập kích hồi đầu tháng có công dân nước này và việc Mỹ tiến hành chiến dịch sẽ mở ra khu vực xung đột mới tại Caribe.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_932_chunk_1",
+    "seed_context": "Lầu Năm Góc gần đây thông báo với quốc hội rằng ông Trump xác định Mỹ \"đang tham gia cuộc xung đột vũ trang phi quốc tế\" với các băng đảng. Tổng thống Mỹ khẳng định chính sách chống ma túy của mình đang phát huy hiệu quả, có thể mở rộng hoạt động quân sự sang nhằm vào tuyến vận chuyển trên đất liền. Các vụ tập kích xuồng nghi chở ma túy trên biển Caribe vấp phải phản đối từ nhiều bên. Một số cựu luật sư của quân đội Mỹ cho rằng lời giải thích của chính quyền về hạ nghi phạm buôn ma túy trên biển thay vì bắt họ không đáp ứng yêu cầu trong luật chiến tranh. Washington vẫn chưa công bố bằng chứng cho thấy mục tiêu bị không kích là những kẻ buôn lậu ma túy. Giới chuyên gia cho rằng những cuộc không kích như vậy là bất hợp pháp, ngay cả khi chúng nhắm vào các xuồng được xác nhận là đang chở ma túy. Tổng thống Colombia Gustavo Petro ngày 8/10 cho biết trên xuồng bị tập kích hồi đầu tháng có công dân nước này, đồng thời kêu gọi gia đình những người thiệt mạng lên tiếng. Ông cho rằng chiến dịch của Mỹ sẽ mở ra khu vực xung đột mới tại Caribe.",
+    "id": 3616,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2849,
+    "created_at": "2026-03-15T07:03:03.125796Z",
+    "updated_at": "2026-03-15T07:03:03.125796Z",
+    "lead_time": 261.117,
+    "claim_score": 19
+  },
+  {
+    "claim_id": "ctx118_claim353",
+    "claim": "Vào ngày 8/10, Tổng thống Colombia Gustavo Petro cho biết trên xuồng bị tập kích hồi đầu tháng có công dân Mỹ và việc Mỹ tiến hành chiến dịch sẽ chấm dứt xung đột tại Caribe.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_932_chunk_1",
+    "seed_context": "Lầu Năm Góc gần đây thông báo với quốc hội rằng ông Trump xác định Mỹ \"đang tham gia cuộc xung đột vũ trang phi quốc tế\" với các băng đảng. Tổng thống Mỹ khẳng định chính sách chống ma túy của mình đang phát huy hiệu quả, có thể mở rộng hoạt động quân sự sang nhằm vào tuyến vận chuyển trên đất liền. Các vụ tập kích xuồng nghi chở ma túy trên biển Caribe vấp phải phản đối từ nhiều bên. Một số cựu luật sư của quân đội Mỹ cho rằng lời giải thích của chính quyền về hạ nghi phạm buôn ma túy trên biển thay vì bắt họ không đáp ứng yêu cầu trong luật chiến tranh. Washington vẫn chưa công bố bằng chứng cho thấy mục tiêu bị không kích là những kẻ buôn lậu ma túy. Giới chuyên gia cho rằng những cuộc không kích như vậy là bất hợp pháp, ngay cả khi chúng nhắm vào các xuồng được xác nhận là đang chở ma túy. Tổng thống Colombia Gustavo Petro ngày 8/10 cho biết trên xuồng bị tập kích hồi đầu tháng có công dân nước này, đồng thời kêu gọi gia đình những người thiệt mạng lên tiếng. Ông cho rằng chiến dịch của Mỹ sẽ mở ra khu vực xung đột mới tại Caribe.",
+    "id": 3617,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2850,
+    "created_at": "2026-03-15T07:03:12.990008Z",
+    "updated_at": "2026-03-15T07:03:12.990008Z",
+    "lead_time": 7.764,
+    "claim_score": 19
+  },
+  {
+    "claim_id": "ctx118_claim354",
+    "claim": "Lầu Năm Góc đã thông báo với quốc hội về việc ông Trump xác định Mỹ đang tham gia cuộc xung đột vũ trang phi quốc tế với các băng đảng ma túy ở Mexico.",
+    "label": "NEI",
+    "seed_context_id": "vne_932_chunk_1",
+    "seed_context": "Lầu Năm Góc gần đây thông báo với quốc hội rằng ông Trump xác định Mỹ \"đang tham gia cuộc xung đột vũ trang phi quốc tế\" với các băng đảng. Tổng thống Mỹ khẳng định chính sách chống ma túy của mình đang phát huy hiệu quả, có thể mở rộng hoạt động quân sự sang nhằm vào tuyến vận chuyển trên đất liền. Các vụ tập kích xuồng nghi chở ma túy trên biển Caribe vấp phải phản đối từ nhiều bên. Một số cựu luật sư của quân đội Mỹ cho rằng lời giải thích của chính quyền về hạ nghi phạm buôn ma túy trên biển thay vì bắt họ không đáp ứng yêu cầu trong luật chiến tranh. Washington vẫn chưa công bố bằng chứng cho thấy mục tiêu bị không kích là những kẻ buôn lậu ma túy. Giới chuyên gia cho rằng những cuộc không kích như vậy là bất hợp pháp, ngay cả khi chúng nhắm vào các xuồng được xác nhận là đang chở ma túy. Tổng thống Colombia Gustavo Petro ngày 8/10 cho biết trên xuồng bị tập kích hồi đầu tháng có công dân nước này, đồng thời kêu gọi gia đình những người thiệt mạng lên tiếng. Ông cho rằng chiến dịch của Mỹ sẽ mở ra khu vực xung đột mới tại Caribe.",
+    "id": 3618,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2851,
+    "created_at": "2026-03-15T07:03:25.433478Z",
+    "updated_at": "2026-03-15T07:03:25.433478Z",
+    "lead_time": 9.266,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx119_claim355",
+    "claim": "Vệ binh Cách mạng Hồi giáo Iran đã mở đợt tập kích tên lửa thứ 12 nhằm vào Israel vào ngày 18/6, sử dụng tên lửa đạn đạo Sejil nặng 22,5 tấn.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_770_chunk_0",
+    "seed_context": "Vệ binh Cách mạng Hồi giáo Iran thông báo mở đợt tập kích tên lửa thứ 12 nhằm vào Israel, sử dụng tên lửa đạn đạo Sejil nặng 22,5 tấn. Vệ binh Cách mạng Hồi giáo Iran (IRGC) tuyên bố đợt tập kích tên lửa ngày 18/6 sử dụng tên lửa Sejil \"đã phá hủy hệ thống phòng không của quân đội Israel\", cho biết không phận nước này \"đã mở toang cho tên lửa và máy bay không người lái (UAV) của chúng tôi\". Sejil, còn gọi là Sejjil, là dòng tên lửa đạn đạo dùng nhiên liệu rắn được Iran biên chế năm 2014, với tầm bắn 2. 000-2. 500 km. Mỗi quả đạn nặng 22,5 tấn, mang theo đầu đạn 500-1. 500 kg. Một số nguồn tin nói rằng tên lửa có giá ước tính khoảng 500. 000 USD, nhưng giới chuyên gia nhận định chi phí thực tế của nó cao hơn nhiều, có thể lên tới 5 triệu USD mỗi quả. Cùng ngày, hãng thông tấn đưa tin Iran mở đợt tập kích UAV thứ 6 nhằm vào Israel từ khi xung đột bùng phát tuần trước, sử dụng hàng chục UAV các loại với đầu đạn chống công sự và \"giáng đòn nặng nề vào các mục tiêu đã định\". Trước đó, Iran nhiều lần phóng UAV tầm xa Arash vào Israel.",
+    "id": 3619,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2852,
+    "created_at": "2026-03-15T07:03:35.074833Z",
+    "updated_at": "2026-03-15T07:03:35.074833Z",
+    "lead_time": 8.484,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx119_claim356",
+    "claim": "Vệ binh Cách mạng Hồi giáo Iran tuyên bố đợt tập kích tên lửa ngày 18/6 sử dụng tên lửa Sejil đã phá hủy hệ thống phòng không của quân đội Nga, cho biết không phận nước này đã mở toang cho tên lửa và máy bay không người lái (UAV) của chúng tôi.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_770_chunk_0",
+    "seed_context": "Vệ binh Cách mạng Hồi giáo Iran thông báo mở đợt tập kích tên lửa thứ 12 nhằm vào Israel, sử dụng tên lửa đạn đạo Sejil nặng 22,5 tấn. Vệ binh Cách mạng Hồi giáo Iran (IRGC) tuyên bố đợt tập kích tên lửa ngày 18/6 sử dụng tên lửa Sejil \"đã phá hủy hệ thống phòng không của quân đội Israel\", cho biết không phận nước này \"đã mở toang cho tên lửa và máy bay không người lái (UAV) của chúng tôi\". Sejil, còn gọi là Sejjil, là dòng tên lửa đạn đạo dùng nhiên liệu rắn được Iran biên chế năm 2014, với tầm bắn 2. 000-2. 500 km. Mỗi quả đạn nặng 22,5 tấn, mang theo đầu đạn 500-1. 500 kg. Một số nguồn tin nói rằng tên lửa có giá ước tính khoảng 500. 000 USD, nhưng giới chuyên gia nhận định chi phí thực tế của nó cao hơn nhiều, có thể lên tới 5 triệu USD mỗi quả. Cùng ngày, hãng thông tấn đưa tin Iran mở đợt tập kích UAV thứ 6 nhằm vào Israel từ khi xung đột bùng phát tuần trước, sử dụng hàng chục UAV các loại với đầu đạn chống công sự và \"giáng đòn nặng nề vào các mục tiêu đã định\". Trước đó, Iran nhiều lần phóng UAV tầm xa Arash vào Israel.",
+    "id": 3620,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2853,
+    "created_at": "2026-03-15T07:03:49.345821Z",
+    "updated_at": "2026-03-15T07:03:49.345821Z",
+    "lead_time": 13.35,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx119_claim357",
+    "claim": "Tên lửa Sejil của Iran, được biên chế năm 2014, có tầm bắn 2.000-2.500 km và được ước tính có giá 500.000 USD.",
+    "label": "NEI",
+    "seed_context_id": "vne_770_chunk_0",
+    "seed_context": "Vệ binh Cách mạng Hồi giáo Iran thông báo mở đợt tập kích tên lửa thứ 12 nhằm vào Israel, sử dụng tên lửa đạn đạo Sejil nặng 22,5 tấn. Vệ binh Cách mạng Hồi giáo Iran (IRGC) tuyên bố đợt tập kích tên lửa ngày 18/6 sử dụng tên lửa Sejil \"đã phá hủy hệ thống phòng không của quân đội Israel\", cho biết không phận nước này \"đã mở toang cho tên lửa và máy bay không người lái (UAV) của chúng tôi\". Sejil, còn gọi là Sejjil, là dòng tên lửa đạn đạo dùng nhiên liệu rắn được Iran biên chế năm 2014, với tầm bắn 2. 000-2. 500 km. Mỗi quả đạn nặng 22,5 tấn, mang theo đầu đạn 500-1. 500 kg. Một số nguồn tin nói rằng tên lửa có giá ước tính khoảng 500. 000 USD, nhưng giới chuyên gia nhận định chi phí thực tế của nó cao hơn nhiều, có thể lên tới 5 triệu USD mỗi quả. Cùng ngày, hãng thông tấn đưa tin Iran mở đợt tập kích UAV thứ 6 nhằm vào Israel từ khi xung đột bùng phát tuần trước, sử dụng hàng chục UAV các loại với đầu đạn chống công sự và \"giáng đòn nặng nề vào các mục tiêu đã định\". Trước đó, Iran nhiều lần phóng UAV tầm xa Arash vào Israel.",
+    "id": 3621,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2854,
+    "created_at": "2026-03-15T07:04:00.887549Z",
+    "updated_at": "2026-03-15T07:04:00.887549Z",
+    "lead_time": 10.6,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx120_claim358",
+    "claim": "Chuyến bay số hiệu JL8696 của hãng hàng không giá rẻ Spring Airlines Japan, chở 191 người, đã hạ cánh khẩn cấp xuống sân bay Kansai ở Osaka vào ngày 30/6 do gặp cảnh báo bất thường trong hệ thống điều áp cabin trên hành trình từ Thượng Hải đến Tokyo.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_786_chunk_0",
+    "seed_context": "Máy bay Spring Airline Japan chở 191 người gặp cảnh báo với hệ thống điều áp, buộc tổ lái gấp rút giảm độ cao và hạ cánh khẩn. Chuyến bay số hiệu JL8696 của hãng hàng không giá rẻ Spring Airlines Japan gặp tín hiệu cảnh báo bất thường trong hệ thống điều áp cabin khi thực hiện hành trình từ thành phố Thượng Hải, Trung Quốc, đến thủ đô Tokyo của Nhật Bản hôm 30/6. Trên phi cơ có 191 hành khách và thành viên tổ bay. \"Tổ bay đã liên lạc với đài kiểm soát không lưu và thực hiện quy trình hạ độ cao có kiểm soát để đảm bảo an toàn. Phi cơ sau đó hạ cánh khẩn cấp xuống sân bay Kansai ở Osaka\", hãng hàng không Japan Airlines (JAL), công ty mẹ của Spring Airlines Japan, cho biết hôm 1/7. Dữ liệu trên trang theo dõi hàng không dân sự cho thấy máy bay duy trì độ cao hành trình khoảng 11. 700 m, sau đó giảm xuống chỉ còn 3. 000 m trong vòng 10 phút. Phi cơ gặp trục trặc là mẫu Boeing 737-800, được sản xuất năm 2017. Không ai bị thương trong sự việc, song nhiều hành khách mô tả khung cảnh hoảng loạn khi máy bay đột ngột giảm độ cao và mặt nạ dưỡng khí được thả trong cabin.",
+    "id": 3622,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2855,
+    "created_at": "2026-03-15T07:04:14.737340Z",
+    "updated_at": "2026-03-15T07:04:22.831974Z",
+    "lead_time": 18.044,
+    "claim_score": 18
+  },
+  {
+    "claim_id": "ctx120_claim359",
+    "claim": "Máy bay Boeing 737-800, được sản xuất năm 2017, thuộc hãng Spring Airlines Japan đã hạ cánh an toàn tại Tokyo sau khi gặp sự cố hệ thống điều áp vào ngày 30/6.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_786_chunk_0",
+    "seed_context": "Máy bay Spring Airline Japan chở 191 người gặp cảnh báo với hệ thống điều áp, buộc tổ lái gấp rút giảm độ cao và hạ cánh khẩn. Chuyến bay số hiệu JL8696 của hãng hàng không giá rẻ Spring Airlines Japan gặp tín hiệu cảnh báo bất thường trong hệ thống điều áp cabin khi thực hiện hành trình từ thành phố Thượng Hải, Trung Quốc, đến thủ đô Tokyo của Nhật Bản hôm 30/6. Trên phi cơ có 191 hành khách và thành viên tổ bay. \"Tổ bay đã liên lạc với đài kiểm soát không lưu và thực hiện quy trình hạ độ cao có kiểm soát để đảm bảo an toàn. Phi cơ sau đó hạ cánh khẩn cấp xuống sân bay Kansai ở Osaka\", hãng hàng không Japan Airlines (JAL), công ty mẹ của Spring Airlines Japan, cho biết hôm 1/7. Dữ liệu trên trang theo dõi hàng không dân sự cho thấy máy bay duy trì độ cao hành trình khoảng 11. 700 m, sau đó giảm xuống chỉ còn 3. 000 m trong vòng 10 phút. Phi cơ gặp trục trặc là mẫu Boeing 737-800, được sản xuất năm 2017. Không ai bị thương trong sự việc, song nhiều hành khách mô tả khung cảnh hoảng loạn khi máy bay đột ngột giảm độ cao và mặt nạ dưỡng khí được thả trong cabin.",
+    "id": 3623,
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2856,
+    "created_at": "2026-03-15T07:04:35.083944Z",
+    "updated_at": "2026-03-15T07:04:35.083944Z",
+    "lead_time": 11.4,
+    "claim_score": 19
+  },
+  {
+    "claim_id": "ctx120_claim360",
+    "claim": "Hãng hàng không Japan Airlines (JAL) đã ngay lập tức tiến hành điều tra nguyên nhân sự cố hệ thống điều áp trên chuyến bay JL8696 của Spring Airlines Japan ngay sau khi máy bay hạ cánh khẩn cấp tại Osaka vào ngày 30/6.",
+    "label": "NEI",
+    "seed_context_id": "vne_786_chunk_0",
+    "seed_context": "Máy bay Spring Airline Japan chở 191 người gặp cảnh báo với hệ thống điều áp, buộc tổ lái gấp rút giảm độ cao và hạ cánh khẩn. Chuyến bay số hiệu JL8696 của hãng hàng không giá rẻ Spring Airlines Japan gặp tín hiệu cảnh báo bất thường trong hệ thống điều áp cabin khi thực hiện hành trình từ thành phố Thượng Hải, Trung Quốc, đến thủ đô Tokyo của Nhật Bản hôm 30/6. Trên phi cơ có 191 hành khách và thành viên tổ bay. \"Tổ bay đã liên lạc với đài kiểm soát không lưu và thực hiện quy trình hạ độ cao có kiểm soát để đảm bảo an toàn. Phi cơ sau đó hạ cánh khẩn cấp xuống sân bay Kansai ở Osaka\", hãng hàng không Japan Airlines (JAL), công ty mẹ của Spring Airlines Japan, cho biết hôm 1/7. Dữ liệu trên trang theo dõi hàng không dân sự cho thấy máy bay duy trì độ cao hành trình khoảng 11. 700 m, sau đó giảm xuống chỉ còn 3. 000 m trong vòng 10 phút. Phi cơ gặp trục trặc là mẫu Boeing 737-800, được sản xuất năm 2017. Không ai bị thương trong sự việc, song nhiều hành khách mô tả khung cảnh hoảng loạn khi máy bay đột ngột giảm độ cao và mặt nạ dưỡng khí được thả trong cabin.",
+    "id": 3624,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2857,
+    "created_at": "2026-03-15T07:07:37.912271Z",
+    "updated_at": "2026-03-15T07:07:37.912271Z",
+    "lead_time": 181.97,
+    "claim_score": 19
+  },
+  {
+    "claim_id": "ctx121_claim361",
+    "claim": "Miao Lu, tổng thư ký Trung tâm Trung Quốc và Toàn cầu hóa tại Bắc Kinh, tin rằng visa K sẽ tạo điều kiện thuận lợi đáng kể cho việc chiêu mộ nhân tài lĩnh vực STEM và thu hút thêm chuyên gia trẻ tới Trung Quốc.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_908_chunk_1",
+    "seed_context": "Miao Lu, tổng thư ký Trung tâm Trung Quốc và Toàn cầu hóa tại Bắc Kinh, tin rằng visa K sẽ tạo điều kiện thuận lợi đáng kể cho việc chiêu mộ nhân tài lĩnh vực STEM và thu hút thêm chuyên gia trẻ tới nước này. \"Cam kết mở cửa theo tiêu chuẩn cao và sự phát triển chất lượng cao nói chung đã đưa Trung Quốc trở thành nơi phát triển lý tưởng, từ đó thu hút nhân tài toàn cầu và tạo ra một nơi quy tụ nhân tài\", bà nói. George Chen, thành viên tại công ty tư vấn The Asia Group ở Washington, cho rằng loạt chính sách gần đây của chính quyền ông Trump, như công kích các đại học, cắt giảm ngân sách nghiên cứu liên bang và tăng phí visa H1B đang khiến Thung lũng Silicon ngày càng chịu ảnh hưởng của phong trào \"Nước Mỹ trên hết\". \"Với những kỹ sư công nghệ nước ngoài lo lắng không còn được chào đón tại Mỹ, khi thấy visa K của Trung Quốc, họ sẽ nghĩ ít nhất tôi có lựa chọn khác\", Chen nói. Trước đây, người nước ngoài tới Trung Quốc học tập hoặc kinh doanh phải đối mặt với quy trình nộp đơn xin thị thực rườm rà, với những yêu cầu về công ty bảo lãnh hoặc chứng nhận là \"nhân tài cấp cao\".",
+    "id": 3625,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2858,
+    "created_at": "2026-03-15T07:07:50.649596Z",
+    "updated_at": "2026-03-15T07:07:50.649596Z",
+    "lead_time": 10.404,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx121_claim362",
+    "claim": "George Chen, thành viên tại công ty tư vấn The Asia Group ở Washington, cho rằng loạt chính sách của chính quyền ông Trump như công kích các đại học, cắt giảm ngân sách nghiên cứu liên bang và tăng phí visa H1B đang khiến Thung lũng Silicon ngày càng chịu ảnh hưởng của phong trào 'Nước Mỹ dưới hết'.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_908_chunk_1",
+    "seed_context": "Miao Lu, tổng thư ký Trung tâm Trung Quốc và Toàn cầu hóa tại Bắc Kinh, tin rằng visa K sẽ tạo điều kiện thuận lợi đáng kể cho việc chiêu mộ nhân tài lĩnh vực STEM và thu hút thêm chuyên gia trẻ tới nước này. \"Cam kết mở cửa theo tiêu chuẩn cao và sự phát triển chất lượng cao nói chung đã đưa Trung Quốc trở thành nơi phát triển lý tưởng, từ đó thu hút nhân tài toàn cầu và tạo ra một nơi quy tụ nhân tài\", bà nói. George Chen, thành viên tại công ty tư vấn The Asia Group ở Washington, cho rằng loạt chính sách gần đây của chính quyền ông Trump, như công kích các đại học, cắt giảm ngân sách nghiên cứu liên bang và tăng phí visa H1B đang khiến Thung lũng Silicon ngày càng chịu ảnh hưởng của phong trào \"Nước Mỹ trên hết\". \"Với những kỹ sư công nghệ nước ngoài lo lắng không còn được chào đón tại Mỹ, khi thấy visa K của Trung Quốc, họ sẽ nghĩ ít nhất tôi có lựa chọn khác\", Chen nói. Trước đây, người nước ngoài tới Trung Quốc học tập hoặc kinh doanh phải đối mặt với quy trình nộp đơn xin thị thực rườm rà, với những yêu cầu về công ty bảo lãnh hoặc chứng nhận là \"nhân tài cấp cao\".",
+    "id": 3626,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2859,
+    "created_at": "2026-03-15T07:08:07.509912Z",
+    "updated_at": "2026-03-15T07:08:07.509912Z",
+    "lead_time": 14.165,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx121_claim363",
+    "claim": "Trong bài phát biểu tại Bắc Kinh vào ngày 15 tháng 5 năm 2023, Miao Lu đã đề xuất một chương trình trao đổi văn hóa mới giữa Trung Quốc và Mỹ.",
+    "label": "NEI",
+    "seed_context_id": "vne_908_chunk_1",
+    "seed_context": "Miao Lu, tổng thư ký Trung tâm Trung Quốc và Toàn cầu hóa tại Bắc Kinh, tin rằng visa K sẽ tạo điều kiện thuận lợi đáng kể cho việc chiêu mộ nhân tài lĩnh vực STEM và thu hút thêm chuyên gia trẻ tới nước này. \"Cam kết mở cửa theo tiêu chuẩn cao và sự phát triển chất lượng cao nói chung đã đưa Trung Quốc trở thành nơi phát triển lý tưởng, từ đó thu hút nhân tài toàn cầu và tạo ra một nơi quy tụ nhân tài\", bà nói. George Chen, thành viên tại công ty tư vấn The Asia Group ở Washington, cho rằng loạt chính sách gần đây của chính quyền ông Trump, như công kích các đại học, cắt giảm ngân sách nghiên cứu liên bang và tăng phí visa H1B đang khiến Thung lũng Silicon ngày càng chịu ảnh hưởng của phong trào \"Nước Mỹ trên hết\". \"Với những kỹ sư công nghệ nước ngoài lo lắng không còn được chào đón tại Mỹ, khi thấy visa K của Trung Quốc, họ sẽ nghĩ ít nhất tôi có lựa chọn khác\", Chen nói. Trước đây, người nước ngoài tới Trung Quốc học tập hoặc kinh doanh phải đối mặt với quy trình nộp đơn xin thị thực rườm rà, với những yêu cầu về công ty bảo lãnh hoặc chứng nhận là \"nhân tài cấp cao\".",
+    "id": 3627,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2860,
+    "created_at": "2026-03-15T07:08:19.272294Z",
+    "updated_at": "2026-03-15T07:08:19.272294Z",
+    "lead_time": 10.374,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx122_claim364",
+    "claim": "Hoàng Văn Vinh, 18 tuổi, đã lên xe giường nằm hành trình Sơn La - Hà Nam vào lúc 17h ngày 21/2 tại quốc lộ 6, đoạn qua xã Mường Giôn, huyện Quỳnh Nhai.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_76_chunk_0",
+    "seed_context": "Trong hơn 30 hành khách trên xe giường nằm hành trình Sơn La - Hà Nam khuya 21/2, Hoàng Văn Vinh, 18 tuổi, nằm trong số không phải nhập viện. Vinh vẫy xe giường nằm 36 chỗ ở lề quốc lộ 6, đoạn qua xã Mường Giôn, huyện Quỳnh Nhai để trở lại Hà Nam làm việc sau kỳ nghỉ Tết kéo dài. 17h ngày 21/2, Vinh lên xe, lúc này đã có một số người đến trước nằm đắp chăn. Phụ xe hướng dẫn Vinh lên tầng hai, vị trí giữa thân xe bên thành phải. Xe giường nằm sau đó vòng vèo đón khách, tới khoảng 20h30 về lại TP Sơn La để xuôi hành trình 250 km về bến cuối Hà Nam. Khoảng 21h, xe dừng ở huyện Mai Sơn đón đoàn 13 người, lấp đầy giường trống. Sau khi ổn định chỗ, đèn xe tắt. \"Chỉ đoàn người là anh em, họ hàng về quê ăn cưới nên thi thoảng nói chuyện, còn lại đa số khách nằm ngủ\", Vinh kể. Trong đêm tối, xe giường nằm lao trên quốc lộ 6 - tuyến huyết mạch nối Thủ đô với Tây Bắc. Đoạn đường qua Sơn La chỉ rộng 8-10 m với hai làn xe, đi qua nhiều đồi núi. Về khuya, trời mưa càng nặng hạt, hai bên vắng nhà dân, trên đường chỉ vài xe khách, xe tải qua lại.",
+    "id": 3628,
+    "verifiability": [
+      {
+        "rating": 1
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 1
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 1
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 1
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 1
+      }
+    ],
+    "reason": "Claim này quá là không liên qua ",
+    "annotator": 1,
+    "annotation_id": 2861,
+    "created_at": "2026-03-15T07:08:37.867655Z",
+    "updated_at": "2026-03-15T07:08:37.867655Z",
+    "lead_time": 17.678,
+    "claim_score": 5
+  },
+  {
+    "claim_id": "ctx122_claim365",
+    "claim": "Xe giường nằm đã đón 13 người khách vào khoảng 20h30 ngày 21/2 tại huyện Mai Sơn, sau đó tiếp tục hành trình 250 km về bến cuối Hà Nam.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_76_chunk_0",
+    "seed_context": "Trong hơn 30 hành khách trên xe giường nằm hành trình Sơn La - Hà Nam khuya 21/2, Hoàng Văn Vinh, 18 tuổi, nằm trong số không phải nhập viện. Vinh vẫy xe giường nằm 36 chỗ ở lề quốc lộ 6, đoạn qua xã Mường Giôn, huyện Quỳnh Nhai để trở lại Hà Nam làm việc sau kỳ nghỉ Tết kéo dài. 17h ngày 21/2, Vinh lên xe, lúc này đã có một số người đến trước nằm đắp chăn. Phụ xe hướng dẫn Vinh lên tầng hai, vị trí giữa thân xe bên thành phải. Xe giường nằm sau đó vòng vèo đón khách, tới khoảng 20h30 về lại TP Sơn La để xuôi hành trình 250 km về bến cuối Hà Nam. Khoảng 21h, xe dừng ở huyện Mai Sơn đón đoàn 13 người, lấp đầy giường trống. Sau khi ổn định chỗ, đèn xe tắt. \"Chỉ đoàn người là anh em, họ hàng về quê ăn cưới nên thi thoảng nói chuyện, còn lại đa số khách nằm ngủ\", Vinh kể. Trong đêm tối, xe giường nằm lao trên quốc lộ 6 - tuyến huyết mạch nối Thủ đô với Tây Bắc. Đoạn đường qua Sơn La chỉ rộng 8-10 m với hai làn xe, đi qua nhiều đồi núi. Về khuya, trời mưa càng nặng hạt, hai bên vắng nhà dân, trên đường chỉ vài xe khách, xe tải qua lại.",
+    "id": 3629,
+    "verifiability": [
+      {
+        "rating": 1
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 1
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 1
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 1
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 1
+      }
+    ],
+    "reason": "Claim không có ý nghĩa gì cả",
+    "annotator": 1,
+    "annotation_id": 2862,
+    "created_at": "2026-03-15T07:08:52.832276Z",
+    "updated_at": "2026-03-15T07:08:52.832276Z",
+    "lead_time": 13.857,
+    "claim_score": 5
+  },
+  {
+    "claim_id": "ctx122_claim366",
+    "claim": "Vào khoảng 21h ngày 21/2, xe giường nằm đã dừng lại tại huyện Mai Sơn để đón một đoàn 13 người, sau đó họ đã ổn định chỗ và tắt đèn xe.",
+    "label": "NEI",
+    "seed_context_id": "vne_76_chunk_0",
+    "seed_context": "Trong hơn 30 hành khách trên xe giường nằm hành trình Sơn La - Hà Nam khuya 21/2, Hoàng Văn Vinh, 18 tuổi, nằm trong số không phải nhập viện. Vinh vẫy xe giường nằm 36 chỗ ở lề quốc lộ 6, đoạn qua xã Mường Giôn, huyện Quỳnh Nhai để trở lại Hà Nam làm việc sau kỳ nghỉ Tết kéo dài. 17h ngày 21/2, Vinh lên xe, lúc này đã có một số người đến trước nằm đắp chăn. Phụ xe hướng dẫn Vinh lên tầng hai, vị trí giữa thân xe bên thành phải. Xe giường nằm sau đó vòng vèo đón khách, tới khoảng 20h30 về lại TP Sơn La để xuôi hành trình 250 km về bến cuối Hà Nam. Khoảng 21h, xe dừng ở huyện Mai Sơn đón đoàn 13 người, lấp đầy giường trống. Sau khi ổn định chỗ, đèn xe tắt. \"Chỉ đoàn người là anh em, họ hàng về quê ăn cưới nên thi thoảng nói chuyện, còn lại đa số khách nằm ngủ\", Vinh kể. Trong đêm tối, xe giường nằm lao trên quốc lộ 6 - tuyến huyết mạch nối Thủ đô với Tây Bắc. Đoạn đường qua Sơn La chỉ rộng 8-10 m với hai làn xe, đi qua nhiều đồi núi. Về khuya, trời mưa càng nặng hạt, hai bên vắng nhà dân, trên đường chỉ vài xe khách, xe tải qua lại.",
+    "id": 3630,
+    "verifiability": [
+      {
+        "rating": 1
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 1
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 1
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 1
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 1
+      }
+    ],
+    "reason": "Claim này không liên quan",
+    "annotator": 1,
+    "annotation_id": 2863,
+    "created_at": "2026-03-15T07:09:06.259367Z",
+    "updated_at": "2026-03-15T07:09:06.259367Z",
+    "lead_time": 12.481,
+    "claim_score": 5
+  },
+  {
+    "claim_id": "ctx123_claim367",
+    "claim": "Liên danh tư vấn đã trình bày đề án kiểm soát khí thải phương tiện giao thông tại buổi làm việc với Sở Xây dựng TP HCM vào ngày 8/8.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_318_chunk_0",
+    "seed_context": "Thông tin được liên danh tư vấn đưa ra tại buổi làm việc với Sở Xây dựng TP HCM ngày 8/8, khi trình bày đề án kiểm soát khí thải phương tiện giao thông. Đây là một trong các nội dung thuộc chương trình chuyển đổi xanh đang trong giai đoạn xây dựng, lấy ý kiến các bên liên quan trước khi hoàn thiện, trình cấp thẩm quyền phê duyệt và triển khai. Theo đơn vị tư vấn, giao thông đường bộ là nguồn phát thải lớn nhất, đặc biệt ở khu trung tâm có mật độ phương tiện và mức ô nhiễm cao. Do đó, nơi này được đề xuất làm vùng thí điểm LEZ, hạn chế xe xăng không đạt tiêu chuẩn khí thải. Cần Giờ cũng nằm trong diện thí điểm nhằm bảo vệ khu dự trữ sinh quyển và phát triển mô hình du lịch bền vững. Phạm vi khu vực trung tâm được xác định gồm các cầu: Điện Biên Phủ - Bùi Hữu Nghĩa, Bông (Đinh Tiên Hoàng), Hoàng Hoa Thám, Trần Khắc Chân, Kiệu (Hai Bà Trưng), Công Lý (Nam Kỳ Khởi Nghĩa), Lê Văn Sỹ, Nguyễn Văn Cừ, Ông Lãnh (Nguyễn Thái Học), Calmette, Khánh Hội, Nguyễn Hữu Cảnh, Thị Nghè. Các tuyến đường trong vùng giới hạn gồm: Bà Huyện Thanh Quan, Nguyễn Phúc Nguyên, Cách Mạng Tháng Tám, Cao Thắng, Lê Hồng Phong, 3 Tháng 2, Lý Thái Tổ, Ngô Gia Tự, Hồ Thị Kỷ, Trần Phú, An Dương Vương, Nguyễn Trãi, Phan Văn Trị, Trần Hưng Đạo, Nguyễn Cảnh Chân, Trần Đình Xu.",
+    "id": 3631,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2864,
+    "created_at": "2026-03-15T07:09:17.318468Z",
+    "updated_at": "2026-03-15T07:09:17.318468Z",
+    "lead_time": 10.129,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx123_claim368",
+    "claim": "Khu vực trung tâm TP HCM được đề xuất làm vùng thí điểm LEZ, hạn chế xe diesel không đạt tiêu chuẩn khí thải vào ngày 8/8.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_318_chunk_0",
+    "seed_context": "Thông tin được liên danh tư vấn đưa ra tại buổi làm việc với Sở Xây dựng TP HCM ngày 8/8, khi trình bày đề án kiểm soát khí thải phương tiện giao thông. Đây là một trong các nội dung thuộc chương trình chuyển đổi xanh đang trong giai đoạn xây dựng, lấy ý kiến các bên liên quan trước khi hoàn thiện, trình cấp thẩm quyền phê duyệt và triển khai. Theo đơn vị tư vấn, giao thông đường bộ là nguồn phát thải lớn nhất, đặc biệt ở khu trung tâm có mật độ phương tiện và mức ô nhiễm cao. Do đó, nơi này được đề xuất làm vùng thí điểm LEZ, hạn chế xe xăng không đạt tiêu chuẩn khí thải. Cần Giờ cũng nằm trong diện thí điểm nhằm bảo vệ khu dự trữ sinh quyển và phát triển mô hình du lịch bền vững. Phạm vi khu vực trung tâm được xác định gồm các cầu: Điện Biên Phủ - Bùi Hữu Nghĩa, Bông (Đinh Tiên Hoàng), Hoàng Hoa Thám, Trần Khắc Chân, Kiệu (Hai Bà Trưng), Công Lý (Nam Kỳ Khởi Nghĩa), Lê Văn Sỹ, Nguyễn Văn Cừ, Ông Lãnh (Nguyễn Thái Học), Calmette, Khánh Hội, Nguyễn Hữu Cảnh, Thị Nghè. Các tuyến đường trong vùng giới hạn gồm: Bà Huyện Thanh Quan, Nguyễn Phúc Nguyên, Cách Mạng Tháng Tám, Cao Thắng, Lê Hồng Phong, 3 Tháng 2, Lý Thái Tổ, Ngô Gia Tự, Hồ Thị Kỷ, Trần Phú, An Dương Vương, Nguyễn Trãi, Phan Văn Trị, Trần Hưng Đạo, Nguyễn Cảnh Chân, Trần Đình Xu.",
+    "id": 3632,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2865,
+    "created_at": "2026-03-15T07:09:27.009096Z",
+    "updated_at": "2026-03-15T07:09:27.009096Z",
+    "lead_time": 6.859,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx123_claim369",
+    "claim": "Chương trình chuyển đổi xanh đang trong giai đoạn lấy ý kiến các chuyên gia môi trường trước khi hoàn thiện, trình cấp thẩm quyền phê duyệt và triển khai.",
+    "label": "NEI",
+    "seed_context_id": "vne_318_chunk_0",
+    "seed_context": "Thông tin được liên danh tư vấn đưa ra tại buổi làm việc với Sở Xây dựng TP HCM ngày 8/8, khi trình bày đề án kiểm soát khí thải phương tiện giao thông. Đây là một trong các nội dung thuộc chương trình chuyển đổi xanh đang trong giai đoạn xây dựng, lấy ý kiến các bên liên quan trước khi hoàn thiện, trình cấp thẩm quyền phê duyệt và triển khai. Theo đơn vị tư vấn, giao thông đường bộ là nguồn phát thải lớn nhất, đặc biệt ở khu trung tâm có mật độ phương tiện và mức ô nhiễm cao. Do đó, nơi này được đề xuất làm vùng thí điểm LEZ, hạn chế xe xăng không đạt tiêu chuẩn khí thải. Cần Giờ cũng nằm trong diện thí điểm nhằm bảo vệ khu dự trữ sinh quyển và phát triển mô hình du lịch bền vững. Phạm vi khu vực trung tâm được xác định gồm các cầu: Điện Biên Phủ - Bùi Hữu Nghĩa, Bông (Đinh Tiên Hoàng), Hoàng Hoa Thám, Trần Khắc Chân, Kiệu (Hai Bà Trưng), Công Lý (Nam Kỳ Khởi Nghĩa), Lê Văn Sỹ, Nguyễn Văn Cừ, Ông Lãnh (Nguyễn Thái Học), Calmette, Khánh Hội, Nguyễn Hữu Cảnh, Thị Nghè. Các tuyến đường trong vùng giới hạn gồm: Bà Huyện Thanh Quan, Nguyễn Phúc Nguyên, Cách Mạng Tháng Tám, Cao Thắng, Lê Hồng Phong, 3 Tháng 2, Lý Thái Tổ, Ngô Gia Tự, Hồ Thị Kỷ, Trần Phú, An Dương Vương, Nguyễn Trãi, Phan Văn Trị, Trần Hưng Đạo, Nguyễn Cảnh Chân, Trần Đình Xu.",
+    "id": 3633,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2866,
+    "created_at": "2026-03-15T07:10:01.889423Z",
+    "updated_at": "2026-03-15T07:10:01.889423Z",
+    "lead_time": 33.861,
+    "claim_score": 18
+  },
+  {
+    "claim_id": "ctx124_claim370",
+    "claim": "Vào chiều ngày 14/12 tại bãi biển Bondi, thành phố Sydney, Australia, một người đàn ông mặc áo trắng đã lao đến tước súng của nghi phạm xả súng.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_1006_chunk_0",
+    "seed_context": "Một người đàn ông dũng cảm lao đến và tước súng của nghi phạm, hành động có thể đã cứu sống nhiều người tại bãi biển Bondi. Video được nhân chứng ghi lại và công bố chiều 14/12 cho thấy một người đàn ông mặc áo trắng vừa khom người ẩn nấp vừa di chuyển giữa hai chiếc ôtô để tiếp cận nghi phạm xả súng trên bãi biển Bondi ở thành phố Sydney, Australia. Ngay khi nghi phạm vừa nổ súng, người đàn ông lập tức lao đến và ôm ghì cổ tay súng. Hai người giằng co, trước khi người đàn ông giằng được khẩu vũ khí từ tay nghi phạm và đẩy ngã tay súng. Ông lập tức chĩa súng về phía nghi phạm nhưng không bắn mà chỉ đe dọa. Tay súng di chuyển về phía đồng bọn, lúc đó đang đứng trên cầu và đấu súng với cảnh sát. Người đàn ông không truy đuổi, chỉ ra hiệu với cảnh sát rằng mình không phải mối đe dọa, rồi chủ động đặt khẩu súng tựa vào thân cây và tiếp tục ẩn nấp. Danh tính và tình trạng người đàn ông chưa được công bố. Truyền thông Australia ca ngợi hành động dũng cảm của người này, gọi ông là người hùng và khẳng định nỗ lực tước súng đã cứu được nhiều người, nhất là giữa lúc hai nghi phạm chưa bị cảnh sát khống chế.",
+    "id": 3634,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2867,
+    "created_at": "2026-03-15T07:10:12.046728Z",
+    "updated_at": "2026-03-15T07:10:12.046728Z",
+    "lead_time": 8.284,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx124_claim371",
+    "claim": "Vào chiều ngày 14/12 tại bãi biển Bondi, thành phố Sydney, Australia, người đàn ông mặc áo trắng đã bắn chết nghi phạm xả súng ngay sau khi tước vũ khí.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_1006_chunk_0",
+    "seed_context": "Một người đàn ông dũng cảm lao đến và tước súng của nghi phạm, hành động có thể đã cứu sống nhiều người tại bãi biển Bondi. Video được nhân chứng ghi lại và công bố chiều 14/12 cho thấy một người đàn ông mặc áo trắng vừa khom người ẩn nấp vừa di chuyển giữa hai chiếc ôtô để tiếp cận nghi phạm xả súng trên bãi biển Bondi ở thành phố Sydney, Australia. Ngay khi nghi phạm vừa nổ súng, người đàn ông lập tức lao đến và ôm ghì cổ tay súng. Hai người giằng co, trước khi người đàn ông giằng được khẩu vũ khí từ tay nghi phạm và đẩy ngã tay súng. Ông lập tức chĩa súng về phía nghi phạm nhưng không bắn mà chỉ đe dọa. Tay súng di chuyển về phía đồng bọn, lúc đó đang đứng trên cầu và đấu súng với cảnh sát. Người đàn ông không truy đuổi, chỉ ra hiệu với cảnh sát rằng mình không phải mối đe dọa, rồi chủ động đặt khẩu súng tựa vào thân cây và tiếp tục ẩn nấp. Danh tính và tình trạng người đàn ông chưa được công bố. Truyền thông Australia ca ngợi hành động dũng cảm của người này, gọi ông là người hùng và khẳng định nỗ lực tước súng đã cứu được nhiều người, nhất là giữa lúc hai nghi phạm chưa bị cảnh sát khống chế.",
+    "id": 3635,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2868,
+    "created_at": "2026-03-15T07:10:29.569431Z",
+    "updated_at": "2026-03-15T07:10:29.569431Z",
+    "lead_time": 16.246,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx124_claim372",
+    "claim": "Vào chiều ngày 14/12 tại bãi biển Bondi, thành phố Sydney, Australia, người đàn ông mặc áo trắng đã được cảnh sát công bố danh tính sau khi tước súng của nghi phạm.",
+    "label": "NEI",
+    "seed_context_id": "vne_1006_chunk_0",
+    "seed_context": "Một người đàn ông dũng cảm lao đến và tước súng của nghi phạm, hành động có thể đã cứu sống nhiều người tại bãi biển Bondi. Video được nhân chứng ghi lại và công bố chiều 14/12 cho thấy một người đàn ông mặc áo trắng vừa khom người ẩn nấp vừa di chuyển giữa hai chiếc ôtô để tiếp cận nghi phạm xả súng trên bãi biển Bondi ở thành phố Sydney, Australia. Ngay khi nghi phạm vừa nổ súng, người đàn ông lập tức lao đến và ôm ghì cổ tay súng. Hai người giằng co, trước khi người đàn ông giằng được khẩu vũ khí từ tay nghi phạm và đẩy ngã tay súng. Ông lập tức chĩa súng về phía nghi phạm nhưng không bắn mà chỉ đe dọa. Tay súng di chuyển về phía đồng bọn, lúc đó đang đứng trên cầu và đấu súng với cảnh sát. Người đàn ông không truy đuổi, chỉ ra hiệu với cảnh sát rằng mình không phải mối đe dọa, rồi chủ động đặt khẩu súng tựa vào thân cây và tiếp tục ẩn nấp. Danh tính và tình trạng người đàn ông chưa được công bố. Truyền thông Australia ca ngợi hành động dũng cảm của người này, gọi ông là người hùng và khẳng định nỗ lực tước súng đã cứu được nhiều người, nhất là giữa lúc hai nghi phạm chưa bị cảnh sát khống chế.",
+    "id": 3636,
+    "clarity": [
+      {
+        "rating": 2
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2869,
+    "created_at": "2026-03-15T07:10:51.274358Z",
+    "updated_at": "2026-03-15T07:10:51.274358Z",
+    "lead_time": 18.903,
+    "claim_score": 18
+  },
+  {
+    "claim_id": "ctx125_claim373",
+    "claim": "Từ ngày 1/8, tuyến đường biển Xuân Diệu dài hơn 3,5 km, 4 làn xe, được lắp nhiều biển báo giới hạn tốc độ 30 km/h.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_311_chunk_0",
+    "seed_context": "Từ ngày 1/8, tuyến đường biển Xuân Diệu dài hơn 3,5 km, 4 làn xe, chạy dọc biển, được cơ quan chức năng lắp nhiều biển báo giới hạn tốc độ 30 km/h. Khoảng 50 m tuyến đường có một biển giới hạn tốc độ. Đây là tuyến có lượng xe đông đúc, nhất là vào ban đêm và các dịp lễ hội. Ngoài đường Xuân Diệu, chính quyền dự kiến lắp biển hạn chế tốc độ ở một số đoạn, làn, theo khung giờ trên các tuyến như An Dương Vương, Nguyễn Tất Thành, Nguyễn Huệ, Lê Hồng Phong, Chương Dương, Nguyễn Thị Định... Lãnh đạo Sở Xây dựng Gia Lai cho hay theo quy định từ 15/2/2025, ôtô điện chở khách tham quan chỉ chạy trên các đường đặt biển báo tốc độ tối đa 30 km/h, không đón trả khách ở những tuyến đường ngoài quy định. Việc lắp biển hạn chế tốc độ trên các đường du lịch nhằm đảm bảo an toàn cho người dân và du khách khi các tuyến này lượng xe tăng cao, thường xuyên đông đúc. Ngoài ra, việc này nhằm quản lý các loại hình xe điện du lịch chở khách tham quan đi vào nề nếp, không hoạt động bát nháo, gây nguy hiểm cho khách.",
+    "id": 3637,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2870,
+    "created_at": "2026-03-15T07:10:59.161360Z",
+    "updated_at": "2026-03-15T07:10:59.161360Z",
+    "lead_time": 7.082,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx125_claim374",
+    "claim": "Từ ngày 1/8, tuyến đường biển Xuân Diệu dài hơn 3,5 km, 4 làn xe, được lắp nhiều biển báo giới hạn tốc độ 50 km/h.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_311_chunk_0",
+    "seed_context": "Từ ngày 1/8, tuyến đường biển Xuân Diệu dài hơn 3,5 km, 4 làn xe, chạy dọc biển, được cơ quan chức năng lắp nhiều biển báo giới hạn tốc độ 30 km/h. Khoảng 50 m tuyến đường có một biển giới hạn tốc độ. Đây là tuyến có lượng xe đông đúc, nhất là vào ban đêm và các dịp lễ hội. Ngoài đường Xuân Diệu, chính quyền dự kiến lắp biển hạn chế tốc độ ở một số đoạn, làn, theo khung giờ trên các tuyến như An Dương Vương, Nguyễn Tất Thành, Nguyễn Huệ, Lê Hồng Phong, Chương Dương, Nguyễn Thị Định... Lãnh đạo Sở Xây dựng Gia Lai cho hay theo quy định từ 15/2/2025, ôtô điện chở khách tham quan chỉ chạy trên các đường đặt biển báo tốc độ tối đa 30 km/h, không đón trả khách ở những tuyến đường ngoài quy định. Việc lắp biển hạn chế tốc độ trên các đường du lịch nhằm đảm bảo an toàn cho người dân và du khách khi các tuyến này lượng xe tăng cao, thường xuyên đông đúc. Ngoài ra, việc này nhằm quản lý các loại hình xe điện du lịch chở khách tham quan đi vào nề nếp, không hoạt động bát nháo, gây nguy hiểm cho khách.",
+    "id": 3638,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2871,
+    "created_at": "2026-03-15T07:11:06.544703Z",
+    "updated_at": "2026-03-15T07:11:06.544703Z",
+    "lead_time": 6.413,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx125_claim375",
+    "claim": "Lãnh đạo Sở Xây dựng Gia Lai cho hay theo quy định từ 15/2/2025, ôtô điện chở khách tham quan chỉ chạy trên các đường đặt biển báo tốc độ tối đa 30 km/h và được phép đón trả khách ở những tuyến đường ngoài quy định.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_311_chunk_0",
+    "seed_context": "Từ ngày 1/8, tuyến đường biển Xuân Diệu dài hơn 3,5 km, 4 làn xe, chạy dọc biển, được cơ quan chức năng lắp nhiều biển báo giới hạn tốc độ 30 km/h. Khoảng 50 m tuyến đường có một biển giới hạn tốc độ. Đây là tuyến có lượng xe đông đúc, nhất là vào ban đêm và các dịp lễ hội. Ngoài đường Xuân Diệu, chính quyền dự kiến lắp biển hạn chế tốc độ ở một số đoạn, làn, theo khung giờ trên các tuyến như An Dương Vương, Nguyễn Tất Thành, Nguyễn Huệ, Lê Hồng Phong, Chương Dương, Nguyễn Thị Định... Lãnh đạo Sở Xây dựng Gia Lai cho hay theo quy định từ 15/2/2025, ôtô điện chở khách tham quan chỉ chạy trên các đường đặt biển báo tốc độ tối đa 30 km/h, không đón trả khách ở những tuyến đường ngoài quy định. Việc lắp biển hạn chế tốc độ trên các đường du lịch nhằm đảm bảo an toàn cho người dân và du khách khi các tuyến này lượng xe tăng cao, thường xuyên đông đúc. Ngoài ra, việc này nhằm quản lý các loại hình xe điện du lịch chở khách tham quan đi vào nề nếp, không hoạt động bát nháo, gây nguy hiểm cho khách.",
+    "id": 3639,
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 3
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2872,
+    "created_at": "2026-03-15T07:11:35.460240Z",
+    "updated_at": "2026-03-15T07:11:35.460240Z",
+    "lead_time": 27.929,
+    "claim_score": 16
+  },
+  {
+    "claim_id": "ctx125_claim376",
+    "claim": "Chính quyền dự kiến lắp biển hạn chế tốc độ theo khung giờ trên các tuyến như An Dương Vương, Nguyễn Tất Thành, Nguyễn Huệ vào ban ngày.",
+    "label": "NEI",
+    "seed_context_id": "vne_311_chunk_0",
+    "seed_context": "Từ ngày 1/8, tuyến đường biển Xuân Diệu dài hơn 3,5 km, 4 làn xe, chạy dọc biển, được cơ quan chức năng lắp nhiều biển báo giới hạn tốc độ 30 km/h. Khoảng 50 m tuyến đường có một biển giới hạn tốc độ. Đây là tuyến có lượng xe đông đúc, nhất là vào ban đêm và các dịp lễ hội. Ngoài đường Xuân Diệu, chính quyền dự kiến lắp biển hạn chế tốc độ ở một số đoạn, làn, theo khung giờ trên các tuyến như An Dương Vương, Nguyễn Tất Thành, Nguyễn Huệ, Lê Hồng Phong, Chương Dương, Nguyễn Thị Định... Lãnh đạo Sở Xây dựng Gia Lai cho hay theo quy định từ 15/2/2025, ôtô điện chở khách tham quan chỉ chạy trên các đường đặt biển báo tốc độ tối đa 30 km/h, không đón trả khách ở những tuyến đường ngoài quy định. Việc lắp biển hạn chế tốc độ trên các đường du lịch nhằm đảm bảo an toàn cho người dân và du khách khi các tuyến này lượng xe tăng cao, thường xuyên đông đúc. Ngoài ra, việc này nhằm quản lý các loại hình xe điện du lịch chở khách tham quan đi vào nề nếp, không hoạt động bát nháo, gây nguy hiểm cho khách.",
+    "id": 3640,
+    "clarity": [
+      {
+        "rating": 3
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2873,
+    "created_at": "2026-03-15T07:11:54.190521Z",
+    "updated_at": "2026-03-15T07:11:54.190521Z",
+    "lead_time": 17.637,
+    "claim_score": 19
+  },
+  {
+    "claim_id": "ctx126_claim377",
+    "claim": "Vào năm 2016, Kattel đã trở lại làm việc tại Viện Nghiên cứu Cao nguyên Tây Tạng với sự hỗ trợ từ sáng kiến học bổng quốc tế của chủ tịch CAS.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_908_chunk_4",
+    "seed_context": "\"Hàng nghìn cá nhân tài năng đã được hưởng lợi với tư cách là sinh viên, nhà nghiên cứu và chuyên gia từ các cơ hội mà Trung Quốc cung cấp\", ông nói. Kattel, đến từ Nepal, đã lấy bằng tiến sĩ tại Viện Hàn lâm Khoa học Trung Quốc (CAS) với tư cách là sinh viên quốc tế đầu tiên của Viện Nghiên cứu Cao nguyên Tây Tạng. Sau khi tốt nghiệp CAS, ông là nghiên cứu sinh sau tiến sĩ tại Đức trước khi trở thành giảng viên đại học ở Pakistan. Năm 2016, với hỗ trợ từ sáng kiến học bổng quốc tế của chủ tịch CAS, ông trở lại làm việc tại Viện Nghiên cứu Cao nguyên Tây Tạng. Kattel ca ngợi visa K mới, nói rằng \"đây là bước đi quan trọng để thu hút thêm nhiều nhân tài quốc tế trẻ tuổi đến tích lũy kiến thức, cũng như đóng góp vào tiến bộ khoa học và công nghệ của Trung Quốc\". Tuy nhiên, Trung Quốc vẫn đối mặt với một số trở ngại trong nỗ lực thu hút nhân tài nước ngoài. Bên cạnh rào cản ngôn ngữ hay sự khác biệt văn hóa, việc trở thành thường trú nhân vĩnh viễn cũng sẽ rất khó khăn. Một số nhà phân tích Ấn Độ cho rằng quy trình cấp thị thực dễ dàng hơn là chưa đủ để thuyết phục các kỹ sư công nghệ nước này chọn Trung Quốc thay vì Mỹ.",
+    "id": 3641,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 2
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2874,
+    "created_at": "2026-03-15T07:12:06.307959Z",
+    "updated_at": "2026-03-15T07:12:14.289171Z",
+    "lead_time": 15.791999999999998,
+    "claim_score": 18
+  },
+  {
+    "claim_id": "ctx126_claim378",
+    "claim": "Kattel, một nhà nghiên cứu đến từ Nepal, đã lấy bằng tiến sĩ tại Viện Nghiên cứu Cao nguyên Tây Tạng và sau đó làm việc tại Đức trước khi trở thành giảng viên đại học ở Trung Quốc.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_908_chunk_4",
+    "seed_context": "\"Hàng nghìn cá nhân tài năng đã được hưởng lợi với tư cách là sinh viên, nhà nghiên cứu và chuyên gia từ các cơ hội mà Trung Quốc cung cấp\", ông nói. Kattel, đến từ Nepal, đã lấy bằng tiến sĩ tại Viện Hàn lâm Khoa học Trung Quốc (CAS) với tư cách là sinh viên quốc tế đầu tiên của Viện Nghiên cứu Cao nguyên Tây Tạng. Sau khi tốt nghiệp CAS, ông là nghiên cứu sinh sau tiến sĩ tại Đức trước khi trở thành giảng viên đại học ở Pakistan. Năm 2016, với hỗ trợ từ sáng kiến học bổng quốc tế của chủ tịch CAS, ông trở lại làm việc tại Viện Nghiên cứu Cao nguyên Tây Tạng. Kattel ca ngợi visa K mới, nói rằng \"đây là bước đi quan trọng để thu hút thêm nhiều nhân tài quốc tế trẻ tuổi đến tích lũy kiến thức, cũng như đóng góp vào tiến bộ khoa học và công nghệ của Trung Quốc\". Tuy nhiên, Trung Quốc vẫn đối mặt với một số trở ngại trong nỗ lực thu hút nhân tài nước ngoài. Bên cạnh rào cản ngôn ngữ hay sự khác biệt văn hóa, việc trở thành thường trú nhân vĩnh viễn cũng sẽ rất khó khăn. Một số nhà phân tích Ấn Độ cho rằng quy trình cấp thị thực dễ dàng hơn là chưa đủ để thuyết phục các kỹ sư công nghệ nước này chọn Trung Quốc thay vì Mỹ.",
+    "id": 3642,
+    "atomicity": [
+      {
+        "rating": 2
+      }
+    ],
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2875,
+    "created_at": "2026-03-15T07:12:28.262584Z",
+    "updated_at": "2026-03-15T07:12:28.262584Z",
+    "lead_time": 10.821,
+    "claim_score": 18
+  },
+  {
+    "claim_id": "ctx126_claim379",
+    "claim": "Visa K mới được kỳ vọng sẽ giải quyết hoàn toàn các rào cản ngôn ngữ và sự khác biệt văn hóa mà các chuyên gia quốc tế gặp phải khi làm việc tại Trung Quốc.",
+    "label": "NEI",
+    "seed_context_id": "vne_908_chunk_4",
+    "seed_context": "\"Hàng nghìn cá nhân tài năng đã được hưởng lợi với tư cách là sinh viên, nhà nghiên cứu và chuyên gia từ các cơ hội mà Trung Quốc cung cấp\", ông nói. Kattel, đến từ Nepal, đã lấy bằng tiến sĩ tại Viện Hàn lâm Khoa học Trung Quốc (CAS) với tư cách là sinh viên quốc tế đầu tiên của Viện Nghiên cứu Cao nguyên Tây Tạng. Sau khi tốt nghiệp CAS, ông là nghiên cứu sinh sau tiến sĩ tại Đức trước khi trở thành giảng viên đại học ở Pakistan. Năm 2016, với hỗ trợ từ sáng kiến học bổng quốc tế của chủ tịch CAS, ông trở lại làm việc tại Viện Nghiên cứu Cao nguyên Tây Tạng. Kattel ca ngợi visa K mới, nói rằng \"đây là bước đi quan trọng để thu hút thêm nhiều nhân tài quốc tế trẻ tuổi đến tích lũy kiến thức, cũng như đóng góp vào tiến bộ khoa học và công nghệ của Trung Quốc\". Tuy nhiên, Trung Quốc vẫn đối mặt với một số trở ngại trong nỗ lực thu hút nhân tài nước ngoài. Bên cạnh rào cản ngôn ngữ hay sự khác biệt văn hóa, việc trở thành thường trú nhân vĩnh viễn cũng sẽ rất khó khăn. Một số nhà phân tích Ấn Độ cho rằng quy trình cấp thị thực dễ dàng hơn là chưa đủ để thuyết phục các kỹ sư công nghệ nước này chọn Trung Quốc thay vì Mỹ.",
+    "id": 3643,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2876,
+    "created_at": "2026-03-15T07:12:37.074927Z",
+    "updated_at": "2026-03-15T07:12:37.074927Z",
+    "lead_time": 7.91,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx127_claim380",
+    "claim": "Động cơ WS-10C được sử dụng như một giải pháp tạm thời cho đến khi động cơ WS-15 hoàn thiện bởi các kỹ sư Trung Quốc.",
+    "label": "SUPPORTED",
+    "seed_context_id": "vne_893_chunk_2",
+    "seed_context": "Cả ba dường như đều sử dụng động cơ WS-10C, vốn là giải pháp tình thế trong khi chờ các kỹ sư nước này hoàn thiện động cơ WS-15 mạnh hơn. Cuối năm 2024, các hình ảnh trên mạng xã hội cho thấy nguyên mẫu J-20A trang bị động cơ WS-15, nhưng chưa rõ tiến độ triển khai.",
+    "id": 3644,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2877,
+    "created_at": "2026-03-15T07:12:55.575706Z",
+    "updated_at": "2026-03-15T07:12:55.575706Z",
+    "lead_time": 17.492,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx127_claim381",
+    "claim": "Vào đầu năm 2024, nguyên mẫu J-20A trang bị động cơ WS-15 đã được triển khai rộng rãi.",
+    "label": "REFUTED",
+    "seed_context_id": "vne_893_chunk_2",
+    "seed_context": "Cả ba dường như đều sử dụng động cơ WS-10C, vốn là giải pháp tình thế trong khi chờ các kỹ sư nước này hoàn thiện động cơ WS-15 mạnh hơn. Cuối năm 2024, các hình ảnh trên mạng xã hội cho thấy nguyên mẫu J-20A trang bị động cơ WS-15, nhưng chưa rõ tiến độ triển khai.",
+    "id": 3645,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2878,
+    "created_at": "2026-03-15T07:13:04.341543Z",
+    "updated_at": "2026-03-15T07:13:04.341543Z",
+    "lead_time": 7.699,
+    "claim_score": 20
+  },
+  {
+    "claim_id": "ctx127_claim382",
+    "claim": "Nguyên mẫu J-20A trang bị động cơ WS-15 đã thực hiện chuyến bay thử nghiệm đầu tiên vào cuối năm 2024 tại Bắc Kinh.",
+    "label": "NEI",
+    "seed_context_id": "vne_893_chunk_2",
+    "seed_context": "Cả ba dường như đều sử dụng động cơ WS-10C, vốn là giải pháp tình thế trong khi chờ các kỹ sư nước này hoàn thiện động cơ WS-15 mạnh hơn. Cuối năm 2024, các hình ảnh trên mạng xã hội cho thấy nguyên mẫu J-20A trang bị động cơ WS-15, nhưng chưa rõ tiến độ triển khai.",
+    "id": 3646,
+    "verifiability": [
+      {
+        "rating": 4
+      }
+    ],
+    "atomicity": [
+      {
+        "rating": 4
+      }
+    ],
+    "specificity": [
+      {
+        "rating": 4
+      }
+    ],
+    "clarity": [
+      {
+        "rating": 4
+      }
+    ],
+    "faithfulness": [
+      {
+        "rating": 4
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2879,
+    "created_at": "2026-03-15T07:13:09.741118Z",
+    "updated_at": "2026-03-15T07:13:09.741118Z",
+    "lead_time": 4.291,
+    "claim_score": 20
+  }
+]

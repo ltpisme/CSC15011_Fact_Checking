@@ -1,0 +1,3666 @@
+[
+{
+  "claim_id": "ctx32_claim96",
+  "claim": "Vào tháng 10\/2023, ông Trump đã ký một thỏa thuận thương mại mới với Trung Quốc, loại bỏ hoàn toàn thuế quan đối với tất cả các mặt hàng nhập khẩu.",
+  "label": "NEI",
+  "seed_context_id": "vne_610_chunk_3",
+  "seed_context": "Khảo sát của CNN cho thấy người Mỹ phản đối áp thuế 25% đối với hàng nhập khẩu nhôm thép, trong khi hơn 60% người được Washington Post hỏi phản đối mức thuế 25% với hàng hóa từ Mexico, Canada. Khoảng 70% người Mỹ cho rằng chính sách thuế quan thường làm tăng giá hàng hóa ở nước này. Nỗ lực tinh giản chính phủ mà ông Trump cùng đồng minh Elon Musk đang thúc đẩy cũng không được ủng hộ. 58% người được hỏi trong cuộc thăm dò của Washington Post phản đối sa thải lượng lớn nhân viên chính phủ, cao hơn 19 điểm phần trăm so với mức ủng hộ. Ngoài trục xuất hàng loạt người di cư, chính sách áp thuế 10% với hàng hóa Trung Quốc là lĩnh vực ông Trump được ủng hộ nhiều hơn phản đối, với tỷ lệ lần lượt là 50% và 45%. Tuy nhiên, vẫn có những dấu hiệu đáng cảnh báo ngay cả với vấn đề trục xuất người nhập cư trái phép vốn được ủng hộ. 57% người được hỏi phản đối mạnh mẽ trục xuất người nhập cư không giấy tờ không trong diện phạm tội, 70% không đồng ý trục xuất người đến Mỹ từ khi còn nhỏ và 66% phản đối trục xuất những người có con là công dân Mỹ.",
+  "id": 10573,
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "human_label": "NEI",
+  "annotator": 2,
+  "annotation_id": 761,
+  "created_at": "2026-03-16T16:13:06.252875Z",
+  "updated_at": "2026-03-16T16:13:06.252903Z",
+  "lead_time": 2781.702
+},
+{
+  "claim_id": "ctx33_claim97",
+  "claim": "Charlie Kirk, người sáng lập 31 tuổi của tổ chức bảo thủ Turning Point USA, đã qua đời vì một phát đạn bắn vào cổ trong một vụ nổ súng xảy ra vào ngày 10\/9.",
+  "label": "SUPPORTED",
+  "seed_context_id": "vne_882_chunk_0",
+  "seed_context": "Mỹ đang chứng kiến một kiểu \"bình thường mới\" đáng sợ, khi các vụ bạo lực, ám sát gia tăng và dường như trở thành một phần trong đời sống chính trị ở nước này. Trong buổi diễn thuyết về \"Sự trở lại của nước Mỹ\" ngày 10\/9, Charlie Kirk, người sáng lập 31 tuổi của tổ chức bảo thủ Turning Point USA, nhận được câu hỏi từ một khán giả về các vụ xả súng hàng loạt. Ngay sau đó, chính Kirk trở thành nạn nhân của một vụ nổ súng. Nhà hoạt động chính trị nổi tiếng này qua đời vì một phát đạn bắn vào cổ. Cảnh sát chưa bắt được nghi phạm, cũng như chưa xác định được động cơ vụ ám sát, nhưng giới quan sát cho hay sự việc có tất cả dấu hiệu của một vụ giết người với động cơ chính trị. \"Các xã hội dân chủ sẽ luôn có những bất đồng chính trị, nhưng chúng ta không được phép để Mỹ trở thành một đất nước giải quyết bất đồng bằng bạo lực\", cựu nghị sĩ Dân chủ Gabby Giffords nói. Chính Giffords cũng từng bị bắn vào đầu trong vụ ám sát hụt năm 2011. Trong 14 năm kể từ đó, các vụ tấn công và đe dọa nhằm vào chính trị gia Mỹ đã tăng đột biến.",
+  "id": 10574,
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "human_label": "SUPPORTED",
+  "annotator": 2,
+  "annotation_id": 762,
+  "created_at": "2026-03-16T16:21:33.578592Z",
+  "updated_at": "2026-03-16T16:21:33.578618Z",
+  "lead_time": 506.859
+},
+{
+  "claim_id": "ctx33_claim98",
+  "claim": "Cựu nghị sĩ Dân chủ Gabby Giffords đã bị bắn vào chân trong một vụ ám sát hụt vào năm 2011.",
+  "label": "REFUTED",
+  "seed_context_id": "vne_882_chunk_0",
+  "seed_context": "Mỹ đang chứng kiến một kiểu \"bình thường mới\" đáng sợ, khi các vụ bạo lực, ám sát gia tăng và dường như trở thành một phần trong đời sống chính trị ở nước này. Trong buổi diễn thuyết về \"Sự trở lại của nước Mỹ\" ngày 10\/9, Charlie Kirk, người sáng lập 31 tuổi của tổ chức bảo thủ Turning Point USA, nhận được câu hỏi từ một khán giả về các vụ xả súng hàng loạt. Ngay sau đó, chính Kirk trở thành nạn nhân của một vụ nổ súng. Nhà hoạt động chính trị nổi tiếng này qua đời vì một phát đạn bắn vào cổ. Cảnh sát chưa bắt được nghi phạm, cũng như chưa xác định được động cơ vụ ám sát, nhưng giới quan sát cho hay sự việc có tất cả dấu hiệu của một vụ giết người với động cơ chính trị. \"Các xã hội dân chủ sẽ luôn có những bất đồng chính trị, nhưng chúng ta không được phép để Mỹ trở thành một đất nước giải quyết bất đồng bằng bạo lực\", cựu nghị sĩ Dân chủ Gabby Giffords nói. Chính Giffords cũng từng bị bắn vào đầu trong vụ ám sát hụt năm 2011. Trong 14 năm kể từ đó, các vụ tấn công và đe dọa nhằm vào chính trị gia Mỹ đã tăng đột biến.",
+  "id": 10575,
+  "human_label": "REFUTED",
+  "verifiability_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 763,
+  "created_at": "2026-03-16T16:38:54.028139Z",
+  "updated_at": "2026-03-17T06:06:46.475492Z",
+  "lead_time": 1050.933
+},
+{
+  "claim_id": "ctx33_claim99",
+  "claim": "Cảnh sát đã bắt được nghi phạm và xác định được động cơ chính trị ngay sau vụ ám sát Charlie Kirk vào ngày 10\/9.",
+  "label": "NEI",
+  "seed_context_id": "vne_882_chunk_0",
+  "seed_context": "Mỹ đang chứng kiến một kiểu \"bình thường mới\" đáng sợ, khi các vụ bạo lực, ám sát gia tăng và dường như trở thành một phần trong đời sống chính trị ở nước này. Trong buổi diễn thuyết về \"Sự trở lại của nước Mỹ\" ngày 10\/9, Charlie Kirk, người sáng lập 31 tuổi của tổ chức bảo thủ Turning Point USA, nhận được câu hỏi từ một khán giả về các vụ xả súng hàng loạt. Ngay sau đó, chính Kirk trở thành nạn nhân của một vụ nổ súng. Nhà hoạt động chính trị nổi tiếng này qua đời vì một phát đạn bắn vào cổ. Cảnh sát chưa bắt được nghi phạm, cũng như chưa xác định được động cơ vụ ám sát, nhưng giới quan sát cho hay sự việc có tất cả dấu hiệu của một vụ giết người với động cơ chính trị. \"Các xã hội dân chủ sẽ luôn có những bất đồng chính trị, nhưng chúng ta không được phép để Mỹ trở thành một đất nước giải quyết bất đồng bằng bạo lực\", cựu nghị sĩ Dân chủ Gabby Giffords nói. Chính Giffords cũng từng bị bắn vào đầu trong vụ ám sát hụt năm 2011. Trong 14 năm kể từ đó, các vụ tấn công và đe dọa nhằm vào chính trị gia Mỹ đã tăng đột biến.",
+  "id": 10576,
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 1
+    }
+  ],
+  "human_label": "REFUTED",
+  "annotator": 2,
+  "annotation_id": 764,
+  "created_at": "2026-03-16T16:48:44.287237Z",
+  "updated_at": "2026-03-16T16:48:57.398233Z",
+  "lead_time": 598.2909999999999
+},
+{
+  "claim_id": "ctx34_claim100",
+  "claim": "Năm 2016, Ấn Độ đã ký thỏa thuận trị giá 8,7 tỷ USD với Pháp để mua 36 chiến đấu cơ Rafale, bao gồm chi phí phụ tùng, bảo dưỡng, vũ khí trang bị và huấn luyện.",
+  "label": "SUPPORTED",
+  "seed_context_id": "vne_706_chunk_3",
+  "seed_context": "Ấn Độ năm 2016 ký thỏa thuận trị giá 8,7 tỷ USD với Pháp để mua 36 chiến đấu cơ Rafale, tương đương khoảng 240 triệu USD mỗi chiếc. Tuy nhiên, con số này bao gồm cả chi phí phụ tùng, bảo dưỡng, vũ khí trang bị và huấn luyện cho quân nhân Ấn Độ.",
+  "id": 10577,
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "human_label": "SUPPORTED",
+  "annotator": 2,
+  "annotation_id": 765,
+  "created_at": "2026-03-16T16:54:20.526334Z",
+  "updated_at": "2026-03-16T16:54:20.526361Z",
+  "lead_time": 319.219
+},
+{
+  "claim_id": "ctx34_claim101",
+  "claim": "Năm 2016, Ấn Độ đã ký thỏa thuận trị giá 8,7 tỷ USD với Pháp để mua 36 chiến đấu cơ Rafale, với mỗi chiếc có giá 240 triệu USD và không bao gồm chi phí phụ tùng, bảo dưỡng, vũ khí trang bị và huấn luyện.",
+  "label": "REFUTED",
+  "seed_context_id": "vne_706_chunk_3",
+  "seed_context": "Ấn Độ năm 2016 ký thỏa thuận trị giá 8,7 tỷ USD với Pháp để mua 36 chiến đấu cơ Rafale, tương đương khoảng 240 triệu USD mỗi chiếc. Tuy nhiên, con số này bao gồm cả chi phí phụ tùng, bảo dưỡng, vũ khí trang bị và huấn luyện cho quân nhân Ấn Độ.",
+  "id": 10578,
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "human_label": "REFUTED",
+  "annotator": 2,
+  "annotation_id": 766,
+  "created_at": "2026-03-16T16:59:45.798000Z",
+  "updated_at": "2026-03-16T17:00:42.051689Z",
+  "lead_time": 364.04299999999995
+},
+{
+  "claim_id": "ctx34_claim102",
+  "claim": "Việc Ấn Độ mua 36 chiến đấu cơ Rafale từ Pháp vào năm 2016 đã giúp tăng cường đáng kể khả năng phòng không của nước này.",
+  "label": "NEI",
+  "seed_context_id": "vne_706_chunk_3",
+  "seed_context": "Ấn Độ năm 2016 ký thỏa thuận trị giá 8,7 tỷ USD với Pháp để mua 36 chiến đấu cơ Rafale, tương đương khoảng 240 triệu USD mỗi chiếc. Tuy nhiên, con số này bao gồm cả chi phí phụ tùng, bảo dưỡng, vũ khí trang bị và huấn luyện cho quân nhân Ấn Độ.",
+  "id": 10579,
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "human_label": "NEI",
+  "annotator": 2,
+  "annotation_id": 767,
+  "created_at": "2026-03-16T17:02:03.801617Z",
+  "updated_at": "2026-03-16T17:02:03.801644Z",
+  "lead_time": 77.331
+},
+{
+  "claim_id": "ctx35_claim103",
+  "claim": "Lệ phí đổi giấy phép lái xe là 115.000 đồng và người dân được nhận kết quả sau 5 ngày kể từ ngày được tiếp nhận hồ sơ tại Cục Cảnh sát giao thông (Bộ Công an).",
+  "label": "SUPPORTED",
+  "seed_context_id": "vne_85_chunk_1",
+  "seed_context": "Bước 10, kiểm tra lại thông tin liên hệ gồm số điện thoại và địa chỉ thư điện tử. Bước 11, cam kết thông tin và nhấn tiếp tục. Bước 12, người dân lựa chọn hình thức nhận kết quả trực tiếp hoặc tại nhà. Nếu chọn tại nhà, cần nhập thêm phần địa chỉ. Bước 13, nhấn nộp hồ sơ và có thể xem lại thông tin. Sau khi nhấn nộp hồ sơ, người dân đã đăng ký thành công dịch vụ đổi giấy phép trên cổng dịch vụ công mức độ 4, chờ cơ quan thẩm quyền phê duyệt và hướng dẫn bổ sung hồ sơ (nếu sai sót hoặc thiếu thông tin). Lệ phí đổi là 115.000 đồng. Người dân được nhận kết quả sau 5 ngày kể từ ngày được tiếp nhận hồ sơ. Thông tin giấy phép lái xe được cập nhật trên VNeID (đối với người dân sử dụng định danh mức 2) và trang tra cứu thông tin của Cục Cảnh sát giao thông là gplx.csgt.bocongan.gov.vn sau ba ngày kể từ ngày được tiếp nhận hồ sơ. Cục Cảnh sát giao thông (Bộ Công an) cho biết công an không làm việc với người dân qua điện thoại, không thực hiện việc cấp đổi bằng lái xe bằng hình thức gọi điện. Vì thế người dân tuyệt đối không cung cấp thông tin cá nhân cho bất kỳ ai không quen biết, kể cả người tự xưng là cán bộ công an.",
+  "id": 10580,
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "human_label": "SUPPORTED",
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 768,
+  "created_at": "2026-03-16T17:34:48.822449Z",
+  "updated_at": "2026-03-16T17:34:48.822475Z",
+  "lead_time": 1964.626
+},
+{
+  "claim_id": "ctx35_claim104",
+  "claim": "Cục Cảnh sát giao thông (Bộ Công an) thực hiện việc cấp đổi bằng lái xe bằng hình thức gọi điện cho người dân và làm việc qua điện thoại.",
+  "label": "REFUTED",
+  "seed_context_id": "vne_85_chunk_1",
+  "seed_context": "Bước 10, kiểm tra lại thông tin liên hệ gồm số điện thoại và địa chỉ thư điện tử. Bước 11, cam kết thông tin và nhấn tiếp tục. Bước 12, người dân lựa chọn hình thức nhận kết quả trực tiếp hoặc tại nhà. Nếu chọn tại nhà, cần nhập thêm phần địa chỉ. Bước 13, nhấn nộp hồ sơ và có thể xem lại thông tin. Sau khi nhấn nộp hồ sơ, người dân đã đăng ký thành công dịch vụ đổi giấy phép trên cổng dịch vụ công mức độ 4, chờ cơ quan thẩm quyền phê duyệt và hướng dẫn bổ sung hồ sơ (nếu sai sót hoặc thiếu thông tin). Lệ phí đổi là 115.000 đồng. Người dân được nhận kết quả sau 5 ngày kể từ ngày được tiếp nhận hồ sơ. Thông tin giấy phép lái xe được cập nhật trên VNeID (đối với người dân sử dụng định danh mức 2) và trang tra cứu thông tin của Cục Cảnh sát giao thông là gplx.csgt.bocongan.gov.vn sau ba ngày kể từ ngày được tiếp nhận hồ sơ. Cục Cảnh sát giao thông (Bộ Công an) cho biết công an không làm việc với người dân qua điện thoại, không thực hiện việc cấp đổi bằng lái xe bằng hình thức gọi điện. Vì thế người dân tuyệt đối không cung cấp thông tin cá nhân cho bất kỳ ai không quen biết, kể cả người tự xưng là cán bộ công an.",
+  "id": 10581,
+  "human_label": "REFUTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 1
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 769,
+  "created_at": "2026-03-16T17:36:04.146654Z",
+  "updated_at": "2026-03-16T17:36:04.146681Z",
+  "lead_time": 74.938
+},
+{
+  "claim_id": "ctx35_claim105",
+  "claim": "Thông tin giấy phép lái xe được cập nhật trên VNeID sau 7 ngày kể từ ngày được tiếp nhận hồ sơ tại Cục Cảnh sát giao thông.",
+  "label": "NEI",
+  "seed_context_id": "vne_85_chunk_1",
+  "seed_context": "Bước 10, kiểm tra lại thông tin liên hệ gồm số điện thoại và địa chỉ thư điện tử. Bước 11, cam kết thông tin và nhấn tiếp tục. Bước 12, người dân lựa chọn hình thức nhận kết quả trực tiếp hoặc tại nhà. Nếu chọn tại nhà, cần nhập thêm phần địa chỉ. Bước 13, nhấn nộp hồ sơ và có thể xem lại thông tin. Sau khi nhấn nộp hồ sơ, người dân đã đăng ký thành công dịch vụ đổi giấy phép trên cổng dịch vụ công mức độ 4, chờ cơ quan thẩm quyền phê duyệt và hướng dẫn bổ sung hồ sơ (nếu sai sót hoặc thiếu thông tin). Lệ phí đổi là 115.000 đồng. Người dân được nhận kết quả sau 5 ngày kể từ ngày được tiếp nhận hồ sơ. Thông tin giấy phép lái xe được cập nhật trên VNeID (đối với người dân sử dụng định danh mức 2) và trang tra cứu thông tin của Cục Cảnh sát giao thông là gplx.csgt.bocongan.gov.vn sau ba ngày kể từ ngày được tiếp nhận hồ sơ. Cục Cảnh sát giao thông (Bộ Công an) cho biết công an không làm việc với người dân qua điện thoại, không thực hiện việc cấp đổi bằng lái xe bằng hình thức gọi điện. Vì thế người dân tuyệt đối không cung cấp thông tin cá nhân cho bất kỳ ai không quen biết, kể cả người tự xưng là cán bộ công an.",
+  "id": 10582,
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 1
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "human_label": "NEI",
+  "annotator": 2,
+  "annotation_id": 770,
+  "created_at": "2026-03-16T17:38:07.911004Z",
+  "updated_at": "2026-03-16T17:38:07.911031Z",
+  "lead_time": 123.402
+},
+{
+  "claim_id": "ctx36_claim106",
+  "claim": "Bà Svetlana Martynova, một cư dân Moskva đã nghỉ hưu, cho rằng việc hạ ngưỡng thu thuế VAT sẽ khiến một số doanh nghiệp vừa và nhỏ đóng cửa, dẫn đến ngân sách thu được ít hơn.",
+  "label": "SUPPORTED",
+  "seed_context_id": "vne_975_chunk_3",
+  "seed_context": "Con số này dường như không nhiều hơn so với những nước khác, tuy nhiên Nga gặp khó ở chỗ không thể vay trên thị trường trái phiếu quốc tế và phải dựa vào các ngân hàng trong nước để nhận tín dụng. Một số người dân Nga bày tỏ thất vọng trước chính sách tăng thuế, bởi cho rằng giá thực phẩm sẽ cao hơn và gây ảnh hưởng đến đời sống thường nhật, đặc biệt tại các vùng nghèo hơn và người có thu nhập thấp. Bà Svetlana Martynova, cư dân Moskva đã nghỉ hưu, cho rằng chính sách hạ ngưỡng thu thuế VAT sẽ khiến một số doanh nghiệp vừa và nhỏ đóng cửa, khiến ngân sách thu được ít hơn, trái ngược với kỳ vọng. Tuy nhiên, Bộ trưởng Tài chính Anton Siluanov khẳng định tăng nguồn thu ngân sách được ưu tiên hơn tăng vay nợ, bởi vay nợ quá mức sẽ đẩy lạm phát tăng nhanh, buộc Ngân hàng Trung ương tăng lãi suất, cuối cùng ảnh hưởng tới đầu tư và tăng trưởng. Việc tăng VAT có thể thúc đẩy lạm phát thời gian đầu, khi các doanh nghiệp và hộ kinh doanh điều chỉnh giá nhưng về lâu dài, chính sách này sẽ làm giảm áp lực giá bằng cách làm giảm nhu cầu mua hàng, giúp Ngân hàng Trung ương kiểm soát lạm phát hiệu quả hơn.",
+  "id": 10583,
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "human_label": "SUPPORTED",
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 771,
+  "created_at": "2026-03-16T17:40:28.405629Z",
+  "updated_at": "2026-03-16T17:40:28.405655Z",
+  "lead_time": 140.12
+},
+{
+  "claim_id": "ctx36_claim107",
+  "claim": "Bộ trưởng Tài chính Anton Siluanov khẳng định việc vay nợ quá mức sẽ thúc đẩy tăng trưởng và đầu tư tại Nga.",
+  "label": "REFUTED",
+  "seed_context_id": "vne_975_chunk_3",
+  "seed_context": "Con số này dường như không nhiều hơn so với những nước khác, tuy nhiên Nga gặp khó ở chỗ không thể vay trên thị trường trái phiếu quốc tế và phải dựa vào các ngân hàng trong nước để nhận tín dụng. Một số người dân Nga bày tỏ thất vọng trước chính sách tăng thuế, bởi cho rằng giá thực phẩm sẽ cao hơn và gây ảnh hưởng đến đời sống thường nhật, đặc biệt tại các vùng nghèo hơn và người có thu nhập thấp. Bà Svetlana Martynova, cư dân Moskva đã nghỉ hưu, cho rằng chính sách hạ ngưỡng thu thuế VAT sẽ khiến một số doanh nghiệp vừa và nhỏ đóng cửa, khiến ngân sách thu được ít hơn, trái ngược với kỳ vọng. Tuy nhiên, Bộ trưởng Tài chính Anton Siluanov khẳng định tăng nguồn thu ngân sách được ưu tiên hơn tăng vay nợ, bởi vay nợ quá mức sẽ đẩy lạm phát tăng nhanh, buộc Ngân hàng Trung ương tăng lãi suất, cuối cùng ảnh hưởng tới đầu tư và tăng trưởng. Việc tăng VAT có thể thúc đẩy lạm phát thời gian đầu, khi các doanh nghiệp và hộ kinh doanh điều chỉnh giá nhưng về lâu dài, chính sách này sẽ làm giảm áp lực giá bằng cách làm giảm nhu cầu mua hàng, giúp Ngân hàng Trung ương kiểm soát lạm phát hiệu quả hơn.",
+  "id": 10584,
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 1
+    }
+  ],
+  "human_label": "REFUTED",
+  "annotator": 2,
+  "annotation_id": 772,
+  "created_at": "2026-03-16T17:43:06.363865Z",
+  "updated_at": "2026-03-16T17:44:08.033938Z",
+  "lead_time": 167.86700000000002
+},
+{
+  "claim_id": "ctx36_claim108",
+  "claim": "Chính sách tăng thuế tại Nga vào tháng 1 năm 2023 đã khiến giá thực phẩm tăng cao, ảnh hưởng nghiêm trọng đến đời sống của người dân tại các vùng nông thôn.",
+  "label": "NEI",
+  "seed_context_id": "vne_975_chunk_3",
+  "seed_context": "Con số này dường như không nhiều hơn so với những nước khác, tuy nhiên Nga gặp khó ở chỗ không thể vay trên thị trường trái phiếu quốc tế và phải dựa vào các ngân hàng trong nước để nhận tín dụng. Một số người dân Nga bày tỏ thất vọng trước chính sách tăng thuế, bởi cho rằng giá thực phẩm sẽ cao hơn và gây ảnh hưởng đến đời sống thường nhật, đặc biệt tại các vùng nghèo hơn và người có thu nhập thấp. Bà Svetlana Martynova, cư dân Moskva đã nghỉ hưu, cho rằng chính sách hạ ngưỡng thu thuế VAT sẽ khiến một số doanh nghiệp vừa và nhỏ đóng cửa, khiến ngân sách thu được ít hơn, trái ngược với kỳ vọng. Tuy nhiên, Bộ trưởng Tài chính Anton Siluanov khẳng định tăng nguồn thu ngân sách được ưu tiên hơn tăng vay nợ, bởi vay nợ quá mức sẽ đẩy lạm phát tăng nhanh, buộc Ngân hàng Trung ương tăng lãi suất, cuối cùng ảnh hưởng tới đầu tư và tăng trưởng. Việc tăng VAT có thể thúc đẩy lạm phát thời gian đầu, khi các doanh nghiệp và hộ kinh doanh điều chỉnh giá nhưng về lâu dài, chính sách này sẽ làm giảm áp lực giá bằng cách làm giảm nhu cầu mua hàng, giúp Ngân hàng Trung ương kiểm soát lạm phát hiệu quả hơn.",
+  "id": 10585,
+  "human_label": "NEI",
+  "verifiability_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 773,
+  "created_at": "2026-03-17T05:13:57.124026Z",
+  "updated_at": "2026-03-17T05:13:57.124040Z",
+  "lead_time": 667.053
+},
+{
+  "claim_id": "ctx37_claim109",
+  "claim": "Tỷ phú Bill Gates đã bày tỏ sự hối tiếc sâu sắc về quyết định ly hôn với Melinda French Gates vào năm 2021, coi đây là sai lầm và thất bại lớn nhất trong cuộc đời.",
+  "label": "SUPPORTED",
+  "seed_context_id": "vne_584_chunk_0",
+  "seed_context": "Tỷ phú Bill Gates cho biết ly hôn với Melinda French Gates là sai lầm khiến ông hối tiếc nhất và cũng là \"thất bại lớn nhất cuộc đời\". Trong cuộc phỏng vấn với tờ hôm 25\/1, tỷ phú Bill Gates, 69 tuổi, nói về vụ ly hôn với bà Melinda French Gates hồi năm 2021, kết thúc 27 năm chung sống. Gates nói rằng một trong những mục tiêu lớn nhất đời ông là tái hiện cuộc hôn nhân 45 năm của bố mẹ mình. \"Tôi động viên Melinda nên điềm tĩnh hơn mẹ tôi một chút, nhưng cả hai chúng tôi đều khá quyết liệt. Tôi dành nhiều thời gian cho các con hơn so với bố tôi, nhưng cũng chỉ bằng 10% so với vợ. Melinda làm phần lớn việc cho các con. Chúng tôi đã có khoảng thời gian tuyệt vời\", ông nói. Nhà sáng lập Microsoft cho rằng được dành toàn bộ quãng đời trưởng thành để ở bên cạnh một người, sinh con đẻ cái, trải qua những kỷ niệm đẹp và đồng hành trong các dự án chung là điều tuyệt vời. \"Khi gặp Melinda, tôi đã khá thành công nhưng chưa có điều gì quá lớn lao. Những thành công sau đó đến trong thời gian chúng tôi bên nhau.",
+  "id": 10586,
+  "human_label": "SUPPORTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 774,
+  "created_at": "2026-03-17T05:15:52.841662Z",
+  "updated_at": "2026-03-17T05:15:52.841675Z",
+  "lead_time": 115.489
+},
+{
+  "claim_id": "ctx37_claim110",
+  "claim": "Trong cuộc phỏng vấn với tờ Today vào ngày 25\/1, tỷ phú Bill Gates, 69 tuổi, đã tuyên bố rằng ông không hối tiếc về vụ ly hôn với Melinda French Gates, người vợ đã cùng ông xây dựng cuộc hôn nhân kéo dài 27 năm.",
+  "label": "REFUTED",
+  "seed_context_id": "vne_584_chunk_0",
+  "seed_context": "Tỷ phú Bill Gates cho biết ly hôn với Melinda French Gates là sai lầm khiến ông hối tiếc nhất và cũng là \"thất bại lớn nhất cuộc đời\". Trong cuộc phỏng vấn với tờ hôm 25\/1, tỷ phú Bill Gates, 69 tuổi, nói về vụ ly hôn với bà Melinda French Gates hồi năm 2021, kết thúc 27 năm chung sống. Gates nói rằng một trong những mục tiêu lớn nhất đời ông là tái hiện cuộc hôn nhân 45 năm của bố mẹ mình. \"Tôi động viên Melinda nên điềm tĩnh hơn mẹ tôi một chút, nhưng cả hai chúng tôi đều khá quyết liệt. Tôi dành nhiều thời gian cho các con hơn so với bố tôi, nhưng cũng chỉ bằng 10% so với vợ. Melinda làm phần lớn việc cho các con. Chúng tôi đã có khoảng thời gian tuyệt vời\", ông nói. Nhà sáng lập Microsoft cho rằng được dành toàn bộ quãng đời trưởng thành để ở bên cạnh một người, sinh con đẻ cái, trải qua những kỷ niệm đẹp và đồng hành trong các dự án chung là điều tuyệt vời. \"Khi gặp Melinda, tôi đã khá thành công nhưng chưa có điều gì quá lớn lao. Những thành công sau đó đến trong thời gian chúng tôi bên nhau.",
+  "id": 10587,
+  "human_label": "REFUTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 775,
+  "created_at": "2026-03-17T05:17:02.339900Z",
+  "updated_at": "2026-03-17T05:17:02.339913Z",
+  "lead_time": 69.259
+},
+{
+  "claim_id": "ctx37_claim111",
+  "claim": "Tỷ phú Bill Gates đã chia sẻ trong cuộc phỏng vấn vào ngày 25\/1 tại New York rằng ông và Melinda French Gates đã quyết định ly hôn sau 27 năm chung sống vì những bất đồng về cách nuôi dạy con cái.",
+  "label": "NEI",
+  "seed_context_id": "vne_584_chunk_0",
+  "seed_context": "Tỷ phú Bill Gates cho biết ly hôn với Melinda French Gates là sai lầm khiến ông hối tiếc nhất và cũng là \"thất bại lớn nhất cuộc đời\". Trong cuộc phỏng vấn với tờ hôm 25\/1, tỷ phú Bill Gates, 69 tuổi, nói về vụ ly hôn với bà Melinda French Gates hồi năm 2021, kết thúc 27 năm chung sống. Gates nói rằng một trong những mục tiêu lớn nhất đời ông là tái hiện cuộc hôn nhân 45 năm của bố mẹ mình. \"Tôi động viên Melinda nên điềm tĩnh hơn mẹ tôi một chút, nhưng cả hai chúng tôi đều khá quyết liệt. Tôi dành nhiều thời gian cho các con hơn so với bố tôi, nhưng cũng chỉ bằng 10% so với vợ. Melinda làm phần lớn việc cho các con. Chúng tôi đã có khoảng thời gian tuyệt vời\", ông nói. Nhà sáng lập Microsoft cho rằng được dành toàn bộ quãng đời trưởng thành để ở bên cạnh một người, sinh con đẻ cái, trải qua những kỷ niệm đẹp và đồng hành trong các dự án chung là điều tuyệt vời. \"Khi gặp Melinda, tôi đã khá thành công nhưng chưa có điều gì quá lớn lao. Những thành công sau đó đến trong thời gian chúng tôi bên nhau.",
+  "id": 10588,
+  "human_label": "NEI",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 1
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 776,
+  "created_at": "2026-03-17T05:18:16.784020Z",
+  "updated_at": "2026-03-17T05:18:16.784033Z",
+  "lead_time": 74.194
+},
+{
+  "claim_id": "ctx38_claim112",
+  "claim": "Vào lúc 7h35 sáng ngày 21\/4, Giám mục Roma, Francis, qua đời tại Nhà Thánh Marta, hưởng thọ 88 tuổi.",
+  "label": "SUPPORTED",
+  "seed_context_id": "vne_685_chunk_0",
+  "seed_context": "Tòa thánh Vatican thông báo Giáo hoàng Francis đã qua đời tại Nhà Thánh Marta, hưởng thọ 88 tuổi. \"Thưa các anh chị em đạo hữu, với lòng đau buồn sâu sắc, tôi phải thông báo về việc Giáo hoàng qua đời. Vào lúc 7h35 sáng nay (12h35 giờ Hà Nội), Giám mục Roma, Francis, đã trở về nhà Cha\", Đức Hồng y Kevin Farrell thông báo trên kênh truyền hình của Vatican ngày 21\/4. \"Cả cuộc đời ngài đã cống hiến cho việc phụng sự Chúa và Giáo hội. Ngài đã dạy chúng ta sống theo các giá trị Phúc âm bằng sự trung thành, can đảm và lòng bác ái, đặc biệt là hướng về những người nghèo nhất và chịu thiệt thòi nhất. Với lòng biết ơn vô hạn trước gương sáng của ngài, một môn đệ đích thực của Chúa Jesus, chúng ta phó thác linh hồn Giáo hoàng Francis cho tình yêu thương vô bờ bến của Chúa Ba Ngôi\", tuyên bố của Vatican có đoạn. Sau khi tin tức được công bố, nhiều tín đồ đã đổ về Quảng trường Thánh Peter ở Vatican để bày tỏ lòng thương tiếc. Di hài của Giáo hoàng sẽ được quàn tại Vương cung thánh đường Thánh Peter để công chúng tới viếng.",
+  "id": 10589,
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "human_label": "SUPPORTED",
+  "annotator": 2,
+  "annotation_id": 777,
+  "created_at": "2026-03-17T05:21:16.516545Z",
+  "updated_at": "2026-03-17T05:21:16.516558Z",
+  "lead_time": 179.524
+},
+{
+  "claim_id": "ctx38_claim113",
+  "claim": "Đức Hồng y Kevin Farrell thông báo Giáo hoàng Francis qua đời vào lúc 12h35 giờ Hà Nội ngày 22\/4.",
+  "label": "REFUTED",
+  "seed_context_id": "vne_685_chunk_0",
+  "seed_context": "Tòa thánh Vatican thông báo Giáo hoàng Francis đã qua đời tại Nhà Thánh Marta, hưởng thọ 88 tuổi. \"Thưa các anh chị em đạo hữu, với lòng đau buồn sâu sắc, tôi phải thông báo về việc Giáo hoàng qua đời. Vào lúc 7h35 sáng nay (12h35 giờ Hà Nội), Giám mục Roma, Francis, đã trở về nhà Cha\", Đức Hồng y Kevin Farrell thông báo trên kênh truyền hình của Vatican ngày 21\/4. \"Cả cuộc đời ngài đã cống hiến cho việc phụng sự Chúa và Giáo hội. Ngài đã dạy chúng ta sống theo các giá trị Phúc âm bằng sự trung thành, can đảm và lòng bác ái, đặc biệt là hướng về những người nghèo nhất và chịu thiệt thòi nhất. Với lòng biết ơn vô hạn trước gương sáng của ngài, một môn đệ đích thực của Chúa Jesus, chúng ta phó thác linh hồn Giáo hoàng Francis cho tình yêu thương vô bờ bến của Chúa Ba Ngôi\", tuyên bố của Vatican có đoạn. Sau khi tin tức được công bố, nhiều tín đồ đã đổ về Quảng trường Thánh Peter ở Vatican để bày tỏ lòng thương tiếc. Di hài của Giáo hoàng sẽ được quàn tại Vương cung thánh đường Thánh Peter để công chúng tới viếng.",
+  "id": 10590,
+  "human_label": "REFUTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 778,
+  "created_at": "2026-03-17T05:22:03.217009Z",
+  "updated_at": "2026-03-17T05:22:03.217024Z",
+  "lead_time": 46.479
+},
+{
+  "claim_id": "ctx38_claim114",
+  "claim": "Giáo hoàng Francis sẽ được an táng tại Vương cung thánh đường Thánh Peter vào ngày 23\/4.",
+  "label": "NEI",
+  "seed_context_id": "vne_685_chunk_0",
+  "seed_context": "Tòa thánh Vatican thông báo Giáo hoàng Francis đã qua đời tại Nhà Thánh Marta, hưởng thọ 88 tuổi. \"Thưa các anh chị em đạo hữu, với lòng đau buồn sâu sắc, tôi phải thông báo về việc Giáo hoàng qua đời. Vào lúc 7h35 sáng nay (12h35 giờ Hà Nội), Giám mục Roma, Francis, đã trở về nhà Cha\", Đức Hồng y Kevin Farrell thông báo trên kênh truyền hình của Vatican ngày 21\/4. \"Cả cuộc đời ngài đã cống hiến cho việc phụng sự Chúa và Giáo hội. Ngài đã dạy chúng ta sống theo các giá trị Phúc âm bằng sự trung thành, can đảm và lòng bác ái, đặc biệt là hướng về những người nghèo nhất và chịu thiệt thòi nhất. Với lòng biết ơn vô hạn trước gương sáng của ngài, một môn đệ đích thực của Chúa Jesus, chúng ta phó thác linh hồn Giáo hoàng Francis cho tình yêu thương vô bờ bến của Chúa Ba Ngôi\", tuyên bố của Vatican có đoạn. Sau khi tin tức được công bố, nhiều tín đồ đã đổ về Quảng trường Thánh Peter ở Vatican để bày tỏ lòng thương tiếc. Di hài của Giáo hoàng sẽ được quàn tại Vương cung thánh đường Thánh Peter để công chúng tới viếng.",
+  "id": 10591,
+  "human_label": "NEI",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 1
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 779,
+  "created_at": "2026-03-17T05:23:21.765952Z",
+  "updated_at": "2026-03-17T05:23:21.765967Z",
+  "lead_time": 78.306
+},
+{
+  "claim_id": "ctx39_claim115",
+  "claim": "Ngày 8\/7, Công an TP HCM thông tin kết quả ban đầu cho thấy tại căn hộ số 0.20 tầng trệt lô A, cư xá Độc Lập, phường Phú Thọ Hòa, quận Tân Phú, chủ hộ đã tự đấu nối nguồn điện gây cháy lan sang căn 0.19.",
+  "label": "SUPPORTED",
+  "seed_context_id": "vne_274_chunk_0",
+  "seed_context": "Ngày 8\/7, Công an TP HCM thông tin kết quả ban đầu cho thấy tại căn hộ số 0.20 tầng trệt lô A, cư xá Độc Lập, phường Phú Thọ Hòa (thuộc quận Tân Phú cũ), chủ hộ đã \"tự đấu nối nguồn điện cho các thiết bị dùng trong gia đình\". Khi chạm chập nguồn điện gây cháy bên trong căn hộ và lan sang căn 0.19 nằm bên cạnh. Ngoài ra, một số hộ ở cư xá đã cơi nới, lắp đặt các \"chuồng cọp\", chặn lối thoát hiểm của người dân qua ban công. Theo Công an thành phố, trong vụ cháy nói trên, cảnh sát PCCC có mặt kịp thời, khống chế hỏa hoạn và giải cứu 3 người ở các căn hộ khác. Tuy nhiên tại căn 0.19 và 0.20 chỉ có một lối thoát duy nhất phía trước bị lửa bao trùm, các nạn nhân không thể thoát ra ngoài. Hai căn này không có lối thoát hiểm phía sau. Công an khuyến cáo người dân không tự ý đấu nối nguồn điện không đảm bảo an toàn; không sử dụng các thiết bị điện, dây dẫn chưa rõ nguồn gốc; phải đảm bảo phù hợp với công suất, tránh trường hợp quá tải gây mất an toàn điện... Hai hôm trước, lúc gần 22h đám cháy bùng lên ở căn hộ số 0.20 cư xá Độc Lập nằm trên đường Đô Đốc Long, thiêu rụi ba căn nhà.",
+  "id": 10592,
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 1
+    }
+  ],
+  "human_label": "SUPPORTED",
+  "annotator": 2,
+  "annotation_id": 780,
+  "created_at": "2026-03-17T05:24:50.984121Z",
+  "updated_at": "2026-03-17T05:24:50.984133Z",
+  "lead_time": 88.989
+},
+{
+  "claim_id": "ctx39_claim116",
+  "claim": "Hai hôm trước, lúc gần 22h ngày 6\/7, đám cháy bùng lên ở căn hộ số 0.20 cư xá Độc Lập, đường Đô Đốc Long, thiêu rụi bốn căn nhà.",
+  "label": "REFUTED",
+  "seed_context_id": "vne_274_chunk_0",
+  "seed_context": "Ngày 8\/7, Công an TP HCM thông tin kết quả ban đầu cho thấy tại căn hộ số 0.20 tầng trệt lô A, cư xá Độc Lập, phường Phú Thọ Hòa (thuộc quận Tân Phú cũ), chủ hộ đã \"tự đấu nối nguồn điện cho các thiết bị dùng trong gia đình\". Khi chạm chập nguồn điện gây cháy bên trong căn hộ và lan sang căn 0.19 nằm bên cạnh. Ngoài ra, một số hộ ở cư xá đã cơi nới, lắp đặt các \"chuồng cọp\", chặn lối thoát hiểm của người dân qua ban công. Theo Công an thành phố, trong vụ cháy nói trên, cảnh sát PCCC có mặt kịp thời, khống chế hỏa hoạn và giải cứu 3 người ở các căn hộ khác. Tuy nhiên tại căn 0.19 và 0.20 chỉ có một lối thoát duy nhất phía trước bị lửa bao trùm, các nạn nhân không thể thoát ra ngoài. Hai căn này không có lối thoát hiểm phía sau. Công an khuyến cáo người dân không tự ý đấu nối nguồn điện không đảm bảo an toàn; không sử dụng các thiết bị điện, dây dẫn chưa rõ nguồn gốc; phải đảm bảo phù hợp với công suất, tránh trường hợp quá tải gây mất an toàn điện... Hai hôm trước, lúc gần 22h đám cháy bùng lên ở căn hộ số 0.20 cư xá Độc Lập nằm trên đường Đô Đốc Long, thiêu rụi ba căn nhà.",
+  "id": 10593,
+  "human_label": "REFUTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 781,
+  "created_at": "2026-03-17T05:26:07.191328Z",
+  "updated_at": "2026-03-17T05:26:07.191343Z",
+  "lead_time": 75.977
+},
+{
+  "claim_id": "ctx39_claim117",
+  "claim": "Cảnh sát PCCC đã có mặt kịp thời để dập tắt đám cháy và giải cứu thành công tất cả 5 người bị mắc kẹt trong các căn hộ 0.19 và 0.20.",
+  "label": "NEI",
+  "seed_context_id": "vne_274_chunk_0",
+  "seed_context": "Ngày 8\/7, Công an TP HCM thông tin kết quả ban đầu cho thấy tại căn hộ số 0.20 tầng trệt lô A, cư xá Độc Lập, phường Phú Thọ Hòa (thuộc quận Tân Phú cũ), chủ hộ đã \"tự đấu nối nguồn điện cho các thiết bị dùng trong gia đình\". Khi chạm chập nguồn điện gây cháy bên trong căn hộ và lan sang căn 0.19 nằm bên cạnh. Ngoài ra, một số hộ ở cư xá đã cơi nới, lắp đặt các \"chuồng cọp\", chặn lối thoát hiểm của người dân qua ban công. Theo Công an thành phố, trong vụ cháy nói trên, cảnh sát PCCC có mặt kịp thời, khống chế hỏa hoạn và giải cứu 3 người ở các căn hộ khác. Tuy nhiên tại căn 0.19 và 0.20 chỉ có một lối thoát duy nhất phía trước bị lửa bao trùm, các nạn nhân không thể thoát ra ngoài. Hai căn này không có lối thoát hiểm phía sau. Công an khuyến cáo người dân không tự ý đấu nối nguồn điện không đảm bảo an toàn; không sử dụng các thiết bị điện, dây dẫn chưa rõ nguồn gốc; phải đảm bảo phù hợp với công suất, tránh trường hợp quá tải gây mất an toàn điện... Hai hôm trước, lúc gần 22h đám cháy bùng lên ở căn hộ số 0.20 cư xá Độc Lập nằm trên đường Đô Đốc Long, thiêu rụi ba căn nhà.",
+  "id": 10594,
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "human_label": "REFUTED",
+  "annotator": 2,
+  "annotation_id": 782,
+  "created_at": "2026-03-17T05:29:09.033434Z",
+  "updated_at": "2026-03-17T05:29:09.033448Z",
+  "lead_time": 181.628
+},
+{
+  "claim_id": "ctx40_claim118",
+  "claim": "Vào lúc 16h ngày 25 tháng 12 năm 2021, máy bay Boeing 787 Dreamliner của Vietnam Airlines, chở theo 23 người gồm phi hành đoàn và lực lượng tham gia chuyến thử nghiệm, đã hạ cánh xuống sân bay Long Thành.",
+  "label": "SUPPORTED",
+  "seed_context_id": "vne_499_chunk_0",
+  "seed_context": "16h, máy bay hãng Vietnam Airlines hạ cánh xuống sân bay Long Thành, cùng với 23 người, gồm phi hành đoàn và lực lượng tham gia chuyến thử nghiệm. Từ đường băng, máy bay được đưa vào khu vực đón ở phía nhà ga hành khách. Tại đây sân bay tổ chức nghi thức xịt nước chào mừng chuyến bay đầu tiên. Cơ trưởng Trần Tuấn Hưng cho biết trước khi thực hiện chuyến bay, ngoài phối hợp chặt chẽ, đồng bộ quy trình giữa các đơn vị liên quan, tổ bay được triển khai kỹ lưỡng các phương án xử lý tình huống. Do sân bay lần đầu đưa vào vận hành, tổ bay không tránh khỏi cảm giác hồi hộp. Tuy vậy, nhờ chuẩn bị và phối hợp nhịp nhàng, toàn bộ quy trình diễn ra suôn sẻ, bảo đảm an toàn. Chuyến bay nói trên sẽ đánh giá thực tế toàn bộ hệ thống phục vụ khai thác bay như dẫn đường, thông tin liên lạc, điều hành bay; quy trình tiếp nhận, điều phối tàu bay; hệ thống chiếu sáng đường băng, đường lăn, sân đỗ. Việc này cũng kiểm tra sự phối hợp giữa các đơn vị khai thác, an ninh và kiểm soát không lưu tại Long Thành. Cơ quan hàng không sử dụng Boeing 787 Dreamliner - dòng máy bay thân rộng do Boeing phát triển, hiện là loại có kích thước lớn nhất trong đội bay Vietnam Airlines.",
+  "id": 10595,
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "human_label": "NEI",
+  "annotator": 2,
+  "annotation_id": 783,
+  "created_at": "2026-03-17T05:29:09.418050Z",
+  "updated_at": "2026-03-17T05:31:48.331902Z",
+  "lead_time": 155.359
+},
+{
+  "claim_id": "ctx40_claim119",
+  "claim": "Cơ trưởng Trần Tuấn Hưng chia sẻ rằng tổ bay cảm thấy hoàn toàn tự tin và không hề hồi hộp trong suốt quá trình thực hiện chuyến bay thử nghiệm tại sân bay Long Thành vào ngày 25 tháng 12 năm 2021.",
+  "label": "REFUTED",
+  "seed_context_id": "vne_499_chunk_0",
+  "seed_context": "16h, máy bay hãng Vietnam Airlines hạ cánh xuống sân bay Long Thành, cùng với 23 người, gồm phi hành đoàn và lực lượng tham gia chuyến thử nghiệm. Từ đường băng, máy bay được đưa vào khu vực đón ở phía nhà ga hành khách. Tại đây sân bay tổ chức nghi thức xịt nước chào mừng chuyến bay đầu tiên. Cơ trưởng Trần Tuấn Hưng cho biết trước khi thực hiện chuyến bay, ngoài phối hợp chặt chẽ, đồng bộ quy trình giữa các đơn vị liên quan, tổ bay được triển khai kỹ lưỡng các phương án xử lý tình huống. Do sân bay lần đầu đưa vào vận hành, tổ bay không tránh khỏi cảm giác hồi hộp. Tuy vậy, nhờ chuẩn bị và phối hợp nhịp nhàng, toàn bộ quy trình diễn ra suôn sẻ, bảo đảm an toàn. Chuyến bay nói trên sẽ đánh giá thực tế toàn bộ hệ thống phục vụ khai thác bay như dẫn đường, thông tin liên lạc, điều hành bay; quy trình tiếp nhận, điều phối tàu bay; hệ thống chiếu sáng đường băng, đường lăn, sân đỗ. Việc này cũng kiểm tra sự phối hợp giữa các đơn vị khai thác, an ninh và kiểm soát không lưu tại Long Thành. Cơ quan hàng không sử dụng Boeing 787 Dreamliner - dòng máy bay thân rộng do Boeing phát triển, hiện là loại có kích thước lớn nhất trong đội bay Vietnam Airlines.",
+  "id": 10596,
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "human_label": "REFUTED",
+  "annotator": 2,
+  "annotation_id": 784,
+  "created_at": "2026-03-17T05:36:00.111296Z",
+  "updated_at": "2026-03-17T05:36:00.111312Z",
+  "lead_time": 249.355
+},
+{
+  "claim_id": "ctx40_claim120",
+  "claim": "Chuyến bay thử nghiệm vào ngày 25 tháng 12 năm 2021 tại sân bay Long Thành đã đánh giá chi tiết hiệu quả hoạt động của các dịch vụ mặt đất, bao gồm cả việc phục vụ hành khách VIP và các chuyến bay quốc tế.",
+  "label": "NEI",
+  "seed_context_id": "vne_499_chunk_0",
+  "seed_context": "16h, máy bay hãng Vietnam Airlines hạ cánh xuống sân bay Long Thành, cùng với 23 người, gồm phi hành đoàn và lực lượng tham gia chuyến thử nghiệm. Từ đường băng, máy bay được đưa vào khu vực đón ở phía nhà ga hành khách. Tại đây sân bay tổ chức nghi thức xịt nước chào mừng chuyến bay đầu tiên. Cơ trưởng Trần Tuấn Hưng cho biết trước khi thực hiện chuyến bay, ngoài phối hợp chặt chẽ, đồng bộ quy trình giữa các đơn vị liên quan, tổ bay được triển khai kỹ lưỡng các phương án xử lý tình huống. Do sân bay lần đầu đưa vào vận hành, tổ bay không tránh khỏi cảm giác hồi hộp. Tuy vậy, nhờ chuẩn bị và phối hợp nhịp nhàng, toàn bộ quy trình diễn ra suôn sẻ, bảo đảm an toàn. Chuyến bay nói trên sẽ đánh giá thực tế toàn bộ hệ thống phục vụ khai thác bay như dẫn đường, thông tin liên lạc, điều hành bay; quy trình tiếp nhận, điều phối tàu bay; hệ thống chiếu sáng đường băng, đường lăn, sân đỗ. Việc này cũng kiểm tra sự phối hợp giữa các đơn vị khai thác, an ninh và kiểm soát không lưu tại Long Thành. Cơ quan hàng không sử dụng Boeing 787 Dreamliner - dòng máy bay thân rộng do Boeing phát triển, hiện là loại có kích thước lớn nhất trong đội bay Vietnam Airlines.",
+  "id": 10597,
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "human_label": "NEI",
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 785,
+  "created_at": "2026-03-17T05:38:05.381902Z",
+  "updated_at": "2026-03-17T05:38:05.381924Z",
+  "lead_time": 54.128
+},
+{
+  "claim_id": "ctx41_claim121",
+  "claim": "Bà Thuy Ai Kathy Lam rao bán biệt thự mô phỏng Nhà Trắng với giá 35 triệu USD tại Oak Grove, bang Georgia, vào cuối tháng 11.",
+  "label": "SUPPORTED",
+  "seed_context_id": "vne_996_chunk_0",
+  "seed_context": "Bà Thuy Ai Kathy Lam rao bán biệt thự mô phỏng Nhà Trắng giá 35 triệu USD, có thể trở thành bất động sản đắt nhất lịch sử vùng Atlanta. Nữ doanh nhân gốc Việt Thuy Ai Kathy Lam hồi cuối tháng 11 rao bán căn biệt thự 13 phòng ngủ mô phỏng Nhà Trắng nổi tiếng ở vùng ngoại ô Oak Grove, bang Georgia. Đây là căn biệt thự có mặt tiền theo phong cách Tân cổ điển thiết kế giống hệt Nhà Trắng, với các phòng được lấy cảm hứng từ Phòng Bầu dục, Phòng ngủ Lincoln. Với mức giá 35 triệu USD, đây là căn nhà được rao bán đắt nhất toàn vùng đô thị Atlanta. Giao dịch nhà ở đắt nhất khu vực đến nay là thương vụ 18,1 triệu USD năm 2021. \"Biệt thự Nhà Trắng\" được xây dựng năm 2001, nằm cách trung tâm Atlanta khoảng 16 km, tổng diện tích khuôn viên rộng hơn một ha, có hồ bơi ngoài trời. Ngoài diện tích nhà chính khoảng 1. 500 m2, với 6 phòng ngủ, trong khuôn viên còn có một nhà khách 7 phòng ngủ mà bà Lam gọi là West Wing (Cánh Tây). Bà Lam không mở cửa biệt thự cho công chúng tham quan, nhưng có nhiều du khách, người qua đường chụp ảnh từ hàng rào.",
+  "id": 10598,
+  "human_label": "SUPPORTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 786,
+  "created_at": "2026-03-17T05:39:23.321977Z",
+  "updated_at": "2026-03-17T05:39:23.321991Z",
+  "lead_time": 77.709
+},
+{
+  "claim_id": "ctx41_claim122",
+  "claim": "Giao dịch nhà ở đắt nhất vùng đô thị Atlanta trước đây là 35 triệu USD vào năm 2021.",
+  "label": "REFUTED",
+  "seed_context_id": "vne_996_chunk_0",
+  "seed_context": "Bà Thuy Ai Kathy Lam rao bán biệt thự mô phỏng Nhà Trắng giá 35 triệu USD, có thể trở thành bất động sản đắt nhất lịch sử vùng Atlanta. Nữ doanh nhân gốc Việt Thuy Ai Kathy Lam hồi cuối tháng 11 rao bán căn biệt thự 13 phòng ngủ mô phỏng Nhà Trắng nổi tiếng ở vùng ngoại ô Oak Grove, bang Georgia. Đây là căn biệt thự có mặt tiền theo phong cách Tân cổ điển thiết kế giống hệt Nhà Trắng, với các phòng được lấy cảm hứng từ Phòng Bầu dục, Phòng ngủ Lincoln. Với mức giá 35 triệu USD, đây là căn nhà được rao bán đắt nhất toàn vùng đô thị Atlanta. Giao dịch nhà ở đắt nhất khu vực đến nay là thương vụ 18,1 triệu USD năm 2021. \"Biệt thự Nhà Trắng\" được xây dựng năm 2001, nằm cách trung tâm Atlanta khoảng 16 km, tổng diện tích khuôn viên rộng hơn một ha, có hồ bơi ngoài trời. Ngoài diện tích nhà chính khoảng 1. 500 m2, với 6 phòng ngủ, trong khuôn viên còn có một nhà khách 7 phòng ngủ mà bà Lam gọi là West Wing (Cánh Tây). Bà Lam không mở cửa biệt thự cho công chúng tham quan, nhưng có nhiều du khách, người qua đường chụp ảnh từ hàng rào.",
+  "id": 10599,
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "human_label": "REFUTED",
+  "annotator": 2,
+  "annotation_id": 787,
+  "created_at": "2026-03-17T05:40:29.204682Z",
+  "updated_at": "2026-03-17T05:40:29.204697Z",
+  "lead_time": 65.682
+},
+{
+  "claim_id": "ctx41_claim123",
+  "claim": "Biệt thự mô phỏng Nhà Trắng nằm cách trung tâm Atlanta 16 km và có một nhà khách 7 phòng ngủ được gọi là Oval Office.",
+  "label": "NEI",
+  "seed_context_id": "vne_996_chunk_0",
+  "seed_context": "Bà Thuy Ai Kathy Lam rao bán biệt thự mô phỏng Nhà Trắng giá 35 triệu USD, có thể trở thành bất động sản đắt nhất lịch sử vùng Atlanta. Nữ doanh nhân gốc Việt Thuy Ai Kathy Lam hồi cuối tháng 11 rao bán căn biệt thự 13 phòng ngủ mô phỏng Nhà Trắng nổi tiếng ở vùng ngoại ô Oak Grove, bang Georgia. Đây là căn biệt thự có mặt tiền theo phong cách Tân cổ điển thiết kế giống hệt Nhà Trắng, với các phòng được lấy cảm hứng từ Phòng Bầu dục, Phòng ngủ Lincoln. Với mức giá 35 triệu USD, đây là căn nhà được rao bán đắt nhất toàn vùng đô thị Atlanta. Giao dịch nhà ở đắt nhất khu vực đến nay là thương vụ 18,1 triệu USD năm 2021. \"Biệt thự Nhà Trắng\" được xây dựng năm 2001, nằm cách trung tâm Atlanta khoảng 16 km, tổng diện tích khuôn viên rộng hơn một ha, có hồ bơi ngoài trời. Ngoài diện tích nhà chính khoảng 1. 500 m2, với 6 phòng ngủ, trong khuôn viên còn có một nhà khách 7 phòng ngủ mà bà Lam gọi là West Wing (Cánh Tây). Bà Lam không mở cửa biệt thự cho công chúng tham quan, nhưng có nhiều du khách, người qua đường chụp ảnh từ hàng rào.",
+  "id": 10600,
+  "human_label": "REFUTED",
+  "atomicity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "verifiability_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 788,
+  "created_at": "2026-03-17T05:42:01.203624Z",
+  "updated_at": "2026-03-17T05:42:01.203638Z",
+  "lead_time": 91.799
+},
+{
+  "claim_id": "ctx42_claim124",
+  "claim": "Thủ tướng Phạm Minh Chính yêu cầu Hà Nội triển khai các giải pháp để tổ chức, cá nhân chuyển đổi phương tiện, bảo đảm đến ngày 1\/7\/2026 không còn xe môtô, xe gắn máy sử dụng nhiên liệu hóa thạch lưu thông trong vành đai 1.",
+  "label": "SUPPORTED",
+  "seed_context_id": "vne_284_chunk_0",
+  "seed_context": "Ngày 12\/7, trong Chỉ thị 20 về một số nhiệm vụ cấp bách, quyết liệt ngăn chặn, giải quyết tình trạng ô nhiễm môi trường, Thủ tướng Phạm Minh Chính yêu cầu Hà Nội triển khai các giải pháp để tổ chức, cá nhân chuyển đổi phương tiện, bảo đảm đến ngày 1\/7\/2026 không còn xe môtô, xe gắn máy sử dụng nhiên liệu hóa thạch (xăng, dầu) lưu thông trong vành đai 1. Từ ngày 1\/1\/2028, ngoài cấm xe môtô, xe gắn máy chạy xăng dầu, ôtô cá nhân sử dụng nhiên liệu hóa thạch cũng bị hạn chế trong vành đai 1 và 2; đến năm 2030 áp dụng với toàn bộ phương tiện cá nhân sử dụng nhiên liệu hóa thạch trong phạm vi vành đai 3. Thực tế từ năm 2017, trước vấn nạn ô nhiễm không khí và ùn tắc giao thông, Hà Nội đã đặt ra lộ trình từng bước hạn chế hoạt động của xe máy ở một số khu vực và dừng hoạt động xe máy ở các quận cũ vào năm 2030 (Nghị quyết số 04 được HĐND TP Hà Nội thông qua ngày 4\/7\/2017). Thực hiện Nghị quyết, thành phố đã giao các đơn vị chuyên môn xây dựng đề án liên quan. Trong đó có đề án \"Phân vùng hạn chế xe máy, năng lực phục vụ của hệ thống vận tải công cộng tiến tới dừng hoạt động xe máy ở các quận vào năm 2030\" do Sở Giao thông Vận tải (nay là Sở Xây dựng) và Viện chiến lược phát triển giao thông (Bộ Xây dựng) thực hiện.",
+  "id": 10601,
+  "human_label": "SUPPORTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 789,
+  "created_at": "2026-03-17T05:43:47.884399Z",
+  "updated_at": "2026-03-17T05:43:47.884412Z",
+  "lead_time": 106.437
+},
+{
+  "claim_id": "ctx42_claim125",
+  "claim": "Theo Chỉ thị 20 của Thủ tướng Phạm Minh Chính, từ ngày 1\/1\/2028, xe môtô, xe gắn máy sử dụng nhiên liệu hóa thạch vẫn được phép lưu thông không hạn chế trong vành đai 1 và 2 của Hà Nội.",
+  "label": "REFUTED",
+  "seed_context_id": "vne_284_chunk_0",
+  "seed_context": "Ngày 12\/7, trong Chỉ thị 20 về một số nhiệm vụ cấp bách, quyết liệt ngăn chặn, giải quyết tình trạng ô nhiễm môi trường, Thủ tướng Phạm Minh Chính yêu cầu Hà Nội triển khai các giải pháp để tổ chức, cá nhân chuyển đổi phương tiện, bảo đảm đến ngày 1\/7\/2026 không còn xe môtô, xe gắn máy sử dụng nhiên liệu hóa thạch (xăng, dầu) lưu thông trong vành đai 1. Từ ngày 1\/1\/2028, ngoài cấm xe môtô, xe gắn máy chạy xăng dầu, ôtô cá nhân sử dụng nhiên liệu hóa thạch cũng bị hạn chế trong vành đai 1 và 2; đến năm 2030 áp dụng với toàn bộ phương tiện cá nhân sử dụng nhiên liệu hóa thạch trong phạm vi vành đai 3. Thực tế từ năm 2017, trước vấn nạn ô nhiễm không khí và ùn tắc giao thông, Hà Nội đã đặt ra lộ trình từng bước hạn chế hoạt động của xe máy ở một số khu vực và dừng hoạt động xe máy ở các quận cũ vào năm 2030 (Nghị quyết số 04 được HĐND TP Hà Nội thông qua ngày 4\/7\/2017). Thực hiện Nghị quyết, thành phố đã giao các đơn vị chuyên môn xây dựng đề án liên quan. Trong đó có đề án \"Phân vùng hạn chế xe máy, năng lực phục vụ của hệ thống vận tải công cộng tiến tới dừng hoạt động xe máy ở các quận vào năm 2030\" do Sở Giao thông Vận tải (nay là Sở Xây dựng) và Viện chiến lược phát triển giao thông (Bộ Xây dựng) thực hiện.",
+  "id": 10602,
+  "human_label": "REFUTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 790,
+  "created_at": "2026-03-17T05:45:31.301122Z",
+  "updated_at": "2026-03-17T05:45:31.301140Z",
+  "lead_time": 103.176
+},
+{
+  "claim_id": "ctx42_claim126",
+  "claim": "Sở Giao thông Vận tải Hà Nội đã thực hiện đề án phân vùng hạn chế xe máy và đề xuất xây dựng thêm các tuyến đường sắt cao tốc mới trong nội thành vào năm 2030.",
+  "label": "NEI",
+  "seed_context_id": "vne_284_chunk_0",
+  "seed_context": "Ngày 12\/7, trong Chỉ thị 20 về một số nhiệm vụ cấp bách, quyết liệt ngăn chặn, giải quyết tình trạng ô nhiễm môi trường, Thủ tướng Phạm Minh Chính yêu cầu Hà Nội triển khai các giải pháp để tổ chức, cá nhân chuyển đổi phương tiện, bảo đảm đến ngày 1\/7\/2026 không còn xe môtô, xe gắn máy sử dụng nhiên liệu hóa thạch (xăng, dầu) lưu thông trong vành đai 1. Từ ngày 1\/1\/2028, ngoài cấm xe môtô, xe gắn máy chạy xăng dầu, ôtô cá nhân sử dụng nhiên liệu hóa thạch cũng bị hạn chế trong vành đai 1 và 2; đến năm 2030 áp dụng với toàn bộ phương tiện cá nhân sử dụng nhiên liệu hóa thạch trong phạm vi vành đai 3. Thực tế từ năm 2017, trước vấn nạn ô nhiễm không khí và ùn tắc giao thông, Hà Nội đã đặt ra lộ trình từng bước hạn chế hoạt động của xe máy ở một số khu vực và dừng hoạt động xe máy ở các quận cũ vào năm 2030 (Nghị quyết số 04 được HĐND TP Hà Nội thông qua ngày 4\/7\/2017). Thực hiện Nghị quyết, thành phố đã giao các đơn vị chuyên môn xây dựng đề án liên quan. Trong đó có đề án \"Phân vùng hạn chế xe máy, năng lực phục vụ của hệ thống vận tải công cộng tiến tới dừng hoạt động xe máy ở các quận vào năm 2030\" do Sở Giao thông Vận tải (nay là Sở Xây dựng) và Viện chiến lược phát triển giao thông (Bộ Xây dựng) thực hiện.",
+  "id": 10603,
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 1
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "human_label": "NEI",
+  "annotator": 2,
+  "annotation_id": 791,
+  "created_at": "2026-03-17T06:03:52.020405Z",
+  "updated_at": "2026-03-17T06:03:52.020419Z",
+  "lead_time": 1100.487
+},
+{
+  "claim_id": "ctx43_claim127",
+  "claim": "Vào ngày hôm nay, Bộ tổng tham mưu Ukraine thông báo trên mạng xã hội rằng không quân nước này đã sử dụng tên lửa hành trình Storm Shadow để tấn công nhà máy lọc dầu Novoshakhtinsk ở vùng Rostov của Nga.",
+  "label": "SUPPORTED",
+  "seed_context_id": "vne_1025_chunk_0",
+  "seed_context": "Bộ tổng tham mưu Ukraine cho biết không quân nước này đã sử dụng tên lửa hành trình Storm Shadow tấn công nhà máy lọc dầu Nga ở Rostov. \"Nhiều vụ nổ được ghi nhận. Mục tiêu đã bị tấn công\", Bộ tổng tham mưu Ukraine thông báo trên mạng xã hội hôm nay, cho biết không quân đã dùng tên lửa hành trình Storm Shadow tấn công nhà máy lọc dầu Novoshakhtinsk ở vùng Rostov của Nga. Ukraine cho hay Novoshakhtinsk là một trong những nhà máy cung cấp sản phẩm dầu mỏ lớn nhất ở miền nam nước Nga. Đây cũng là nơi trực tiếp cung cấp dầu diesel và nhiên liệu máy bay cho quân đội Nga chiến đấu ở Ukraine. \"Lực lượng Ukraine đã tiếp tục thực hiện các biện pháp cần thiết để làm suy yếu tiềm lực quân sự và kinh tế của Nga, buộc nước này phải ngừng cuộc chiến\", Bộ tổng tham mưu nói thêm. Quân đội Ukraine đã nhiều lần sử dụng Storm Shadow để tấn công bán đảo Crimea và những khu vực do Nga kiểm soát ở vùng Donbass, gồm tỉnh Lugansk và Donetsk. Kiev lần đầu khai hỏa Storm Shadow vào mục tiêu quân sự trên lãnh thổ đối phương hồi tháng 11\/2024.",
+  "id": 10604,
+  "verifiability_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "human_label": "SUPPORTED",
+  "annotator": 2,
+  "annotation_id": 792,
+  "created_at": "2026-03-17T06:05:31.463308Z",
+  "updated_at": "2026-03-17T06:05:31.463323Z",
+  "lead_time": 71.873
+},
+{
+  "claim_id": "ctx43_claim128",
+  "claim": "Vào tháng 11\/2023, Bộ tổng tham mưu Ukraine tuyên bố không quân nước này đã sử dụng tên lửa hành trình Storm Shadow để tấn công nhà máy lọc dầu Novoshakhtinsk ở vùng Rostov của Nga.",
+  "label": "REFUTED",
+  "seed_context_id": "vne_1025_chunk_0",
+  "seed_context": "Bộ tổng tham mưu Ukraine cho biết không quân nước này đã sử dụng tên lửa hành trình Storm Shadow tấn công nhà máy lọc dầu Nga ở Rostov. \"Nhiều vụ nổ được ghi nhận. Mục tiêu đã bị tấn công\", Bộ tổng tham mưu Ukraine thông báo trên mạng xã hội hôm nay, cho biết không quân đã dùng tên lửa hành trình Storm Shadow tấn công nhà máy lọc dầu Novoshakhtinsk ở vùng Rostov của Nga. Ukraine cho hay Novoshakhtinsk là một trong những nhà máy cung cấp sản phẩm dầu mỏ lớn nhất ở miền nam nước Nga. Đây cũng là nơi trực tiếp cung cấp dầu diesel và nhiên liệu máy bay cho quân đội Nga chiến đấu ở Ukraine. \"Lực lượng Ukraine đã tiếp tục thực hiện các biện pháp cần thiết để làm suy yếu tiềm lực quân sự và kinh tế của Nga, buộc nước này phải ngừng cuộc chiến\", Bộ tổng tham mưu nói thêm. Quân đội Ukraine đã nhiều lần sử dụng Storm Shadow để tấn công bán đảo Crimea và những khu vực do Nga kiểm soát ở vùng Donbass, gồm tỉnh Lugansk và Donetsk. Kiev lần đầu khai hỏa Storm Shadow vào mục tiêu quân sự trên lãnh thổ đối phương hồi tháng 11\/2024.",
+  "id": 10605,
+  "human_label": "REFUTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 793,
+  "created_at": "2026-03-17T06:08:57.853048Z",
+  "updated_at": "2026-03-17T06:08:57.853064Z",
+  "lead_time": 50.688
+},
+{
+  "claim_id": "ctx43_claim129",
+  "claim": "Nhà máy lọc dầu Novoshakhtinsk ở vùng Rostov của Nga, sau vụ tấn công bằng tên lửa hành trình Storm Shadow của không quân Ukraine, đã ngừng hoàn toàn việc cung cấp sản phẩm dầu mỏ cho miền nam nước Nga.",
+  "label": "NEI",
+  "seed_context_id": "vne_1025_chunk_0",
+  "seed_context": "Bộ tổng tham mưu Ukraine cho biết không quân nước này đã sử dụng tên lửa hành trình Storm Shadow tấn công nhà máy lọc dầu Nga ở Rostov. \"Nhiều vụ nổ được ghi nhận. Mục tiêu đã bị tấn công\", Bộ tổng tham mưu Ukraine thông báo trên mạng xã hội hôm nay, cho biết không quân đã dùng tên lửa hành trình Storm Shadow tấn công nhà máy lọc dầu Novoshakhtinsk ở vùng Rostov của Nga. Ukraine cho hay Novoshakhtinsk là một trong những nhà máy cung cấp sản phẩm dầu mỏ lớn nhất ở miền nam nước Nga. Đây cũng là nơi trực tiếp cung cấp dầu diesel và nhiên liệu máy bay cho quân đội Nga chiến đấu ở Ukraine. \"Lực lượng Ukraine đã tiếp tục thực hiện các biện pháp cần thiết để làm suy yếu tiềm lực quân sự và kinh tế của Nga, buộc nước này phải ngừng cuộc chiến\", Bộ tổng tham mưu nói thêm. Quân đội Ukraine đã nhiều lần sử dụng Storm Shadow để tấn công bán đảo Crimea và những khu vực do Nga kiểm soát ở vùng Donbass, gồm tỉnh Lugansk và Donetsk. Kiev lần đầu khai hỏa Storm Shadow vào mục tiêu quân sự trên lãnh thổ đối phương hồi tháng 11\/2024.",
+  "id": 10606,
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "human_label": "NEI",
+  "annotator": 2,
+  "annotation_id": 794,
+  "created_at": "2026-03-17T06:11:04.515294Z",
+  "updated_at": "2026-03-17T06:11:04.515309Z",
+  "lead_time": 126.43
+},
+{
+  "claim_id": "ctx44_claim130",
+  "claim": "Quân đội Iran tuyên bố rằng hệ thống phòng không tại Tehran đã đánh chặn và phá hủy mọi tên lửa và đầu đạn được phóng từ phía Israel trong chiến dịch \"Sư tử Trỗi dậy\" vào ngày 13\/6.",
+  "label": "SUPPORTED",
+  "seed_context_id": "vne_760_chunk_1",
+  "seed_context": "Chưa rõ tiêm kích tàng hình F-35 có tham gia chiến dịch này hay không. Quân đội Iran cho biết thêm các hệ thống phòng không tại Tehran đã đánh chặn và phá hủy mọi tên lửa và đầu đạn được phóng từ phía Israel. \"Hệ thống phòng không ở khu vực trung và nam Tehran đã ứng phó nhanh chóng, hiệu quả với đòn tập kích. Mọi mục tiêu của kẻ thù đều bị phá hủy\", lực lượng này nhấn mạnh. Các quan chức Iran tuyên bố rằng dù ban đầu có chút bất ngờ với đòn tập kích của Israel trong chiến dịch \"Sư tử Trỗi dậy\", quân đội nước này đã nhanh chóng thiết lập lại năng lực phòng thủ và đang trong trạng thái sẵn sàng. Căng thẳng Israel - Iran leo thang từ rạng sáng 13\/6, khi Lực lượng Phòng vệ Israel (IDF) phát động chiến dịch không kích phủ đầu nhằm vào các cơ sở hạt nhân và quân sự Iran. Israel tuyên bố đây là \"động thái tự vệ cần thiết\" để ngăn Iran sở hữu vũ khí hạt nhân. Đến chiều 13\/6, IDF tiếp tục tung đòn tập kích thứ hai, nhắm vào các bệ phóng tên lửa đạn đạo, kho chứa vũ khí cùng cơ sở quân sự khác của Iran.",
+  "id": 10607,
+  "human_label": "SUPPORTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 795,
+  "created_at": "2026-03-17T06:12:17.365387Z",
+  "updated_at": "2026-03-17T06:12:17.365405Z",
+  "lead_time": 72.617
+},
+{
+  "claim_id": "ctx44_claim131",
+  "claim": "Vào chiều ngày 13\/6, Lực lượng Phòng vệ Israel (IDF) đã phát động chiến dịch không kích phủ đầu nhằm vào các cơ sở hạt nhân và quân sự Iran, đánh chặn thành công mọi tên lửa của Iran.",
+  "label": "REFUTED",
+  "seed_context_id": "vne_760_chunk_1",
+  "seed_context": "Chưa rõ tiêm kích tàng hình F-35 có tham gia chiến dịch này hay không. Quân đội Iran cho biết thêm các hệ thống phòng không tại Tehran đã đánh chặn và phá hủy mọi tên lửa và đầu đạn được phóng từ phía Israel. \"Hệ thống phòng không ở khu vực trung và nam Tehran đã ứng phó nhanh chóng, hiệu quả với đòn tập kích. Mọi mục tiêu của kẻ thù đều bị phá hủy\", lực lượng này nhấn mạnh. Các quan chức Iran tuyên bố rằng dù ban đầu có chút bất ngờ với đòn tập kích của Israel trong chiến dịch \"Sư tử Trỗi dậy\", quân đội nước này đã nhanh chóng thiết lập lại năng lực phòng thủ và đang trong trạng thái sẵn sàng. Căng thẳng Israel - Iran leo thang từ rạng sáng 13\/6, khi Lực lượng Phòng vệ Israel (IDF) phát động chiến dịch không kích phủ đầu nhằm vào các cơ sở hạt nhân và quân sự Iran. Israel tuyên bố đây là \"động thái tự vệ cần thiết\" để ngăn Iran sở hữu vũ khí hạt nhân. Đến chiều 13\/6, IDF tiếp tục tung đòn tập kích thứ hai, nhắm vào các bệ phóng tên lửa đạn đạo, kho chứa vũ khí cùng cơ sở quân sự khác của Iran.",
+  "id": 10608,
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "human_label": "REFUTED",
+  "annotator": 2,
+  "annotation_id": 796,
+  "created_at": "2026-03-17T06:14:09.387520Z",
+  "updated_at": "2026-03-17T06:14:09.387537Z",
+  "lead_time": 111.782
+},
+{
+  "claim_id": "ctx44_claim132",
+  "claim": "Tiêm kích tàng hình F-35 của Israel đã tham gia chiến dịch \"Sư tử Trỗi dậy\" vào ngày 13\/6 và nhắm vào các bệ phóng tên lửa đạn đạo của Iran tại Tehran.",
+  "label": "NEI",
+  "seed_context_id": "vne_760_chunk_1",
+  "seed_context": "Chưa rõ tiêm kích tàng hình F-35 có tham gia chiến dịch này hay không. Quân đội Iran cho biết thêm các hệ thống phòng không tại Tehran đã đánh chặn và phá hủy mọi tên lửa và đầu đạn được phóng từ phía Israel. \"Hệ thống phòng không ở khu vực trung và nam Tehran đã ứng phó nhanh chóng, hiệu quả với đòn tập kích. Mọi mục tiêu của kẻ thù đều bị phá hủy\", lực lượng này nhấn mạnh. Các quan chức Iran tuyên bố rằng dù ban đầu có chút bất ngờ với đòn tập kích của Israel trong chiến dịch \"Sư tử Trỗi dậy\", quân đội nước này đã nhanh chóng thiết lập lại năng lực phòng thủ và đang trong trạng thái sẵn sàng. Căng thẳng Israel - Iran leo thang từ rạng sáng 13\/6, khi Lực lượng Phòng vệ Israel (IDF) phát động chiến dịch không kích phủ đầu nhằm vào các cơ sở hạt nhân và quân sự Iran. Israel tuyên bố đây là \"động thái tự vệ cần thiết\" để ngăn Iran sở hữu vũ khí hạt nhân. Đến chiều 13\/6, IDF tiếp tục tung đòn tập kích thứ hai, nhắm vào các bệ phóng tên lửa đạn đạo, kho chứa vũ khí cùng cơ sở quân sự khác của Iran.",
+  "id": 10609,
+  "human_label": "NEI",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 797,
+  "created_at": "2026-03-17T06:14:58.196144Z",
+  "updated_at": "2026-03-17T06:14:58.196158Z",
+  "lead_time": 48.569
+},
+{
+  "claim_id": "ctx45_claim133",
+  "claim": "Meazler đã trích 800 USD từ khoản tiền hoàn thuế để thuê xe và đổ xăng cho chuyến đi Georgia với quãng đường hơn 3.200 km.",
+  "label": "SUPPORTED",
+  "seed_context_id": "vne_834_chunk_10",
+  "seed_context": "Anh này thỉnh thoảng đến đón con đi chơi, nhưng Meazler chỉ muốn nhờ anh giúp đỡ tiền bạc trong trường hợp khẩn cấp. Gần đây, cô con gái 22 tuổi của Meazler đã tìm được một công việc bán thời gian với mức lương 15,5 USD mỗi giờ. Đây là mức lương tối thiểu tại nhiều nơi ở bang New York. Chuyến đi Georgia là điều mà cả gia đình mong chờ. Meazler đã trích 800 USD từ khoản tiền hoàn thuế để thuê xe và đổ xăng cho quãng đường cả đi và về hơn 3. 200 km. Một buổi sáng, trong suốt tuần ở nhà mẹ, Meazler đưa các con gái đến bãi biển Panama City, cách đó vài giờ lái xe. Họ mua những chiếc ván lướt sóng nhỏ với giá 5 USD và ăn pizza. Meazler nhớ mình đã mỉm cười khi nhìn các con nô đùa trên bãi biển. Lần đầu tiên, muộn phiền của cô dường như tan biến. Vài ngày sau khi Meazler trở về nhà ở Endicott, mẹ cô phải nhập viện vì suy thận. Meazler buộc phải nghỉ làm và dùng hết số tiền hoàn thuế còn lại để mua vé máy bay quay lại Georgia. Cô sau đó lại tiếp tục nợ tiền trả góp nhà tháng 4 và tháng 5. \"Tôi cảm thấy như mình luôn phải sống trong trạng thái sinh tồn suốt cả cuộc đời.",
+  "id": 10610,
+  "human_label": "SUPPORTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 798,
+  "created_at": "2026-03-17T06:15:42.940034Z",
+  "updated_at": "2026-03-17T06:15:42.940056Z",
+  "lead_time": 44.507
+},
+{
+  "claim_id": "ctx45_claim134",
+  "claim": "Con gái 22 tuổi của Meazler tìm được công việc bán thời gian với mức lương 25,5 USD mỗi giờ tại bang New York vào gần đây.",
+  "label": "REFUTED",
+  "seed_context_id": "vne_834_chunk_10",
+  "seed_context": "Anh này thỉnh thoảng đến đón con đi chơi, nhưng Meazler chỉ muốn nhờ anh giúp đỡ tiền bạc trong trường hợp khẩn cấp. Gần đây, cô con gái 22 tuổi của Meazler đã tìm được một công việc bán thời gian với mức lương 15,5 USD mỗi giờ. Đây là mức lương tối thiểu tại nhiều nơi ở bang New York. Chuyến đi Georgia là điều mà cả gia đình mong chờ. Meazler đã trích 800 USD từ khoản tiền hoàn thuế để thuê xe và đổ xăng cho quãng đường cả đi và về hơn 3. 200 km. Một buổi sáng, trong suốt tuần ở nhà mẹ, Meazler đưa các con gái đến bãi biển Panama City, cách đó vài giờ lái xe. Họ mua những chiếc ván lướt sóng nhỏ với giá 5 USD và ăn pizza. Meazler nhớ mình đã mỉm cười khi nhìn các con nô đùa trên bãi biển. Lần đầu tiên, muộn phiền của cô dường như tan biến. Vài ngày sau khi Meazler trở về nhà ở Endicott, mẹ cô phải nhập viện vì suy thận. Meazler buộc phải nghỉ làm và dùng hết số tiền hoàn thuế còn lại để mua vé máy bay quay lại Georgia. Cô sau đó lại tiếp tục nợ tiền trả góp nhà tháng 4 và tháng 5. \"Tôi cảm thấy như mình luôn phải sống trong trạng thái sinh tồn suốt cả cuộc đời.",
+  "id": 10611,
+  "human_label": "REFUTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 1
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 799,
+  "created_at": "2026-03-17T06:16:27.531058Z",
+  "updated_at": "2026-03-17T06:16:27.531077Z",
+  "lead_time": 44.36
+},
+{
+  "claim_id": "ctx45_claim135",
+  "claim": "Meazler đã mua những chiếc ván lướt sóng nhỏ với giá 5 USD và ăn pizza tại bãi biển Panama City vào một buổi sáng trong tuần ở nhà mẹ.",
+  "label": "NEI",
+  "seed_context_id": "vne_834_chunk_10",
+  "seed_context": "Anh này thỉnh thoảng đến đón con đi chơi, nhưng Meazler chỉ muốn nhờ anh giúp đỡ tiền bạc trong trường hợp khẩn cấp. Gần đây, cô con gái 22 tuổi của Meazler đã tìm được một công việc bán thời gian với mức lương 15,5 USD mỗi giờ. Đây là mức lương tối thiểu tại nhiều nơi ở bang New York. Chuyến đi Georgia là điều mà cả gia đình mong chờ. Meazler đã trích 800 USD từ khoản tiền hoàn thuế để thuê xe và đổ xăng cho quãng đường cả đi và về hơn 3. 200 km. Một buổi sáng, trong suốt tuần ở nhà mẹ, Meazler đưa các con gái đến bãi biển Panama City, cách đó vài giờ lái xe. Họ mua những chiếc ván lướt sóng nhỏ với giá 5 USD và ăn pizza. Meazler nhớ mình đã mỉm cười khi nhìn các con nô đùa trên bãi biển. Lần đầu tiên, muộn phiền của cô dường như tan biến. Vài ngày sau khi Meazler trở về nhà ở Endicott, mẹ cô phải nhập viện vì suy thận. Meazler buộc phải nghỉ làm và dùng hết số tiền hoàn thuế còn lại để mua vé máy bay quay lại Georgia. Cô sau đó lại tiếp tục nợ tiền trả góp nhà tháng 4 và tháng 5. \"Tôi cảm thấy như mình luôn phải sống trong trạng thái sinh tồn suốt cả cuộc đời.",
+  "id": 10612,
+  "human_label": "SUPPORTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 800,
+  "created_at": "2026-03-17T06:18:01.699718Z",
+  "updated_at": "2026-03-17T06:18:01.699733Z",
+  "lead_time": 93.934
+},
+{
+  "claim_id": "ctx46_claim136",
+  "claim": "Ông Thắng cho rằng, sau sáp nhập đơn vị hành chính, nhiều gia đình cán bộ, công chức phải sống xa nhau hàng trăm cây số và con cái phải gửi ông bà hoặc người thân chăm sóc, điều này đòi hỏi sự ghi nhận và trân trọng.",
+  "label": "SUPPORTED",
+  "seed_context_id": "vne_246_chunk_1",
+  "seed_context": "Theo ông, sau sáp nhập đơn vị hành chính, nhiều gia đình cán bộ, công chức buộc phải sống xa nhau hàng trăm cây số, con cái phải gửi ông bà hoặc người thân chăm sóc. \"Nhà trọ, nhà công vụ đang chờ đợi họ trong sự trăn trở cơm áo gạo tiền và những xáo trộn, khó khăn khác - đó là những tổn thương âm thầm nhưng không kém bất cứ sự hy sinh nào, rất cần được ghi nhận và trân trọng\", ông Thắng chia sẻ, cho rằng sự giằng co giữa trách nhiệm công vụ và bổn phận gia đình có thể khiến cán bộ khó toàn tâm toàn ý làm việc. Ông kiến nghị cần giải quyết hài hòa các nhóm vấn đề gồm chế độ đãi ngộ, môi trường làm việc, sự ghi nhận - đánh giá và cơ hội thăng tiến để giữ chân người tài. Trong đó, tiền lương và phúc lợi phải là trung tâm, đảm bảo tính cạnh tranh với khu vực tư, đặc biệt tại các vị trí đòi hỏi trình độ chuyên môn cao. Môi trường công vụ cũng cần được cải tổ theo hướng chuyên nghiệp, khuyến khích đổi mới sáng tạo, đánh giá công tâm, giúp người lao động được ghi nhận và đóng góp xứng đáng. \"Nhất thiết phải cải cách công tác tuyển dụng, bổ nhiệm, sử dụng cán bộ; chú trọng thu hút nhân lực trẻ, trình độ cao và có tư duy sáng tạo\", ông nhấn mạnh.",
+  "id": 10613,
+  "human_label": "SUPPORTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 801,
+  "created_at": "2026-03-17T07:12:02.661244Z",
+  "updated_at": "2026-03-17T07:12:02.661258Z",
+  "lead_time": 355.419
+},
+{
+  "claim_id": "ctx46_claim137",
+  "claim": "Ông Thắng kiến nghị cần giải quyết nhóm vấn đề gồm chế độ đãi ngộ, môi trường làm việc và sự ghi nhận - đánh giá, nhưng không đề cập đến cơ hội thăng tiến để giữ chân người tài.",
+  "label": "REFUTED",
+  "seed_context_id": "vne_246_chunk_1",
+  "seed_context": "Theo ông, sau sáp nhập đơn vị hành chính, nhiều gia đình cán bộ, công chức buộc phải sống xa nhau hàng trăm cây số, con cái phải gửi ông bà hoặc người thân chăm sóc. \"Nhà trọ, nhà công vụ đang chờ đợi họ trong sự trăn trở cơm áo gạo tiền và những xáo trộn, khó khăn khác - đó là những tổn thương âm thầm nhưng không kém bất cứ sự hy sinh nào, rất cần được ghi nhận và trân trọng\", ông Thắng chia sẻ, cho rằng sự giằng co giữa trách nhiệm công vụ và bổn phận gia đình có thể khiến cán bộ khó toàn tâm toàn ý làm việc. Ông kiến nghị cần giải quyết hài hòa các nhóm vấn đề gồm chế độ đãi ngộ, môi trường làm việc, sự ghi nhận - đánh giá và cơ hội thăng tiến để giữ chân người tài. Trong đó, tiền lương và phúc lợi phải là trung tâm, đảm bảo tính cạnh tranh với khu vực tư, đặc biệt tại các vị trí đòi hỏi trình độ chuyên môn cao. Môi trường công vụ cũng cần được cải tổ theo hướng chuyên nghiệp, khuyến khích đổi mới sáng tạo, đánh giá công tâm, giúp người lao động được ghi nhận và đóng góp xứng đáng. \"Nhất thiết phải cải cách công tác tuyển dụng, bổ nhiệm, sử dụng cán bộ; chú trọng thu hút nhân lực trẻ, trình độ cao và có tư duy sáng tạo\", ông nhấn mạnh.",
+  "id": 10614,
+  "human_label": "REFUTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 1
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 802,
+  "created_at": "2026-03-17T07:14:54.712175Z",
+  "updated_at": "2026-03-17T07:14:54.712191Z",
+  "lead_time": 130.207
+},
+{
+  "claim_id": "ctx46_claim138",
+  "claim": "Theo ông Thắng, việc cải cách công tác tuyển dụng, bổ nhiệm, sử dụng cán bộ tại Hà Nội cần chú trọng thu hút nhân lực trẻ, trình độ cao và có tư duy sáng tạo.",
+  "label": "NEI",
+  "seed_context_id": "vne_246_chunk_1",
+  "seed_context": "Theo ông, sau sáp nhập đơn vị hành chính, nhiều gia đình cán bộ, công chức buộc phải sống xa nhau hàng trăm cây số, con cái phải gửi ông bà hoặc người thân chăm sóc. \"Nhà trọ, nhà công vụ đang chờ đợi họ trong sự trăn trở cơm áo gạo tiền và những xáo trộn, khó khăn khác - đó là những tổn thương âm thầm nhưng không kém bất cứ sự hy sinh nào, rất cần được ghi nhận và trân trọng\", ông Thắng chia sẻ, cho rằng sự giằng co giữa trách nhiệm công vụ và bổn phận gia đình có thể khiến cán bộ khó toàn tâm toàn ý làm việc. Ông kiến nghị cần giải quyết hài hòa các nhóm vấn đề gồm chế độ đãi ngộ, môi trường làm việc, sự ghi nhận - đánh giá và cơ hội thăng tiến để giữ chân người tài. Trong đó, tiền lương và phúc lợi phải là trung tâm, đảm bảo tính cạnh tranh với khu vực tư, đặc biệt tại các vị trí đòi hỏi trình độ chuyên môn cao. Môi trường công vụ cũng cần được cải tổ theo hướng chuyên nghiệp, khuyến khích đổi mới sáng tạo, đánh giá công tâm, giúp người lao động được ghi nhận và đóng góp xứng đáng. \"Nhất thiết phải cải cách công tác tuyển dụng, bổ nhiệm, sử dụng cán bộ; chú trọng thu hút nhân lực trẻ, trình độ cao và có tư duy sáng tạo\", ông nhấn mạnh.",
+  "id": 10615,
+  "human_label": "NEI",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 803,
+  "created_at": "2026-03-17T07:18:56.683449Z",
+  "updated_at": "2026-03-17T07:18:56.683463Z",
+  "lead_time": 241.736
+},
+{
+  "claim_id": "ctx47_claim139",
+  "claim": "Trong giai đoạn 2025-2030, dự kiến kinh phí Nhà nước trích gần 19.800 tỷ đồng để hỗ trợ 5,8 triệu người tham gia Bảo hiểm xã hội tự nguyện.",
+  "label": "SUPPORTED",
+  "seed_context_id": "vne_265_chunk_1",
+  "seed_context": "Trường hợp có ngày lẻ chưa đủ tháng thì được làm tròn thành một tháng. Mức trợ cấp được tính bằng mức hưu trí xã hội, dự kiến 500.000 đồng mỗi tháng, được nâng khi Chính phủ điều chỉnh lương hưu. Thời gian hưởng được xác định từ tháng người lao động có văn bản đề nghị khi đã đủ tuổi nghỉ hưu đến khi đủ tuổi hưởng trợ cấp hưu trí xã hội tại thời điểm giải quyết chế độ. Nhà nước tăng mức hỗ trợ đóng Nhà nước hỗ trợ tiền đóng cho người tham gia BHXH tự nguyện theo mức chuẩn nghèo nông thôn. Mức hỗ trợ bằng 50% với người thuộc hộ nghèo, sinh sống tại xã đảo, đặc khu; 40% với người thuộc hộ cận nghèo; 30% với người dân tộc thiểu số và 20% với các nhóm khác. Tỷ lệ Nhà nước trích đóng đã tăng 5-20% tùy từng nhóm so với trước đây. Người tham gia thuộc nhóm được hỗ trợ ở nhiều mức thì được nhận tỷ lệ cao nhất. Thời gian nhà nước hỗ trợ không quá 10 năm. Giai đoạn 2025- 2030, dự kiến kinh phí nhà nước trích gần 19.800 tỷ đồng hỗ trợ 5,8 triệu người tham gia BHXH tự nguyện. Tùy thời kỳ, Chính phủ điều chỉnh tỷ lệ trên và khuyến khích địa phương trích kinh phí hỗ trợ thêm cho người tham gia.",
+  "id": 10616,
+  "human_label": "SUPPORTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 804,
+  "created_at": "2026-03-17T07:20:25.253176Z",
+  "updated_at": "2026-03-17T07:20:25.253191Z",
+  "lead_time": 88.333
+},
+{
+  "claim_id": "ctx47_claim140",
+  "claim": "Thời gian Nhà nước hỗ trợ người tham gia Bảo hiểm xã hội tự nguyện là không quá 20 năm.",
+  "label": "REFUTED",
+  "seed_context_id": "vne_265_chunk_1",
+  "seed_context": "Trường hợp có ngày lẻ chưa đủ tháng thì được làm tròn thành một tháng. Mức trợ cấp được tính bằng mức hưu trí xã hội, dự kiến 500.000 đồng mỗi tháng, được nâng khi Chính phủ điều chỉnh lương hưu. Thời gian hưởng được xác định từ tháng người lao động có văn bản đề nghị khi đã đủ tuổi nghỉ hưu đến khi đủ tuổi hưởng trợ cấp hưu trí xã hội tại thời điểm giải quyết chế độ. Nhà nước tăng mức hỗ trợ đóng Nhà nước hỗ trợ tiền đóng cho người tham gia BHXH tự nguyện theo mức chuẩn nghèo nông thôn. Mức hỗ trợ bằng 50% với người thuộc hộ nghèo, sinh sống tại xã đảo, đặc khu; 40% với người thuộc hộ cận nghèo; 30% với người dân tộc thiểu số và 20% với các nhóm khác. Tỷ lệ Nhà nước trích đóng đã tăng 5-20% tùy từng nhóm so với trước đây. Người tham gia thuộc nhóm được hỗ trợ ở nhiều mức thì được nhận tỷ lệ cao nhất. Thời gian nhà nước hỗ trợ không quá 10 năm. Giai đoạn 2025- 2030, dự kiến kinh phí nhà nước trích gần 19.800 tỷ đồng hỗ trợ 5,8 triệu người tham gia BHXH tự nguyện. Tùy thời kỳ, Chính phủ điều chỉnh tỷ lệ trên và khuyến khích địa phương trích kinh phí hỗ trợ thêm cho người tham gia.",
+  "id": 10617,
+  "human_label": "REFUTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 1
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 805,
+  "created_at": "2026-03-17T07:21:48.827369Z",
+  "updated_at": "2026-03-17T07:21:48.827393Z",
+  "lead_time": 83.373
+},
+{
+  "claim_id": "ctx47_claim141",
+  "claim": "Người tham gia Bảo hiểm xã hội tự nguyện thuộc hộ nghèo, sinh sống tại xã đảo, đặc khu sẽ nhận được mức hỗ trợ 50% theo chuẩn nghèo nông thôn.",
+  "label": "NEI",
+  "seed_context_id": "vne_265_chunk_1",
+  "seed_context": "Trường hợp có ngày lẻ chưa đủ tháng thì được làm tròn thành một tháng. Mức trợ cấp được tính bằng mức hưu trí xã hội, dự kiến 500.000 đồng mỗi tháng, được nâng khi Chính phủ điều chỉnh lương hưu. Thời gian hưởng được xác định từ tháng người lao động có văn bản đề nghị khi đã đủ tuổi nghỉ hưu đến khi đủ tuổi hưởng trợ cấp hưu trí xã hội tại thời điểm giải quyết chế độ. Nhà nước tăng mức hỗ trợ đóng Nhà nước hỗ trợ tiền đóng cho người tham gia BHXH tự nguyện theo mức chuẩn nghèo nông thôn. Mức hỗ trợ bằng 50% với người thuộc hộ nghèo, sinh sống tại xã đảo, đặc khu; 40% với người thuộc hộ cận nghèo; 30% với người dân tộc thiểu số và 20% với các nhóm khác. Tỷ lệ Nhà nước trích đóng đã tăng 5-20% tùy từng nhóm so với trước đây. Người tham gia thuộc nhóm được hỗ trợ ở nhiều mức thì được nhận tỷ lệ cao nhất. Thời gian nhà nước hỗ trợ không quá 10 năm. Giai đoạn 2025- 2030, dự kiến kinh phí nhà nước trích gần 19.800 tỷ đồng hỗ trợ 5,8 triệu người tham gia BHXH tự nguyện. Tùy thời kỳ, Chính phủ điều chỉnh tỷ lệ trên và khuyến khích địa phương trích kinh phí hỗ trợ thêm cho người tham gia.",
+  "id": 10618,
+  "human_label": "SUPPORTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 806,
+  "created_at": "2026-03-17T07:25:34.191881Z",
+  "updated_at": "2026-03-17T07:25:34.191894Z",
+  "lead_time": 225.154
+},
+{
+  "claim_id": "ctx48_claim142",
+  "claim": "Vào ngày 24\/10, Ủy ban Trung ương đảng Cộng sản Trung Quốc đã thông qua Kế hoạch 5 năm lần thứ 15 (2026-2030) tại Hội nghị Trung ương 4, tập trung vào phát triển các ngành kinh tế - công nghệ mới.",
+  "label": "SUPPORTED",
+  "seed_context_id": "vne_943_chunk_0",
+  "seed_context": "Giới chuyên gia đánh giá kế hoạch 5 năm mới của Trung Quốc đặt trọng tâm vào thúc đẩy tự chủ công nghệ và sản xuất chất lượng cao, sẵn sàng cạnh tranh vị thế với Mỹ. Ủy ban Trung ương đảng Cộng sản Trung Quốc ngày 24\/10 cho hay Hội nghị Trung ương 4 đã thông qua Kế hoạch 5 năm lần thứ 15 (2026-2030), xác định 7 phương hướng phát triển chủ yếu của đất nước trong những năm tới, với trọng tâm là phát triển các ngành kinh tế - công nghệ mới. Theo đó, Trung Quốc sẽ hướng đến thành tựu nổi bật trong tăng trưởng chất lượng cao, nâng cao mức độ tự cường khoa học - công nghệ, tiếp tục đột phá trong cải cách toàn diện, nâng cao trình độ văn minh xã hội, cải thiện rõ rệt chất lượng cuộc sống, thúc đẩy \"Trung Quốc tươi đẹp\" và củng cố an ninh quốc gia. Kế hoạch 5 năm lần thứ 15 được công bố sau cuộc họp kéo dài 4 ngày tại Bắc Kinh, với sự tham dự của hàng trăm đại biểu, do Tổng Bí thư, Chủ tịch Tập Cận Bình chủ trì. Chi tiết của kế hoạch sẽ được hoàn thiện trong những tháng tới và dự kiến thông qua tại cuộc họp Đại hội Đại biểu Nhân dân toàn quốc vào tháng 3\/2026.",
+  "id": 10619,
+  "human_label": "SUPPORTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 807,
+  "created_at": "2026-03-17T07:27:06.830735Z",
+  "updated_at": "2026-03-17T07:27:06.830750Z",
+  "lead_time": 92.42
+},
+{
+  "claim_id": "ctx48_claim143",
+  "claim": "Kế hoạch 5 năm lần thứ 15 của Trung Quốc, được thông qua vào ngày 24\/10, sẽ tập trung vào việc mở rộng sản xuất các mặt hàng tiêu dùng giá rẻ và giảm sự phụ thuộc vào công nghệ nước ngoài.",
+  "label": "REFUTED",
+  "seed_context_id": "vne_943_chunk_0",
+  "seed_context": "Giới chuyên gia đánh giá kế hoạch 5 năm mới của Trung Quốc đặt trọng tâm vào thúc đẩy tự chủ công nghệ và sản xuất chất lượng cao, sẵn sàng cạnh tranh vị thế với Mỹ. Ủy ban Trung ương đảng Cộng sản Trung Quốc ngày 24\/10 cho hay Hội nghị Trung ương 4 đã thông qua Kế hoạch 5 năm lần thứ 15 (2026-2030), xác định 7 phương hướng phát triển chủ yếu của đất nước trong những năm tới, với trọng tâm là phát triển các ngành kinh tế - công nghệ mới. Theo đó, Trung Quốc sẽ hướng đến thành tựu nổi bật trong tăng trưởng chất lượng cao, nâng cao mức độ tự cường khoa học - công nghệ, tiếp tục đột phá trong cải cách toàn diện, nâng cao trình độ văn minh xã hội, cải thiện rõ rệt chất lượng cuộc sống, thúc đẩy \"Trung Quốc tươi đẹp\" và củng cố an ninh quốc gia. Kế hoạch 5 năm lần thứ 15 được công bố sau cuộc họp kéo dài 4 ngày tại Bắc Kinh, với sự tham dự của hàng trăm đại biểu, do Tổng Bí thư, Chủ tịch Tập Cận Bình chủ trì. Chi tiết của kế hoạch sẽ được hoàn thiện trong những tháng tới và dự kiến thông qua tại cuộc họp Đại hội Đại biểu Nhân dân toàn quốc vào tháng 3\/2026.",
+  "id": 10620,
+  "human_label": "REFUTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 1
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 808,
+  "created_at": "2026-03-17T07:31:26.812309Z",
+  "updated_at": "2026-03-17T07:31:26.812323Z",
+  "lead_time": 259.742
+},
+{
+  "claim_id": "ctx48_claim144",
+  "claim": "Tổng Bí thư, Chủ tịch Tập Cận Bình đã chủ trì cuộc họp kéo dài 4 ngày tại Bắc Kinh để hoàn thiện chi tiết Kế hoạch 5 năm lần thứ 15 trước khi trình lên Đại hội Đại biểu Nhân dân toàn quốc vào tháng 3\/2026.",
+  "label": "NEI",
+  "seed_context_id": "vne_943_chunk_0",
+  "seed_context": "Giới chuyên gia đánh giá kế hoạch 5 năm mới của Trung Quốc đặt trọng tâm vào thúc đẩy tự chủ công nghệ và sản xuất chất lượng cao, sẵn sàng cạnh tranh vị thế với Mỹ. Ủy ban Trung ương đảng Cộng sản Trung Quốc ngày 24\/10 cho hay Hội nghị Trung ương 4 đã thông qua Kế hoạch 5 năm lần thứ 15 (2026-2030), xác định 7 phương hướng phát triển chủ yếu của đất nước trong những năm tới, với trọng tâm là phát triển các ngành kinh tế - công nghệ mới. Theo đó, Trung Quốc sẽ hướng đến thành tựu nổi bật trong tăng trưởng chất lượng cao, nâng cao mức độ tự cường khoa học - công nghệ, tiếp tục đột phá trong cải cách toàn diện, nâng cao trình độ văn minh xã hội, cải thiện rõ rệt chất lượng cuộc sống, thúc đẩy \"Trung Quốc tươi đẹp\" và củng cố an ninh quốc gia. Kế hoạch 5 năm lần thứ 15 được công bố sau cuộc họp kéo dài 4 ngày tại Bắc Kinh, với sự tham dự của hàng trăm đại biểu, do Tổng Bí thư, Chủ tịch Tập Cận Bình chủ trì. Chi tiết của kế hoạch sẽ được hoàn thiện trong những tháng tới và dự kiến thông qua tại cuộc họp Đại hội Đại biểu Nhân dân toàn quốc vào tháng 3\/2026.",
+  "id": 10621,
+  "human_label": "SUPPORTED",
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 809,
+  "created_at": "2026-03-17T07:35:58.527083Z",
+  "updated_at": "2026-03-17T07:35:58.527102Z",
+  "lead_time": 271.487
+},
+{
+  "claim_id": "ctx49_claim145",
+  "claim": "Vào sáng ngày 7\/9, Bộ tư lệnh không quân Ukraine thông báo Nga đã phóng 810 UAV tự sát và phi cơ mồi bẫy, 9 tên lửa hành trình Iskander-K và 4 tên lửa đạn đạo Iskander-M trong một đòn tập kích.",
+  "label": "SUPPORTED",
+  "seed_context_id": "vne_876_chunk_1",
+  "seed_context": "\"Đòn tập kích đã hoàn thành nhiệm vụ đề ra, tất cả mục tiêu đều bị đánh trúng. Không có vũ khí nào nhắm tới mục tiêu trong nội thành Kiev\", cơ quan này cho hay, dường như nhằm bác bỏ cáo buộc của giới chức Ukraine rằng Nga tập kích trụ sở chính phủ nước láng giềng. Bộ tư lệnh không quân Ukraine trước đó cho biết Nga đã phóng 810 UAV tự sát và phi cơ mồi bẫy, 9 tên lửa hành trình Iskander-K và 4 tên lửa đạn đạo Iskander-M trong đòn tập kích sáng 7\/9. \"Các đơn vị phòng không đã bắn hạ, gây nhiễu 747 UAV và 4 tên lửa Iskander-K. 9 tên lửa và 54 UAV đánh trúng 33 địa điểm, mảnh vỡ cũng rơi xuống 8 khu vực\", thông báo có đoạn. Cuộc tập kích ngày 7\/9 của Nga được đánh giá là có quy mô lớn nhất từ trước đến nay, diễn ra sau khi 26 quốc gia châu Âu cam kết đảm bảo an ninh cho Ukraine sau chiến sự. Một số quốc gia châu Âu cho biết sẵn sàng đưa quân tới Ukraine, số khác tuyên bố sẽ hỗ trợ quân sự hoặc chờ động thái từ Mỹ để ra quyết định. Tổng thống Vladimir Putin ngày 5\/9 cảnh báo Nga sẽ tấn công mọi lực lượng phương Tây đặt chân đến Ukraine, cho rằng sự hiện diện của quân đội nước ngoài là \"không cần thiết với thỏa thuận hòa bình\".",
+  "id": 10622,
+  "human_label": "SUPPORTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 810,
+  "created_at": "2026-03-17T07:36:50.498273Z",
+  "updated_at": "2026-03-17T07:36:50.498288Z",
+  "lead_time": 51.744
+},
+{
+  "claim_id": "ctx49_claim146",
+  "claim": "Trong đòn tập kích sáng ngày 7\/9, tất cả 810 UAV tự sát và phi cơ mồi bẫy của Nga đều đã đánh trúng mục tiêu, không có chiếc nào bị phòng không Ukraine bắn hạ hay gây nhiễu.",
+  "label": "REFUTED",
+  "seed_context_id": "vne_876_chunk_1",
+  "seed_context": "\"Đòn tập kích đã hoàn thành nhiệm vụ đề ra, tất cả mục tiêu đều bị đánh trúng. Không có vũ khí nào nhắm tới mục tiêu trong nội thành Kiev\", cơ quan này cho hay, dường như nhằm bác bỏ cáo buộc của giới chức Ukraine rằng Nga tập kích trụ sở chính phủ nước láng giềng. Bộ tư lệnh không quân Ukraine trước đó cho biết Nga đã phóng 810 UAV tự sát và phi cơ mồi bẫy, 9 tên lửa hành trình Iskander-K và 4 tên lửa đạn đạo Iskander-M trong đòn tập kích sáng 7\/9. \"Các đơn vị phòng không đã bắn hạ, gây nhiễu 747 UAV và 4 tên lửa Iskander-K. 9 tên lửa và 54 UAV đánh trúng 33 địa điểm, mảnh vỡ cũng rơi xuống 8 khu vực\", thông báo có đoạn. Cuộc tập kích ngày 7\/9 của Nga được đánh giá là có quy mô lớn nhất từ trước đến nay, diễn ra sau khi 26 quốc gia châu Âu cam kết đảm bảo an ninh cho Ukraine sau chiến sự. Một số quốc gia châu Âu cho biết sẵn sàng đưa quân tới Ukraine, số khác tuyên bố sẽ hỗ trợ quân sự hoặc chờ động thái từ Mỹ để ra quyết định. Tổng thống Vladimir Putin ngày 5\/9 cảnh báo Nga sẽ tấn công mọi lực lượng phương Tây đặt chân đến Ukraine, cho rằng sự hiện diện của quân đội nước ngoài là \"không cần thiết với thỏa thuận hòa bình\".",
+  "id": 10623,
+  "human_label": "REFUTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 811,
+  "created_at": "2026-03-17T07:38:13.024868Z",
+  "updated_at": "2026-03-17T07:38:13.024883Z",
+  "lead_time": 82.295
+},
+{
+  "claim_id": "ctx49_claim147",
+  "claim": "Sau cam kết đảm bảo an ninh cho Ukraine của 26 quốc gia châu Âu, Tổng thống Vladimir Putin đã đề xuất một thỏa thuận hòa bình mới.",
+  "label": "NEI",
+  "seed_context_id": "vne_876_chunk_1",
+  "seed_context": "\"Đòn tập kích đã hoàn thành nhiệm vụ đề ra, tất cả mục tiêu đều bị đánh trúng. Không có vũ khí nào nhắm tới mục tiêu trong nội thành Kiev\", cơ quan này cho hay, dường như nhằm bác bỏ cáo buộc của giới chức Ukraine rằng Nga tập kích trụ sở chính phủ nước láng giềng. Bộ tư lệnh không quân Ukraine trước đó cho biết Nga đã phóng 810 UAV tự sát và phi cơ mồi bẫy, 9 tên lửa hành trình Iskander-K và 4 tên lửa đạn đạo Iskander-M trong đòn tập kích sáng 7\/9. \"Các đơn vị phòng không đã bắn hạ, gây nhiễu 747 UAV và 4 tên lửa Iskander-K. 9 tên lửa và 54 UAV đánh trúng 33 địa điểm, mảnh vỡ cũng rơi xuống 8 khu vực\", thông báo có đoạn. Cuộc tập kích ngày 7\/9 của Nga được đánh giá là có quy mô lớn nhất từ trước đến nay, diễn ra sau khi 26 quốc gia châu Âu cam kết đảm bảo an ninh cho Ukraine sau chiến sự. Một số quốc gia châu Âu cho biết sẵn sàng đưa quân tới Ukraine, số khác tuyên bố sẽ hỗ trợ quân sự hoặc chờ động thái từ Mỹ để ra quyết định. Tổng thống Vladimir Putin ngày 5\/9 cảnh báo Nga sẽ tấn công mọi lực lượng phương Tây đặt chân đến Ukraine, cho rằng sự hiện diện của quân đội nước ngoài là \"không cần thiết với thỏa thuận hòa bình\".",
+  "id": 10624,
+  "human_label": "NEI",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 812,
+  "created_at": "2026-03-17T07:39:20.664393Z",
+  "updated_at": "2026-03-17T07:39:20.664408Z",
+  "lead_time": 67.41
+},
+{
+  "claim_id": "ctx50_claim148",
+  "claim": "Tổng thống Mỹ Donald Trump đã viết trên Truth Social vào ngày 30\/6 rằng Nhật Bản không mua gạo của Mỹ trong khi đang thiếu gạo trầm trọng.",
+  "label": "SUPPORTED",
+  "seed_context_id": "vne_783_chunk_0",
+  "seed_context": "Tổng thống Mỹ dọa áp thuế cao hơn đối với hàng xuất khẩu Nhật Bản, do Tokyo \"không muốn mua gạo Mỹ trồng\" dù đang thiếu gạo. \"Nhật Bản không mua gạo của Mỹ trong khi đang thiếu gạo trầm trọng. Nói cách khác, chúng ta sẽ gửi cho họ một lá thư, và chúng ta vẫn rất trân trọng khi có họ là đối tác thương mại trong nhiều năm tới\", Tổng thống Mỹ Donald Trump viết trên Truth Social ngày 30\/6. Ông Trump mô tả việc Nhật Bản không muốn nhập khẩu gạo trồng tại Mỹ là dấu hiệu cho thấy \"các nước đã quen được Mỹ ưu ái\". Tổng thống Mỹ tuần trước nói Washington có kế hoạch gửi thư cho một số quốc gia về mức thuế cao hơn trước ngày 9\/7, hạn chót mà ông đã đề ra về hoãn áp thuế đối ứng hồi tháng 4. Trong phỏng vấn với ngày 29\/6, ông Trump cho biết Nhật Bản là một trong số quốc gia \"có thể nhận thư\". \"Kính gửi 'ngài Nhật Bản', chuyện là thế này: Ngài sẽ phải chịu mức thuế 25% đối với ôtô của mình\", Tổng thống Mỹ nêu ví dụ. Đáp lại cảnh báo từ ông Trump, trưởng Kinh tế Ryosei Akazawa tuyên bố Nhật Bản \"không hy sinh ngành nông nghiệp\" khi đàm phán thuế với Mỹ.",
+  "id": 10625,
+  "human_label": "SUPPORTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 813,
+  "created_at": "2026-03-17T07:40:35.501901Z",
+  "updated_at": "2026-03-17T07:40:35.501914Z",
+  "lead_time": 74.589
+},
+{
+  "claim_id": "ctx50_claim149",
+  "claim": "Trưởng Kinh tế Ryosei Akazawa tuyên bố Nhật Bản sẽ hy sinh ngành nông nghiệp để đàm phán thuế với Mỹ.",
+  "label": "REFUTED",
+  "seed_context_id": "vne_783_chunk_0",
+  "seed_context": "Tổng thống Mỹ dọa áp thuế cao hơn đối với hàng xuất khẩu Nhật Bản, do Tokyo \"không muốn mua gạo Mỹ trồng\" dù đang thiếu gạo. \"Nhật Bản không mua gạo của Mỹ trong khi đang thiếu gạo trầm trọng. Nói cách khác, chúng ta sẽ gửi cho họ một lá thư, và chúng ta vẫn rất trân trọng khi có họ là đối tác thương mại trong nhiều năm tới\", Tổng thống Mỹ Donald Trump viết trên Truth Social ngày 30\/6. Ông Trump mô tả việc Nhật Bản không muốn nhập khẩu gạo trồng tại Mỹ là dấu hiệu cho thấy \"các nước đã quen được Mỹ ưu ái\". Tổng thống Mỹ tuần trước nói Washington có kế hoạch gửi thư cho một số quốc gia về mức thuế cao hơn trước ngày 9\/7, hạn chót mà ông đã đề ra về hoãn áp thuế đối ứng hồi tháng 4. Trong phỏng vấn với ngày 29\/6, ông Trump cho biết Nhật Bản là một trong số quốc gia \"có thể nhận thư\". \"Kính gửi 'ngài Nhật Bản', chuyện là thế này: Ngài sẽ phải chịu mức thuế 25% đối với ôtô của mình\", Tổng thống Mỹ nêu ví dụ. Đáp lại cảnh báo từ ông Trump, trưởng Kinh tế Ryosei Akazawa tuyên bố Nhật Bản \"không hy sinh ngành nông nghiệp\" khi đàm phán thuế với Mỹ.",
+  "id": 10626,
+  "human_label": "REFUTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 814,
+  "created_at": "2026-03-17T07:41:31.774281Z",
+  "updated_at": "2026-03-17T07:41:31.774305Z",
+  "lead_time": 56.037
+},
+{
+  "claim_id": "ctx50_claim150",
+  "claim": "Vào ngày 9\/7, Tổng thống Mỹ Donald Trump đã áp đặt mức thuế 25% đối với ô tô của Nhật Bản.",
+  "label": "NEI",
+  "seed_context_id": "vne_783_chunk_0",
+  "seed_context": "Tổng thống Mỹ dọa áp thuế cao hơn đối với hàng xuất khẩu Nhật Bản, do Tokyo \"không muốn mua gạo Mỹ trồng\" dù đang thiếu gạo. \"Nhật Bản không mua gạo của Mỹ trong khi đang thiếu gạo trầm trọng. Nói cách khác, chúng ta sẽ gửi cho họ một lá thư, và chúng ta vẫn rất trân trọng khi có họ là đối tác thương mại trong nhiều năm tới\", Tổng thống Mỹ Donald Trump viết trên Truth Social ngày 30\/6. Ông Trump mô tả việc Nhật Bản không muốn nhập khẩu gạo trồng tại Mỹ là dấu hiệu cho thấy \"các nước đã quen được Mỹ ưu ái\". Tổng thống Mỹ tuần trước nói Washington có kế hoạch gửi thư cho một số quốc gia về mức thuế cao hơn trước ngày 9\/7, hạn chót mà ông đã đề ra về hoãn áp thuế đối ứng hồi tháng 4. Trong phỏng vấn với ngày 29\/6, ông Trump cho biết Nhật Bản là một trong số quốc gia \"có thể nhận thư\". \"Kính gửi 'ngài Nhật Bản', chuyện là thế này: Ngài sẽ phải chịu mức thuế 25% đối với ôtô của mình\", Tổng thống Mỹ nêu ví dụ. Đáp lại cảnh báo từ ông Trump, trưởng Kinh tế Ryosei Akazawa tuyên bố Nhật Bản \"không hy sinh ngành nông nghiệp\" khi đàm phán thuế với Mỹ.",
+  "id": 10627,
+  "human_label": "NEI",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 815,
+  "created_at": "2026-03-17T07:43:05.236336Z",
+  "updated_at": "2026-03-17T07:43:14.620223Z",
+  "lead_time": 97.208
+},
+{
+  "claim_id": "ctx51_claim151",
+  "claim": "Vào ngày 17\/11, Lục quân Pháp đã đăng tải hình ảnh về một cuộc diễn tập chung với quân đội Thụy Sĩ tại làng Hinterrhein, giới thiệu xe tăng chủ lực Leclerc XLR được trang bị giáp lồng thử nghiệm trên nóc tháp pháo để chống drone.",
+  "label": "SUPPORTED",
+  "seed_context_id": "vne_543_chunk_0",
+  "seed_context": "Quân đội Pháp thử nghiệm giáp lồng trên nóc tháp pháo Leclerc, mẫu xe tăng chủ lực đắt nhất thế giới, nhằm tăng khả năng chống chịu drone. Lục quân Pháp ngày 17\/11 đăng loạt hình ảnh cuộc diễn tập chung với quân đội Thụy Sĩ tại làng Hinterrhein, trong đó huy động nhiều xe tăng chủ lực Leclerc XLR. Các bức ảnh cho thấy một xe Leclerc được lắp giáp lồng chống thiết bị bay không người lái (drone) trên nóc tháp pháo. Bộ phận này gồm phần mái dạng nghiêng, kết hợp với các tấm lưới thép hàn vào cột trụ xung quanh. Thiết kế này có thể bảo vệ nóc tháp pháo, phần có vỏ giáp mỏng nhất của xe tăng, khỏi drone thả chất nổ và drone góc nhìn thứ nhất (FPV) mang đầu nổ lõm xuyên giáp. Tuy nhiên, nhiều điểm yếu như nóc khoang lái xe và mặt trên khoang động cơ vẫn chưa có biện pháp che chắn, khiến chúng dễ tổn thương trước những loại drone FPV hoặc drone thả đầu nổ xuyên giáp cỡ lớn. Lục quân Pháp cho biết thiết kế giáp lồng này chỉ mang tính thử nghiệm, chưa phải sản phẩm được ứng dụng đại trà. Leclerc là xe tăng chủ lực thế hệ thứ ba, được thiết kế trong giai đoạn 1983-1989, bắt đầu sản xuất từ năm 1991 và đưa vào biên chế quân đội Pháp năm 1993.",
+  "id": 10628,
+  "human_label": "SUPPORTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 816,
+  "created_at": "2026-03-17T07:44:40.216286Z",
+  "updated_at": "2026-03-17T07:44:40.216308Z",
+  "lead_time": 82.527
+},
+{
+  "claim_id": "ctx51_claim152",
+  "claim": "Quân đội Pháp đã chính thức ứng dụng đại trà thiết kế giáp lồng trên nóc tháp pháo của xe tăng Leclerc XLR sau cuộc diễn tập chung với quân đội Thụy Sĩ vào ngày 17\/11 tại làng Hinterrhein.",
+  "label": "REFUTED",
+  "seed_context_id": "vne_543_chunk_0",
+  "seed_context": "Quân đội Pháp thử nghiệm giáp lồng trên nóc tháp pháo Leclerc, mẫu xe tăng chủ lực đắt nhất thế giới, nhằm tăng khả năng chống chịu drone. Lục quân Pháp ngày 17\/11 đăng loạt hình ảnh cuộc diễn tập chung với quân đội Thụy Sĩ tại làng Hinterrhein, trong đó huy động nhiều xe tăng chủ lực Leclerc XLR. Các bức ảnh cho thấy một xe Leclerc được lắp giáp lồng chống thiết bị bay không người lái (drone) trên nóc tháp pháo. Bộ phận này gồm phần mái dạng nghiêng, kết hợp với các tấm lưới thép hàn vào cột trụ xung quanh. Thiết kế này có thể bảo vệ nóc tháp pháo, phần có vỏ giáp mỏng nhất của xe tăng, khỏi drone thả chất nổ và drone góc nhìn thứ nhất (FPV) mang đầu nổ lõm xuyên giáp. Tuy nhiên, nhiều điểm yếu như nóc khoang lái xe và mặt trên khoang động cơ vẫn chưa có biện pháp che chắn, khiến chúng dễ tổn thương trước những loại drone FPV hoặc drone thả đầu nổ xuyên giáp cỡ lớn. Lục quân Pháp cho biết thiết kế giáp lồng này chỉ mang tính thử nghiệm, chưa phải sản phẩm được ứng dụng đại trà. Leclerc là xe tăng chủ lực thế hệ thứ ba, được thiết kế trong giai đoạn 1983-1989, bắt đầu sản xuất từ năm 1991 và đưa vào biên chế quân đội Pháp năm 1993.",
+  "id": 10629,
+  "human_label": "REFUTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 1
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 817,
+  "created_at": "2026-03-17T07:45:46.226568Z",
+  "updated_at": "2026-03-17T07:45:46.226586Z",
+  "lead_time": 65.782
+},
+{
+  "claim_id": "ctx51_claim153",
+  "claim": "Trong cuộc diễn tập chung với quân đội Thụy Sĩ tại làng Hinterrhein vào ngày 17\/11, xe tăng Leclerc XLR đã được trang bị hệ thống phòng thủ chủ động để đối phó với các mối đe dọa từ drone.",
+  "label": "NEI",
+  "seed_context_id": "vne_543_chunk_0",
+  "seed_context": "Quân đội Pháp thử nghiệm giáp lồng trên nóc tháp pháo Leclerc, mẫu xe tăng chủ lực đắt nhất thế giới, nhằm tăng khả năng chống chịu drone. Lục quân Pháp ngày 17\/11 đăng loạt hình ảnh cuộc diễn tập chung với quân đội Thụy Sĩ tại làng Hinterrhein, trong đó huy động nhiều xe tăng chủ lực Leclerc XLR. Các bức ảnh cho thấy một xe Leclerc được lắp giáp lồng chống thiết bị bay không người lái (drone) trên nóc tháp pháo. Bộ phận này gồm phần mái dạng nghiêng, kết hợp với các tấm lưới thép hàn vào cột trụ xung quanh. Thiết kế này có thể bảo vệ nóc tháp pháo, phần có vỏ giáp mỏng nhất của xe tăng, khỏi drone thả chất nổ và drone góc nhìn thứ nhất (FPV) mang đầu nổ lõm xuyên giáp. Tuy nhiên, nhiều điểm yếu như nóc khoang lái xe và mặt trên khoang động cơ vẫn chưa có biện pháp che chắn, khiến chúng dễ tổn thương trước những loại drone FPV hoặc drone thả đầu nổ xuyên giáp cỡ lớn. Lục quân Pháp cho biết thiết kế giáp lồng này chỉ mang tính thử nghiệm, chưa phải sản phẩm được ứng dụng đại trà. Leclerc là xe tăng chủ lực thế hệ thứ ba, được thiết kế trong giai đoạn 1983-1989, bắt đầu sản xuất từ năm 1991 và đưa vào biên chế quân đội Pháp năm 1993.",
+  "id": 10630,
+  "human_label": "NEI",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 818,
+  "created_at": "2026-03-17T07:46:44.510335Z",
+  "updated_at": "2026-03-17T07:46:44.510362Z",
+  "lead_time": 58.074
+},
+{
+  "claim_id": "ctx52_claim154",
+  "claim": "Năm 2023, xuất khẩu sầu riêng đạt kỷ lục 3,3 tỷ USD, chiếm gần một nửa giá trị xuất khẩu rau quả của Việt Nam.",
+  "label": "SUPPORTED",
+  "seed_context_id": "vne_261_chunk_2",
+  "seed_context": "Trong đó, miền Tây có khoảng 35.000 ha, riêng Tiền Giang chiếm 24.000 ha. Tuy nhiên, giá sầu riêng hiện chỉ bằng một phần ba so với cùng kỳ năm ngoái. Nguyên nhân chính là Trung Quốc, thị trường xuất khẩu lớn nhất, siết kiểm tra hàm lượng hợp chất vàng O - chất có nguy cơ gây ung thư, khiến nhiều lô hàng bị trả về, phải tiêu thụ nội địa với giá thấp. Năm 2023, sầu riêng lập kỷ lục xuất khẩu với 3,3 tỷ USD, chiếm gần một nửa giá trị rau quả. Nhưng chỉ trong hai tháng đầu năm nay, kim ngạch giảm 69%, còn 52,7 triệu USD; riêng xuất sang Trung Quốc giảm tới 83%, còn 27 triệu USD. Sầu riêng từ vị trí xuất khẩu số một rơi xuống thứ ba, sau thanh long và chuối. Theo ông Lê Chí Thiện, Giám đốc Sở Nông nghiệp và Môi trường Đồng Tháp, giá sầu riêng giảm là xu hướng chung toàn vùng. Trước mắt, các địa phương tăng cường tập huấn kỹ thuật, hướng dẫn nông dân nâng cao chất lượng trái, hạn chế tồn dư chất cấm, đồng thời tìm giải pháp giảm chi phí để tăng khả năng trụ vững trong giai đoạn giá cả bấp bênh.",
+  "id": 10631,
+  "human_label": "SUPPORTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 819,
+  "created_at": "2026-03-17T07:47:31.616240Z",
+  "updated_at": "2026-03-17T07:47:31.616252Z",
+  "lead_time": 46.891
+},
+{
+  "claim_id": "ctx52_claim155",
+  "claim": "Trong hai tháng đầu năm 2024, kim ngạch xuất khẩu sầu riêng sang Trung Quốc tăng 83%, đạt 27 triệu USD.",
+  "label": "REFUTED",
+  "seed_context_id": "vne_261_chunk_2",
+  "seed_context": "Trong đó, miền Tây có khoảng 35.000 ha, riêng Tiền Giang chiếm 24.000 ha. Tuy nhiên, giá sầu riêng hiện chỉ bằng một phần ba so với cùng kỳ năm ngoái. Nguyên nhân chính là Trung Quốc, thị trường xuất khẩu lớn nhất, siết kiểm tra hàm lượng hợp chất vàng O - chất có nguy cơ gây ung thư, khiến nhiều lô hàng bị trả về, phải tiêu thụ nội địa với giá thấp. Năm 2023, sầu riêng lập kỷ lục xuất khẩu với 3,3 tỷ USD, chiếm gần một nửa giá trị rau quả. Nhưng chỉ trong hai tháng đầu năm nay, kim ngạch giảm 69%, còn 52,7 triệu USD; riêng xuất sang Trung Quốc giảm tới 83%, còn 27 triệu USD. Sầu riêng từ vị trí xuất khẩu số một rơi xuống thứ ba, sau thanh long và chuối. Theo ông Lê Chí Thiện, Giám đốc Sở Nông nghiệp và Môi trường Đồng Tháp, giá sầu riêng giảm là xu hướng chung toàn vùng. Trước mắt, các địa phương tăng cường tập huấn kỹ thuật, hướng dẫn nông dân nâng cao chất lượng trái, hạn chế tồn dư chất cấm, đồng thời tìm giải pháp giảm chi phí để tăng khả năng trụ vững trong giai đoạn giá cả bấp bênh.",
+  "id": 10632,
+  "human_label": "REFUTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 1
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 820,
+  "created_at": "2026-03-17T07:48:24.681174Z",
+  "updated_at": "2026-03-17T07:48:24.681187Z",
+  "lead_time": 52.829
+},
+{
+  "claim_id": "ctx52_claim156",
+  "claim": "Ông Lê Chí Thiện, Giám đốc Sở Nông nghiệp và Môi trường Đồng Tháp, cho biết các địa phương đang tìm kiếm các thị trường xuất khẩu mới cho sầu riêng ngoài Trung Quốc.",
+  "label": "NEI",
+  "seed_context_id": "vne_261_chunk_2",
+  "seed_context": "Trong đó, miền Tây có khoảng 35.000 ha, riêng Tiền Giang chiếm 24.000 ha. Tuy nhiên, giá sầu riêng hiện chỉ bằng một phần ba so với cùng kỳ năm ngoái. Nguyên nhân chính là Trung Quốc, thị trường xuất khẩu lớn nhất, siết kiểm tra hàm lượng hợp chất vàng O - chất có nguy cơ gây ung thư, khiến nhiều lô hàng bị trả về, phải tiêu thụ nội địa với giá thấp. Năm 2023, sầu riêng lập kỷ lục xuất khẩu với 3,3 tỷ USD, chiếm gần một nửa giá trị rau quả. Nhưng chỉ trong hai tháng đầu năm nay, kim ngạch giảm 69%, còn 52,7 triệu USD; riêng xuất sang Trung Quốc giảm tới 83%, còn 27 triệu USD. Sầu riêng từ vị trí xuất khẩu số một rơi xuống thứ ba, sau thanh long và chuối. Theo ông Lê Chí Thiện, Giám đốc Sở Nông nghiệp và Môi trường Đồng Tháp, giá sầu riêng giảm là xu hướng chung toàn vùng. Trước mắt, các địa phương tăng cường tập huấn kỹ thuật, hướng dẫn nông dân nâng cao chất lượng trái, hạn chế tồn dư chất cấm, đồng thời tìm giải pháp giảm chi phí để tăng khả năng trụ vững trong giai đoạn giá cả bấp bênh.",
+  "id": 10633,
+  "human_label": "NEI",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 821,
+  "created_at": "2026-03-17T07:49:10.426146Z",
+  "updated_at": "2026-03-17T07:49:10.426158Z",
+  "lead_time": 45.511
+},
+{
+  "claim_id": "ctx53_claim157",
+  "claim": "Chiều ngày 1\/7, một tiêm kích bom Su-34 của Nga đã gặp sự cố càng đáp trong chuyến bay huấn luyện tại tỉnh Nizhny Novgorod, miền tây nước Nga.",
+  "label": "SUPPORTED",
+  "seed_context_id": "vne_785_chunk_0",
+  "seed_context": "Tiêm kích bom Su-34 Nga gặp sự cố khi huấn luyện ở tỉnh Nizhny Novgorod, phi công điều khiển máy bay đến nơi trống trải rồi phóng ghế thoát hiểm. Bộ Quốc phòng Nga cho biết sự cố xảy ra trong chuyến bay huấn luyện theo lịch trình của tiêm kích bom Su-34 tại tỉnh Nizhny Novgorod, miền tây nước này, chiều 1\/7. \"Trong quá trình hạ cánh, một càng đáp gặp trục trặc và không thể thả bình thường. Kíp lái đã cố gắng khắc phục sự cố nhưng không thành công\", cơ quan này cho hay. Tổ lái sau đó được lệnh đưa máy bay tới vùng an toàn rồi phóng ghế thoát hiểm. \"Phi cơ không mang theo đạn dược và rơi xuống khu vực không có người ở, không gây thiệt hại trên mặt đất. Hai phi công đều sống sót\", Bộ Quốc phòng Nga cho hay. Video trên mạng xã hội cùng ngày cho thấy chiếc Su-34 bay với càng trước và càng chính bên phải đã thả, trong khi cụm càng chính bên trái chưa triển khai. Theo giới chuyên gia, nếu tất cả càng không bung, tổ lái vẫn có thể hạ cánh bằng bụng ở sân bay. Tuy nhiên, trong trường hợp một càng chính không thả, hai càng còn lại không thể thu vào máy bay thì các phi công phải nhảy dù để bảo đảm an toàn.",
+  "id": 10634,
+  "human_label": "SUPPORTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 822,
+  "created_at": "2026-03-17T07:49:50.933594Z",
+  "updated_at": "2026-03-17T07:49:50.933613Z",
+  "lead_time": 40.265
+},
+{
+  "claim_id": "ctx53_claim158",
+  "claim": "Trong quá trình hạ cánh, phi công đã cố gắng khắc phục sự cố càng đáp không bung nhưng không thành công, buộc phải nhảy dù khỏi máy bay Su-34 không mang đạn dược tại tỉnh Nizhny Novgorod vào chiều 1\/7.",
+  "label": "REFUTED",
+  "seed_context_id": "vne_785_chunk_0",
+  "seed_context": "Tiêm kích bom Su-34 Nga gặp sự cố khi huấn luyện ở tỉnh Nizhny Novgorod, phi công điều khiển máy bay đến nơi trống trải rồi phóng ghế thoát hiểm. Bộ Quốc phòng Nga cho biết sự cố xảy ra trong chuyến bay huấn luyện theo lịch trình của tiêm kích bom Su-34 tại tỉnh Nizhny Novgorod, miền tây nước này, chiều 1\/7. \"Trong quá trình hạ cánh, một càng đáp gặp trục trặc và không thể thả bình thường. Kíp lái đã cố gắng khắc phục sự cố nhưng không thành công\", cơ quan này cho hay. Tổ lái sau đó được lệnh đưa máy bay tới vùng an toàn rồi phóng ghế thoát hiểm. \"Phi cơ không mang theo đạn dược và rơi xuống khu vực không có người ở, không gây thiệt hại trên mặt đất. Hai phi công đều sống sót\", Bộ Quốc phòng Nga cho hay. Video trên mạng xã hội cùng ngày cho thấy chiếc Su-34 bay với càng trước và càng chính bên phải đã thả, trong khi cụm càng chính bên trái chưa triển khai. Theo giới chuyên gia, nếu tất cả càng không bung, tổ lái vẫn có thể hạ cánh bằng bụng ở sân bay. Tuy nhiên, trong trường hợp một càng chính không thả, hai càng còn lại không thể thu vào máy bay thì các phi công phải nhảy dù để bảo đảm an toàn.",
+  "id": 10635,
+  "human_label": "SUPPORTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 823,
+  "created_at": "2026-03-17T08:09:35.820261Z",
+  "updated_at": "2026-03-17T08:09:35.820274Z",
+  "lead_time": 1184.65
+},
+{
+  "claim_id": "ctx53_claim159",
+  "claim": "Hai phi công trên chiếc tiêm kích bom Su-34 đã được lực lượng cứu hộ khẩn trương tiếp cận sau khi họ nhảy dù thoát hiểm thành công xuống khu vực dân cư đông đúc ở tỉnh Nizhny Novgorod vào chiều 1\/7.",
+  "label": "NEI",
+  "seed_context_id": "vne_785_chunk_0",
+  "seed_context": "Tiêm kích bom Su-34 Nga gặp sự cố khi huấn luyện ở tỉnh Nizhny Novgorod, phi công điều khiển máy bay đến nơi trống trải rồi phóng ghế thoát hiểm. Bộ Quốc phòng Nga cho biết sự cố xảy ra trong chuyến bay huấn luyện theo lịch trình của tiêm kích bom Su-34 tại tỉnh Nizhny Novgorod, miền tây nước này, chiều 1\/7. \"Trong quá trình hạ cánh, một càng đáp gặp trục trặc và không thể thả bình thường. Kíp lái đã cố gắng khắc phục sự cố nhưng không thành công\", cơ quan này cho hay. Tổ lái sau đó được lệnh đưa máy bay tới vùng an toàn rồi phóng ghế thoát hiểm. \"Phi cơ không mang theo đạn dược và rơi xuống khu vực không có người ở, không gây thiệt hại trên mặt đất. Hai phi công đều sống sót\", Bộ Quốc phòng Nga cho hay. Video trên mạng xã hội cùng ngày cho thấy chiếc Su-34 bay với càng trước và càng chính bên phải đã thả, trong khi cụm càng chính bên trái chưa triển khai. Theo giới chuyên gia, nếu tất cả càng không bung, tổ lái vẫn có thể hạ cánh bằng bụng ở sân bay. Tuy nhiên, trong trường hợp một càng chính không thả, hai càng còn lại không thể thu vào máy bay thì các phi công phải nhảy dù để bảo đảm an toàn.",
+  "id": 10636,
+  "human_label": "REFUTED",
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 1
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 824,
+  "created_at": "2026-03-17T08:13:06.256208Z",
+  "updated_at": "2026-03-17T08:13:06.256223Z",
+  "lead_time": 210.217
+},
+{
+  "claim_id": "ctx54_claim160",
+  "claim": "Bí thư thứ nhất, Chủ tịch Cuba Miguel Diaz-Canel Bermudez trong chuyến thăm cấp nhà nước Việt Nam bắt đầu từ ngày 31\/8 đã khẳng định Cuba luôn trân trọng sự ủng hộ của Việt Nam trong các lĩnh vực sản xuất lúa gạo, an ninh lương thực và năng lượng tái tạo.",
+  "label": "SUPPORTED",
+  "seed_context_id": "vne_867_chunk_3",
+  "seed_context": "Ông Bermudez khẳng định Cuba luôn trân trọng tình cảm đoàn kết và sự ủng hộ, giúp đỡ quý báu của Việt Nam dành cho nhân dân Cuba trong thời gian qua, đặc biệt là sự hỗ trợ thiết thực, hiệu quả trong các lĩnh vực mang tính chiến lược như sản xuất lúa gạo và an ninh lương thực, phát triển năng lượng tái tạo. Hai lãnh đạo nhất trí tiếp tục tham vấn, phối hợp chặt chẽ, ủng hộ lẫn nhau tại các tổ chức quốc tế và diễn đàn đa phương, tăng cường các hoạt động trao đổi, hợp tác và giao lưu giữa các tổ chức chính trị - xã hội, đoàn thể quần chúng, doanh nghiệp và nhân dân hai nước, đồng thời tuyên truyền, giáo dục thế hệ trẻ về truyền thống quan hệ hữu nghị đặc biệt Việt Nam - Cuba. Bí thư thứ nhất, Chủ tịch Cuba Miguel Diaz-Canel Bermudez đang trong chuyến thăm cấp nhà nước Việt Nam bắt đầu từ 31\/8. Ngày mai, ông sẽ dự Lễ kỷ niệm 80 năm Cách mạng tháng Tám thành công và Quốc khánh Việt Nam.",
+  "id": 10637,
+  "human_label": "SUPPORTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 825,
+  "created_at": "2026-03-17T08:16:41.257570Z",
+  "updated_at": "2026-03-17T08:16:41.257585Z",
+  "lead_time": 214.758
+},
+{
+  "claim_id": "ctx54_claim161",
+  "claim": "Trong chuyến thăm Việt Nam bắt đầu từ 31\/8, ông Miguel Diaz-Canel Bermudez đã tuyên bố Cuba sẽ ngừng hợp tác với Việt Nam trong lĩnh vực sản xuất lúa gạo, an ninh lương thực và năng lượng tái tạo do không còn phù hợp.",
+  "label": "REFUTED",
+  "seed_context_id": "vne_867_chunk_3",
+  "seed_context": "Ông Bermudez khẳng định Cuba luôn trân trọng tình cảm đoàn kết và sự ủng hộ, giúp đỡ quý báu của Việt Nam dành cho nhân dân Cuba trong thời gian qua, đặc biệt là sự hỗ trợ thiết thực, hiệu quả trong các lĩnh vực mang tính chiến lược như sản xuất lúa gạo và an ninh lương thực, phát triển năng lượng tái tạo. Hai lãnh đạo nhất trí tiếp tục tham vấn, phối hợp chặt chẽ, ủng hộ lẫn nhau tại các tổ chức quốc tế và diễn đàn đa phương, tăng cường các hoạt động trao đổi, hợp tác và giao lưu giữa các tổ chức chính trị - xã hội, đoàn thể quần chúng, doanh nghiệp và nhân dân hai nước, đồng thời tuyên truyền, giáo dục thế hệ trẻ về truyền thống quan hệ hữu nghị đặc biệt Việt Nam - Cuba. Bí thư thứ nhất, Chủ tịch Cuba Miguel Diaz-Canel Bermudez đang trong chuyến thăm cấp nhà nước Việt Nam bắt đầu từ 31\/8. Ngày mai, ông sẽ dự Lễ kỷ niệm 80 năm Cách mạng tháng Tám thành công và Quốc khánh Việt Nam.",
+  "id": 10638,
+  "human_label": "REFUTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 826,
+  "created_at": "2026-03-17T08:17:25.372396Z",
+  "updated_at": "2026-03-17T08:17:25.372415Z",
+  "lead_time": 43.907
+},
+{
+  "claim_id": "ctx54_claim162",
+  "claim": "Vào ngày 1\/9, ông Miguel Diaz-Canel Bermudez đã ký kết hiệp định hợp tác quốc phòng giữa Cuba và Việt Nam tại Hà Nội.",
+  "label": "NEI",
+  "seed_context_id": "vne_867_chunk_3",
+  "seed_context": "Ông Bermudez khẳng định Cuba luôn trân trọng tình cảm đoàn kết và sự ủng hộ, giúp đỡ quý báu của Việt Nam dành cho nhân dân Cuba trong thời gian qua, đặc biệt là sự hỗ trợ thiết thực, hiệu quả trong các lĩnh vực mang tính chiến lược như sản xuất lúa gạo và an ninh lương thực, phát triển năng lượng tái tạo. Hai lãnh đạo nhất trí tiếp tục tham vấn, phối hợp chặt chẽ, ủng hộ lẫn nhau tại các tổ chức quốc tế và diễn đàn đa phương, tăng cường các hoạt động trao đổi, hợp tác và giao lưu giữa các tổ chức chính trị - xã hội, đoàn thể quần chúng, doanh nghiệp và nhân dân hai nước, đồng thời tuyên truyền, giáo dục thế hệ trẻ về truyền thống quan hệ hữu nghị đặc biệt Việt Nam - Cuba. Bí thư thứ nhất, Chủ tịch Cuba Miguel Diaz-Canel Bermudez đang trong chuyến thăm cấp nhà nước Việt Nam bắt đầu từ 31\/8. Ngày mai, ông sẽ dự Lễ kỷ niệm 80 năm Cách mạng tháng Tám thành công và Quốc khánh Việt Nam.",
+  "id": 10639,
+  "human_label": "NEI",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 1
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 827,
+  "created_at": "2026-03-17T08:18:13.955998Z",
+  "updated_at": "2026-03-17T08:18:13.956018Z",
+  "lead_time": 48.264
+},
+{
+  "claim_id": "ctx55_claim163",
+  "claim": "Tư lệnh quân đội Ukraine Oleksandr Syrsky cho biết hôm 19\/1 rằng Ukraine đang nỗ lực tự chế tạo tổ hợp phòng không nội địa với mục tiêu sản xuất vũ khí mạnh tương đương dòng Patriot.",
+  "label": "SUPPORTED",
+  "seed_context_id": "vne_574_chunk_0",
+  "seed_context": "Tư lệnh quân đội Ukraine nói nước này chưa sở hữu vũ khí chặn được tên lửa Oreshnik của Nga, đề nghị đồng minh tăng cường viện trợ. \"Vào thời kỳ Liên Xô, Ukraine đã sản xuất được tất cả thiết bị điều khiển cho hệ thống phòng không. Điều này nghĩa là chúng ta đủ khả năng tự chế tạo tổ hợp phòng không nội địa và đang nỗ lực làm việc đó\", tư lệnh quân đội Ukraine Oleksandr Syrsky cho biết trong cuộc phỏng vấn hôm 19\/1, thêm rằng mục tiêu của Kiev là sản xuất vũ khí mạnh tương đương dòng Patriot. Tướng Syrsky cho biết mối đe dọa từ tên lửa đạn đạo Oreshnik của Nga là động lực lớn thúc đẩy Ukraine quyết định chế tạo vũ khí phòng không nội địa. Ông nhấn mạnh rất ít lá chắn tên lửa trên thế giới hiện nay có khả năng đánh chặn Oreshnik và thừa nhận Ukraine chưa sở hữu vũ khí nào như vậy. \"Điều này khiến chúng tôi tích cực đàm phán với các đồng minh để có thể tiếp nhận những hệ thống có khả năng trên, cũng như tự sản xuất loại tên lửa hiện đại có thể chặn đứng các vũ khí của Nga\", ông cho hay. Tướng Syrsky tuyên bố quá trình chế tạo hệ thống phòng không nội địa của Ukraine đã bắt đầu.",
+  "id": 10640,
+  "human_label": "SUPPORTED",
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 828,
+  "created_at": "2026-03-17T08:21:19.803473Z",
+  "updated_at": "2026-03-17T08:21:19.803487Z",
+  "lead_time": 185.643
+},
+{
+  "claim_id": "ctx55_claim164",
+  "claim": "Tư lệnh quân đội Ukraine Oleksandr Syrsky khẳng định vào ngày 19\/1 rằng Ukraine đã sở hữu vũ khí có khả năng đánh chặn tên lửa đạn đạo Oreshnik của Nga.",
+  "label": "REFUTED",
+  "seed_context_id": "vne_574_chunk_0",
+  "seed_context": "Tư lệnh quân đội Ukraine nói nước này chưa sở hữu vũ khí chặn được tên lửa Oreshnik của Nga, đề nghị đồng minh tăng cường viện trợ. \"Vào thời kỳ Liên Xô, Ukraine đã sản xuất được tất cả thiết bị điều khiển cho hệ thống phòng không. Điều này nghĩa là chúng ta đủ khả năng tự chế tạo tổ hợp phòng không nội địa và đang nỗ lực làm việc đó\", tư lệnh quân đội Ukraine Oleksandr Syrsky cho biết trong cuộc phỏng vấn hôm 19\/1, thêm rằng mục tiêu của Kiev là sản xuất vũ khí mạnh tương đương dòng Patriot. Tướng Syrsky cho biết mối đe dọa từ tên lửa đạn đạo Oreshnik của Nga là động lực lớn thúc đẩy Ukraine quyết định chế tạo vũ khí phòng không nội địa. Ông nhấn mạnh rất ít lá chắn tên lửa trên thế giới hiện nay có khả năng đánh chặn Oreshnik và thừa nhận Ukraine chưa sở hữu vũ khí nào như vậy. \"Điều này khiến chúng tôi tích cực đàm phán với các đồng minh để có thể tiếp nhận những hệ thống có khả năng trên, cũng như tự sản xuất loại tên lửa hiện đại có thể chặn đứng các vũ khí của Nga\", ông cho hay. Tướng Syrsky tuyên bố quá trình chế tạo hệ thống phòng không nội địa của Ukraine đã bắt đầu.",
+  "id": 10641,
+  "human_label": "REFUTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 829,
+  "created_at": "2026-03-17T08:22:06.219940Z",
+  "updated_at": "2026-03-17T08:22:06.219953Z",
+  "lead_time": 46.171
+},
+{
+  "claim_id": "ctx55_claim165",
+  "claim": "Ukraine đã nhận được hệ thống phòng không Patriot từ các đồng minh vào ngày 19\/1 để đối phó với tên lửa Oreshnik của Nga.",
+  "label": "NEI",
+  "seed_context_id": "vne_574_chunk_0",
+  "seed_context": "Tư lệnh quân đội Ukraine nói nước này chưa sở hữu vũ khí chặn được tên lửa Oreshnik của Nga, đề nghị đồng minh tăng cường viện trợ. \"Vào thời kỳ Liên Xô, Ukraine đã sản xuất được tất cả thiết bị điều khiển cho hệ thống phòng không. Điều này nghĩa là chúng ta đủ khả năng tự chế tạo tổ hợp phòng không nội địa và đang nỗ lực làm việc đó\", tư lệnh quân đội Ukraine Oleksandr Syrsky cho biết trong cuộc phỏng vấn hôm 19\/1, thêm rằng mục tiêu của Kiev là sản xuất vũ khí mạnh tương đương dòng Patriot. Tướng Syrsky cho biết mối đe dọa từ tên lửa đạn đạo Oreshnik của Nga là động lực lớn thúc đẩy Ukraine quyết định chế tạo vũ khí phòng không nội địa. Ông nhấn mạnh rất ít lá chắn tên lửa trên thế giới hiện nay có khả năng đánh chặn Oreshnik và thừa nhận Ukraine chưa sở hữu vũ khí nào như vậy. \"Điều này khiến chúng tôi tích cực đàm phán với các đồng minh để có thể tiếp nhận những hệ thống có khả năng trên, cũng như tự sản xuất loại tên lửa hiện đại có thể chặn đứng các vũ khí của Nga\", ông cho hay. Tướng Syrsky tuyên bố quá trình chế tạo hệ thống phòng không nội địa của Ukraine đã bắt đầu.",
+  "id": 10642,
+  "human_label": "REFUTED",
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 1
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 830,
+  "created_at": "2026-03-17T08:23:45.540068Z",
+  "updated_at": "2026-03-17T08:23:45.540083Z",
+  "lead_time": 99.087
+},
+{
+  "claim_id": "ctx56_claim166",
+  "claim": "Quá trình đại tu và hiện đại hóa tuần dương hạm Đô đốc Nakhimov bắt đầu từ năm 2013 do nhà máy Sevmash thực hiện.",
+  "label": "SUPPORTED",
+  "seed_context_id": "vne_854_chunk_1",
+  "seed_context": "Tuần dương hạm Đô đốc Nakhimov nằm cảng từ năm 1999, quá trình đại tu và hiện đại hóa bắt đầu từ năm 2013 do nhà máy Sevmash thực hiện. \"Nỗ lực đưa Đô đốc Nakhimov trở lại hoạt động đã nhiều lần bị gián đoạn, một phần lý do bắt nguồn từ xung đột Nga - Ukraine, song cũng cần nhớ rằng đây chưa bao giờ là nhiệm vụ dễ dàng\", biên tập viên Thomas Newdick của chuyên trang quân sự Mỹ nhận định. Dù vẻ ngoài không thay đổi nhiều so với thời Liên Xô, Đô đốc Nakhimov sẽ được trang bị những hệ thống điện tử, thông tin liên lạc và vũ khí hiện đại nhất của Nga hiện nay. Lò phản ứng hạt nhân trên tàu được giữ nguyên, nhưng các thiết bị duy trì hoạt động và kiểm soát sẽ được nâng cấp, bảo đảm khả năng vận hành ổn định và an toàn trong hàng chục năm. Vũ khí nguyên bản gồm 20 tên lửa diệt hạm siêu thanh P-700 Granit sẽ được thay bằng tên lửa hành trình Kalibr và diệt hạm siêu thanh P-800 Oniks, giúp Đô đốc Nakhimov trở thành nền tảng chiến đấu đa năng, có khả năng diệt hạm, chống tàu ngầm và tấn công mục tiêu mặt đất từ khoảng cách 2.",
+  "id": 10643,
+  "human_label": "SUPPORTED",
+  "atomicity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 831,
+  "created_at": "2026-03-17T08:24:37.152395Z",
+  "updated_at": "2026-03-17T08:24:37.152409Z",
+  "lead_time": 51.395
+},
+{
+  "claim_id": "ctx56_claim167",
+  "claim": "Vũ khí nguyên bản gồm 20 tên lửa diệt hạm siêu thanh P-700 Granit trên tuần dương hạm Đô đốc Nakhimov sẽ được thay bằng tên lửa hành trình P-800 Oniks và tên lửa diệt hạm Kalibr.",
+  "label": "REFUTED",
+  "seed_context_id": "vne_854_chunk_1",
+  "seed_context": "Tuần dương hạm Đô đốc Nakhimov nằm cảng từ năm 1999, quá trình đại tu và hiện đại hóa bắt đầu từ năm 2013 do nhà máy Sevmash thực hiện. \"Nỗ lực đưa Đô đốc Nakhimov trở lại hoạt động đã nhiều lần bị gián đoạn, một phần lý do bắt nguồn từ xung đột Nga - Ukraine, song cũng cần nhớ rằng đây chưa bao giờ là nhiệm vụ dễ dàng\", biên tập viên Thomas Newdick của chuyên trang quân sự Mỹ nhận định. Dù vẻ ngoài không thay đổi nhiều so với thời Liên Xô, Đô đốc Nakhimov sẽ được trang bị những hệ thống điện tử, thông tin liên lạc và vũ khí hiện đại nhất của Nga hiện nay. Lò phản ứng hạt nhân trên tàu được giữ nguyên, nhưng các thiết bị duy trì hoạt động và kiểm soát sẽ được nâng cấp, bảo đảm khả năng vận hành ổn định và an toàn trong hàng chục năm. Vũ khí nguyên bản gồm 20 tên lửa diệt hạm siêu thanh P-700 Granit sẽ được thay bằng tên lửa hành trình Kalibr và diệt hạm siêu thanh P-800 Oniks, giúp Đô đốc Nakhimov trở thành nền tảng chiến đấu đa năng, có khả năng diệt hạm, chống tàu ngầm và tấn công mục tiêu mặt đất từ khoảng cách 2.",
+  "id": 10644,
+  "human_label": "SUPPORTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 832,
+  "created_at": "2026-03-17T08:28:46.516495Z",
+  "updated_at": "2026-03-17T08:28:46.516508Z",
+  "lead_time": 249.136
+},
+{
+  "claim_id": "ctx56_claim168",
+  "claim": "Tuần dương hạm Đô đốc Nakhimov được trang bị hệ thống tác chiến điện tử Murmansk-BN sau khi đại tu tại nhà máy Sevmash vào năm 2013.",
+  "label": "NEI",
+  "seed_context_id": "vne_854_chunk_1",
+  "seed_context": "Tuần dương hạm Đô đốc Nakhimov nằm cảng từ năm 1999, quá trình đại tu và hiện đại hóa bắt đầu từ năm 2013 do nhà máy Sevmash thực hiện. \"Nỗ lực đưa Đô đốc Nakhimov trở lại hoạt động đã nhiều lần bị gián đoạn, một phần lý do bắt nguồn từ xung đột Nga - Ukraine, song cũng cần nhớ rằng đây chưa bao giờ là nhiệm vụ dễ dàng\", biên tập viên Thomas Newdick của chuyên trang quân sự Mỹ nhận định. Dù vẻ ngoài không thay đổi nhiều so với thời Liên Xô, Đô đốc Nakhimov sẽ được trang bị những hệ thống điện tử, thông tin liên lạc và vũ khí hiện đại nhất của Nga hiện nay. Lò phản ứng hạt nhân trên tàu được giữ nguyên, nhưng các thiết bị duy trì hoạt động và kiểm soát sẽ được nâng cấp, bảo đảm khả năng vận hành ổn định và an toàn trong hàng chục năm. Vũ khí nguyên bản gồm 20 tên lửa diệt hạm siêu thanh P-700 Granit sẽ được thay bằng tên lửa hành trình Kalibr và diệt hạm siêu thanh P-800 Oniks, giúp Đô đốc Nakhimov trở thành nền tảng chiến đấu đa năng, có khả năng diệt hạm, chống tàu ngầm và tấn công mục tiêu mặt đất từ khoảng cách 2.",
+  "id": 10645,
+  "human_label": "NEI",
+  "verifiability_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 833,
+  "created_at": "2026-03-17T08:30:14.876698Z",
+  "updated_at": "2026-03-17T08:30:14.876713Z",
+  "lead_time": 88.138
+},
+{
+  "claim_id": "ctx57_claim169",
+  "claim": "Đại Hội đồng Liên Hợp Quốc ngày 24\/2 đã bỏ phiếu về dự thảo nghị quyết do Ukraine và châu Âu đệ trình, chỉ trích Nga châm ngòi xung đột với Ukraine và yêu cầu Moskva rút quân ngay lập tức.",
+  "label": "SUPPORTED",
+  "seed_context_id": "vne_617_chunk_0",
+  "seed_context": "Mỹ bỏ phiếu phản đối nghị quyết chỉ trích Nga về chiến sự Ukraine do châu Âu đề xuất, đánh dấu sự thay đổi lập trường của Washington trong vấn đề. Đại Hội đồng Liên Hợp Quốc ngày 24\/2 bỏ phiếu về dự thảo nghị quyết do Ukraine và châu Âu đệ trình, có nội dung chỉ trích Nga châm ngòi xung đột với Ukraine và yêu cầu Moskva rút quân ngay lập tức. Dự thảo được thông qua với ít sự ủng hộ hơn so với các nghị quyết tương tự trước đó, nhận 93 phiếu thuận, 18 phiếu chống và 65 phiếu trắng. Mỹ bỏ phiếu chống, cùng quan điểm với Nga. Động thái đánh dấu bước ngoặt trong lập trường của Washington về chiến sự Nga - Ukraine dưới thời Tổng thống Donald Trump. \"Các đồng nghiệp Mỹ của chúng tôi hôm nay đã tận mắt chứng kiến con đường dẫn đến hòa bình ở Ukraine sẽ không hề dễ dàng và nhiều bên cố trì hoãn hòa bình lâu nhất có thể. Nhưng chúng ta không nên bị cản trở bởi điều này\", Đại sứ Nga tại Liên Hợp Quốc Vassily Nebenzia phát biểu trước Đại Hội đồng. Mỹ gần đây quyết định đàm phán với Nga để tìm giải pháp cho chiến sự Ukraine, gạt Kiev cùng các đồng minh châu Âu khỏi bàn thương lượng.",
+  "id": 10646,
+  "human_label": "SUPPORTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 834,
+  "created_at": "2026-03-17T08:31:01.345577Z",
+  "updated_at": "2026-03-17T08:31:01.345590Z",
+  "lead_time": 46.221
+},
+{
+  "claim_id": "ctx57_claim170",
+  "claim": "Mỹ bỏ phiếu thuận cho nghị quyết chỉ trích Nga về chiến sự Ukraine do châu Âu đề xuất, thể hiện sự ủng hộ mạnh mẽ đối với Kiev.",
+  "label": "REFUTED",
+  "seed_context_id": "vne_617_chunk_0",
+  "seed_context": "Mỹ bỏ phiếu phản đối nghị quyết chỉ trích Nga về chiến sự Ukraine do châu Âu đề xuất, đánh dấu sự thay đổi lập trường của Washington trong vấn đề. Đại Hội đồng Liên Hợp Quốc ngày 24\/2 bỏ phiếu về dự thảo nghị quyết do Ukraine và châu Âu đệ trình, có nội dung chỉ trích Nga châm ngòi xung đột với Ukraine và yêu cầu Moskva rút quân ngay lập tức. Dự thảo được thông qua với ít sự ủng hộ hơn so với các nghị quyết tương tự trước đó, nhận 93 phiếu thuận, 18 phiếu chống và 65 phiếu trắng. Mỹ bỏ phiếu chống, cùng quan điểm với Nga. Động thái đánh dấu bước ngoặt trong lập trường của Washington về chiến sự Nga - Ukraine dưới thời Tổng thống Donald Trump. \"Các đồng nghiệp Mỹ của chúng tôi hôm nay đã tận mắt chứng kiến con đường dẫn đến hòa bình ở Ukraine sẽ không hề dễ dàng và nhiều bên cố trì hoãn hòa bình lâu nhất có thể. Nhưng chúng ta không nên bị cản trở bởi điều này\", Đại sứ Nga tại Liên Hợp Quốc Vassily Nebenzia phát biểu trước Đại Hội đồng. Mỹ gần đây quyết định đàm phán với Nga để tìm giải pháp cho chiến sự Ukraine, gạt Kiev cùng các đồng minh châu Âu khỏi bàn thương lượng.",
+  "id": 10647,
+  "human_label": "REFUTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 1
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 835,
+  "created_at": "2026-03-17T08:32:05.046045Z",
+  "updated_at": "2026-03-17T08:32:05.046058Z",
+  "lead_time": 63.461
+},
+{
+  "claim_id": "ctx57_claim171",
+  "claim": "Đại sứ Nga tại Liên Hợp Quốc Vassily Nebenzia bày tỏ quan ngại về việc các đồng minh châu Âu đang cố tình trì hoãn tiến trình hòa bình ở Ukraine.",
+  "label": "NEI",
+  "seed_context_id": "vne_617_chunk_0",
+  "seed_context": "Mỹ bỏ phiếu phản đối nghị quyết chỉ trích Nga về chiến sự Ukraine do châu Âu đề xuất, đánh dấu sự thay đổi lập trường của Washington trong vấn đề. Đại Hội đồng Liên Hợp Quốc ngày 24\/2 bỏ phiếu về dự thảo nghị quyết do Ukraine và châu Âu đệ trình, có nội dung chỉ trích Nga châm ngòi xung đột với Ukraine và yêu cầu Moskva rút quân ngay lập tức. Dự thảo được thông qua với ít sự ủng hộ hơn so với các nghị quyết tương tự trước đó, nhận 93 phiếu thuận, 18 phiếu chống và 65 phiếu trắng. Mỹ bỏ phiếu chống, cùng quan điểm với Nga. Động thái đánh dấu bước ngoặt trong lập trường của Washington về chiến sự Nga - Ukraine dưới thời Tổng thống Donald Trump. \"Các đồng nghiệp Mỹ của chúng tôi hôm nay đã tận mắt chứng kiến con đường dẫn đến hòa bình ở Ukraine sẽ không hề dễ dàng và nhiều bên cố trì hoãn hòa bình lâu nhất có thể. Nhưng chúng ta không nên bị cản trở bởi điều này\", Đại sứ Nga tại Liên Hợp Quốc Vassily Nebenzia phát biểu trước Đại Hội đồng. Mỹ gần đây quyết định đàm phán với Nga để tìm giải pháp cho chiến sự Ukraine, gạt Kiev cùng các đồng minh châu Âu khỏi bàn thương lượng.",
+  "id": 10648,
+  "human_label": "NEI",
+  "verifiability_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 836,
+  "created_at": "2026-03-17T08:32:55.303120Z",
+  "updated_at": "2026-03-17T08:32:55.303134Z",
+  "lead_time": 50.005
+},
+{
+  "claim_id": "ctx58_claim172",
+  "claim": "Chủ tịch đảng Cộng hòa bang Wisconsin Brian Schimming mong muốn Tổng thống Trump đến thăm bang Wisconsin vào năm tới để vận động tranh cử.",
+  "label": "SUPPORTED",
+  "seed_context_id": "vne_520_chunk_1",
+  "seed_context": "Đây là lý do nhiều đảng viên Cộng hòa đang đề nghị Tổng thống Trump nhanh chóng trở lại đường đua vận động tranh cử, tích cực ra mặt ủng hộ các ứng viên của đảng để họ có thể đảm bảo chiến thắng trong cuộc bầu cử giữa kỳ vào cuối năm sau, nhằm duy trì quyền kiểm soát cả Hạ viện lẫn Thượng viện. Chủ tịch đảng Cộng hòa bang Wisconsin Brian Schimming cho biết ông rất muốn thấy Tổng thống đến thăm bang chiến trường này vào năm tới. Tổng thống Trump đã thắng tại Wisconsin với biên độ mỏng nhất vào năm 2024. Trong cuộc bầu cử giữa kỳ năm sau, đảng Cộng hòa phải giữ bằng được hai ghế Hạ viện ở đây. Ở Tennessee, nơi đảng Dân chủ đang tìm cách giành lại một ghế Hạ viện trong cuộc bầu cử đặc biệt vào tháng tới, chiến dịch tranh cử của đảng viên Cộng hòa Matt Van Epps đã đề nghị Tổng thống tổ chức một cuộc mít tinh trực tiếp tại khu vực \"đỏ đậm\" mà ông đã thắng với cách biệt 20 điểm vào năm ngoái. Tỷ lệ cử tri đi bầu thấp là một vấn đề dai dẳng trong các cuộc bầu cử quốc hội giữa kỳ không trùng với bầu cử tổng thống.",
+  "id": 10649,
+  "human_label": "SUPPORTED",
+  "atomicity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 837,
+  "created_at": "2026-03-17T08:33:39.221671Z",
+  "updated_at": "2026-03-17T08:33:39.221685Z",
+  "lead_time": 43.68
+},
+{
+  "claim_id": "ctx58_claim173",
+  "claim": "Tổng thống Trump đã thắng tại Wisconsin với biên độ cách biệt 20 điểm vào năm 2024.",
+  "label": "REFUTED",
+  "seed_context_id": "vne_520_chunk_1",
+  "seed_context": "Đây là lý do nhiều đảng viên Cộng hòa đang đề nghị Tổng thống Trump nhanh chóng trở lại đường đua vận động tranh cử, tích cực ra mặt ủng hộ các ứng viên của đảng để họ có thể đảm bảo chiến thắng trong cuộc bầu cử giữa kỳ vào cuối năm sau, nhằm duy trì quyền kiểm soát cả Hạ viện lẫn Thượng viện. Chủ tịch đảng Cộng hòa bang Wisconsin Brian Schimming cho biết ông rất muốn thấy Tổng thống đến thăm bang chiến trường này vào năm tới. Tổng thống Trump đã thắng tại Wisconsin với biên độ mỏng nhất vào năm 2024. Trong cuộc bầu cử giữa kỳ năm sau, đảng Cộng hòa phải giữ bằng được hai ghế Hạ viện ở đây. Ở Tennessee, nơi đảng Dân chủ đang tìm cách giành lại một ghế Hạ viện trong cuộc bầu cử đặc biệt vào tháng tới, chiến dịch tranh cử của đảng viên Cộng hòa Matt Van Epps đã đề nghị Tổng thống tổ chức một cuộc mít tinh trực tiếp tại khu vực \"đỏ đậm\" mà ông đã thắng với cách biệt 20 điểm vào năm ngoái. Tỷ lệ cử tri đi bầu thấp là một vấn đề dai dẳng trong các cuộc bầu cử quốc hội giữa kỳ không trùng với bầu cử tổng thống.",
+  "id": 10650,
+  "human_label": "REFUTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 1
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 838,
+  "created_at": "2026-03-17T08:34:14.220771Z",
+  "updated_at": "2026-03-17T08:34:14.220785Z",
+  "lead_time": 34.761
+},
+{
+  "claim_id": "ctx58_claim174",
+  "claim": "Đảng Dân chủ đang tìm cách giành lại một ghế Thượng viện tại Tennessee trong cuộc bầu cử đặc biệt vào tháng tới.",
+  "label": "NEI",
+  "seed_context_id": "vne_520_chunk_1",
+  "seed_context": "Đây là lý do nhiều đảng viên Cộng hòa đang đề nghị Tổng thống Trump nhanh chóng trở lại đường đua vận động tranh cử, tích cực ra mặt ủng hộ các ứng viên của đảng để họ có thể đảm bảo chiến thắng trong cuộc bầu cử giữa kỳ vào cuối năm sau, nhằm duy trì quyền kiểm soát cả Hạ viện lẫn Thượng viện. Chủ tịch đảng Cộng hòa bang Wisconsin Brian Schimming cho biết ông rất muốn thấy Tổng thống đến thăm bang chiến trường này vào năm tới. Tổng thống Trump đã thắng tại Wisconsin với biên độ mỏng nhất vào năm 2024. Trong cuộc bầu cử giữa kỳ năm sau, đảng Cộng hòa phải giữ bằng được hai ghế Hạ viện ở đây. Ở Tennessee, nơi đảng Dân chủ đang tìm cách giành lại một ghế Hạ viện trong cuộc bầu cử đặc biệt vào tháng tới, chiến dịch tranh cử của đảng viên Cộng hòa Matt Van Epps đã đề nghị Tổng thống tổ chức một cuộc mít tinh trực tiếp tại khu vực \"đỏ đậm\" mà ông đã thắng với cách biệt 20 điểm vào năm ngoái. Tỷ lệ cử tri đi bầu thấp là một vấn đề dai dẳng trong các cuộc bầu cử quốc hội giữa kỳ không trùng với bầu cử tổng thống.",
+  "id": 10651,
+  "human_label": "REFUTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 1
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 839,
+  "created_at": "2026-03-17T08:34:51.869249Z",
+  "updated_at": "2026-03-17T08:34:51.869263Z",
+  "lead_time": 37.43
+},
+{
+  "claim_id": "ctx59_claim175",
+  "claim": "Trong cuộc điện đàm ngày 24\/11, Chủ tịch Trung Quốc Tập Cận Bình tuyên bố với Donald Trump rằng việc Đài Loan trở về Trung Quốc là một phần không thể thiếu của trật tự quốc tế thời hậu chiến.",
+  "label": "SUPPORTED",
+  "seed_context_id": "vne_1002_chunk_2",
+  "seed_context": "Đó là khái niệm mới và sẽ là trạng thái bình thường mới trong nhiều năm tới\", Wang nói. Nhiều quan chức Trung Quốc tin rằng trong môi trường mới này, ông Trump dường như quan tâm đến việc bán đậu nành Mỹ cho Trung Quốc hơn là can thiệp vào vấn đề Đài Loan. Trong cuộc điện đàm với ông Trump ngày 24\/11, ông Tập tuyên bố \"việc Đài Loan trở về Trung Quốc là một phần không thể thiếu của trật tự quốc tế thời hậu chiến\". Trong bài đăng trên Truth Social sau cuộc nói chuyện, ông Trump không đề cập tới hòn đảo và viết rằng \"mối quan hệ giữa chúng tôi và Trung Quốc cực kỳ mạnh mẽ\". Nhận thức vấn đề Đài Loan không còn quá quan trọng với Mỹ có thể là lý do khiến Trung Quốc phản ứng mạnh mẽ trước bình luận của Thủ tướng Nhật Bản Sanae Takaichi hồi đầu tháng 11. Bà Takaichi khi đó nói trước quốc hội rằng kịch bản Đài Loan bị tấn công có thể kích hoạt phản ứng quân sự của Tokyo. Trung Quốc lập tức lên án, áp đặt loạt biện pháp trừng phạt về kinh tế và ngoại giao đối với Nhật Bản, yêu cầu lãnh đạo nước này rút lại bình luận.",
+  "id": 10652,
+  "human_label": "SUPPORTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 840,
+  "created_at": "2026-03-17T08:35:59.790448Z",
+  "updated_at": "2026-03-17T08:35:59.790463Z",
+  "lead_time": 67.657
+},
+{
+  "claim_id": "ctx59_claim176",
+  "claim": "Sau cuộc điện đàm ngày 24\/11, Donald Trump đã viết trên Truth Social rằng mối quan hệ giữa Mỹ và Trung Quốc cực kỳ yếu kém.",
+  "label": "REFUTED",
+  "seed_context_id": "vne_1002_chunk_2",
+  "seed_context": "Đó là khái niệm mới và sẽ là trạng thái bình thường mới trong nhiều năm tới\", Wang nói. Nhiều quan chức Trung Quốc tin rằng trong môi trường mới này, ông Trump dường như quan tâm đến việc bán đậu nành Mỹ cho Trung Quốc hơn là can thiệp vào vấn đề Đài Loan. Trong cuộc điện đàm với ông Trump ngày 24\/11, ông Tập tuyên bố \"việc Đài Loan trở về Trung Quốc là một phần không thể thiếu của trật tự quốc tế thời hậu chiến\". Trong bài đăng trên Truth Social sau cuộc nói chuyện, ông Trump không đề cập tới hòn đảo và viết rằng \"mối quan hệ giữa chúng tôi và Trung Quốc cực kỳ mạnh mẽ\". Nhận thức vấn đề Đài Loan không còn quá quan trọng với Mỹ có thể là lý do khiến Trung Quốc phản ứng mạnh mẽ trước bình luận của Thủ tướng Nhật Bản Sanae Takaichi hồi đầu tháng 11. Bà Takaichi khi đó nói trước quốc hội rằng kịch bản Đài Loan bị tấn công có thể kích hoạt phản ứng quân sự của Tokyo. Trung Quốc lập tức lên án, áp đặt loạt biện pháp trừng phạt về kinh tế và ngoại giao đối với Nhật Bản, yêu cầu lãnh đạo nước này rút lại bình luận.",
+  "id": 10653,
+  "human_label": "REFUTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 1
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 841,
+  "created_at": "2026-03-17T08:37:09.858664Z",
+  "updated_at": "2026-03-17T08:37:09.858678Z",
+  "lead_time": 69.836
+},
+{
+  "claim_id": "ctx59_claim177",
+  "claim": "Vào đầu tháng 11, Thủ tướng Nhật Bản Sanae Takaichi đã có bình luận trước quốc hội về việc hợp tác kinh tế giữa Nhật Bản và Trung Quốc liên quan đến vấn đề Đài Loan.",
+  "label": "NEI",
+  "seed_context_id": "vne_1002_chunk_2",
+  "seed_context": "Đó là khái niệm mới và sẽ là trạng thái bình thường mới trong nhiều năm tới\", Wang nói. Nhiều quan chức Trung Quốc tin rằng trong môi trường mới này, ông Trump dường như quan tâm đến việc bán đậu nành Mỹ cho Trung Quốc hơn là can thiệp vào vấn đề Đài Loan. Trong cuộc điện đàm với ông Trump ngày 24\/11, ông Tập tuyên bố \"việc Đài Loan trở về Trung Quốc là một phần không thể thiếu của trật tự quốc tế thời hậu chiến\". Trong bài đăng trên Truth Social sau cuộc nói chuyện, ông Trump không đề cập tới hòn đảo và viết rằng \"mối quan hệ giữa chúng tôi và Trung Quốc cực kỳ mạnh mẽ\". Nhận thức vấn đề Đài Loan không còn quá quan trọng với Mỹ có thể là lý do khiến Trung Quốc phản ứng mạnh mẽ trước bình luận của Thủ tướng Nhật Bản Sanae Takaichi hồi đầu tháng 11. Bà Takaichi khi đó nói trước quốc hội rằng kịch bản Đài Loan bị tấn công có thể kích hoạt phản ứng quân sự của Tokyo. Trung Quốc lập tức lên án, áp đặt loạt biện pháp trừng phạt về kinh tế và ngoại giao đối với Nhật Bản, yêu cầu lãnh đạo nước này rút lại bình luận.",
+  "id": 10654,
+  "human_label": "NEI",
+  "verifiability_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 842,
+  "created_at": "2026-03-17T08:38:52.921289Z",
+  "updated_at": "2026-03-17T08:38:52.921321Z",
+  "lead_time": 102.84
+},
+{
+  "claim_id": "ctx60_claim178",
+  "claim": "Nếu chính quyền Trump thua kiện, chính quyền Trump có thể bị buộc phải hoàn trả các khoản thuế đã thu.",
+  "label": "SUPPORTED",
+  "seed_context_id": "vne_964_chunk_2",
+  "seed_context": "Nếu thua kiện, chính quyền Trump có thể bị buộc phải hoàn trả các khoản thuế đã thu.",
+  "id": 10655,
+  "human_label": "SUPPORTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 843,
+  "created_at": "2026-03-17T08:40:21.618763Z",
+  "updated_at": "2026-03-17T08:40:21.618777Z",
+  "lead_time": 88.481
+},
+{
+  "claim_id": "ctx60_claim179",
+  "claim": "Nếu chính quyền Trump thắng kiện, chính quyền Trump sẽ được miễn hoàn trả các khoản thuế đã thu.",
+  "label": "REFUTED",
+  "seed_context_id": "vne_964_chunk_2",
+  "seed_context": "Nếu thua kiện, chính quyền Trump có thể bị buộc phải hoàn trả các khoản thuế đã thu.",
+  "id": 10656,
+  "human_label": "REFUTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 1
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 844,
+  "created_at": "2026-03-17T08:41:01.899132Z",
+  "updated_at": "2026-03-17T08:41:01.899147Z",
+  "lead_time": 40.035
+},
+{
+  "claim_id": "ctx60_claim180",
+  "claim": "Chính quyền Trump đã thua kiện vào ngày 15 tháng 11 năm 2023 tại Washington D.C. và bị buộc phải hoàn trả 10 triệu đô la tiền thuế đã thu.",
+  "label": "NEI",
+  "seed_context_id": "vne_964_chunk_2",
+  "seed_context": "Nếu thua kiện, chính quyền Trump có thể bị buộc phải hoàn trả các khoản thuế đã thu.",
+  "id": 10657,
+  "human_label": "NEI",
+  "verifiability_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 1
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 845,
+  "created_at": "2026-03-17T08:41:58.568091Z",
+  "updated_at": "2026-03-17T08:41:58.568104Z",
+  "lead_time": 56.399
+},
+{
+  "claim_id": "ctx61_claim181",
+  "claim": "Vào ngày 26\/8, một máy bay Boeing 777-300 của hãng Air China chở 265 người đã hạ cánh khẩn cấp tại sân bay Nizhnevartovsk ở Siberia, Nga do động cơ gặp sự cố trên hành trình từ London đến Bắc Kinh.",
+  "label": "SUPPORTED",
+  "seed_context_id": "vne_861_chunk_0",
+  "seed_context": "Máy bay của hãng Air China chở 265 đã phải hạ cánh khẩn cấp tại vùng Siberia của Nga do sự cố động cơ. \"Trong hành trình từ London đến Bắc Kinh, phi hành đoàn trên chiếc Boeing 777-300 của Air China đã quyết định hạ cánh xuống một sân bay dự phòng ở Nga. Nguyên nhân ban đầu là một động cơ gặp trục trặc\", cơ quan hàng không dân dụng Nga Rosaviatsia hôm nay cho hay. Dữ liệu theo dõi chuyến bay của cho thấy máy bay đã hạ cánh xuống sân bay Nizhnevartovsk ở Siberia. \"Các dịch vụ sân bay được kích hoạt nhanh chóng để đón tiếp chuyến bay bất ngờ này. Hiếm khi có chuyến bay như vậy từ Anh đến Nizhnevartovsk, nhưng họ đã chuẩn bị rất nhanh chóng\", một nhân chứng cho hay. Theo Rosaviatsia, Air China đã quyết định điều máy bay dự phòng đến Nizhnevartovsk trong ngày 26\/8 để đưa 250 hành khách cùng 15 thành viên phi hành đoàn trở về Bắc Kinh.",
+  "id": 10658,
+  "human_label": "SUPPORTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 846,
+  "created_at": "2026-03-17T08:42:37.768802Z",
+  "updated_at": "2026-03-17T08:42:37.768817Z",
+  "lead_time": 38.958
+},
+{
+  "claim_id": "ctx61_claim182",
+  "claim": "Máy bay của hãng Air China đã hạ cánh khẩn cấp tại London do sự cố động cơ vào ngày 26\/8.",
+  "label": "REFUTED",
+  "seed_context_id": "vne_861_chunk_0",
+  "seed_context": "Máy bay của hãng Air China chở 265 đã phải hạ cánh khẩn cấp tại vùng Siberia của Nga do sự cố động cơ. \"Trong hành trình từ London đến Bắc Kinh, phi hành đoàn trên chiếc Boeing 777-300 của Air China đã quyết định hạ cánh xuống một sân bay dự phòng ở Nga. Nguyên nhân ban đầu là một động cơ gặp trục trặc\", cơ quan hàng không dân dụng Nga Rosaviatsia hôm nay cho hay. Dữ liệu theo dõi chuyến bay của cho thấy máy bay đã hạ cánh xuống sân bay Nizhnevartovsk ở Siberia. \"Các dịch vụ sân bay được kích hoạt nhanh chóng để đón tiếp chuyến bay bất ngờ này. Hiếm khi có chuyến bay như vậy từ Anh đến Nizhnevartovsk, nhưng họ đã chuẩn bị rất nhanh chóng\", một nhân chứng cho hay. Theo Rosaviatsia, Air China đã quyết định điều máy bay dự phòng đến Nizhnevartovsk trong ngày 26\/8 để đưa 250 hành khách cùng 15 thành viên phi hành đoàn trở về Bắc Kinh.",
+  "id": 10659,
+  "human_label": "REFUTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 1
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 847,
+  "created_at": "2026-03-17T08:43:20.879581Z",
+  "updated_at": "2026-03-17T08:43:20.879593Z",
+  "lead_time": 42.876
+},
+{
+  "claim_id": "ctx61_claim183",
+  "claim": "Hành khách trên chuyến bay của Air China đã được vận chuyển đến Bắc Kinh bằng một máy bay khác vào ngày 27\/8.",
+  "label": "NEI",
+  "seed_context_id": "vne_861_chunk_0",
+  "seed_context": "Máy bay của hãng Air China chở 265 đã phải hạ cánh khẩn cấp tại vùng Siberia của Nga do sự cố động cơ. \"Trong hành trình từ London đến Bắc Kinh, phi hành đoàn trên chiếc Boeing 777-300 của Air China đã quyết định hạ cánh xuống một sân bay dự phòng ở Nga. Nguyên nhân ban đầu là một động cơ gặp trục trặc\", cơ quan hàng không dân dụng Nga Rosaviatsia hôm nay cho hay. Dữ liệu theo dõi chuyến bay của cho thấy máy bay đã hạ cánh xuống sân bay Nizhnevartovsk ở Siberia. \"Các dịch vụ sân bay được kích hoạt nhanh chóng để đón tiếp chuyến bay bất ngờ này. Hiếm khi có chuyến bay như vậy từ Anh đến Nizhnevartovsk, nhưng họ đã chuẩn bị rất nhanh chóng\", một nhân chứng cho hay. Theo Rosaviatsia, Air China đã quyết định điều máy bay dự phòng đến Nizhnevartovsk trong ngày 26\/8 để đưa 250 hành khách cùng 15 thành viên phi hành đoàn trở về Bắc Kinh.",
+  "id": 10660,
+  "human_label": "REFUTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 1
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 848,
+  "created_at": "2026-03-17T08:44:09.688905Z",
+  "updated_at": "2026-03-17T08:44:09.688919Z",
+  "lead_time": 48.561
+},
+{
+  "claim_id": "ctx62_claim184",
+  "claim": "Chủ tịch tập đoàn Prince Holding, Chen Zhi, bị Bộ Tư pháp Mỹ truy tố vào ngày 14\/10 vì cáo buộc điều hành các trung tâm lừa đảo tiền số tại Campuchia.",
+  "label": "SUPPORTED",
+  "seed_context_id": "vne_933_chunk_0",
+  "seed_context": "Chen Zhi, chủ tịch tập đoàn Prince Holding, bị Mỹ truy tố với cáo buộc điều hành các trung tâm lừa đảo tiền số để thu về hàng tỷ USD. Bộ Tư pháp Mỹ ngày 14\/10 công bố cáo trạng đối với Chen Zhi, còn được gọi là Vincent, chủ tịch kiêm nhà sáng lập tập đoàn Prince Holding ở Campuchia, cáo buộc ông điều hành các trại lao động cưỡng bức trên khắp quốc gia Đông Nam Á để tiến hành những vụ lừa đảo tiền điện tử. Theo Bộ Tư pháp Mỹ, tập đoàn Prince Holding thực chất là bình phong cho \"một trong các tổ chức tội phạm xuyên quốc gia lớn nhất châu Á\". Cơ quan này cũng tiến hành vụ tịch thu tài sản lớn nhất trong lịch sử khi thu giữ khoảng 127. 271 Bitcoin, có tổng giá trị gần 15 tỷ USD theo tỷ giá hiện hành. \"Động thái hôm nay là một trong các đòn tấn công quan trọng nhất từ trước đến nay nhằm vào nạn lừa đảo tài chính trên mạng và buôn người trên toàn cầu\", Bộ trưởng Tư pháp Mỹ Pam Bondi cho hay. Bộ Tư pháp Mỹ cho biết tại các trại lao động cưỡng bức do Chen điều hành, hàng trăm nhân viên là nạn nhân buôn người bị giữ trong những cơ sở giống như nhà tù, xung quanh là tường cao và hàng rào dây thép gai.",
+  "id": 10661,
+  "human_label": "SUPPORTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 849,
+  "created_at": "2026-03-17T08:44:55.337650Z",
+  "updated_at": "2026-03-17T08:44:55.337664Z",
+  "lead_time": 45.412
+},
+{
+  "claim_id": "ctx62_claim185",
+  "claim": "Vào ngày 14\/10, Bộ Tư pháp Mỹ đã tiến hành tịch thu khoảng 127.271 Bitcoin, với tổng giá trị gần 5 tỷ USD theo tỷ giá hiện hành, liên quan đến vụ án của Chen Zhi.",
+  "label": "REFUTED",
+  "seed_context_id": "vne_933_chunk_0",
+  "seed_context": "Chen Zhi, chủ tịch tập đoàn Prince Holding, bị Mỹ truy tố với cáo buộc điều hành các trung tâm lừa đảo tiền số để thu về hàng tỷ USD. Bộ Tư pháp Mỹ ngày 14\/10 công bố cáo trạng đối với Chen Zhi, còn được gọi là Vincent, chủ tịch kiêm nhà sáng lập tập đoàn Prince Holding ở Campuchia, cáo buộc ông điều hành các trại lao động cưỡng bức trên khắp quốc gia Đông Nam Á để tiến hành những vụ lừa đảo tiền điện tử. Theo Bộ Tư pháp Mỹ, tập đoàn Prince Holding thực chất là bình phong cho \"một trong các tổ chức tội phạm xuyên quốc gia lớn nhất châu Á\". Cơ quan này cũng tiến hành vụ tịch thu tài sản lớn nhất trong lịch sử khi thu giữ khoảng 127. 271 Bitcoin, có tổng giá trị gần 15 tỷ USD theo tỷ giá hiện hành. \"Động thái hôm nay là một trong các đòn tấn công quan trọng nhất từ trước đến nay nhằm vào nạn lừa đảo tài chính trên mạng và buôn người trên toàn cầu\", Bộ trưởng Tư pháp Mỹ Pam Bondi cho hay. Bộ Tư pháp Mỹ cho biết tại các trại lao động cưỡng bức do Chen điều hành, hàng trăm nhân viên là nạn nhân buôn người bị giữ trong những cơ sở giống như nhà tù, xung quanh là tường cao và hàng rào dây thép gai.",
+  "id": 10662,
+  "human_label": "REFUTED",
+  "atomicity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 1
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 850,
+  "created_at": "2026-03-17T08:45:33.314389Z",
+  "updated_at": "2026-03-17T08:45:33.314404Z",
+  "lead_time": 37.758
+},
+{
+  "claim_id": "ctx62_claim186",
+  "claim": "Bộ trưởng Tư pháp Mỹ Pam Bondi đã tuyên bố chiến dịch tấn công các nạn lừa đảo tài chính trên mạng và buôn người trên toàn cầu của Bộ Tư pháp Mỹ bắt đầu vào năm 2020.",
+  "label": "NEI",
+  "seed_context_id": "vne_933_chunk_0",
+  "seed_context": "Chen Zhi, chủ tịch tập đoàn Prince Holding, bị Mỹ truy tố với cáo buộc điều hành các trung tâm lừa đảo tiền số để thu về hàng tỷ USD. Bộ Tư pháp Mỹ ngày 14\/10 công bố cáo trạng đối với Chen Zhi, còn được gọi là Vincent, chủ tịch kiêm nhà sáng lập tập đoàn Prince Holding ở Campuchia, cáo buộc ông điều hành các trại lao động cưỡng bức trên khắp quốc gia Đông Nam Á để tiến hành những vụ lừa đảo tiền điện tử. Theo Bộ Tư pháp Mỹ, tập đoàn Prince Holding thực chất là bình phong cho \"một trong các tổ chức tội phạm xuyên quốc gia lớn nhất châu Á\". Cơ quan này cũng tiến hành vụ tịch thu tài sản lớn nhất trong lịch sử khi thu giữ khoảng 127. 271 Bitcoin, có tổng giá trị gần 15 tỷ USD theo tỷ giá hiện hành. \"Động thái hôm nay là một trong các đòn tấn công quan trọng nhất từ trước đến nay nhằm vào nạn lừa đảo tài chính trên mạng và buôn người trên toàn cầu\", Bộ trưởng Tư pháp Mỹ Pam Bondi cho hay. Bộ Tư pháp Mỹ cho biết tại các trại lao động cưỡng bức do Chen điều hành, hàng trăm nhân viên là nạn nhân buôn người bị giữ trong những cơ sở giống như nhà tù, xung quanh là tường cao và hàng rào dây thép gai.",
+  "id": 10663,
+  "human_label": "NEI",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 851,
+  "created_at": "2026-03-17T08:46:42.386430Z",
+  "updated_at": "2026-03-17T08:46:42.386444Z",
+  "lead_time": 68.774
+},
+{
+  "claim_id": "ctx63_claim187",
+  "claim": "Vào ngày 7 tháng 1, các đám cháy rừng lớn bùng phát tại bang California, Mỹ, được thúc đẩy bởi gió Santa Ana, tạo thành \"tam giác bão lửa\" bao vây thành phố Los Angeles.",
+  "label": "SUPPORTED",
+  "seed_context_id": "vne_571_chunk_0",
+  "seed_context": "Lực lượng cứu hỏa California chỉ sử dụng nước biển như \"giải pháp cuối cùng\" để chống cháy rừng, do nước mặn dễ làm hỏng thiết bị và ảnh hưởng đến môi trường. Kể từ ngày 7\/1, loạt đám cháy rừng lớn bùng phát, mạnh lên nhờ gió Santa Ana, tạo thành \"tam giác bão lửa\" bao vây thành phố Los Angeles, trở thành một trong những thảm họa cháy rừng nghiêm trọng nhất lịch sử bang California, Mỹ. Tính đến ngày 16\/1, các đám cháy đã phá hủy khu vực rộng hơn 15. 000 ha, khiến ít nhất 27 người thiệt mạng, hàng chục nghìn ngôi nhà bị phá hủy. Tổn thất kinh tế do vụ cháy rừng có thể lên đến 135-150 tỷ USD. Các nhân viên cứu hỏa đã phải vật lộn khống chế các đám cháy với nguồn nước hạn chế do nhu cầu quá lớn. Nhiều người đã đặt câu hỏi về lý do giới chức cứu hỏa không sử dụng nguồn nước biển Thái Bình Dương gần đó để dập lửa. \"Tôi đã tìm thấy giải pháp dập các đám cháy ở California. Nó được gọi là nước\", tài khoản Daniel đăng trên mạng xã hội X, kèm bản đồ bang California nằm cạnh Thái Bình Dương. Bài đăng đã nhận được 34,5 triệu lượt xem và hơn 107.",
+  "id": 10664,
+  "human_label": "SUPPORTED",
+  "atomicity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 852,
+  "created_at": "2026-03-17T08:47:29.086358Z",
+  "updated_at": "2026-03-17T08:47:29.086372Z",
+  "lead_time": 46.469
+},
+{
+  "claim_id": "ctx63_claim188",
+  "claim": "Vào ngày 16 tháng 1, các đám cháy rừng ở California đã phá hủy hơn 25.000 ha và gây thiệt hại kinh tế ước tính 100 tỷ USD.",
+  "label": "REFUTED",
+  "seed_context_id": "vne_571_chunk_0",
+  "seed_context": "Lực lượng cứu hỏa California chỉ sử dụng nước biển như \"giải pháp cuối cùng\" để chống cháy rừng, do nước mặn dễ làm hỏng thiết bị và ảnh hưởng đến môi trường. Kể từ ngày 7\/1, loạt đám cháy rừng lớn bùng phát, mạnh lên nhờ gió Santa Ana, tạo thành \"tam giác bão lửa\" bao vây thành phố Los Angeles, trở thành một trong những thảm họa cháy rừng nghiêm trọng nhất lịch sử bang California, Mỹ. Tính đến ngày 16\/1, các đám cháy đã phá hủy khu vực rộng hơn 15. 000 ha, khiến ít nhất 27 người thiệt mạng, hàng chục nghìn ngôi nhà bị phá hủy. Tổn thất kinh tế do vụ cháy rừng có thể lên đến 135-150 tỷ USD. Các nhân viên cứu hỏa đã phải vật lộn khống chế các đám cháy với nguồn nước hạn chế do nhu cầu quá lớn. Nhiều người đã đặt câu hỏi về lý do giới chức cứu hỏa không sử dụng nguồn nước biển Thái Bình Dương gần đó để dập lửa. \"Tôi đã tìm thấy giải pháp dập các đám cháy ở California. Nó được gọi là nước\", tài khoản Daniel đăng trên mạng xã hội X, kèm bản đồ bang California nằm cạnh Thái Bình Dương. Bài đăng đã nhận được 34,5 triệu lượt xem và hơn 107.",
+  "id": 10665,
+  "human_label": "REFUTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 1
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 853,
+  "created_at": "2026-03-17T08:48:06.397484Z",
+  "updated_at": "2026-03-17T08:48:06.397500Z",
+  "lead_time": 37.067
+},
+{
+  "claim_id": "ctx63_claim189",
+  "claim": "Daniel, người dùng mạng xã hội X, đã đề xuất sử dụng nước biển Thái Bình Dương để dập tắt các đám cháy rừng ở California vào ngày 7 tháng 1.",
+  "label": "NEI",
+  "seed_context_id": "vne_571_chunk_0",
+  "seed_context": "Lực lượng cứu hỏa California chỉ sử dụng nước biển như \"giải pháp cuối cùng\" để chống cháy rừng, do nước mặn dễ làm hỏng thiết bị và ảnh hưởng đến môi trường. Kể từ ngày 7\/1, loạt đám cháy rừng lớn bùng phát, mạnh lên nhờ gió Santa Ana, tạo thành \"tam giác bão lửa\" bao vây thành phố Los Angeles, trở thành một trong những thảm họa cháy rừng nghiêm trọng nhất lịch sử bang California, Mỹ. Tính đến ngày 16\/1, các đám cháy đã phá hủy khu vực rộng hơn 15. 000 ha, khiến ít nhất 27 người thiệt mạng, hàng chục nghìn ngôi nhà bị phá hủy. Tổn thất kinh tế do vụ cháy rừng có thể lên đến 135-150 tỷ USD. Các nhân viên cứu hỏa đã phải vật lộn khống chế các đám cháy với nguồn nước hạn chế do nhu cầu quá lớn. Nhiều người đã đặt câu hỏi về lý do giới chức cứu hỏa không sử dụng nguồn nước biển Thái Bình Dương gần đó để dập lửa. \"Tôi đã tìm thấy giải pháp dập các đám cháy ở California. Nó được gọi là nước\", tài khoản Daniel đăng trên mạng xã hội X, kèm bản đồ bang California nằm cạnh Thái Bình Dương. Bài đăng đã nhận được 34,5 triệu lượt xem và hơn 107.",
+  "id": 10666,
+  "human_label": "NEI",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 2
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 854,
+  "created_at": "2026-03-17T08:48:50.397770Z",
+  "updated_at": "2026-03-17T08:48:50.397783Z",
+  "lead_time": 43.772
+},
+{
+  "claim_id": "ctx64_claim190",
+  "claim": "Vào ngày 10\/12, Quốc hội đã biểu quyết thông qua Luật sửa đổi, bổ sung một số điều của 10 luật liên quan đến an ninh, trật tự, trong đó có Luật Trật tự, an toàn giao thông đường bộ.",
+  "label": "SUPPORTED",
+  "seed_context_id": "vne_492_chunk_0",
+  "seed_context": "Sáng 10\/12, Quốc hội biểu quyết thông qua Luật sửa đổi, bổ sung một số điều của 10 luật liên quan đến an ninh, trật tự. Đối với Luật Trật tự, an toàn giao thông đường bộ, dự luật đã được tiếp thu, chỉnh lý theo hướng bỏ quy định bắt buộc lắp ghế an toàn trẻ em đối với ôtô kinh doanh vận tải hành khách như taxi, xe buýt, trong khi vẫn giữ yêu cầu ôtô chở trẻ em dưới 10 tuổi hoặc cao dưới 1,35 m phải có thiết bị an toàn phù hợp. Trước đó, đại biểu Quốc hội cho rằng Luật Trật tự, an toàn giao thông đường bộ 2024 (có hiệu lực từ ngày 1\/1\/2025, riêng quy định về an toàn cho trẻ em trên ô tô áp dụng từ 1\/1\/2026) quy định bắt buộc taxi phải lắp ghế an toàn trẻ em là chưa phù hợp với điều kiện Việt Nam. Thực tế ghế an toàn có 4-5 kích cỡ theo cân nặng, nếu bắt buộc mỗi xe taxi phải trang bị đủ là không khả thi. Hơn nữa, nhiều gia đình không có ôtô riêng, thường gọi taxi đưa trẻ đi khám, tiêm chủng hoặc trong thời tiết xấu; nếu taxi thiếu ghế, người dân có thể buộc phải chở trẻ bằng xe máy, rủi ro còn cao hơn.",
+  "id": 10667,
+  "human_label": "SUPPORTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 855,
+  "created_at": "2026-03-17T08:49:25.516238Z",
+  "updated_at": "2026-03-17T08:49:25.516253Z",
+  "lead_time": 34.873
+},
+{
+  "claim_id": "ctx64_claim191",
+  "claim": "Theo Luật Trật tự, an toàn giao thông đường bộ năm 2024, tất cả các loại xe ô tô kinh doanh vận tải hành khách tại Việt Nam, bao gồm cả taxi và xe buýt, bắt buộc phải lắp đặt ghế an toàn cho trẻ em khi có trẻ dưới 10 tuổi hoặc cao dưới 1,35m.",
+  "label": "REFUTED",
+  "seed_context_id": "vne_492_chunk_0",
+  "seed_context": "Sáng 10\/12, Quốc hội biểu quyết thông qua Luật sửa đổi, bổ sung một số điều của 10 luật liên quan đến an ninh, trật tự. Đối với Luật Trật tự, an toàn giao thông đường bộ, dự luật đã được tiếp thu, chỉnh lý theo hướng bỏ quy định bắt buộc lắp ghế an toàn trẻ em đối với ôtô kinh doanh vận tải hành khách như taxi, xe buýt, trong khi vẫn giữ yêu cầu ôtô chở trẻ em dưới 10 tuổi hoặc cao dưới 1,35 m phải có thiết bị an toàn phù hợp. Trước đó, đại biểu Quốc hội cho rằng Luật Trật tự, an toàn giao thông đường bộ 2024 (có hiệu lực từ ngày 1\/1\/2025, riêng quy định về an toàn cho trẻ em trên ô tô áp dụng từ 1\/1\/2026) quy định bắt buộc taxi phải lắp ghế an toàn trẻ em là chưa phù hợp với điều kiện Việt Nam. Thực tế ghế an toàn có 4-5 kích cỡ theo cân nặng, nếu bắt buộc mỗi xe taxi phải trang bị đủ là không khả thi. Hơn nữa, nhiều gia đình không có ôtô riêng, thường gọi taxi đưa trẻ đi khám, tiêm chủng hoặc trong thời tiết xấu; nếu taxi thiếu ghế, người dân có thể buộc phải chở trẻ bằng xe máy, rủi ro còn cao hơn.",
+  "id": 10668,
+  "human_label": "REFUTED",
+  "verifiability_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "atomicity_score": [
+    {
+      "rating": 3
+    }
+  ],
+  "specificity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "clarity_score": [
+    {
+      "rating": 4
+    }
+  ],
+  "faithfulness_score": [
+    {
+      "rating": 1
+    }
+  ],
+  "annotator": 2,
+  "annotation_id": 856,
+  "created_at": "2026-03-17T08:50:21.684055Z",
+  "updated_at": "2026-03-17T08:50:21.684069Z",
+  "lead_time": 55.93
+}
+]
