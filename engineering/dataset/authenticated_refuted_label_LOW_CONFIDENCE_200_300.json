@@ -1,0 +1,1103 @@
+[
+    {
+        "claim": "Cục Cảnh sát giao thông đang nghiên cứu việc cấp giấy phép lái xe điện tử mà không thu lệ phí, cho phép người thi đỗ nhận giấy phép chỉ vài giờ sau sát hạch.",
+        "seed_context": "Bên cạnh đó, Cục Cảnh sát giao thông cũng đang nghiên cứu cấp giấy phép lái xe điện tử mà không thu lệ phí. Theo đó, chỉ vài giờ sau khi sát hạch, người thi đỗ có thể nhận giấy phép lái xe điện tử thay vì chờ đợi thẻ cứng như hiện nay. \"Cảnh sát giao thông phải thay đổi tư duy, tập trung phục vụ nhân dân, giải quyết tận gốc các vấn đề thay vì xử lý phần ngọn. Tinh thần là người dân phải hiểu luật, chấp hành tốt, còn cảnh sát hỗ trợ, hướng dẫn\", tướng Bình nói.",
+        "final_label": "REFUTED",
+        "status": "LOW_CONFIDENCE",
+        "qc_tag": "TYPE_C",
+        "consensus_score": "1/3",
+        "evidence": [
+            {
+                "text": "Kết quả giấy phép lái xe được chuyển trả đến tận tay người dân sau 5 ngày làm việc (nếu đăng ký dịch vụ bưu chính), đồng thời dữ liệu điện tử về giấy phép lái xe của người dân sẽ được tự động cập nhật trên môi trường điện tử qua trang thông tin của Cục CSGT và ứng dụng định danh quốc gia (VNeID). Người dân có thể sử dụng ứng dụng VNeID để xuất trình giấy phép lái xe cho lực lượng chức năng kiểm soát và CSGT xác thực giấy phép lái xe của người dân qua ứng dụng chuyên biệt. Đối với việc đổi, cấp lại giấy phép lái xe trực tiếp, người dân có nhu cầu đổi bằng lái lập một bộ hồ sơ theo quy định gửi trực tiếp đến Phòng CSGT Công an cấp tỉnh hoặc Công an xã, phường, thị trấn nơi được bố trí điểm tiếp nhận hồ sơ cấp đổi giấy phép lái xe. Tại đây, người dân được hướng dẫn thực hiện các thủ tục cần thiết khác như chụp ảnh, hoàn thành nghĩa vụ nộp lệ phí đổi giấy phép khi được tiếp nhận. Kết quả được nhận sau 5 ngày làm việc, đồng thời dữ liệu về bằng lái của người dân sẽ được cập nhật trên môi trường điện tử (VNeID và trang tra cứu thông tin giấy phép của Cục CSGT).",
+                "source": "vietnamnet"
+            },
+            {
+                "text": "Tin tức đáng chú ý: Giảm 30% phí, lệ phí đăng ký xe, rút ngắn thời gian cấp, cấp lại và đổi giấy phép lái xe; Có website giả giải chạy hỗ trợ bệnh nhân ung thư; 7 bác sĩ chuyên khoa đầu ngành tại TP.HCM đã đến đặc khu Côn Đảo... Giảm 30% phí, lệ phí đăng ký xe; Rút ngắn thời gian cấp, cấp lại và đổi giấy phép lái xe Rút ngắn thời gian cấp, cấp lại và đổi giấy phép lái xe Phó thủ tướng Thường trực Nguyễn Hòa Bình ký Quyết định số 1891 ngày 3-9 của Thủ tướng Chính phủ phê duyệt phương án cắt giảm, đơn giản hóa thủ tục hành chính về định danh và xác thực điện tử; quản lý xuất nhập cảnh; bảo đảm trật tự an toàn giao thông thuộc phạm vi chức năng quản lý của Bộ Công an năm 2025. an toàn giao thông Đối với thủ tục cấp giấy xác nhận đủ điều kiện kinh doanh dịch vụ xác thực điện tử, giảm thời gian giải quyết từ 46 ngày xuống còn 31 ngày. Thủ tục thay đổi giấy xác nhận đủ điều kiện kinh doanh dịch vụ xác thực điện tử giảm thời gian giải quyết từ 40 ngày xuống còn 27 ngày. Thủ tục cấp lại giấy xác nhận đủ điều kiện kinh doanh dịch vụ xác thực điện tử giảm thời gian giải quyết từ 3 ngày xuống còn 2 ngày.",
+                "source": "tuoitre"
+            },
+            {
+                "text": "Phương án 2 là phanh gấp khi xe đi vào vũng nước và tăng ga ngay sau khi ra khỏi vũng nước. Phương án 3 là bật đèn chiếu xa, tăng tốc độ điều khiển ô tô qua khỏi khu vực mưa. \"Đáp án câu hỏi này đương nhiên là số 1\", đại diện Cục CSGT nói. Hay như câu hỏi: \"Người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy khi tham gia giao thông đường bộ có được sử dụng ô khi trời mưa hay không? \", phương án đưa ra gồm: được sử dụng; chỉ người ngồi sau được sử dụng; không được sử dụng; được sử dụng nếu không có áo mưa. \"Người học luật sẽ trả lời ngay được là đáp án số 3\", CSGT dẫn chứng. Phó cục trưởng Cục C08 cho biết bộ câu hỏi của Cục CSGT yêu cầu thí sinh phải ôn tập kỹ, luyện tập nhiều lần các câu hỏi tình huống và kỹ năng xử lý tình huống nguy hiểm. Việc áp dụng bộ đề thi mới không chỉ là thay đổi về kỹ thuật thi cử mà còn thể hiện quyết tâm của lực lượng công an trong việc nâng cao ý thức, trách nhiệm của người lái xe ngay từ khâu đầu vào. Trong bối cảnh tai nạn giao thông vẫn còn nhiều thách thức, kỳ thi sát hạch trở thành bước lọc quan trọng, đảm bảo người điều khiển phương tiện không chỉ biết lái xe mà còn thực sự hiểu và tuân thủ luật giao thông, góp phần bảo vệ an toàn cho bản thân và cộng đồng.",
+                "source": "thanhnien"
+            }
+        ],
+        "voter_details": [
+            {
+                "model": "openai/gpt-4o-mini",
+                "vote": "REFUTED",
+                "quote": "người dân được hướng dẫn thực hiện các thủ tục cần thiết khác như chụp ảnh, hoàn thành nghĩa vụ nộp lệ phí đổi giấy phép khi được tiếp nhận"
+            },
+            {
+                "model": "mistralai/mistral-small-24b-instruct-2501",
+                "vote": "SUPPORTED",
+                "quote": "Rút ngắn thời gian cấp, cấp lại và đổi giấy phép lái xe"
+            }
+        ]
+    },
+    {
+        "claim": "Theo Nghị định 238 của Chính phủ có hiệu lực từ ngày 3 tháng 9, chính sách miễn học phí áp dụng cho học sinh, sinh viên là người khuyết tật đang theo học tại các cơ sở giáo dục công lập.",
+        "seed_context": "Theo Nghị định 238 của Chính phủ có hiệu lực từ ngày 3/9, chính sách miễn phí cũng áp dụng cho người thuộc diện ưu đãi theo Pháp lệnh người có công với cách mạng; học sinh, sinh viên là người khuyết tật; thanh thiếu niên từ 16 đến 22 tuổi đang học đại học văn bằng thứ nhất thuộc diện hưởng trợ cấp xã hội; người mồ côi cả cha lẫn mẹ không nơi nương tựa theo học trung cấp, cao đẳng. Học sinh, sinh viên hệ cử tuyển, kể cả học nghề nội trú từ ba tháng trở lên, cũng được miễn học phí. Chính sách này bao gồm cả học sinh trường dự bị đại học, khoa dự bị đại học; người dân tộc thiểu số có cha mẹ hoặc ông bà thuộc hộ nghèo, cận nghèo. Sinh viên học chuyên ngành Mác - Lênin và Tư tưởng Hồ Chí Minh; học viên sau đại học trong các chuyên ngành y tế đặc thù như tâm thần, giải phẫu bệnh, pháp y, truyền nhiễm, hồi sức cấp cứu tại cơ sở công lập cũng được miễn. Những người dân tộc thiểu số rất ít người ở vùng khó khăn, đặc biệt khó khăn; học sinh, sinh viên thuộc các chương trình, đề án được miễn học phí; người tốt nghiệp THCS học tiếp lên trung cấp; học các ngành, nghề khó tuyển nhưng xã hội có nhu cầu; người học các ngành đặc thù phục vụ phát triển kinh tế - xã hội, quốc phòng, an ninh cũng nằm trong diện miễn phí.",
+        "final_label": "REFUTED",
+        "status": "LOW_CONFIDENCE",
+        "qc_tag": "TYPE_C",
+        "consensus_score": "1/3",
+        "evidence": [
+            {
+                "text": "Chiều 26. 6, tiếp tục Chương trình kỳ họp thứ 9, Quốc hội khóa XV, Quốc hội biểu quyết thông qua Nghị quyết của Quốc hội về miễn, hỗ trợ học phí đối với trẻ em mầm non, học sinh phổ thông, người học chương trình giáo dục phổ thông tại các cơ sở giáo dục trong hệ thống giáo dục quốc dân. Kết quả biểu quyết cho thấy, 440/441 đại biểu có mặt tham gia biểu quyết tán thành, chiếm 92,05%. Như vậy, Nghị quyết về miễn, hỗ trợ học phí đối với trẻ em mầm non, học sinh phổ thông, người học chương trình giáo dục phổ thông tại các cơ sở giáo dục trong hệ thống giáo dục quốc dân đã được thông qua. Nghị quyết này quy định miễn, hỗ trợ học phí đối với trẻ em mầm non, học sinh phổ thông, người học chương trình giáo dục phổ thông là công dân Việt Nam, người gốc Việt Nam chưa xác định được quốc tịch đang sinh sống tại Việt Nam trong cơ sở giáo dục thuộc hệ thống giáo dục quốc dân.",
+                "source": "laodong"
+            },
+            {
+                "text": "Với đa số tán thành, Quốc hội đã thông qua nghị quyết về miễn, hỗ trợ học phí đối với trẻ em mầm non, học sinh phổ thông trên cả nước. Chiều 26-6, với 440/441 đại biểu có mặt tán thành, 1 đại biểu không tán thành, Quốc hội đã thông qua nghị quyết về miễn, hỗ trợ học phí đối với trẻ em mầm non, học sinh phổ thông , người học chương trình giáo dục phổ thông trong cơ sở giáo dục thuộc hệ thống giáo dục quốc dân. học sinh phổ thông Nghị quyết có hiệu lực thi hành từ ngày được Quốc hội thông qua và áp dụng từ năm học 2025-2026. Miễn học phí: Đảm bảo cơ hội được tiếp cận giáo dục bình đẳng, công bằng Nghị quyết được Quốc hội thông qua quy định miễn, hỗ trợ học phí đối với trẻ em mầm non, học sinh phổ thông, người học chương trình giáo dục phổ thông là công dân Việt Nam, người gốc Việt Nam chưa xác định được quốc tịch đang sinh sống tại Việt Nam trong cơ sở giáo dục thuộc hệ thống giáo dục quốc dân. Về chính sách cụ thể, nghị quyết quy định miễn học phí đối với trẻ em mầm non, học sinh phổ thông, người học chương trình giáo dục phổ thông trong cơ sở giáo dục công lập.",
+                "source": "tuoitre"
+            },
+            {
+                "text": "Hỗ trợ học phí đối với trẻ em mầm non, học sinh phổ thông, người học chương trình giáo dục phổ thông trong cơ sở giáo dục dân lập, tư thục. Mức hỗ trợ đóng học phí do HĐND tỉnh, thành phố trực thuộc trung ương quyết định theo khung học phí do Chính phủ quy định nhưng không vượt mức thu học phí của cơ sở giáo dục dân lập, tư thục. Nghị quyết cũng nêu rõ kinh phí thực hiện chính sách miễn, hỗ trợ học phí do ngân sách nhà nước bảo đảm theo quy định của pháp luật về phân cấp quản lý ngân sách. Ngân sách trung ương hỗ trợ đối với các địa phương chưa cân đối được ngân sách để thực hiện chính sách miễn, hỗ trợ học phí theo quy định của pháp luật. Ngân sách trung ương Chính phủ cho biết chủ trương miễn học phí tại nghị quyết đã bao quát, đầy đủ diện trẻ em mầm non từ 3 tháng đến 6 tuổi, học sinh phổ thông (lớp 1 đến lớp 12), người học chương trình giáo dục phổ thông (bao gồm người học chương trình giáo dục phổ thông cấp trung học cơ sở và cấp trung học phổ thông tại các cơ sở giáo dục thường xuyên) trong cơ sở giáo dục thuộc hệ thống giáo dục quốc dân.",
+                "source": "tuoitre"
+            }
+        ],
+        "voter_details": [
+            {
+                "model": "openai/gpt-4o-mini",
+                "vote": "NEI",
+                "quote": "Nghị quyết về miễn, hỗ trợ học phí đối với trẻ em mầm non, học sinh phổ thông, người học chương trình giáo dục phổ thông là công dân Việt Nam, người gốc Việt Nam chưa xác định được quốc tịch đang sinh sống tại Việt Nam trong cơ sở giáo dục thuộc hệ thống giáo dục quốc dân."
+            },
+            {
+                "model": "mistralai/mistral-small-24b-instruct-2501",
+                "vote": "REFUTED",
+                "quote": "Nghị quyết có hiệu lực thi hành từ ngày được Quốc hội thông qua và áp dụng từ năm học 2025-2026."
+            }
+        ]
+    },
+    {
+        "claim": "Trung Quốc muốn tạo lợi thế để đàm phán về việc nới lỏng hạn chế xuất khẩu chip và công nghệ của Mỹ trong các cuộc đàm phán thương mại dự kiến tổ chức vào ngày 15 tháng 12 năm 2023.",
+        "seed_context": "Trung Quốc chiếm tới 70% hoạt động khai thác và khoảng 90% hoạt động chế biến 17 kim loại đất hiếm trên toàn cầu. Theo bà Alicia Garcia Herrero, kinh tế gia tại Natixis, \"cuộc chiến đất hiếm\" lần này không chỉ là vấn đề thương mại, mà là cuộc tái cấu trúc quyền lực công nghệ toàn cầu. Mỗi quyết định áp thuế hay lệnh cấm xuất khẩu của Washington và Bắc Kinh giờ đây đều mang ý nghĩa chiến lược vượt xa phạm vi kinh tế. Và khi tung đòn kiểm soát đất hiếm, Trung Quốc muốn tạo lợi thế để đàm phán về việc nới lỏng đối với hạn chế xuất khẩu chip cũng như công nghệ của Mỹ, Khawaja nhận định. Đây là một trong những yêu cầu hàng đầu của nước này trong các cuộc đàm phán thương mại mà hai bên dự kiến tổ chức trong thời gian tới. \"Chính niềm tin của Trung Quốc rằng ông Trump sẽ nhượng bộ đã khiến họ không ngại leo thang\", Rush Doshi, nhà nghiên cứu tại Đại học Georgetown và từng làm việc trong chính quyền Joe Biden, nhận xét. Tuy nhiên, sức ép thị trường và lợi ích công nghiệp có thể buộc hai bên phải tìm kiếm những giải pháp \"hạ nhiệt có điều kiện\" trong cuộc đấu thương mại.",
+        "final_label": "REFUTED",
+        "status": "LOW_CONFIDENCE",
+        "qc_tag": "TYPE_C",
+        "consensus_score": "1/3",
+        "evidence": [
+            {
+                "text": "Chiều cùng ngày, tại cuộc họp báo thường kỳ của Bộ Thương mại Trung Quốc, người phát ngôn Hà Á Đông cũng đã đưa ra quan điểm về các diễn biến liên quan căng thẳng thương mại Mỹ - Trung gần đây, ông Hà cho biết chính sách thuế quan của Mỹ đã vấp phải những phản ứng trái chiều không chỉ từ cộng đồng quốc tế mà ngay trong chính nước Mỹ. \"Muốn tháo chuông phải tìm người buộc chuông \", đại diện phát ngôn Bộ Thương mại Trung Quốc trích dẫn câu thành ngữ của nước này, cho rằng việc tháo gỡ vấn đề cần đến sự thừa nhận và điều chỉnh từ bên đã khởi xướng các biện pháp áp thuế là Mỹ. \"Muốn tháo chuông phải tìm người buộc chuông \"Nếu muốn giải quyết vấn đề, Mỹ nên đối diện với ý kiến lý trí của cả cộng đồng quốc tế lẫn nội bộ nước Mỹ\", ông Hà nhấn mạnh. Cả hai đại diện phát ngôn từ Bộ Ngoại giao và Bộ Thương mại Trung Quốc đều thể hiện lập trường không bác bỏ đối thoại, nhưng khẳng định rõ ràng rằng điều kiện tiên quyết là các cuộc đàm phán phải được tiến hành trong khuôn khổ tôn trọng lẫn nhau và Mỹ phải loại bỏ các yếu tố gây áp lực đơn phương.",
+                "source": "tuoitre"
+            },
+            {
+                "text": "Hoài Linh Theo Washington Post, Bộ Tài chính Mỹ tối 6/5 thông báo, các nhà đàm phán thương mại Trung Quốc sẽ họp bàn với Bộ trưởng Mỹ Tài chính Scott Bessent và Đại diện Thương mại Mỹ Jamieson Greer ở Thụy Sỹ vào cuối tuần này. Bộ Thương mại Trung Quốc hôm nay (7/5) xác nhận, Phó Thủ tướng Hà Lập Phong sẽ tham dự các cuộc thương thuyết ở Geneva, Thụy Sỹ. Cuộc gặp diễn ra trong bối cảnh cả Mỹ và Trung Quốc đều cảm thấy tác động của thuế quan quá lớn, tương đương với lệnh cấm vận, nên đã dịu giọng trong những ngày gần đây. Bộ Thương mại Trung Quốc tuyên bố: \"Trên cơ sở cân nhắc đầy đủ các kỳ vọng toàn cầu, lợi ích của Trung Quốc và lời kêu gọi của người tiêu dùng và ngành công nghiệp Mỹ, Bắc Kinh quyết định đối thoại với Washington\". Về phía Mỹ, Bộ trưởng Tài chính Bessent cho biết, Bắc Kinh và Washington sẽ họp vào ngày 10 và 11/5 để thảo luận về lợi ích chung vì cả hai phía đều muốn thương mại công bằng. Bắc Kinh vẫn kiên quyết không chấp nhận sau khi Tổng thống Mỹ Donald Trump áp thuế tối thiểu 145% đối với hàng hóa nhập khẩu từ Trung Quốc.",
+                "source": "vietnamnet"
+            },
+            {
+                "text": "Trung Quốc cho biết đang đánh giá đề nghị đàm phán thuế quan do Mỹ chủ động đưa ra, nhưng nhấn mạnh Washington cần thể hiện thành ý và sửa đổi các biện pháp đơn phương nếu muốn nối lại đối thoại. Theo Hãng tin AFP ngày 2-5, Trung Quốc cho biết nước này \"gần đây đang đánh giá\" đề nghị đàm phán về thuế quan từ Mỹ, đồng thời tiết lộ chính Washington đã \"chủ động\" tìm kiếm cuộc đối thoại này. \"Gần đây, Mỹ đã chủ động liên lạc qua các bên liên quan để thông báo rằng họ mong muốn đàm phán với Trung Quốc\", phát ngôn viên của Bộ Thương mại Trung Quốc cho biết. Mặc dù vậy, Bắc Kinh vẫn chưa đưa ra quyết định cuối cùng về việc có tham gia cuộc đối thoại này hay không. Ngoài ra, Trung Quốc cũng cho biết Mỹ cần phải thể hiện sự thành thật trong bất kỳ cuộc đàm phán nào với quốc gia này. \"Trung Quốc cho rằng nếu Mỹ muốn đàm phán, họ cần thể hiện sự thành thật, chuẩn bị sửa chữa các hành vi sai trái của mình, hủy bỏ các thuế đơn phương và có hành động cụ thể\", Bộ Thương mại cho biết. \"Trong bất kỳ cuộc đối thoại hay đàm phán nào, nếu phía Mỹ không sửa đổi các biện pháp thuế đơn phương sai lầm, điều đó có nghĩa là Mỹ hoàn toàn thiếu thành tâm và sẽ càng làm tổn hại niềm tin giữa hai bên\", tuyên bố nêu rõ.",
+                "source": "tuoitre"
+            }
+        ],
+        "voter_details": [
+            {
+                "model": "openai/gpt-4o-mini",
+                "vote": "SUPPORT",
+                "quote": "Trung Quốc cho biết đang đánh giá đề nghị đàm phán thuế quan do Mỹ chủ động đưa ra, nhưng nhấn mạnh Washington cần thể hiện thành ý và sửa đổi các biện pháp đơn phương nếu muốn nối lại đối thoại."
+            },
+            {
+                "model": "qwen/qwen-2.5-72b-instruct",
+                "vote": "SUPPORTED",
+                "quote": "Trung Quốc cho rằng nếu Mỹ muốn đàm phán, họ cần thể hiện sự thành thật, chuẩn bị sửa chữa các hành vi sai trái của mình, hủy bỏ các thuế đơn phương và có hành động cụ thể"
+            },
+            {
+                "model": "mistralai/mistral-small-24b-instruct-2501",
+                "vote": "NEI",
+                "quote": "Không có bằng chứng nào liên quan đến việc Trung Quốc muốn tạo lợi thế để đàm phán về việc nới lỏng hạn chế xuất khẩu chip và công nghệ của Mỹ trong các cuộc đàm phán thương mại dự kiến tổ chức vào ngày 15 tháng 12 năm 2023."
+            }
+        ]
+    },
+    {
+        "claim": "Việc tuyển dụng nhà giáo tại các cơ sở giáo dục ngoài lực lượng vũ trang nhân dân thuộc thẩm quyền quy định của Bộ trưởng Quốc phòng kể từ ngày 1/1/2026.",
+        "seed_context": "Tại các trường thuộc lực lượng vũ trang nhân dân, việc tuyển dụng nhà giáo do Bộ trưởng Quốc phòng hoặc Bộ trưởng Công an quy định. Với các loại hình cơ sở giáo dục khác, thẩm quyền tuyển dụng được thực hiện theo quy định của Bộ trưởng Giáo dục và Đào tạo. Theo ông Nguyễn Đắc Vinh, nhà giáo trong các cơ sở giáo dục công lập là viên chức, do đó việc tuyển dụng phải tuân thủ quy định của pháp luật về viên chức. Tuy nhiên, dự thảo Luật cũng bổ sung một số yêu cầu mang tính đặc thù trong tuyển dụng nhà giáo, như nội dung tuyển dụng căn cứ vào chuẩn nghề nghiệp, phương thức thi tuyển phải có nội dung thực hành sư phạm... Luật Nhà giáo sẽ có hiệu lực từ ngày 1/1/2026.",
+        "final_label": "REFUTED",
+        "status": "LOW_CONFIDENCE",
+        "qc_tag": "TYPE_C",
+        "consensus_score": "1/3",
+        "evidence": [
+            {
+                "text": "Luật Nhà giáo có hiệu lực từ 1. 1. 2026, quy định được xếp cao nhất trong hệ thống thang bậc lương hành chính sự nghiệp. Ngoài ra, nhà giáo còn có phụ cấp ưu đãi nghề và phụ cấp khác tùy theo tính chất công việc và theo vùng. Cạnh đó, luật cũng quy định, nhà giáo cấp học mầm non; nhà giáo công tác ở vùng đồng bào dân tộc thiểu số, miền núi, biên giới, hải đảo và vùng có điều kiện KT-XH đặc biệt khó khăn; nhà giáo dạy trường chuyên biệt; nhà giáo thực hiện giáo dục hòa nhập; nhà giáo ở một số ngành, nghề đặc thù được hưởng chế độ tiền lương và phụ cấp cao hơn so với nhà giáo làm việc trong điều kiện bình thường. Nhà giáo công tác ở ngành, nghề có chế độ đặc thù thì được hưởng chế độ đặc thù theo quy định của pháp luật, nhưng chỉ được hưởng ở một mức cao nhất nếu trùng với chính sách dành cho nhà giáo. Với nhà giáo tại các trường ngoài công lập, tiền lương thực hiện theo pháp luật lao động. Giải trình trước Quốc hội (QH) trước khi luật được thông qua, Chủ nhiệm Ủy ban Văn hóa - Xã hội QH Nguyễn Đắc Vinh cho biết, việc quy định nhà giáo được hưởng lương, phụ cấp cao nhất trong thang bậc lương hành chính sự nghiệp nhằm thể chế hóa chủ trương của Đảng về chính sách nhà giáo; không trái với tinh thần cải cách chính sách tiền lương.",
+                "source": "thanhnien"
+            },
+            {
+                "text": "Theo nghị quyết, giám đốc sở giáo dục và đào tạo được tuyển dụng, tiếp nhận, quản lý nhà giáo, cán bộ quản lý và nhân viên trường mầm non, giáo dục phổ thông, giáo dục thường xuyên, trường chuyên biệt và trung học nghề công lập trên địa bàn tỉnh.\n\nChủ tịch cấp xã được điều động, thuyên chuyển, biệt phái, bổ nhiệm, miễn nhiệm, thay đổi vị trí  việc làm  đối với nhà giáo, cán bộ quản lý và nhân viên trường công lập thuộc quyền quản lý.\n\nCơ sở giáo dục nghề nghiệp, giáo dục đại học được tự chủ xác định vị trí việc làm, tuyển dụng, ký hợp đồng lao động đối với chuyên gia, nhà khoa học có trình độ tiến sĩ là người nước ngoài, người Việt Nam định cư ở nước ngoài theo quy chế nội bộ của đơn vị.\n\nCác đơn vị này quyết định, tự chịu trách nhiệm trong việc tuyển dụng, xác nhận đối tượng miễn giấy phép lao động cho chuyên gia, nhà khoa học người nước ngoài trong thời gian không quá 3 năm để thực hiện công tác giảng dạy, nghiên cứu khoa học.",
+                "source": "dantri"
+            },
+            {
+                "text": "Giáo viên và học sinh Trường Tiểu học Hiệp Tân, TPHCM (Ảnh: Huyên Nguyễn).\n\nNội dung trên có trong Nghị quyết về một số cơ chế,  chính sách  đặc thù, vượt trội nhằm tạo đột phá phát triển giáo dục và đào tạo vừa được Quốc hội thông qua, có hiệu lực từ ngày 1/1/2026.\n\nQuốc hội quy định phụ cấp ưu đãi nghề được thực hiện theo lộ trình do Chính phủ quy định đối với cơ sở  giáo dục  mầm non, giáo dục phổ thông công lập với mức tối thiểu 70% đối với giáo viên, tối thiểu 30% đối với nhân viên.\n\nĐối với giáo viên công tác tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn, vùng đồng bào dân tộc thiểu số, biên giới, hải đảo mức phụ cấp là 100%.\n\nCơ sở giáo dục nghề nghiệp, giáo dục đại học được tự chủ quyết định mức thu nhập tăng thêm cho nhà giáo, viên chức và người lao động từ nguồn thu hợp pháp ngoài ngân sách Nhà nước cấp được để lại theo quy định của pháp luật, phù hợp với quy chế chi tiêu nội bộ và kết quả hoạt động của đơn vị.",
+                "source": "dantri"
+            }
+        ],
+        "voter_details": [
+            {
+                "model": "openai/gpt-4o-mini",
+                "vote": "SUPPORTED",
+                "quote": "Nội dung trên có trong Nghị quyết về một số cơ chế, chính sách đặc thù, vượt trội nhằm tạo đột phá phát triển giáo dục và đào tạo vừa được Quốc hội thông qua, có hiệu lực từ ngày 1/1/2026."
+            },
+            {
+                "model": "qwen/qwen-2.5-72b-instruct",
+                "vote": "REFUTED",
+                "quote": "Giám đốc sở giáo dục và đào tạo được tuyển dụng, tiếp nhận, quản lý nhà giáo, cán bộ quản lý và nhân viên trường mầm non, giáo dục phổ thông, giáo dục thường xuyên, trường chuyên biệt và trung học nghề công lập trên địa bàn tỉnh."
+            },
+            {
+                "model": "mistralai/mistral-small-24b-instruct-2501",
+                "vote": "NEI",
+                "quote": "Không có thông tin liên quan đến việc tuyển dụng nhà giáo tại các cơ sở giáo dục ngoài lực lượng vũ trang nhân dân thuộc thẩm quyền quy định của Bộ trưởng Quốc phòng."
+            }
+        ]
+    },
+    {
+        "claim": "Quan chức ARAIB cho biết quá trình điều tra tai nạn hàng không tại Hàn Quốc, bao gồm cả thảm kịch này, sẽ được hoàn tất trong vòng 11 tháng dựa trên dữ liệu từ hộp đen và các mảnh vỡ máy bay.",
+        "seed_context": "\"Cả hai động cơ có khả năng đã ngừng hoạt động hoàn toàn, kéo theo hệ thống cấp điện. Chuỗi diễn biến này làm hai hộp đen và bộ thu phát ADS-B bị ngắt gần như cùng lúc. Đây có vẻ là vấn đề kỹ thuật hơn là lỗi con người\", ông Kim nói. Theo chuyên gia Jeong, các điều tra viên sẽ cần thêm thời gian để xác định nguyên nhân tai nạn, vì phải đối chiếu dữ liệu từ nhiều nguồn. Những cuộc điều tra tai nạn hàng không tại Hàn Quốc trong quá khứ có thể kéo dài từ 11 tháng đến vài năm. \"Quá trình điều tra sẽ không chỉ dựa trên dữ liệu từ hộp đen, mà còn phải phân tích nhiều nguồn khác như bản ghi âm liên lạc ở đài kiểm soát không lưu, hình ảnh sự việc và các mảnh vỡ. Chúng tôi sẽ làm rõ thảm kịch bắt nguồn do máy bay mất lực đẩy động cơ hay lỗi hệ thống cáp truyền dữ liệu\", một quan chức ARAIB nói. Mỗi hộp đen có khối lượng khoảng 4,5 kg và gồm 4 phần chính: Khung bên ngoài bao bọc thiết bị, bộ phát tín hiệu định vị dưới nước, phần lõi làm bằng thép không gỉ hoặc titan có khả năng chịu va đập cao, phía trong chứa những chip nhớ gắn trên các bảng mạch có kích cỡ bằng ngón tay để lưu dữ liệu.",
+        "final_label": "REFUTED",
+        "status": "LOW_CONFIDENCE",
+        "qc_tag": "TYPE_C",
+        "consensus_score": "1/3",
+        "evidence": [
+            {
+                "text": "Nhà chức trách Hàn Quốc đã tìm thấy lông vũ trong động cơ máy bay của Jeju Air, chính thức xác nhận việc va chạm với chim là nguyên nhân khiến máy bay gặp nạn. Ngày 7-1, Bộ Đất đai, Cơ sở hạ tầng và Giao thông vận tải Hàn Quốc (MOLIT) tổ chức họp báo công bố nguyên nhân tai nạn của máy bay thuộc Hãng hàng không Jeju Air hôm 29-12-2024. Hàn Quốc Va chạm với chim được chỉ ra là nguyên nhân ban đầu của vụ tai nạn, dựa trên tín hiệu \"mayday\" (tín hiệu cấp cứu) của phi công và lời khai của các thành viên phi hành đoàn còn sống sót. Theo Hãng thông tấn Yonhap, đây là lần đầu tiên Chính phủ Hàn Quốc chính thức xác nhận máy bay gặp nạn đã va chạm với chim. Ông Lee Seung Yeol, người đứng đầu nhóm điều tra tai nạn của Ủy ban Điều tra tai nạn hàng không và đường sắt Hàn Quốc, cho biết đã tìm thấy lông vũ bên trong động cơ chiếc máy bay gặp nạn. Ba chuyên gia về chim của Viện Tài nguyên sinh vật quốc gia đã đến nhà chứa máy bay sân bay Muan , nơi lưu giữ hai động cơ của máy bay gặp nạn, và thu thập các mẫu bao gồm cả đất và lông vũ từ bên trong động cơ.",
+                "source": "tuoitre"
+            },
+            {
+                "text": "Các nhà chức trách Hàn Quốc ngày 11. 1 cho hay hộp đen của máy bay Jeju Air gặp nạn khiến 179 người thiệt mạng đã thiếu 4 phút dữ liệu trước khi xảy ra vụ nổ. Hãng Yonhap dẫn thông báo từ Bộ Đất đai, Hạ tầng và Giao thông ngày 11. 1 cho biết Ủy ban An toàn Giao thông Quốc gia Mỹ (NTSB) đã phân tích của phi cơ Jeju Air gặp nạn ở thành phố Muan, kết luận rằng cả 2 hộp đen, gồm máy ghi dữ liệu chuyến bay (FDR) và máy ghi âm buồng lái (CVR) đã ngừng ghi dữ liệu từ 4 phút trước khi máy bay đâm vào rào dẫn đường và phát nổ. Cả FDR và CVR đã ngừng ghi dữ liệu vào 8 giờ 59 ngày 29. 12. 2024, vài phút trước khi xảy ra tai nạn thảm khốc tại Hàn Quốc. Điều này khiến công tác điều tra chi tiết nguyên nhân vụ việc thêm khó khăn. Giới chức Hàn Quốc cho biết dù hộp đen là thiết bị quan trọng cho cuộc điều tra, nó không phải vật chứng duy nhất có thể khai thác. “Cuộc điều tra bao gồm việc phân tích nhiều nguồn thông tin khác nhau, bao gồm hồ sơ kiểm soát không lưu, cảnh quay video về vụ tai nạn và các mảnh vỡ từ hiện trường”.",
+                "source": "thanhnien"
+            },
+            {
+                "text": "Kết quả cho thấy vết máu chim và lông vũ đã được tìm thấy trên các động cơ. Báo cáo cho biết: \"Các phi công đã xác định được một đàn chim khi đang tiếp cận đường băng 01. Một camera an ninh đã quay được cảnh máy bay bay gần một đàn chim trong lúc bay vòng\". Báo cáo không nêu rõ liệu động cơ có ngừng hoạt động trong những khoảnh khắc trước khi xảy ra vụ tai nạn hay không. Phân tích DNA xác định lông vũ và máu là của vịt trời Baikal - loài vịt di cư bay đến Hàn Quốc vào mùa đông từ nơi sinh sản của chúng ở Siberia. Sau khi cho phép máy bay hạ cánh, nhân viên kiểm soát không lưu đã khuyến cáo các phi công nên thận trọng với nguy cơ va chạm với chim vào lúc 8h58 - báo cáo cho biết. Chỉ một phút sau, cả hộp đen ghi âm giọng nói và dữ liệu đều ngừng hoạt động. Vài giây sau khi hộp đen ghi âm bị hỏng, các phi công đã tuyên bố hạ cánh khẩn cấp do va chạm với chim và cố gắng hạ cánh bằng bụng. Máy bay Jeju đã phát nổ và bốc cháy sau khi va chạm với một kết cấu bê tông trong khi hạ cánh, làm dấy lên câu hỏi về lý do tại sao lại có kết cấu rào chắn bê tông kiểu này ở cuối đường băng.",
+                "source": "vtv"
+            }
+        ],
+        "voter_details": [
+            {
+                "model": "openai/gpt-4o-mini",
+                "vote": "REFUTED",
+                "quote": "Cả FDR và CVR đã ngừng ghi dữ liệu vào 8 giờ 59 ngày 29. 12. 2024, vài phút trước khi xảy ra tai nạn thảm khốc tại Hàn Quốc."
+            },
+            {
+                "model": "qwen/qwen-2.5-72b-instruct",
+                "vote": "SUPPORTED",
+                "quote": "Cuộc điều tra bao gồm việc phân tích nhiều nguồn thông tin khác nhau, bao gồm hồ sơ kiểm soát không lưu, cảnh quay video về vụ tai nạn và các mảnh vỡ từ hiện trường"
+            },
+            {
+                "model": "mistralai/mistral-small-24b-instruct-2501",
+                "vote": "NEI",
+                "quote": "Các bằng chứng không cung cấp thông tin về thời gian điều tra tai nạn hàng không tại Hàn Quốc."
+            }
+        ]
+    },
+    {
+        "claim": "Vào một ngày cụ thể, quân đội Ba Lan và các đồng minh đã triển khai tiêm kích để đảm bảo an ninh tại các địa phương của Ba Lan giáp với Ukraine khi Nga tấn công khu vực miền tây Ukraine.",
+        "seed_context": "Bộ Quốc phòng Nga chưa bình luận về thông tin. Quân đội Ba Lan cùng ngày thông báo nước này và các đồng minh đã triển khai tiêm kích khi \"Nga tấn công khu vực miền tây Ukraine\", khẳng định động thái nhằm đảm bảo an ninh tại các địa phương của Ba Lan giáp với Ukraine. , tài khoản trên X chuyên theo dõi dữ liệu tình báo nguồn mở về chiến sự và có quan điểm ủng hộ Ukraine, công bố bản đồ cho thấy phần lớn UAV cùng các tên lửa Kinzhal và Kh-101 Nga nhắm tới sân bay quân sự Dubno gần thành phố cùng tên ở tỉnh Rivne, miền tây Ukraine. Tên lửa Kh-22 dường như nhắm tới đảo Rắn, cách cảng Odessa khoảng 35 km. Cũng theo tài khoản này, ít nhất 3 loạt phóng tên lửa đạn đạo chiến thuật Iskander-M đã nhằm vào thủ đô Kiev và thành phố Kremechuk, nhưng thông tin không được đề cập trong thống kê của Bộ tư lệnh không quân Ukraine. \"Không quân Ukraine khẳng định đã bắn hạ 100% tên lửa Kinzhal và Kh-101, trong khi chỉ có một quả đạn Kh-22 đánh trúng đích trong tổng số 20 tên lửa được Nga khai hỏa. Đây có thể là tuyên bố khó tin nhất từ trước đến nay do Ukraine đưa ra\", AMK Mapping cho hay.",
+        "final_label": "REFUTED",
+        "status": "LOW_CONFIDENCE",
+        "qc_tag": "TYPE_C",
+        "consensus_score": "1/3",
+        "evidence": [
+            {
+                "text": "Dấu hiệu ghi nhận chiến công trên chiếc F-35 của Hà Lan (Ảnh: Bộ Quốc phòng Hà Lan).\n\nẢnh do quân đội Hà Lan công bố cho thấy một tiêm kích tàng hình F-35 nước này mang dấu hiệu dường như ghi nhận nó đã đánh chặn thành công UAV, sau khi chiến đấu cơ tiên tiến này được sử dụng để bắn hạ các máy bay không người lái xâm nhập không phận của đồng minh Ba Lan.\n\nHình ảnh từ Bộ Quốc phòng Hà Lan cho thấy ký hiệu này được sơn trên thân máy bay, ngay bên dưới buồng lái. Dấu hiệu đó, vốn không xuất hiện trên các tiêm kích F-35 khác, có hình dạng rõ ràng giống với loại UAV tấn công một chiều có cánh tam giác.\n\nBộ Quốc phòng Hà Lan nói với Business Insider rằng dấu hiệu này được thêm vào “sau khi hạ nhiều UAV trong không phận Ba Lan vào tháng 9”. Bộ cho biết dấu hiệu đó chỉ được sơn lên một chiếc F-35 đã bắn hạ nhiều UAV, nhưng không tiết lộ số lượng cụ thể.",
+                "source": "dantri"
+            },
+            {
+                "text": "Kể từ khi chiến sự ở Ukraine nổ ra vào năm 2022, các máy bay phương Tây, trong đó có F-35 của Hà Lan, đã nhiều lần được điều động khẩn cấp để phản ứng với hoạt động của lực lượng không quân Nga gần NATO.\n\nTrong vụ việc ở Ba Lan, nếu các UAV thực sự là của Nga thì đây là lần đầu tiên tiêm kích NATO bắn hạ thiết bị bay của Nga trong không phận của liên minh.\n\nNhiều lãnh đạo và quan chức quốc phòng phương Tây cho rằng đây có thể là phép thử khả năng phòng không của NATO, một lĩnh vực mà chính liên minh thừa nhận còn thiếu sót. Tuy nhiên, Nga nhiều lần khẳng định họ không có kế hoạch tấn công vào NATO, nhấn mạnh Moscow không được lợi gì khi làm vậy.",
+                "source": "dantri"
+            },
+            {
+                "text": "Một vị bộ trưởng của Ba Lan xác nhận vật thể rơi xuống làm hư hại ngôi nhà tại miền đông nước này là tên lửa của Warsaw, không phải máy bay không người lái (UAV) của Nga. Đêm 9. 9, rạng sáng 10. 9, 21 máy bay không người lái (UAV) của bị tố cáo xâm nhập không phận . Chính quyền Ba Lan ban đầu cho rằng một ngôi nhà tại làng Wyryki-Wola ở miền đông bị hư hại có thể là do một trong số các UAV rơi trúng. Tuy nhiên, nhật báo ngày 16. 9 dẫn nguồn tin cho rằng ngôi nhà bị trúng tên lửa được phóng từ tiêm kích F-16 của Ba Lan nhưng hệ thống dẫn đường bị trục trặc. Khi đó, Ba Lan đã triển khai tiêm kích để bắn hạ một vài chiếc UAV. Trả lời phỏng vấn trên kênh truyền hình TVN24 ngày 17. 9, Bộ trưởng phụ trách các dịch vụ đặc biệt Tomasz Siemoniak cho biết: \"Mọi thứ cho thấy đó là một tên lửa được phóng từ máy bay của chúng ta, khi đó đang bảo vệ Ba Lan, bảo vệ tổ quốc, bảo vệ công dân\". Tổng thống Karol Nawrocki, đối thủ chính trị của chính phủ Thủ tướng Donald Tusk, đã yêu cầu làm rõ vụ việc. Ông Tusk sau đó viết trên mạng xã hội rằng Nga chịu toàn bộ trách nhiệm cho những thiệt hại tại Wyryki-Wola, cáo buộc Moscow dàn dựng hành động khiêu khích bằng UAV.",
+                "source": "thanhnien"
+            }
+        ],
+        "voter_details": [
+            {
+                "model": "openai/gpt-4o-mini",
+                "vote": "REFUTED",
+                "quote": "Bộ trưởng phụ trách các dịch vụ đặc biệt Tomasz Siemoniak cho biết: 'Mọi thứ cho thấy đó là một tên lửa được phóng từ máy bay của chúng ta, khi đó đang bảo vệ Ba Lan, bảo vệ tổ quốc, bảo vệ công dân'."
+            },
+            {
+                "model": "qwen/qwen-2.5-72b-instruct",
+                "vote": "NEI",
+                "quote": "Một vị bộ trưởng của Ba Lan xác nhận vật thể rơi xuống làm hư hại ngôi nhà tại miền đông nước này là tên lửa của Warsaw, không phải máy bay không người lái (UAV) của Nga."
+            },
+            {
+                "model": "mistralai/mistral-small-24b-instruct-2501",
+                "vote": "SUPPORTED",
+                "quote": "quân đội Hà Lan công bố cho thấy một tiêm kích tàng hình F-35 nước này mang dấu hiệu dường như ghi nhận nó đã đánh chặn thành công UAV, sau khi chiến đấu cơ tiên tiến này được sử dụng để bắn hạ các máy bay không người lái xâm nhập không phận của đồng minh Ba Lan."
+            }
+        ]
+    },
+    {
+        "claim": "Theo quy định của Bộ Giao thông Vận tải đến năm 2022, các bãi trông xe tạm thời dưới gầm cầu đã được cấp phép phải hoàn trả về hiện trạng ban đầu sau khi hết hạn.",
+        "seed_context": "Đến năm 2022, Bộ Giao thông Vận tải quy định cụ thể gầm cầu đã được cấp phép làm bãi trông xe tạm thời khi hết thời hạn, tổ chức, cá nhân phải hoàn trả hiện trạng ban đầu. Nếu đơn vị tổ chức trông xe không bàn giao hiện trạng sẽ bị cưỡng chế giải tỏa. Luật Đường bộ 2024 cũng không cho phép trông xe dưới gầm cầu. Theo khảo sát, hiện nay ngoài gầm cầu Vĩnh Tuy, vẫn còn một số gầm cầu cạn là bãi trông giữ xe như Ngã Tư Vọng, Mai Dịch, gầm vành đai 2 trên cao.",
+        "final_label": "REFUTED",
+        "status": "LOW_CONFIDENCE",
+        "qc_tag": "TYPE_C",
+        "consensus_score": "1/3",
+        "evidence": [
+            {
+                "text": "Sở Xây dựng TP.HCM vừa kiến nghị cho phép dùng không gian bên dưới gầm cầu để làm bãi giữ xe, sân chơi thể thao, không để xảy ra lấn chiếm tự phát. Mới đây sở có văn bản gửi Bộ Xây dựng, UBND TP.HCM và các đơn vị liên quan kiến nghị sửa luật để cho phép dùng không gian dưới gầm cầu làm bãi giữ xe, nhu cầu dân sinh. Theo đó quy định hiện nay không cho phép khai thác gầm cầu đường bộ cho mục đích công cộng. Thế nhưng qua khảo sát thực tế, các đơn vị ghi nhận còn tồn tại tình trạng lấn chiếm , sử dụng trái phép ở nhiều nơi. lấn chiếm Cụ thể như: cầu cạn Phú Mỹ - nút giao A (phường Phú Thuận, phường Tân Thuận, phường Tân Mỹ); cầu Ông Lớn trên đường Nguyễn Văn Linh (xã Bình Hưng); cầu Him Lam trên đường Nguyễn Thị Thập (phường Tân Hưng và xã Bình Hưng); cầu Rạch Ông trên đường Trần Xuân Soạn (phường Tân Hưng); cầu Lò Gốm trên đường Võ Văn Kiệt (phường Bình Tiên và phường Bình Phú). Những nơi này bị lấn chiếm làm bãi xe tự phát, nơi đổ rác... Trong khi đó TP.HCM đang thiếu trầm trọng bãi đỗ xe và sân bãi thể thao.",
+                "source": "tuoitre"
+            },
+            {
+                "text": "Ban Duy tu các công trình hạ tầng giao thông phối hợp lực lượng Cảnh sát giao thông, Cảnh sát quản lý hành chính về trật tự xã hội và Cảnh sát Phòng cháy chữa cháy tăng cường tuần tra, phát hiện và xử lý nghiêm các trường hợp sử dụng kết cấu hạ tầng giao thông vi phạm quy định về phòng cháy, chữa cháy, bao gồm cả việc sử dụng gầm cầu cạn làm bãi trông giữ xe trái phép. Ban Duy tu cũng được yêu cầu phối hợp với Văn phòng Sở (bộ phận kiểm tra), Phòng Quản lý kết cấu hạ tầng giao thông, Công an thành phố kiểm tra các điều kiện về an toàn phòng cháy, chữa cháy liên quan đến sử dụng kết cấu hạ tầng giao thông nói chung và kết cấu hạ tầng đường bộ nói riêng bảo đảm tuân thủ Nghị định 105/2025/NĐ-CP ngày 15/5/2025 của Chính phủ về công tác quản lý phòng cháy, chữa cháy. Phòng Quản lý kết cấu hạ tầng giao thông được giao rà soát, đề xuất giải pháp nhằm di dời ngay các bãi trông giữ xe ra khỏi phạm vi bảo vệ kết cấu hạ tầng đường bộ (nếu có) trước ngày 30/10/2025; rà soát danh mục các tuyến đường, phố đủ điều kiện được sử dụng tạm thời một phần lòng đường để trông giữ phương tiện giao thông đường bộ theo Quyết định số 6440/QĐ-UBND ngày 16/12/2024 của Ủy ban nhân dân thành phố Hà Nội để tham mưu thành phố phê duyệt, điều chỉnh trong tháng 9/2025 bảo đảm tuân thủ đúng quy định hiện hành.",
+                "source": "vtv"
+            },
+            {
+                "text": "Tuy nhiên, đến nay mới thực hiện được 2,69ha, đạt 0,5%. Sau khi sáp nhập địa giới hành chính, thành phố đang triển khai các đồ án quy hoạch hạ tầng kỹ thuật theo ranh giới mới. Cơ quan này nhìn nhận, nhu cầu đỗ xe của người dân rất lớn, nhưng việc triển khai hệ thống giao thông tĩnh gặp khó khăn, nhất là khâu giải phóng mặt bằng. Trong khi đó, thành phố cũng rất thiếu sân bãi, không gian thể dục thể thao, đặc biệt cho thanh thiếu niên. Theo Sở Xây dựng, nếu tận dụng hợp lý không gian dưới dạ cầu để tổ chức bãi đỗ xe hoặc hoạt động thể dục thể thao sẽ góp phần giải quyết nhu cầu thiết yếu của người dân, đồng thời đảm bảo trật tự an toàn giao thông và mỹ quan đô thị. Từ thực tế này, Sở Xây dựng kiến nghị Bộ Xây dựng báo cáo Quốc hội, Chính phủ xem xét sửa đổi Luật Đường bộ và Nghị định 165/2024/NĐ-CP, theo hướng giao UBND cấp tỉnh quyền quyết định việc sử dụng dạ cầu, phần không gian dưới dạ cầu cho mục đích công cộng. Việc sử dụng phải phù hợp điều kiện thực tế, không ảnh hưởng đến kết cấu công trình, bảo đảm an toàn phòng cháy chữa cháy, an ninh trật tự và an toàn giao thông.",
+                "source": "vov"
+            }
+        ],
+        "voter_details": [
+            {
+                "model": "openai/gpt-4o-mini",
+                "vote": "REFUTED",
+                "quote": "quy định hiện nay không cho phép khai thác gầm cầu đường bộ cho mục đích công cộng"
+            },
+            {
+                "model": "qwen/qwen-2.5-72b-instruct",
+                "vote": "NEI",
+                "quote": "Theo quy định hiện nay không cho phép khai thác gầm cầu đường bộ cho mục đích công cộng. Thế nhưng qua khảo sát thực tế, các đơn vị ghi nhận còn tồn tại tình trạng lấn chiếm, sử dụng trái phép ở nhiều nơi."
+            },
+            {
+                "model": "mistralai/mistral-small-24b-instruct-2501",
+                "vote": "SUPPORTED",
+                "quote": "Theo quy định của Bộ Giao thông Vận tải đến năm 2022, các bãi trông xe tạm thời dưới gầm cầu đã được cấp phép phải hoàn trả về hiện trạng ban đầu sau khi hết hạn."
+            }
+        ]
+    },
+    {
+        "claim": "Theo dự thảo mới nhất về lộ trình kiểm định khí thải xe môtô, xe gắn máy, Bộ Nông nghiệp và Môi trường đề xuất quy định về việc kiểm định khí thải đối với xe điện tại các tỉnh, thành phố còn lại.",
+        "seed_context": "Theo dự thảo mới nhất về lộ trình kiểm định khí thải xe môtô, xe gắn máy, Bộ Nông nghiệp và Môi trường đề xuất Hà Nội, TP HCM bắt đầu áp dụng từ 1/7/2027. Từ 1/7/2028, Hải Phòng, Đà Nẵng, Cần Thơ và Huế; từ 1/7/2030 các tỉnh, thành phố còn lại sẽ kiểm định khí thải xe máy. Hai thông số khí thải cần kiểm định là Cacbon Monoxit (CO) và Hydrocacbon (HC). CO sẽ được tính theo tỷ lệ % thể tích, HC được đo theo ppm thể tích (một ppm tương đương một g/kg) và được chia làm 4 mức. Xe môtô (còn gọi xe máy) sản xuất trước năm 2008 áp dụng mức một - mức thấp nhất. Xe sản xuất 2008-2016 áp dụng mức hai. Mức ba áp dụng với xe sản xuất từ năm 2017 đến 30/6/2026; mức bốn cho xe sản xuất sau 1/7/2026. Với xe gắn máy, mức một áp dụng với xe sản xuất trước năm 2016; mức hai với xe sản xuất từ năm 2017 đến 30/6/2027. Xe sản xuất 1/7/2027 áp dụng mức bốn. Để có thời gian cho người dân làm quen, cơ quan soạn thảo đã bổ sung quy định sau 18 tháng kể từ khi bắt đầu kiểm định khí thải, cơ quan chức năng mới xử phạt, trước đó tập trung vào nhắc nhở, tuyên truyền.",
+        "final_label": "REFUTED",
+        "status": "LOW_CONFIDENCE",
+        "qc_tag": "TYPE_C",
+        "consensus_score": "1/3",
+        "evidence": [
+            {
+                "text": "Bộ Nông nghiệp và Môi trường đề xuất thời điểm bắt đầu thực hiện kiểm định khí thải xe máy ở Hà Nội, TP.HCM từ 1. 7. 2027 và sau 18 tháng mới xử phạt vi phạm. Chia sẻ tại cuộc họp tham vấn dự thảo Quy chuẩn quốc gia về mô tô, xe gắn máy và lộ trình áp dụng, diễn ra ngày 3. 6, ông Lê Hoài Nam, Cục phó Cục Môi trường (Bộ Nông nghiệp và Môi trường), cho biết trong dự thảo mới nhất, thời điểm bắt đầu kiểm định khí thải xe máy tại Hà Nội và TP.HCM được lùi đến ngày 1. 7. 2027; các đô thị lớn như: Hải Phòng, Đà Nẵng, Cần Thơ và Huế triển khai từ 1. 7. 2028. Dự thảo mới nhất quy định từ 1. 1. 2030, tất cả xe máy và xe gắn máy lưu thông tại Hà Nội và TP.HCM phải đạt ít nhất mức 2 về , áp dụng sớm hơn 2 năm với dự thảo cũ (từ năm 2032). Bộ Nông nghiệp và Môi trường cũng đề xuất, sau 18 tháng triển khai quy định kiểm định khí thải xe máy cơ quan chức năng mới thực hiện xử phạt vi phạm. Trong khoảng thời gian này, cơ quan chức năng sẽ tuyên truyền, vận động người dân tự giác, tự nguyện thực hiện. Cũng theo ông Lê Hoài Nam, cả nước hiện có 75 triệu ô tô, xe máy trong khi kiểm định khí thải là quy định rất mới, không thể triển khai trong một sớm một chiều.",
+                "source": "thanhnien"
+            },
+            {
+                "text": "Nội dung này được đề cập trong công văn truyền đạt ý kiến chỉ đạo của Phó Thủ tướng Trần Hồng Hà về việc rà soát quy định lộ trình áp dụng QCVN về khí thải xe mô tô, xe gắn máy tham gia giao thông.\n\nXét đề nghị của Bộ Nông nghiệp và Môi trường về ban hành quy định lộ trình áp dụng quy chuẩn kỹ thuật quốc gia về khí thải xe mô tô, xe gắn máy tham gia giao thông đường bộ, Phó Thủ tướng Trần Hồng Hà đã giao Bộ Nông nghiệp và Môi trường chủ trì, phối hợp với các đơn vị có liên quan rà soát kỹ lưỡng dự thảo Quyết định, bảo đảm tính khả thi.\n\nDự kiến thời điểm bắt đầu thực hiện kiểm định khí thải xe máy lưu hành trên địa bàn TPHCM và Hà Nội từ 1/1/2027 (Ảnh: Hữu Nghị).\n\nTrong đó, Phó Thủ tướng lưu ý làm rõ giải pháp tổ chức việc kiểm tra, chứng nhận xe mô tô, xe gắn máy đáp ứng mức khí thải quy định tại Quyết định này cũng như công tác kiểm tra, kiểm soát và xử lý vi phạm khi phương tiện tham gia giao thông trong việc tuân thủ mức khí thải.",
+                "source": "dantri"
+            },
+            {
+                "text": "\"Phát triển năng lượng xanh không chỉ góp phần giảm phát thải khí nhà kính và bảo đảm an ninh năng lượng, mà còn mở ra hướng đi bền vững cho các đô thị lớn, trung tâm kinh tế, văn hóa, xã hội như Hà Nội, TP.HCM, Đà Nẵng, Hải Phòng\", Thứ trưởng Lê Công Thành khẳng định. Theo lãnh đạo Bộ Nông nghiệp và Môi trường, ô nhiễm không khí là vấn đề nghiêm trọng, tập trung chủ yếu ở hai vùng kinh tế trọng điểm, gồm: Hà Nội và các tỉnh lân cận; TP.HCM và vùng phụ cận. Trước thực tế trên, Bộ Nông nghiệp và Môi trường đang xây dựng dự thảo lộ trình áp dụng quy chuẩn khí thải đối với xe mô tô, xe gắn máy lưu hành tại Việt Nam. Theo đó, thời gian áp dụng chính thức được lùi để người dân và địa phương có thêm thời gian chuẩn bị. Tuy nhiên, tại Hà Nội và TP.HCM, các quy định sẽ được siết chặt sớm hơn, bắt đầu từ 1. 7. 2027. Các đô thị lớn khác như Hải Phòng, Đà Nẵng, Cần Thơ và Huế triển khai từ ngày 1. 7. 2028, còn các tỉnh, thành khác sẽ áp dụng từ 1. 7. 2030. \"Các mốc được Cục Môi trường đề xuất sẽ đảm bảo đáp ứng được yêu cầu bảo vệ môi trường nhưng cũng đảm bảo việc áp dụng từng bước một và có sự tính toán hài hòa cho người dân.",
+                "source": "thanhnien"
+            }
+        ],
+        "voter_details": [
+            {
+                "model": "openai/gpt-4o-mini",
+                "vote": "SUPPORTED",
+                "quote": "Bộ Nông nghiệp và Môi trường cũng đề xuất, sau 18 tháng triển khai quy định kiểm định khí thải xe máy cơ quan chức năng mới thực hiện xử phạt vi phạm."
+            },
+            {
+                "model": "qwen/qwen-2.5-72b-instruct",
+                "vote": "NEI",
+                "quote": "Bộ Nông nghiệp và Môi trường đề xuất thời điểm bắt đầu thực hiện kiểm định khí thải xe máy ở Hà Nội, TP.HCM từ 1. 7. 2027 và sau 18 tháng mới xử phạt vi phạm."
+            },
+            {
+                "model": "mistralai/mistral-small-24b-instruct-2501",
+                "vote": "REFUTED",
+                "quote": "Bộ Nông nghiệp và Môi trường đề xuất thời điểm bắt đầu thực hiện kiểm định khí thải xe máy ở Hà Nội, TP.HCM từ 1. 7. 2027 và sau 18 tháng mới xử phạt vi phạm. Chia sẻ tại cuộc họp tham vấn dự thảo Quy chuẩn quốc gia về mô tô, xe gắn máy và lộ trình áp dụng, diễn ra ngày 3. 6, ông Lê Hoài Nam, Cục phó Cục Môi trường (Bộ Nông nghiệp và Môi trường), cho biết trong dự thảo mới nhất, thời điểm bắt đầu kiểm định khí thải xe máy tại Hà Nội và TP.HCM được lùi đến ngày 1. 7. 2027; các đô thị lớn như: Hải Phòng, Đà Nẵng, Cần Thơ và Huế triển khai từ 1. 7. 2028. Dự thảo mới nhất quy định từ 1. 1. 2030, tất cả xe máy và xe gắn máy lưu thông tại Hà Nội và TP.HCM phải đạt ít nhất mức 2 về , áp dụng sớm hơn 2 năm với dự thảo cũ (từ năm 2032)."
+            }
+        ]
+    },
+    {
+        "claim": "Vào ngày 6/8, CNN khẳng định Nga đã phá hủy hoàn toàn cây cầu nối tới đảo Korabel, gây gián đoạn hoạt động hậu cần của quân đội Ukraine tại tỉnh Kherson.",
+        "seed_context": "Theo chuyên trang quân sự của Nga, đòn tập kích không đánh sập hoàn toàn cây cầu, nhưng đã phần nào làm gián đoạn hoạt động hậu cần tới đảo Korabel. \"Phá hủy cây cầu sẽ làm trầm trọng thêm tình hình vốn rất khó khăn của quân đội Ukraine tại tỉnh Kherson. Một phần đáng kể tuyến đường trong khu vực đã nằm trong tầm bắn của pháo và thiết bị bay không người lái (drone), khiến các chuyến di chuyển của binh sĩ Ukraine trở nên rất nguy hiểm và ảnh hưởng tới nguồn cung hậu cần\", chuyên trang này cho hay. CNN ngày 6/8 nêu giả thuyết Nga có thể tấn công sang bờ tây sông Dnieper trong những tuần tới. \"Áp lực nhằm tách Korabel khỏi phần còn lại của thành phố Kherson làm dấy lên lo ngại Nga có thể tìm cách oanh tạc khu vực, sau đó đổ quân lên vùng đất đã bị san phẳng\", đưa tin. Tuy nhiên, Bộ tư lệnh miền Nam của quân đội Ukraine bác bỏ thông tin, khẳng định kịch bản Nga đổ bộ lên đảo Korabel \"hiện rất khó xảy ra\". Để thực hiện chiến dịch này, các đơn vị Nga sẽ phải vượt qua nhiều đảo và nhánh sông, đối mặt nguy cơ bị đối phương phát hiện và đánh chặn.",
+        "final_label": "REFUTED",
+        "status": "LOW_CONFIDENCE",
+        "qc_tag": "TYPE_C",
+        "consensus_score": "1/3",
+        "evidence": [
+            {
+                "text": "8 (giờ Việt Nam). Theo Reuters, khu vực Krasnodar thường xuyên là mục tiêu tấn công bằng UAV của Ukraine. Cũng trong ngày 3. 8, ông Alexander Gusev, Thống đốc vùng của Nga, cho biết một cuộc tấn công bằng UAV khác của Ukraine đã làm 4 người đã bị thương và gây ra nhiều vụ hỏa hoạn tại khu vực. Bộ Quốc phòng Nga cho biết họ đã phá hủy 18 UAV của Ukraine trên vùng Voronezh. Phía Ukraine chưa bình luận về các vụ việc trên. Các quan chức Ukraine cáo buộc một cuộc tấn công bằng tên lửa của Nga đã tấn công thành phố , miền nam Ukraine vào ngày 3. 8, khiến 7 người bị thương và phá hủy nhiều nhà cửa cũng như dân sự. Sau vụ việc, lực lượng phụ trách tình trạng khẩn cấp Ukraine đã được điều động đến hiện trường để tiến hành các hoạt động cứu hộ và dập tắt các đám cháy do vụ tấn công gây ra. Trong một diễn biến khác, Thống đốc tỉnh Oleksandr Prokudin ngày 3. 8 viết trên Telegram rằng lực lượng Nga đã tấn công vào cây cầu quan trọng Korabel thuộc tỉnh Kherson, theo . \"Cuộc không kích của đối phương lúc 18 giờ tối 2.",
+                "source": "thanhnien"
+            },
+            {
+                "text": "\"Lần thứ ba là một sự may mắn và SBU luôn hoàn thành nhiệm vụ của mình. Trước đây chúng tôi đã tấn công cầu Crimea vào năm 2022 và 2023. Vì vậy, hôm nay chúng tôi tiếp tục truyền thống đó, nhưng tấn công từ dưới nước. Cầu Crimea là mục tiêu hoàn toàn hợp pháp, đặc biệt là khi Nga sử dụng nó như một tuyến đường hậu cần huyết mạch để tiếp tế cho quân đội\", thông cáo nêu.\n\nUkraine tuyên bố tấn công cầu Crimea (Video: SBU).\n\nTrước đó, Bộ Quốc phòng Nga cho biết hệ thống phòng không của nước này đã bắn hạ 3 máy bay không người lái của Ukraine trên bầu trời Crimea vào rạng sáng 3/6.\n\nCùng ngày, cầu Crimea phải tạm ngừng lưu thông từ 6h đến 9h sáng giờ địa phương. Kênh Telegram Mash đưa tin, một máy bay không người lái của Ukraine đã bị bắn hạ trên cầu và các mảnh vỡ rơi xuống đường.",
+                "source": "dantri"
+            },
+            {
+                "text": "Hôm 3. 6, Cơ quan An ninh Ukraine đã nhận trách nhiệm vụ tấn công nhằm vào cầu Crimea, tuyến vận tải huyết mạch nối đất liền Nga với bán đảo Crimea, trong khi quân đội Nga thông báo tiến quân mạnh mẽ ở tỉnh Sumy của láng giềng. AFP dẫn tuyên bố của Cơ quan An ninh (SBU) nói rằng các đặc vụ của cơ quan này suốt những tháng qua đã bí mật gài chất nổ vào phần trụ đỡ dưới nước của . Vào 4 giờ 44 sáng 3. 6 (giờ địa phương), phần trụ đỡ của cầu Crimea nổ tung trong một vụ nổ có sức công phá tương đương 1. 100 kg TNT, khiến phần móng trụ cầu bị hư hại nghiêm trọng, theo SBU. Cơ quan này khẳng định không có thương vong dân sự trong chiến dịch, vốn nhận được sự chỉ đạo trực tiếp của Giám đốc SBU Vasyl Maliuk. Cầu Crimea được Nga xây dựng sau khi sáp nhập bán đảo Crimea vào năm 2014. Kể từ khi Nga phát động chiến dịch quân sự đặc biệt ở Ukraine, cây cầu đóng vai trò chiến lược trong công tác vận chuyển quân sự và hậu cần từ Nga đến các vùng Ukraine mà phía lực lượng Nga đang kiểm soát. TASS dẫn lời giới chức chính quyền Crimea xác nhận đã quan sát được những hoạt động của lực lượng Ukraine ngoài khơi Crimea.",
+                "source": "thanhnien"
+            }
+        ],
+        "voter_details": [
+            {
+                "model": "openai/gpt-4o-mini",
+                "vote": "REFUTED",
+                "quote": "Thống đốc tỉnh Oleksandr Prokudin ngày 3. 8 viết trên Telegram rằng lực lượng Nga đã tấn công vào cây cầu quan trọng Korabel thuộc tỉnh Kherson"
+            },
+            {
+                "model": "qwen/qwen-2.5-72b-instruct",
+                "vote": "SUPPORTED",
+                "quote": "Thống đốc tỉnh Oleksandr Prokudin ngày 3. 8 viết trên Telegram rằng lực lượng Nga đã tấn công vào cây cầu quan trọng Korabel thuộc tỉnh Kherson, theo ."
+            },
+            {
+                "model": "mistralai/mistral-small-24b-instruct-2501",
+                "vote": "NEI",
+                "quote": "Không có bằng chứng trực tiếp hoặc đủ thông tin để khẳng định hay phủ định luận điểm về việc Nga phá hủy cây cầu Korabel vào ngày 6/8."
+            }
+        ]
+    },
+    {
+        "claim": "Vào ngày 11/4, chính quyền ông Trump đã gửi thư cho rằng Đại học Harvard trong những năm gần đây không đáp ứng các điều kiện về quyền trí tuệ và quyền công dân để nhận khoản đầu tư từ liên bang.",
+        "seed_context": "Dù vậy, giới chuyên gia vẫn hoài nghi về khả năng chống chịu của Đại học Harvard nếu khủng hoảng kéo dài. \"Harvard đã chọn một canh bạc khi đối đầu với chính quyền liên bang, một trong số ít thể chế có quy mô lớn hơn đại học này\", Adam Kissel, nhà nghiên cứu tại viện chính sách bảo thủ Heritage Foundation, trụ sở Washington, nói. \"Nhà Trắng sẽ có những biện pháp mà sau cùng sẽ buộc Harvard phải trở lại thương lượng\". Cuộc khủng hoảng với Đại học Harvard bắt đầu ngày 31/3, khi Bộ Giáo dục Mỹ cảnh báo sẽ đánh giá lại khoản tài trợ 8,7 tỷ USD cho trường khi điều tra hành vi \"bài xích Do Thái\". Ngày 3/4, JTFCAS gửi dự thảo những yêu cầu nhóm muốn Harvard thực hiện. Ngày 11/4, chính quyền ông Trump tiếp tục gửi thư, cho rằng Harvard \"những năm gần đây không đáp ứng được các điều kiện về quyền trí tuệ và quyền công dân để đáp ứng cho khoản đầu tư từ liên bang\". Thư liệt kê thêm các thay đổi Harvard cần thực hiện, hạn chót vào tháng 8, nhưng Harvard từ chối thỏa hiệp. Nếu đối đầu kéo dài, Harvard nguy cơ mất toàn bộ nguồn tài trợ liên bang.",
+        "final_label": "REFUTED",
+        "status": "LOW_CONFIDENCE",
+        "qc_tag": "TYPE_C",
+        "consensus_score": "1/3",
+        "evidence": [
+            {
+                "text": "Tổng thống Mỹ Donald Trump hôm 23-5 tuyên bố Đại học Harvard sẽ phải thay đổi cách làm việc, và cho rằng sinh viên Harvard không thể làm phép toán cơ bản. Phát biểu tại Phòng Bầu dục hôm 23-5, Tổng thống Mỹ Donald Trump đã chỉ trích khóa học nhập môn toán học do Đại học Harvard mới mở gần đây để hỗ trợ các sinh viên còn gặp khó khăn với đại số cơ bản. Tổng thống Mỹ Donald Trump “Đây là nơi sinh viên không thể làm phép tính hai cộng hai, và họ vẫn vào được Harvard. Họ muốn học bổ túc môn toán. Thế thì làm sao họ lại vào ngôi trường đó được. Làm sao một người không thể làm phép tính cộng có thể vào được Harvard? ”, báo The Hill dẫn lời ông Trump. Ông cũng nói rằng Harvard sẽ phải thay đổi cách làm việc, đồng thời nhấn mạnh chính phủ liên bang đã tài trợ hàng tỉ USD cho các chương trình giáo dục tại trường đại học danh tiếng này. Trước đó, Bộ An ninh nội địa (DHS) Mỹ đã tuyên bố tước quyền tuyển sinh sinh viên nước ngoài của Harvard, với cáo buộc trường “kích động bạo lực, bài Do Thái và hợp tác với Đảng Cộng sản Trung Quốc”.",
+                "source": "tuoitre"
+            },
+            {
+                "text": "Động thái này sẽ được thực hiện cho tới khi nào Đại học Harvard đồng ý tuân thủ loạt yêu cầu mà Nhà Trắng đưa ra. Đây là động thái mới nhất trong loạt căng thẳng giữa Chính phủ Mỹ và trường đại học lâu đời, giàu có nhất nước Mỹ.\n\nTrong một bức thư gửi tới Đại học Harvard trong ngày 5/5, Bộ trưởng  Giáo dục  Mỹ - bà Linda McMahon - đã cảnh báo: \"Đại học Harvard không nên tiếp tục xin tài trợ từ chính quyền liên bang vì sẽ không có khoản nào được cấp nữa\".\n\nChính quyền của Tổng thống Mỹ Donald Trump tiếp tục có những động thái mạnh đối với Đại học Harvard (Ảnh minh họa: CNBC).\n\nBức thư của bà McMahon xoay quanh vấn đề an toàn của sinh viên tại Đại học Harvard. Thời gian qua, một số cuộc biểu tình đã diễn ra trong trường. Đối tượng tham gia là một bộ phận sinh viên của trường, nhằm bày tỏ quan điểm trước một số vấn đề xung đột trên thế giới.",
+                "source": "dantri"
+            },
+            {
+                "text": "Bà McMahon thông báo các khoản tài trợ nghiên cứu trong tương lai và hỗ trợ khác trị giá hàng tỉ USD sẽ bị phong tỏa cho đến khi trường đại học tuân thủ những yêu cầu của chính quyền ông Trump. Bà McMahon cũng cảnh báo trường đại học không nên tốn công nộp đơn xin tài trợ \"vì sẽ chẳng khoản nào được duyệt\". Trong đơn kiện được điều chỉnh, Đại học Harvard cho biết Washington đã leo thang chiến thuật với việc \"đẩy mạnh cắt giảm tài trợ, tăng cường điều tra và leo thang đe dọa\" đối với trường và các sinh viên quốc tế. Chẳng hạn, trong tuần trước trường đã nhận được thông báo hủy bỏ tài trợ từ ít nhất 6 bộ và cơ quan chính phủ. Đơn kiện cũng nêu rõ hành động đóng băng tài trợ diễn ra ở phạm vi quá rộng và được thực hiện mà không tuân thủ các quy trình cụ thể. \" không đưa ra, và không thể xác định, bất kỳ sự liên kết hợp lý nào giữa những quan ngại về nạn bài Do Thái và các nghiên cứu y khoa, khoa học, công nghệ và những nghiên cứu khác mà chính phủ đóng băng hoặc hủy bỏ tài trợ\", Reuters dẫn nội dung đơn kiện.",
+                "source": "thanhnien"
+            }
+        ],
+        "voter_details": [
+            {
+                "model": "openai/gpt-4o-mini",
+                "vote": "SUPPORTED",
+                "quote": "Đại học Harvard không nên tiếp tục xin tài trợ từ chính quyền liên bang vì sẽ không có khoản nào được cấp nữa"
+            },
+            {
+                "model": "mistralai/mistral-small-24b-instruct-2501",
+                "vote": "REFUTED",
+                "quote": "Đại học Harvard không nên tiếp tục xin tài trợ từ chính quyền liên bang vì sẽ không có khoản nào được cấp nữa"
+            }
+        ]
+    },
+    {
+        "claim": "Trong sự cố ngày 6 tháng 3, phi công số 2 đã thông báo về lỗi tọa độ cho phi công số 1 trước khi thực hiện cắt bom.",
+        "seed_context": "Phi công số 2 nhập đúng dữ liệu nhưng vẫn ném bom sai vị trí như tiêm kích dẫn đầu. Một quan chức quốc phòng Hàn Quốc giải thích biên đội KF-16 khi đó thực hành khoa mục ném bom hiệp đồng, nên tọa độ mục tiêu và thời điểm cắt bom của cả hai máy bay sẽ do phi công số 1 quyết định, dữ liệu trên tiêm kích số 2 \"không có nhiều ý nghĩa\". \"Ở các cuộc diễn tập hiệp đồng biên đội, tiêm kích bay sau phải tuân thủ tuyệt đối mệnh lệnh và hành động của máy bay số 1. Trong sự cố ngày 6/3, máy bay số 2 phải thả bom ngay sau khi số 1 hành động, nên phi công không có thời gian thông báo về lỗi tọa độ\", một nguồn tin quân sự Hàn Quốc tiết lộ với tờ .",
+        "final_label": "REFUTED",
+        "status": "LOW_CONFIDENCE",
+        "qc_tag": "TYPE_C",
+        "consensus_score": "1/3",
+        "evidence": [
+            {
+                "text": "Hàn Quốc buộc tội hai phi công Không quân liên quan đến vụ thả bom nhầm trong cuộc tập trận. Sự cố nghiêm trọng này đã làm bị thương 29 người và gây ra thiệt hại lớn về tài sản. Các nhà điều tra quân sự ngày 13. 3 đã khởi tố hai của lực lượng không quân Hàn Quốc về tội vô ý gây thương tích cho người khác, sau khi hai người này vô ý thả bom xuống một ngôi làng trong một cuộc tập trận hồi tuần trước. Vụ việc đã khiến ít nhất 29 người bị thương và gây thiệt hại lớn về tài sản. Bộ Tư lệnh Điều tra Hình sự của cho biết lỗi nhập tọa độ của phi công là “yếu tố trực tiếp” dẫn đến vụ thả bom sai địa chỉ. Tám quả bom không dẫn đường từ hai đã rơi trúng một ngôi làng gần cầu Nangyudaegyo ở thành phố Pocheon trong các cuộc tập trận bắn đạn thật. Khu vực này có bãi tập luyện do quân đội Hàn Quốc và Mỹ sử dụng. Một quan chức của bộ cho biết hai phi công đã bị bay, và đang lên lịch xem xét lại chứng chỉ của họ. Tuần trước, tham mưu trưởng không quân đã xin lỗi và cam kết sẽ xem xét lại các thủ tục để ngăn ngừa các sự cố trong tương lai.",
+                "source": "thanhnien"
+            },
+            {
+                "text": "Không quân Mỹ công bố kết luận điều tra cho thấy lỗi hệ thống thủy lực là nguyên nhân gây vụ cháy phá hủy một máy bay ném bom tàng hình B-2 Spirit tại căn cứ Whiteman (bang Missouri) hồi tháng 12-2022. Ngày 5-8, Không quân Mỹ chính thức công bố kết luận điều tra về nguyên nhân gây vụ cháy phá hủy một máy bay ném bom tàng hình B-2 Spirit tại căn cứ Whiteman (bang Missouri) hồi tháng 12-2022. Theo đó, lỗi hệ thống thủy lực chính là lý do. Không quân Theo tạp chí Air & Space Forces ngày 6-8 (giờ Mỹ), sự cố khiến càng đáp chính bên trái của máy bay B-2 Spirit of Hawaii bị sập, làm máy bay trượt khỏi đường băng và bốc cháy. Hawaii Vụ việc xảy ra khi máy bay đang quay về căn cứ Whiteman sau chuyến bay dự phòng tới Hawaii. Trong quá trình hạ cánh, đèn cảnh báo rò rỉ thủy lực bật sáng ở cả hệ thống chính và dự phòng. Càng đáp bên phải buộc phải hạ khẩn cấp, trong khi càng trái và càng mũi hạ bình thường và báo “khóa an toàn”. Tuy nhiên, báo cáo điều tra cho biết lỗi thiết kế đã khiến khóa càng trái không cố định chắc, đồng thời việc hạ khẩn cấp càng phải làm áp suất thủy lực giảm, dẫn tới khớp nối tách rời và càng trái sập khi tiếp đất.",
+                "source": "tuoitre"
+            },
+            {
+                "text": "Lầu Năm Góc ngày 26. 6 đã công bố đoạn phim cho thấy cách thức hoạt động cụ thể của bom phá boongke nặng 13 tấn, tương tự như những quả bom được sử dụng để tấn công các địa điểm hạt nhân của Iran. Không quân Mỹ rạng sáng 22. 6 triển khai biên đội gồm 7 oanh tạc cơ tàng hình B-2 để thả 14 quả bom GBU-57 xuống các mục tiêu ở Iran. 12 quả trong số này nhằm vào nhà máy làm giàu uranium , được ví như “pháo đài hạt nhân” của Iran, hai quả còn lại đánh xuống công trình ngầm thuộc cơ sở hạt nhân Natanz. Các phi công thả bom GBU-57 xuống Iran cho biết đó là “vụ nổ sáng nhất” mà họ từng thấy, và mô tả “nó thực sự giống như ánh sáng ban ngày”. Các quả bom phá boongke khổng lồ này chỉ có thể được thả bằng máy bay ném bom tàng hình B-2. Mỹ đã phát triển loại bom này vào năm 2009, sau khi Mỹ biết về sự tồn tại của cơ sở Fordow. Trung tướng Dan Caine, Chủ tịch Hội đồng Tham mưu trưởng , giải thích trong cuộc họp báo rằng: “Không giống như bom bề mặt thông thường, bạn sẽ không thấy hố bom lớn vì bom này được thiết kế để xuyên sâu xuống lòng đất rồi mới hoạt động”.",
+                "source": "thanhnien"
+            }
+        ],
+        "voter_details": [
+            {
+                "model": "openai/gpt-4o-mini",
+                "vote": "REFUTED",
+                "quote": "Bộ Tư lệnh Điều tra Hình sự của cho biết lỗi nhập tọa độ của phi công là “yếu tố trực tiếp” dẫn đến vụ thả bom sai địa chỉ."
+            },
+            {
+                "model": "qwen/qwen-2.5-72b-instruct",
+                "vote": "SUPPORTED",
+                "quote": "Bộ Tư lệnh Điều tra Hình sự của cho biết lỗi nhập tọa độ của phi công là “yếu tố trực tiếp” dẫn đến vụ thả bom sai địa chỉ."
+            },
+            {
+                "model": "mistralai/mistral-small-24b-instruct-2501",
+                "vote": "NEI",
+                "quote": "Không có thông tin liên quan đến sự cố ngày 6 tháng 3, phi công số 2 thông báo lỗi tọa độ cho phi công số 1 trước khi cắt bom."
+            }
+        ]
+    },
+    {
+        "claim": "Ban quản lý dự án đầu tư xây dựng tỉnh Bình Phước đã phê duyệt liên danh Cao tốc HCM - TDM - CT trúng thầu với giá 845,4 tỷ đồng.",
+        "seed_context": "Kết quả vừa được Ban quản lý dự án đầu tư xây dựng tỉnh Bình Phước (chủ đầu tư) phê duyệt, với đơn vị trúng thầu là liên danh Cao tốc HCM - TDM - CT (gồm Tổng công ty Xây dựng Trường Sơn, Công ty TNHH Thương mại Dịch vụ và Xây dựng NTV Thành Phát). Giá trúng thầu là 845,4 tỷ đồng, tỷ lệ tiết kiệm 1,62% so với giá mời thầu gần 881 tỷ đồng. Cao tốc TP HCM - Thủ Dầu Một - Chơn Thành đoạn qua Bình Phước dài 7 km, khởi công cuối năm 2024 với tổng mức đầu tư gần 1.500 tỷ đồng. Gói thầu xây lắp ở dự án này đấu thầu rộng rãi trong nước qua mạng, thu hút 5 nhà thầu tham gia. Ngoài đơn vị trúng thầu nêu trên, có hai nhà thầu độc lập là Tập đoàn Cienco4 và Sơn Hải, cùng hai liên danh khác. Sơn Hải là đơn vị có giá dự thầu thấp nhất với 732,2 tỷ đồng (tiết kiệm 16,8%), tiếp theo là Cienco4 với 800,6 tỷ đồng (tiết kiệm 9%). Hai liên danh còn lại lần lượt là 836 tỷ đồng và 854 tỷ đồng. Tuy nhiên, 4 nhà thầu này bị loại do \"không đáp ứng yêu cầu kỹ thuật\". Theo báo cáo của tổ chuyên gia thuộc Công ty cổ phần tư vấn Văn Phú - đơn vị lập hồ sơ mời thầu và đánh giá hồ sơ dự thầu, các lý do chính khiến những nhà thầu nêu trên bị loại, gồm: không đáp ứng yêu cầu vật tư thiết bị cung cấp cho gói thầu, tổ chức thực hiện BIM (mô hình thông tin công trình) và yêu cầu về máy, thiết bị xây dựng phục vụ thi công gói thầu.",
+        "final_label": "REFUTED",
+        "status": "LOW_CONFIDENCE",
+        "qc_tag": "TYPE_C",
+        "consensus_score": "1/3",
+        "evidence": [
+            {
+                "text": "Chiều 26. 5, Giám đốc Ban quản lý Dự án đầu tư xây dựng tỉnh Bình Phước (chủ đầu tư) đã trao đổi với PV Báo Thanh Niên xung quanh phản ứng trượt thầu của Tập đoàn Sơn Hải trong dự án xây dựng đường cao tốc TP.HCM - Thủ Dầu Một - Chơn Thành. Ông Đinh Tiến Hải, Giám đốc Ban quản lý Dự án đầu tư xây dựng (Ban QLDA ĐTXD) tỉnh cho biết, đến 15 giờ chiều nay (26. 5) đơn vị vẫn chưa nhận được văn bản nào từ Công ty TNHH Tập đoàn Sơn Hải (Tập đoàn Sơn Hải) về việc phản đối kết quả lựa chọn nhà thầu đối với gói thầu xây dựng đường đoạn qua địa bàn tỉnh Bình Phước như trên chia sẻ. Ông Đinh Tiến Hải cho biết, hiện tại, kết quả lựa chọn nhà thầu đã được thông báo trên hệ thống mạng có đính kèm theo báo cáo đánh giá đầy đủ của tổ chuyên gia đánh giá E-HSDT (hồ sơ dự thầu đối với đấu thầu rộng rãi qua mạng, đấu thầu hạn chế qua mạng, chào hàng cạnh tranh qua mạng - PV). Các nhà thầu nếu có kiến nghị về nội dung đánh giá E-HSDT của nhà thầu thì thực hiện theo quy định tại điều 90, 91 luật Đấu thầu 2023. \"Đến thời điểm hiện tại, Ban QLDA ĐTXD tỉnh Bình Phước chưa nhận bất cứ kiến nghị chính thức nào của Tập đoàn Sơn Hải bằng đường văn thư cũng như trên hệ thống mạng đấu thầu quốc gia.",
+                "source": "thanhnien"
+            },
+            {
+                "text": "Phó thủ tướng Trần Hồng Hà chỉ đạo thành lập ngay tổ công tác liên bộ Tài chính - Xây dựng, kiểm tra việc tổ chức lựa chọn nhà thầu tham gia gói thầu cao tốc TP.HCM - Thủ Dầu Một - Chơn Thành, đoạn qua tỉnh Bình Phước. Ngày 29-5, Văn phòng Chính phủ có văn bản truyền đạt ý kiến chỉ đạo của Phó thủ tướng Trần Hồng Hà về việc lựa chọn nhà thầu thi công gói thầu xây dựng đường cao tốc thuộc dự án đường bộ cao tốc TP.HCM - Thủ Dầu Một - Chơn Thành (đoạn qua tỉnh Bình Phước). đường cao tốc Phó thủ tướng giao Bộ Tài chính chủ trì, phối hợp với Bộ Xây dựng thành lập ngay tổ công tác liên bộ, kiểm tra việc tổ chức lựa chọn nhà thầu đối với gói thầu trên. Trong đó kiểm tra nội dung hồ sơ mời thầu, kết quả đánh giá hồ sơ dự thầu, việc xử lý, giải quyết kiến nghị trong đấu thầu và các nội dung cần thiết khác. Phó thủ tướng lưu ý khâu kiểm tra phải bảo đảm công bằng, khách quan, minh bạch và hiệu quả kinh tế; đảm bảo tính đúng đắn trong chủ trương phân cấp tối đa cho địa phương quyết, địa phương làm, địa phương chịu trách nhiệm, song phải đi đôi với kiểm tra, giám sát kịp thời.",
+                "source": "tuoitre"
+            },
+            {
+                "text": "Tập đoàn Sơn Hải kiến nghị kết quả gói thầu xây dựng đường cao tốc TP.HCM - Thủ Dầu Một - Chơn Thành đoạn qua địa bàn tỉnh Bình Phước sau khi bị loại dù bỏ giá thấp nhất và tiết kiệm 148 tỉ đồng. Tập đoàn này cho rằng việc lựa chọn nhà thầu chưa đảm bảo công bằng, minh bạch. Ngày 26. 5, Công ty TNHH Tập đoàn Sơn Hải (gọi tắt , trụ sở chính ở tỉnh Quảng Bình) đã có văn bản gửi Ban quản lý Dự án đầu tư xây dựng tỉnh Bình Phước, phản đối kết quả lựa chọn nhà thầu gói thầu xây dựng đường cao tốc TP.HCM - Thủ Dầu Một - Chơn Thành, đoạn qua địa bàn tỉnh Bình Phước. Theo văn bản, gói thầu có giá trị hơn 880 tỉ đồng, được công khai ngày 17. 3 với sự tham gia của 5 nhà thầu. Trong đó, Công ty TNHH Tập đoàn Sơn Hải bỏ giá dự thầu 732,28 tỉ đồng, tiết kiệm 148,44 tỉ đồng, tỷ lệ giảm 16,85%. Các giá dự thầu khác: Công ty CP Tập đoàn CIENCO4 bỏ giá dự thầu 800,69 tỉ đồng (tiết kiệm 80,03 tỉ đồng, tỷ lệ  giảm 9,09%); Liên danh cao tốc IB2500057961: bỏ giá 804,06 tỉ đồng (tiết kiệm 76,66 tỉ đồng, tỷ lệ giảm 8,70%); Liên danh cao tốc Bình Phước: 836,10 tỉ đồng (tiết kiệm 44,62 tỉ đồng, tỷ lệ giảm 5,07%); Liên danh cao tốc HCM - TDM - CT: 866,46 tỉ đồng (tiết kiệm chỉ 14,26 tỉ đồng, tỷ lệ giảm 1,62%).",
+                "source": "thanhnien"
+            }
+        ],
+        "voter_details": [
+            {
+                "model": "openai/gpt-4o-mini",
+                "vote": "REFUTED",
+                "quote": "Tập đoàn Sơn Hải kiến nghị kết quả gói thầu xây dựng đường cao tốc TP.HCM - Thủ Dầu Một - Chơn Thành đoạn qua địa bàn tỉnh Bình Phước sau khi bị loại dù bỏ giá thấp nhất và tiết kiệm 148 tỉ đồng."
+            },
+            {
+                "model": "qwen/qwen-2.5-72b-instruct",
+                "vote": "SUPPORTED",
+                "quote": "Liên danh cao tốc HCM - TDM - CT: 866,46 tỉ đồng (tiết kiệm chỉ 14,26 tỉ đồng, tỷ lệ giảm 1,62%)."
+            },
+            {
+                "model": "mistralai/mistral-small-24b-instruct-2501",
+                "vote": "NEI",
+                "quote": "Các bằng chứng không cung cấp thông tin trực tiếp về việc Ban quản lý dự án đầu tư xây dựng tỉnh Bình Phước đã phê duyệt liên danh Cao tốc HCM - TDM - CT trúng thầu với giá 845,4 tỷ đồng."
+            }
+        ]
+    },
+    {
+        "claim": "Tập đoàn Cienco4 bị loại khỏi gói thầu xây lắp cao tốc TP HCM - Thủ Dầu Một - Chơn Thành đoạn qua Bình Phước do không đáp ứng yêu cầu về kinh nghiệm quản lý dự án.",
+        "seed_context": "Kết quả vừa được Ban quản lý dự án đầu tư xây dựng tỉnh Bình Phước (chủ đầu tư) phê duyệt, với đơn vị trúng thầu là liên danh Cao tốc HCM - TDM - CT (gồm Tổng công ty Xây dựng Trường Sơn, Công ty TNHH Thương mại Dịch vụ và Xây dựng NTV Thành Phát). Giá trúng thầu là 845,4 tỷ đồng, tỷ lệ tiết kiệm 1,62% so với giá mời thầu gần 881 tỷ đồng. Cao tốc TP HCM - Thủ Dầu Một - Chơn Thành đoạn qua Bình Phước dài 7 km, khởi công cuối năm 2024 với tổng mức đầu tư gần 1.500 tỷ đồng. Gói thầu xây lắp ở dự án này đấu thầu rộng rãi trong nước qua mạng, thu hút 5 nhà thầu tham gia. Ngoài đơn vị trúng thầu nêu trên, có hai nhà thầu độc lập là Tập đoàn Cienco4 và Sơn Hải, cùng hai liên danh khác. Sơn Hải là đơn vị có giá dự thầu thấp nhất với 732,2 tỷ đồng (tiết kiệm 16,8%), tiếp theo là Cienco4 với 800,6 tỷ đồng (tiết kiệm 9%). Hai liên danh còn lại lần lượt là 836 tỷ đồng và 854 tỷ đồng. Tuy nhiên, 4 nhà thầu này bị loại do \"không đáp ứng yêu cầu kỹ thuật\". Theo báo cáo của tổ chuyên gia thuộc Công ty cổ phần tư vấn Văn Phú - đơn vị lập hồ sơ mời thầu và đánh giá hồ sơ dự thầu, các lý do chính khiến những nhà thầu nêu trên bị loại, gồm: không đáp ứng yêu cầu vật tư thiết bị cung cấp cho gói thầu, tổ chức thực hiện BIM (mô hình thông tin công trình) và yêu cầu về máy, thiết bị xây dựng phục vụ thi công gói thầu.",
+        "final_label": "REFUTED",
+        "status": "LOW_CONFIDENCE",
+        "qc_tag": "TYPE_C",
+        "consensus_score": "1/3",
+        "evidence": [
+            {
+                "text": "Sáng 26/5, lãnh đạo UBND tỉnh Bình Phước cho biết đã nắm được thông tin về việc nhà thầu tham gia gói thầu Dự án đường cao tốc TPHCM - Thủ Dầu Một - Chơn Thành đoạn qua tỉnh Bình Phước phản đối vì không trúng thầu. Cụ thể, nhiều trang mạng xã hội sáng nay lan truyền một văn bản của Công ty TNHH Tập đoàn Sơn Hải (Tập đoàn Sơn Hải) về việc phản đối kết quả lựa chọn nhà thầu Gói thầu xây dựng đường Cao tốc TPHCM - Thủ Dầu Một - Chơn Thành qua địa bàn tỉnh Bình Phước. Văn bản đề ngày 26/5, có chữ ký của ông Lê Thanh Hướng - Giám đốc công ty, gửi chủ đầu tư là Ban Quản lý dự án Đầu tư xây dựng tỉnh Bình Phước. Trong văn bản, Tập đoàn Sơn Hải cho hay, ngày 17/3, chủ đầu tư đã mở gói thầu công khai qua mạng với giá trị gói thầu là hơn 880,7 tỷ đồng. Sơn Hải là một trong 5 nhà thầu tham gia gói thầu này với giá dự thầu thấp nhất là hơn 732 tỷ đồng. Tuy nhiên, kết quả được công bố cho thấy, đơn vị trúng thầu lại thuộc về một nhà thầu liên danh có giá dự thầu cao nhất (hơn 866 tỷ đồng). Theo Tập đoàn Sơn Hải, giá dự thầu mà đơn vị này đưa ra được cho là sẽ tiết kiệm cho ngân sách Nhà nước hơn 148 tỷ đồng (tương đương tỷ lệ giảm giá gần 17%).",
+                "source": "vietnamnet"
+            },
+            {
+                "text": "Nếu nhận được kiến nghị chính thức, Ban sẽ thực hiện quy trình đảm bảo quy định pháp luật\", ông Hải cho biết thêm. Trong khi đó, trả lời PV , đại diện lãnh đạo UBND tỉnh Bình Phước cũng cho biết, đã nắm được thông tin về văn bản nêu trên. Đồng thời chỉ đạo Ban QLDA ĐTXD tỉnh Bình Phước có báo cáo cụ thể về vấn đề này. Như đã thông tin, vào ngày 26. 5 Công ty TNHH gửi Ban QLDA ĐTXD tỉnh Bình Phước (chủ đầu tư), phản đối kết quả lựa chọn nhà thầu gói thầu xây dựng đường cao tốc TP.HCM - Thủ Dầu Một - Chơn Thành, đoạn qua địa bàn tỉnh Bình Phước. Theo đó, vào ngày 17. 3. 2025, chủ đầu tư đã mở thầu công khai qua mạng với gói thầu hơn 880,7 tỉ đồng. Có 5 nhà thầu tham gia dự thầu gồm Tập đoàn Sơn Hải giá dự thầu (hơn 732,3 tỉ đồng, giảm 16,85%); Tập đoàn Cienco4 (hơn 800,7 tỉ đồng, giảm hơn 9%); liên danh cao tốc IB2500057961 (hơn 804 tỉ đồng, giảm 8,7%); liên danh cao tốc tỉnh Bình Phước (hơn 836 tỉ đồng, giảm 5,07%); và liên danh cao tốc HCM - TDM - CT (hơn 866,4 tỉ đồng, giảm 1,62%). Sau khi có kết quả trúng thầu, Tập đoàn Sơn Hải bày tỏ ngạc nhiên khi ngày 22.",
+                "source": "thanhnien"
+            },
+            {
+                "text": "Tập đoàn Sơn Hải kiến nghị kết quả gói thầu xây dựng đường cao tốc TP.HCM - Thủ Dầu Một - Chơn Thành đoạn qua địa bàn tỉnh Bình Phước sau khi bị loại dù bỏ giá thấp nhất và tiết kiệm 148 tỉ đồng. Tập đoàn này cho rằng việc lựa chọn nhà thầu chưa đảm bảo công bằng, minh bạch. Ngày 26. 5, Công ty TNHH Tập đoàn Sơn Hải (gọi tắt , trụ sở chính ở tỉnh Quảng Bình) đã có văn bản gửi Ban quản lý Dự án đầu tư xây dựng tỉnh Bình Phước, phản đối kết quả lựa chọn nhà thầu gói thầu xây dựng đường cao tốc TP.HCM - Thủ Dầu Một - Chơn Thành, đoạn qua địa bàn tỉnh Bình Phước. Theo văn bản, gói thầu có giá trị hơn 880 tỉ đồng, được công khai ngày 17. 3 với sự tham gia của 5 nhà thầu. Trong đó, Công ty TNHH Tập đoàn Sơn Hải bỏ giá dự thầu 732,28 tỉ đồng, tiết kiệm 148,44 tỉ đồng, tỷ lệ giảm 16,85%. Các giá dự thầu khác: Công ty CP Tập đoàn CIENCO4 bỏ giá dự thầu 800,69 tỉ đồng (tiết kiệm 80,03 tỉ đồng, tỷ lệ  giảm 9,09%); Liên danh cao tốc IB2500057961: bỏ giá 804,06 tỉ đồng (tiết kiệm 76,66 tỉ đồng, tỷ lệ giảm 8,70%); Liên danh cao tốc Bình Phước: 836,10 tỉ đồng (tiết kiệm 44,62 tỉ đồng, tỷ lệ giảm 5,07%); Liên danh cao tốc HCM - TDM - CT: 866,46 tỉ đồng (tiết kiệm chỉ 14,26 tỉ đồng, tỷ lệ giảm 1,62%).",
+                "source": "thanhnien"
+            }
+        ],
+        "voter_details": [
+            {
+                "model": "openai/gpt-4o-mini",
+                "vote": "REFUTED",
+                "quote": "Tập đoàn Cienco4 bị loại khỏi gói thầu xây lắp cao tốc TP HCM - Thủ Dầu Một - Chơn Thành đoạn qua Bình Phước do không đáp ứng yêu cầu về kinh nghiệm quản lý dự án."
+            },
+            {
+                "model": "qwen/qwen-2.5-72b-instruct",
+                "vote": "NEI",
+                "quote": "Các bằng chứng cung cấp thông tin về việc Tập đoàn Sơn Hải bị loại khỏi gói thầu và phản đối kết quả, nhưng không có thông tin cụ thể về việc Tập đoàn Cienco4 bị loại do không đáp ứng yêu cầu về kinh nghiệm quản lý dự án."
+            },
+            {
+                "model": "mistralai/mistral-small-24b-instruct-2501",
+                "vote": "SUPPORTED",
+                "quote": "Tập đoàn Cienco4 (hơn 800,7 tỉ đồng, giảm hơn 9%)"
+            }
+        ]
+    },
+    {
+        "claim": "Mức thuế quan 200% đối với Bắc Kinh ảnh hưởng đến khoảng 400 tỷ USD giá trị hàng hóa của Trung Quốc tại thị trường Mỹ mỗi năm, có thể làm chậm đà tăng trưởng của nền kinh tế lớn thứ hai thế giới.",
+        "seed_context": "Các cơ sở giáo dục Mỹ và Anh cũng đang phải đối mặt với sự cạnh tranh từ các trường đại học Trung Quốc, vốn thăng hạng nhanh chóng trên bảng xếp hạng toàn cầu những năm gần đây. \"Các trường đại học trong nước của Trung Quốc đang tăng danh tiếng và nguồn tài trợ nghiên cứu, khiến các trường này trở nên hấp dẫn hơn\", Pippa Ebel, chuyên gia về sinh viên Trung Quốc tại HEPI, tổ chức tư vấn giáo dục Anh, cho biết. Trên website của tập đoàn giáo dục toàn cầu Keystone Education Group (KEG), Mỹ vẫn là điểm đến được sinh viên Trung Quốc tìm kiếm nhiều nhất, nhưng mức độ quan tâm đã giảm 5% kể từ khi ông Trump thông báo áp thuế bổ sung, trong đó lượt tìm kiếm về các chương trình tiến sĩ giảm 12%. Mức thuế quan 145% đối với Bắc Kinh ảnh hưởng đến khoảng 400 tỷ USD giá trị hàng hóa của Trung Quốc tại thị trường Mỹ mỗi năm, có thể làm chậm đà tăng trưởng của nền kinh tế lớn thứ hai thế giới. \"Trung Quốc có thể nhạy cảm hơn trước những biến động kinh tế và chính sách quốc tế, ảnh hưởng đến ngân sách hộ gia đình và khả năng chi trả cho việc du học Mỹ\", Mark Bennet, chuyên gia cấp cao của KEG, nhận định.",
+        "final_label": "REFUTED",
+        "status": "LOW_CONFIDENCE",
+        "qc_tag": "TYPE_C",
+        "consensus_score": "1/3",
+        "evidence": [
+            {
+                "text": "Bắc Kinh đáp trả khi mức thuế nhập khẩu 20% do Mỹ áp lên hàng hóa Trung Quốc chính thức có hiệu lực. Canada cũng áp thuế 25% trả đũa Mỹ. Ngày 4-3, Trung Quốc nhanh chóng tuyên bố mức thuế quan trả đũa Mỹ, với mức tăng thuế nhập khẩu 10-15% đối với một loạt các loại sản phẩm nông nghiệp và thực phẩm từ Mỹ, cùng với việc đặt 25 công ty Mỹ vào diện hạn chế xuất khẩu và đầu tư. Trung Quốc Vào khoảng 12h ngày 4-3 (giờ Việt Nam), mức thuế quan bổ sung 10% lên hàng hóa Trung Quốc mà Tổng thống Mỹ Donald Trump trước đó tuyên bố chính thức có hiệu lực, dẫn đến mức thuế nhập khẩu tích lũy mà Washington áp đặt lên các sản phẩm từ Bắc Kinh lên 20%. Tổng thống Mỹ Donald Trump Trong động thái đáp trả, Trung Quốc cho biết nước này sẽ áp thêm 15% thuế đối với thịt gà, lúa mì, ngô và bông nhập khẩu từ Mỹ, cũng như tăng thuế thêm 10% đối với đậu nành, cao lương, thịt heo, thịt bò, sản phẩm thủy sản, trái cây, rau và sữa của Washington từ ngày 10-3, theo thông cáo của Bộ Thương mại Trung Quốc. \"Các biện pháp thuế quan đơn phương của Mỹ vi phạm nghiêm trọng các quy tắc của Tổ chức Thương mại thế giới, và làm suy yếu cơ sở hợp tác kinh tế và thương mại giữa Trung Quốc và Mỹ\", Bộ Thương mại Trung Quốc nêu trong một thông cáo khác.",
+                "source": "tuoitre"
+            },
+            {
+                "text": "Việc mở rộng thương mại với Đông Nam Á, châu Mỹ Latin và châu Phi được thúc đẩy khi Trung Quốc cố gắng thoát khỏi tầm ảnh hưởng của Mỹ. Theo đó, Mỹ không còn là thị trường xuất khẩu lớn nhất của Trung Quốc, nhưng thay vào đó là Đông Nam Á. Trên thực tế, Trung Quốc là đối tác thương mại lớn nhất của 60 quốc gia vào năm 2023, gần gấp đôi con số của Mỹ. Là quốc gia xuất khẩu lớn nhất thế giới, Trung Quốc đã đạt được mức thặng dư kỷ lục là 1. 000 tỉ USD vào cuối năm 2024. Điều này không có nghĩa là Mỹ - nền kinh tế lớn nhất thế giới - không còn là đối tác quan trọng của Trung Quốc. Nhưng vị thế thương mại của Trung Quốc hiện nay cho thấy Mỹ không dễ dàng dồn Bắc Kinh vào chân tường với các mức thuế quan cao. Trung Quốc, bên cạnh Mỹ, cũng đã trở thành một thị trường không thể thiếu của các quốc gia có thế mạnh xuất khẩu. \"Chúng tôi không thể lựa chọn, và chúng tôi sẽ không bao giờ lựa chọn (giữa Trung Quốc và Mỹ)\", Bộ trưởng Thương mại Malaysia Tengku Zafrul Aziz nói với BBC. Nắm giữ trái phiếu Mỹ Hồi tháng 4, ông Trump bất ngờ tuyên bố hoãn thuế đối ứng 90 ngày với tất cả các quốc gia, trừ Trung Quốc.",
+                "source": "tuoitre"
+            },
+            {
+                "text": "Trung Quốc được cho là đang nắm thế chủ động trong cuộc thương chiến với Mỹ lần này, khi ông Trump hiện đã ra dấu hiệu hạ nhiệt, nhưng Bắc Kinh vẫn chưa phản hồi gì tích cực cho việc đàm phán. Kể từ khi Tổng thống Mỹ Donald Trump nhậm chức hồi tháng 1-2025, thương chiến Mỹ - Trung đang vào hồi cao điểm hơn bao giờ hết khi hàng hóa của Bắc Kinh vào Mỹ bị đánh thuế lên đến 245%, trong khi hàng hóa Mỹ vào Trung Quốc cũng bị đánh thuế 125%. Tổng thống Mỹ Donald Trump Theo Đài BBC, Chính phủ Trung Quốc nhiều lần tuyên bố họ sẵn sàng đối thoại với Washington, nhưng cũng khẳng định đanh thép sẽ \"chiến đấu đến cùng\" nếu cần thiết. Trong lúc Tổng thống Mỹ Trump có dấu hiệu hạ nhiệt căng thẳng với Bắc Kinh, Đài BBC nêu ra 5 \"lá bài\" giúp Trung Quốc duy trì tốt vị thế trước Washington trong lần thương chiến này. Chịu 'đau' tốt Là nền kinh tế lớn thứ hai thế giới, Trung Quốc được cho là sẽ có khả năng hấp thụ tác động từ thuế quan tốt hơn các nền kinh tế nhỏ hơn khác. Với dân số hơn 1 tỉ người, thị trường nội địa khổng lồ của Trung Quốc cũng có thể giúp giảm bớt áp lực cho các nhà xuất khẩu đang đau đầu cho đầu ra của sản phẩm.",
+                "source": "tuoitre"
+            }
+        ],
+        "voter_details": [
+            {
+                "model": "openai/gpt-4o-mini",
+                "vote": "REFUTED",
+                "quote": "hàng hóa của Bắc Kinh vào Mỹ bị đánh thuế lên đến 245%"
+            },
+            {
+                "model": "mistralai/mistral-small-24b-instruct-2501",
+                "vote": "NEI",
+                "quote": "Không có bằng chứng trực tiếp về mức thuế quan 200% đối với Bắc Kinh ảnh hưởng đến khoảng 400 tỷ USD giá trị hàng hóa của Trung Quốc tại thị trường Mỹ mỗi năm."
+            }
+        ]
+    },
+    {
+        "claim": "Vào ngày 23 tháng 1, lực lượng Nga tuyên bố kiểm soát thêm một khu định cư nhỏ ở khu vực Donetsk.",
+        "seed_context": "Quân đội Nga đang duy trì đà tiến quân trên chiến trường Ukraine trong những tháng qua, bất chấp Ukraine cố đẩy mạnh các cuộc tấn công sâu phía sau chiến tuyến. Lực lượng Nga ngày 23/1 tuyên bố kiểm soát thêm một khu định cư nhỏ ở khu vực Donetsk, nơi Moskva tuyên bố sáp nhập cuối năm 2022 cùng với Lugansk, Kherson và Zaporizhzhia.",
+        "final_label": "REFUTED",
+        "status": "LOW_CONFIDENCE",
+        "qc_tag": "TYPE_C",
+        "consensus_score": "1/3",
+        "evidence": [
+            {
+                "text": "Ukraine đã thực hiện các cuộc tấn công bằng máy bay không người lái với số lượng \"khủng\" vào một số khu vực của Nga đầu tuần qua và là một trong những cuộc tấn công lớn nhất nhằm làm tê liệt cỗ máy chiến tranh của Moscow. Các cuộc tấn công, chủ yếu ở phía tây nam nước Nga, cho thấy khả năng tấn công tầm xa của Ukraine, ngay cả khi lực lượng Kiev phải đối mặt với những thất bại trên chính lãnh thổ của họ. Các vụ nổ đã được báo cáo ở khu vực biên giới Bryansk và máy bay không người lái nhắm vào các khu vực xa hơn như Saratov và Tula ở phía tây nước Nga. Bộ Quốc phòng Nga cho biết hôm 14/1 rằng Ukraine đã phóng hơn 140 máy bay không người lái, cùng với tên lửa tầm xa ATACMS do Mỹ sản xuất và tên lửa Storm Shadow do Anh cung cấp. Bộ Tổng tham mưu quân đội Ukraine tuyên bố họ đã tấn công ba khu vực của Nga và nước Cộng hòa Tatarstan, bao gồm các cuộc tấn công cách Nga gần 700 dặm, nhắm vào các căn cứ lưu trữ dầu cũng như các cơ sở sản xuất quân sự. Binh lính Ukraine ở Donetsk (Ảnh: Getty Images) Theo tuyên bố từ Cơ quan Hàng không Liên bang Nga, các cuộc tấn công bằng máy bay không người lái của Ukraine đã buộc ít nhất 6 thành phố phải hạn chế không phận vào sáng ngày 14/1, trong số đó có Saratov và Engels, nơi bị tấn công qua đêm.",
+                "source": "vtv"
+            },
+            {
+                "text": "Trước đó hôm 6. 2, Ukraine thông báo nước này đã nhận được lô máy bay chiến đấu Mirage 2000 đầu tiên từ Pháp cũng như chiến đấu cơ F-16 (do Mỹ sản xuất) từ Hà Lan. Giới chức Pháp viện lý do an ninh để từ chối nêu rõ số lượng máy bay Mirage 2000 đã cung cấp cho Ukraine, dù họ tiết lộ số chiến đấu cơ này đã được điều chỉnh để có thể thực hiện các cuộc tấn công không đối đất. Theo một báo cáo của quốc hội Pháp vào cuối năm ngoái, trong số 26 chiếc Mirage 2000 thuộc không quân Pháp sẽ có 6 chiếc được chuyển cho Ukraine. Bộ Quốc phòng Nga cho biết lực lượng nước này đã kiểm soát thị trấn ở phía đông Ukraine, nhưng quân đội Ukraine bác bỏ và khẳng định giao tranh dữ dội đang diễn ra tại đây và khu vực lân cận. Toretsk có khoảng 30. 000 người trước chiến sự và được Nga gọi với tên thời Liên Xô cũ là Dzerzhinsk. Lực lượng Nga hiện đang tập trung vào việc giành quyền kiểm soát Donbass, bao gồm các khu vực phía đông Donetsk và Luhansk. Toretsk là một trong những trọng tâm của cuộc tiến công, cùng với các trung tâm hậu cần khác như Kramatorsk và Kostyantynivka ở phía tây bắc và Pokrovsk xa hơn về phía tây.",
+                "source": "thanhnien"
+            },
+            {
+                "text": "Đường kính ống 1. 420mm khiến binh lính không thể đứng thẳng, chưa kể đạn dược và lương thực. Chiến dịch bắt đầu ngày 1-3 với máy bay chiến đấu đổ quân theo nhóm nhỏ cách nhau để tránh bị phát hiện. Cuộc đổ bộ kéo dài bốn ngày, thêm hai ngày quân lính phải vượt qua đường ống, mang mặt nạ và bình oxy. Đến sáng 8-3, họ có mặt tại điểm thoát lên mặt đất và đột phá tuyến phòng thủ khiến Ukraine phải rút lui. Bộ Quốc phòng Nga báo cáo trong năm ngày, 24 điểm dân cư và hơn 259km² đã được \"giải phóng\". Hơn 86% diện tích tỉnh Kursk bị Ukraine chiếm đóng đã được lấy lại. Các nhà phân tích từ kênh Telegram \"Military Chronicle\" nhận định chiến thuật triển khai quân đội trong hậu phương đã làm suy yếu nghiêm trọng tinh thần quân Ukraine. Đài CNN dẫn lời Tổng tham mưu trưởng Valery Gerasimov cho biết thất bại này khiến \"kế hoạch sử dụng Kursk làm công cụ mặc cả trong đàm phán của Ukraine thất bại\". Trong khi đó Đài ABC nói \"Ukraine đầu hàng ở Kursk và mất đi sức mạnh đàm phán với Nga\". Ngừng bắn: lợi và hại nhìn từ phía Nga Phát biểu tại Kursk ngày 12-3, ông Putin tuyên bố cần đánh bại hoàn toàn kẻ thù ở khu vực này càng sớm càng tốt và nghĩ đến việc thành lập khu vực an ninh dọc biên giới.",
+                "source": "tuoitre"
+            }
+        ],
+        "voter_details": [
+            {
+                "model": "openai/gpt-4o-mini",
+                "vote": "REFUTED",
+                "quote": "Bộ Quốc phòng Nga cho biết lực lượng nước này đã kiểm soát thị trấn ở phía đông Ukraine, nhưng quân đội Ukraine bác bỏ và khẳng định giao tranh dữ dội đang diễn ra tại đây và khu vực lân cận."
+            },
+            {
+                "model": "qwen/qwen-2.5-72b-instruct",
+                "vote": "SUPPORTED",
+                "quote": "Bộ Quốc phòng Nga báo cáo trong năm ngày, 24 điểm dân cư và hơn 259km² đã được 'giải phóng'."
+            },
+            {
+                "model": "mistralai/mistral-small-24b-instruct-2501",
+                "vote": "NEI",
+                "quote": "Không có thông tin liên quan đến việc Nga kiểm soát thêm một khu định cư nhỏ ở khu vực Donetsk vào ngày 23 tháng 1."
+            }
+        ]
+    },
+    {
+        "claim": "Nhà ga hành khách tại Sân bay Tân Sơn Nhất, với tổng mức đầu tư gần 11.000 tỷ đồng, có công suất thiết kế 20 triệu khách mỗi năm, nâng tổng năng lực khai thác của sân bay lên 50 triệu khách mỗi năm.",
+        "seed_context": "Đây là nhà ga nội địa lớn nhất cả nước, công suất thiết kế 20 triệu khách mỗi năm, nâng tổng năng lực khai thác sân bay Tân Sơn Nhất lên 50 triệu khách mỗi năm. Công trình có tổng mức đầu tư gần 11.000 tỷ đồng, gồm ba hạng mục chính: ga hành khách, nhà xe cao tầng kết hợp dịch vụ phi hàng không và hệ thống cầu cạn. Nhà ga có một tầng hầm, 4 tầng nổi, xây dựng trên diện tích 112.500 m2, gồm 90 quầy thủ tục, 20 quầy bagdrop, 42 ki-ốt check-in, 27 cửa ra máy bay... Hiện nhà ga khai thác chủ yếu các chuyến bay nội địa của Vietnam Airlines, góp phần giảm tải cho nhà ga T1 cũ.",
+        "final_label": "REFUTED",
+        "status": "LOW_CONFIDENCE",
+        "qc_tag": "TYPE_C",
+        "consensus_score": "1/3",
+        "evidence": [
+            {
+                "text": "Sân bay Long Thành giai đoạn 1 rộng 1.810ha, khởi công ngày 5/1/2021, công suất thiết kế 25 triệu hành khách và 1,2 triệu tấn hàng hóa mỗi năm. Nhiều hạng mục chính đã hoàn thành; bay kiểm tra, hiệu chuẩn được thực hiện từ cuối tháng 9 đến cuối tháng 10. Sân bay dự kiến khai thác thương mại giữa năm 2026.",
+                "source": "dantri"
+            },
+            {
+                "text": "Ưu điểm của phương án này là tập trung hóa hoạt động khai thác quốc tế, tăng hiệu quả vận hành hệ thống và giảm chi phí. Hình thành rõ ràng vị thế của sân bay Long Thành là cảng trung chuyển quốc tế chính. Đồng thời, hạn chế tối đa tình trạng hành khách phải di chuyển giữa hai sân bay, vốn mất thêm tối thiểu 4,5 giờ và tiềm ẩn rủi ro nối chuyến, tránh gây nhầm lẫn cho hành khách về địa điểm bay. Ngoài ra phương án trên cũng giảm áp lực về tình trạng bão hòa công suất trong dài hạn tại Tân Sơn Nhất, tránh phải điều chỉnh quy hoạch lại trong tương lai. Tuy nhiên về hạn chế, khách tại TP.HCM đi chuyến bay quốc tế chặng ngắn có thể gặp bất tiện do sân bay Long Thành cách xa trung tâm thành phố hơn so với Tân Sơn Nhất. Còn với phương án 2 sẽ phân chia khai thác giữa hai sân bay theo đặc thù cự ly đường bay. Khi đó, sân bay Tân Sơn Nhất sẽ tiếp tục khai thác các chuyến bay nội địa và một phần các chuyến bay quốc tế cự ly ngắn với sản lượng khách quốc tế ước đạt khoảng 3,8 triệu lượt mỗi năm, tập trung chủ yếu đường bay dưới 1.",
+                "source": "tuoitre"
+            },
+            {
+                "text": "Đây là câu hỏi \"nóng\" nhất trong dư luận những ngày qua, sau khi Tổng công ty cảng hàng không VN (ACV) công bố ủng hộ phương án quy hết mạng bay quốc tế về một đầu mối tại Long Thành. Nếu phương án này được thông qua, siêu đô thị lớn nhất cả nước là TP.HCM có lẽ là trường hợp hiếm hoi không có sân bay quốc tế. Theo phương án do ACV đề xuất, dự kiến từ thời điểm (LTIA) chính thức đưa vào khai thác giai đoạn 1 (năm 2026), Cảng hàng không quốc tế Tân Sơn Nhất sẽ tập trung phục vụ hoàn toàn hoạt động bay nội địa, với sản lượng hành khách dự kiến đạt khoảng 29,5 triệu lượt/năm, trong khi toàn bộ hoạt động bay quốc tế sẽ được chuyển giao và khai thác tập trung tại LTIA, với sản lượng ước đạt 19,1 triệu lượt hành khách quốc tế/năm. Lý giải về cơ sở cho đề xuất này, ACV cho biết nhiều năm qua, Tân Sơn Nhất đã hoạt động vượt xa công suất thiết kế, các và nội địa cùng khai thác trong một không gian giới hạn. Điều này dẫn đến tình trạng quá tải, kẹt cứng, làm giảm chất lượng phục vụ, gây phiền toái như chờ làm thủ tục lâu, kẹt xe quanh sân bay, làm mất thời gian và gây căng thẳng cho hành khách.",
+                "source": "thanhnien"
+            }
+        ],
+        "voter_details": [
+            {
+                "model": "openai/gpt-4o-mini",
+                "vote": "REFUTED",
+                "quote": "Cảng hàng không quốc tế Tân Sơn Nhất sẽ tập trung phục vụ hoàn toàn hoạt động bay nội địa, với sản lượng hành khách dự kiến đạt khoảng 29,5 triệu lượt/năm"
+            },
+            {
+                "model": "qwen/qwen-2.5-72b-instruct",
+                "vote": "NEI",
+                "quote": "Sân bay Long Thành giai đoạn 1 rộng 1.810ha, khởi công ngày 5/1/2021, công suất thiết kế 25 triệu hành khách và 1,2 triệu tấn hàng hóa mỗi năm. Nhiều hạng mục chính đã hoàn thành; bay kiểm tra, hiệu chuẩn được thực hiện từ cuối tháng 9 đến cuối tháng 10. Sân bay dự kiến khai thác thương mại giữa năm 2026."
+            },
+            {
+                "model": "mistralai/mistral-small-24b-instruct-2501",
+                "vote": "SUPPORTED",
+                "quote": "Nhà ga hành khách tại Sân bay Tân Sơn Nhất, với tổng mức đầu tư gần 11.000 tỷ đồng, có công suất thiết kế 20 triệu khách mỗi năm, nâng tổng năng lực khai thác của sân bay lên 50 triệu khách mỗi năm."
+            }
+        ]
+    },
+    {
+        "claim": "Hải quân Ukraine đã sử dụng USV để tập kích Hạm đội Biển Đen của Nga, buộc Moskva phải chuyển lực lượng từ Crimea về Novorossiysk.",
+        "seed_context": "Hải quân Ukraine liên tục sử dụng USV này để tập kích Hạm đội Biển Đen của Nga, buộc Moskva phải chuyển lực lượng từ Crimea về Novorossiysk.",
+        "final_label": "REFUTED",
+        "status": "LOW_CONFIDENCE",
+        "qc_tag": "TYPE_C",
+        "consensus_score": "1/3",
+        "evidence": [
+            {
+                "text": "Ukraine tuyên bố lần đầu tiên xuồng không người lái tấn công và vô hiệu hóa tàu ngầm Nga neo đậu tại căn cứ hải quân ở Biển Đen, song Nga phủ nhận mọi thiệt hại. Theo Cơ quan An ninh Ukraine (SBU) ngày 15-12, xuồng không người lái Sub Sea Baby của nước này đã đánh trúng tàu ngầm Nga tại cảng Novorossiysk. Ukraine Ông Alexander Kamyshin, cố vấn của Tổng thống Volodymyr Zelensky , tuyên bố đây là lần đầu tiên một xuồng không người lái vô hiệu hóa được tàu ngầm Nga. Tổng thống Volodymyr Zelensky SBU công bố đoạn video cho thấy một vụ nổ mạnh bùng lên tại một cầu cảng gần nơi một tàu ngầm và nhiều tàu khác đang neo đậu. Tàu ngầm bị tấn công của Nga có khả năng mang ít nhất 4 tên lửa hành trình Kalibr - một vũ khí chủ lực trong các đòn tập kích lớn của Nga. The Hãng tin Reuters, người phát ngôn Hải quân Ukraine Dmytro Pletenchuk cho biết tàu ngầm là mục tiêu khó đánh trúng nhất và chiến dịch tấn công này \"đánh dấu thêm bước ngoặt\" trong cuộc đối đầu giữa hải quân hai bên. Theo ông, Nga sẽ rất khó sửa chữa con tàu ngầm này vì việc sửa chữa phải tiến hành trên mặt nước, đồng nghĩa với việc con tàu sẽ đối diện với nguy cơ bị tấn công.",
+                "source": "tuoitre"
+            },
+            {
+                "text": "Hình ảnh ghi lại khoảnh khắc tàu ngầm bị  tấn công ở Novorossiysk, Nga (Ảnh: SBU) Cơ quan An ninh Ukraine (SBU) cho biết trong một tuyên bố trên Telegram rằng lần đầu tiên trong cuộc chiến với Nga, họ đã thực hiện một \"chiến dịch đặc biệt độc nhất vô nhị\" bằng cách sử dụng máy bay không người lái hải quân ( UAV dưới nước ) để tấn công tàu ngầm của Nga tại cảng. \"Lần đầu tiên trong lịch sử, UAVdưới nước Sub Sea Baby đã phá hủy một tàu ngầm lớp Varshavyanka thuộc dự án 636.3 của Nga\" - SBU tuyên bố. Đồng thời, SBU cho biết thêm rằng tàu ngầm của Nga trang bị 4 bệ phóng tên lửa hành trình Kalibr được sử dụng để tấn công vào lãnh thổ Ukraine. Theo thông tin của SBU, tàu ngầm của Nga đã bị hư hại nghiêm trọng và về cơ bản đã bị vô hiệu hóa. Hạm đội Biển Đen của Nga thừa nhận rằng lực lượng UKaine đã thực hiện cuộc tấn công dưới nước nhưng phủ nhận thông tin có bất kỳ tàu nào bị hư hại. Vụ tấn công bằng máy bay không người lái dưới nước đầu tiên nhằm vào một tàu ngầm Nga ở Novorossiysk, Nga, ngày 15/12 (Ảnh: SBU) \"Nỗ lực phá hoại bằng UAV dưới nước của của Ukraine đã không đạt được mục tiêu\" - Đại tá Alexei Rulev, người đứng đầu bộ phận báo chí của Hạm đội Biển Đen, cho biết trong một tuyên bố - \"Không có tàu chiến hay tàu ngầm nào đóng tại căn cứ hải quân Novorossiysk, cũng như thủy thủ đoàn bị thiệt hại và họ vẫn tiếp tục làm nhiệm vụ như thường lệ\".",
+                "source": "vtv"
+            },
+            {
+                "text": "Việt Dũng Theo Pravda, phát ngôn viên hải quân Ukraine Dmytro Pletenchuk hôm 30/3 phủ nhận Mỹ có liên quan đến vụ đánh chìm tàu tuần dương Moskva của Nga ở Biển Đen. \"Các thông tin của truyền thông Mỹ không chính xác. Thực tế là chúng tôi không nhận được bất kỳ tọa độ nào của soái hạm Moskva từ Mỹ và việc đánh chìm tàu chiến này là hoạt động độc lập của Ukraine. Những tuyên bố về việc phối hợp cung cấp tọa độ là không đúng sự thật và các thông tin về phản ứng tiêu cực của Mỹ sau vụ việc cũng vậy\", ông Pletenchuk cho biết. Vào ngày 14/4/2022, Hải quân Ukraine đã giáng một đòn mạnh vào Hạm đội Biển Đen của Nga khi đánh chìm chiến hạm mang tính biểu tượng của lực lượng này - tàu tuần dương Moskva. Tờ New York Times (NYT) từng đăng tải một báo cáo tiết lộ về sự liên quan của quân đội Mỹ trong vụ đánh chìm tàu Moskva. Dù NYT đánh giá đây là thành tích đáng kể của Kiev, nhưng tờ báo cũng coi vụ việc phản ánh quan hệ phức tạp giữa bộ chỉ huy quân sự Ukraine và Mỹ. \"Vào giữa tháng 4/2022, khi hải quân Mỹ và Ukraine đang tiến hành hoạt động trinh sát theo thông lệ, một tín hiệu đã bất ngờ xuất hiện trên radar của họ.",
+                "source": "vietnamnet"
+            }
+        ],
+        "voter_details": [
+            {
+                "model": "openai/gpt-4o-mini",
+                "vote": "REFUTED",
+                "quote": "Hạm đội Biển Đen của Nga thừa nhận rằng lực lượng Ukraine đã thực hiện cuộc tấn công dưới nước nhưng phủ nhận thông tin có bất kỳ tàu nào bị hư hại."
+            },
+            {
+                "model": "qwen/qwen-2.5-72b-instruct",
+                "vote": "NEI",
+                "quote": "Hạm đội Biển Đen của Nga thừa nhận rằng lực lượng UKaine đã thực hiện cuộc tấn công dưới nước nhưng phủ nhận thông tin có bất kỳ tàu nào bị hư hại. Vụ tấn công bằng máy bay không người lái dưới nước đầu tiên nhằm vào một tàu ngầm Nga ở Novorossiysk, Nga, ngày 15/12 (Ảnh: SBU) \"Nỗ lực phá hoại bằng UAV dưới nước của của Ukraine đã không đạt được mục tiêu\" - Đại tá Alexei Rulev, người đứng đầu bộ phận báo chí của Hạm đội Biển Đen, cho biết trong một tuyên bố - \"Không có tàu chiến hay tàu ngầm nào đóng tại căn cứ hải quân Novorossiysk, cũng như thủy thủ đoàn bị thiệt hại và họ vẫn tiếp tục làm nhiệm vụ như thường lệ\"."
+            },
+            {
+                "model": "mistralai/mistral-small-24b-instruct-2501",
+                "vote": "SUPPORTED",
+                "quote": "Ukraine tuyên bố lần đầu tiên xuồng không người lái tấn công và vô hiệu hóa tàu ngầm Nga neo đậu tại căn cứ hải quân ở Biển Đen, song Nga phủ nhận mọi thiệt hại. Theo Cơ quan An ninh Ukraine (SBU) ngày 15-12, xuồng không người lái Sub Sea Baby của nước này đã đánh trúng tàu ngầm Nga tại cảng Novorossiysk."
+            }
+        ]
+    },
+    {
+        "claim": "Hải quân Ukraine đã sử dụng USV để tập kích các tàu chiến của Nga ngoài khơi Syria, buộc Moskva phải chuyển lực lượng về Novorossiysk.",
+        "seed_context": "Hải quân Ukraine liên tục sử dụng USV này để tập kích Hạm đội Biển Đen của Nga, buộc Moskva phải chuyển lực lượng từ Crimea về Novorossiysk.",
+        "final_label": "REFUTED",
+        "status": "LOW_CONFIDENCE",
+        "qc_tag": "TYPE_C",
+        "consensus_score": "1/3",
+        "evidence": [
+            {
+                "text": "Ukraine tuyên bố lần đầu tiên xuồng không người lái tấn công và vô hiệu hóa tàu ngầm Nga neo đậu tại căn cứ hải quân ở Biển Đen, song Nga phủ nhận mọi thiệt hại. Theo Cơ quan An ninh Ukraine (SBU) ngày 15-12, xuồng không người lái Sub Sea Baby của nước này đã đánh trúng tàu ngầm Nga tại cảng Novorossiysk. Ukraine Ông Alexander Kamyshin, cố vấn của Tổng thống Volodymyr Zelensky , tuyên bố đây là lần đầu tiên một xuồng không người lái vô hiệu hóa được tàu ngầm Nga. Tổng thống Volodymyr Zelensky SBU công bố đoạn video cho thấy một vụ nổ mạnh bùng lên tại một cầu cảng gần nơi một tàu ngầm và nhiều tàu khác đang neo đậu. Tàu ngầm bị tấn công của Nga có khả năng mang ít nhất 4 tên lửa hành trình Kalibr - một vũ khí chủ lực trong các đòn tập kích lớn của Nga. The Hãng tin Reuters, người phát ngôn Hải quân Ukraine Dmytro Pletenchuk cho biết tàu ngầm là mục tiêu khó đánh trúng nhất và chiến dịch tấn công này \"đánh dấu thêm bước ngoặt\" trong cuộc đối đầu giữa hải quân hai bên. Theo ông, Nga sẽ rất khó sửa chữa con tàu ngầm này vì việc sửa chữa phải tiến hành trên mặt nước, đồng nghĩa với việc con tàu sẽ đối diện với nguy cơ bị tấn công.",
+                "source": "tuoitre"
+            },
+            {
+                "text": "Hình ảnh ghi lại khoảnh khắc tàu ngầm bị  tấn công ở Novorossiysk, Nga (Ảnh: SBU) Cơ quan An ninh Ukraine (SBU) cho biết trong một tuyên bố trên Telegram rằng lần đầu tiên trong cuộc chiến với Nga, họ đã thực hiện một \"chiến dịch đặc biệt độc nhất vô nhị\" bằng cách sử dụng máy bay không người lái hải quân ( UAV dưới nước ) để tấn công tàu ngầm của Nga tại cảng. \"Lần đầu tiên trong lịch sử, UAVdưới nước Sub Sea Baby đã phá hủy một tàu ngầm lớp Varshavyanka thuộc dự án 636.3 của Nga\" - SBU tuyên bố. Đồng thời, SBU cho biết thêm rằng tàu ngầm của Nga trang bị 4 bệ phóng tên lửa hành trình Kalibr được sử dụng để tấn công vào lãnh thổ Ukraine. Theo thông tin của SBU, tàu ngầm của Nga đã bị hư hại nghiêm trọng và về cơ bản đã bị vô hiệu hóa. Hạm đội Biển Đen của Nga thừa nhận rằng lực lượng UKaine đã thực hiện cuộc tấn công dưới nước nhưng phủ nhận thông tin có bất kỳ tàu nào bị hư hại. Vụ tấn công bằng máy bay không người lái dưới nước đầu tiên nhằm vào một tàu ngầm Nga ở Novorossiysk, Nga, ngày 15/12 (Ảnh: SBU) \"Nỗ lực phá hoại bằng UAV dưới nước của của Ukraine đã không đạt được mục tiêu\" - Đại tá Alexei Rulev, người đứng đầu bộ phận báo chí của Hạm đội Biển Đen, cho biết trong một tuyên bố - \"Không có tàu chiến hay tàu ngầm nào đóng tại căn cứ hải quân Novorossiysk, cũng như thủy thủ đoàn bị thiệt hại và họ vẫn tiếp tục làm nhiệm vụ như thường lệ\".",
+                "source": "vtv"
+            },
+            {
+                "text": "Cơ quan An ninh Ukraine (SBU) cho biết xuồng không người lái của Ukraine đã tấn công một tàu ngầm Nga tại cảng Novorossiysk ở Biển Đen vào ngày 15/12, khiến tàu ngầm này không thể hoạt động.\n\nSBU tuyên bố sử dụng xuồng tự sát Sea Baby để nhắm mục tiêu vào một tàu ngầm lớp Varshavyanka mang theo 4 tên lửa hành trình Kalibr, loại tên lửa mà Nga đã sử dụng để tập kích các mục tiêu ở Ukraine kể từ khi bắt đầu xung đột.\n\nSBU nói rằng vụ tấn công “lần đầu tiên trong lịch sử” này được thực hiện với sự phối hợp của Cục Tình báo  Quân sự  số 13 thuộc SBU và Hải quân Ukraine.\n\n\"Tàu bị hư hại nghiêm trọng và thực tế đã không thể hoạt động\", SBU viết trên Telegram.\n\nĐoạn video do SBU công bố cho thấy một vụ nổ lớn trên mặt nước tại cảng gần nơi tàu ngầm và các tàu khác đang neo đậu.\n\nUkraine đăng video xuồng tự sát đánh trúng tàu ngầm Nga (Nguồn: Pravda)",
+                "source": "dantri"
+            }
+        ],
+        "voter_details": [
+            {
+                "model": "openai/gpt-4o-mini",
+                "vote": "REFUTED",
+                "quote": "Hạm đội Biển Đen của Nga thừa nhận rằng lực lượng Ukraine đã thực hiện cuộc tấn công dưới nước nhưng phủ nhận thông tin có bất kỳ tàu nào bị hư hại."
+            },
+            {
+                "model": "qwen/qwen-2.5-72b-instruct",
+                "vote": "NEI",
+                "quote": "Hải quân Ukraine đã sử dụng USV để tập kích các tàu chiến của Nga ngoài khơi Syria, buộc Moskva phải chuyển lực lượng về Novorossiysk."
+            },
+            {
+                "model": "mistralai/mistral-small-24b-instruct-2501",
+                "vote": "SUPPORTED",
+                "quote": "Ukraine tuyên bố lần đầu tiên xuồng không người lái tấn công và vô hiệu hóa tàu ngầm Nga neo đậu tại căn cứ hải quân ở Biển Đen, song Nga phủ nhận mọi thiệt hại. Theo Cơ quan An ninh Ukraine (SBU) ngày 15-12, xuồng không người lái Sub Sea Baby của nước này đã đánh trúng tàu ngầm Nga tại cảng Novorossiysk."
+            }
+        ]
+    },
+    {
+        "claim": "Hà Nội dự kiến quy gom 68 tòa nhà hiện tại thành 24 tòa cao tầng, trong đó có tòa nhà cao nhất 50 tầng sau cải tạo.",
+        "seed_context": "Dự kiến sau cải tạo, từ 68 tòa nhà hiện tại sẽ được quy gom lại còn 24 tòa cao tầng, trong đó cao nhất là 40 tầng. Tổng diện tích tái định cư dự kiến gần 520.000 m2, tương đương chỉ tiêu sử dụng căn hộ 29 m2/người, phù hợp với chỉ tiêu của Chương trình phát triển nhà ở của thành phố giai đoạn 2021-2030. Hà Nội hiện có hơn 1.500 nhà chung cư cũ, trong đó có gần 1.300 nhà thuộc 76 khu chung cư và 306 chung cư độc lập được xây dựng từ những năm 1960-1994. Từ năm 2005, thành phố bắt đầu cải tạo các khu chung cư cũ, nhưng đến nay mới có 19 dự án hoàn thành và 14 dự án đang triển khai. Giai đoạn 2021-2025, Hà Nội dự định cải tạo 10 khu chung cư cũ, bao gồm 4 khu nhà cấp D (nguy cơ sụp đổ) và 6 khu có tính khả thi cao. Tuy nhiên, đến nay chưa có khu nào được cải tạo. Thành phố đặt mục tiêu khởi công 1-2 khu chung cư cũ trong năm 2025.",
+        "final_label": "REFUTED",
+        "status": "LOW_CONFIDENCE",
+        "qc_tag": "TYPE_C",
+        "consensus_score": "1/3",
+        "evidence": [
+            {
+                "text": "UBND TP Hà Nội vừa thống nhất cho quận Ba Đình nghiên cứu phương án nâng chiều cao tối đa lên 40 tầng đối vớikhu chung cư cũ Thành Côngkhi cải tạo, xây dựng lại. Khu chung cư Thành Công hiện có 68 tòa nhà cao từ 2-5 tầng, được xây dựng từ năm 1979-1982, với tổng số dân khoảng 13. 400. Trong đó, có một chung cư thuộc diện nguy hiểm cấp độ D (nguy hiểm, cần di chuyển cư dân) là nhà G6A, 6 chung cư nguy hiểm cấp C (nguy hiểm, hư hại nặng) và 14 công trình nguy hiểm cấp B (có cấu kiện nguy hiểm). Một chung cư mới là chung cư C1 với 18 tầng đã được đưa vào sử dụng năm 2018. Trong khu vực còn có hơn 500 hộ dân sinh sống trong các công trình nhà ở riêng lẻ (nhà ở tập thể chia lô và nhà ở liền kề khác). Ghi nhận cho thấy, phần lớn các căn hộ trong khu tập thể đã xuống cấp. Hầu hết hộ dân cơi nới để tăng diện tích ở khiến mặt ngoài khu nhà bị biến dạng, nhiều bức tường, nền nhà bị bong tróc, nứt vỡ. Do công trình đã được xây lâu năm nên nhiều căn hộ thường xuyên ẩm mốc, thấm dột khi mưa.",
+                "source": "laodong"
+            },
+            {
+                "text": "UBND TP Hà Nội vừa thống nhất cho quận Ba Đình nghiên cứu phương án nâng chiều cao tối đa lên 40 tầng đối vớikhu chung cư cũ Thành Côngkhi cải tạo, xây dựng lại. Khu chung cư Thành Công hiện có 68 tòa nhà cao từ 2-5 tầng, được xây dựng từ năm 1979-1982, với tổng số dân khoảng 13. 400. Trong đó, có một chung cư thuộc diện nguy hiểm cấp độ D (nguy hiểm, cần di chuyển cư dân) là nhà G6A, 6 chung cư nguy hiểm cấp C (nguy hiểm, hư hại nặng) và 14 công trình nguy hiểm cấp B (có cấu kiện nguy hiểm). Một chung cư mới là chung cư C1 với 18 tầng đã được đưa vào sử dụng năm 2018. Trong khu vực còn có hơn 500 hộ dân sinh sống trong các công trình nhà ở riêng lẻ (nhà ở tập thể chia lô và nhà ở liền kề khác). Ghi nhận cho thấy, phần lớn các căn hộ trong khu tập thể đã xuống cấp. Hầu hết hộ dân cơi nới để tăng diện tích ở khiến mặt ngoài khu nhà bị biến dạng, nhiều bức tường, nền nhà bị bong tróc, nứt vỡ. Do công trình đã được xây lâu năm nên nhiều căn hộ thường xuyên ẩm mốc, thấm dột khi mưa.",
+                "source": "laodong"
+            },
+            {
+                "text": "\"Cải tạo chung cư cũ lần này đang được người dân quan tâm, đó là đã giải quyết tái định cư tại chỗ, tăng hệ số đền bù lên 1,5 - 2 lần so với diện tích nhà cũ, gia tăng hạ tầng thương mại. Trong quy hoạch cũng cho phép xây tòa nhà cao tầng theo mô hình đô thị nén kết hợp với giao thông công cộng TOD. giao thông công cộng Biết rằng TOD là xu thế nhưng để phát triển tốt mô hình này phải kết nối giao thông liên tục và liền mạch. Ví dụ như khu vực dự kiến làm TOD nhưng thiếu hệ thống kết nối với mạng lưới đường xung quanh thì không hợp lý vì người dân không chỉ sống mãi ở khu vực TOD. Vậy nên họ phải đi ra ngoài nên cần kết nối với giao thông công cộng\", ông Nghiêm nói. Nhiều khu chung cư cũ đã đề xuất xây cao tầng Quận Đống Đa mới tổ chức lấy ý kiến về đồ án quy hoạch cải tạo chung cư cũ Kim Liên (xây dựng từ năm 1959 - 1965). Theo đề xuất sẽ xây dựng lại 42 nhà chung cư cao từ 2 - 6 tầng thành 10 tòa nhà cao 40 - 45 tầng để phục vụ tái định cư, dịch vụ thương mại. Khu chung cư cũ Trung Tự cũng được quận Đống Đa đề xuất xây dựng tòa nhà 45 tầng và 25 tầng để phục vụ tái định cư cho 30 tòa chung cư cũ.",
+                "source": "tuoitre"
+            }
+        ],
+        "voter_details": [
+            {
+                "model": "openai/gpt-4o-mini",
+                "vote": "REFUTED",
+                "quote": "UBND TP Hà Nội vừa thống nhất cho quận Ba Đình nghiên cứu phương án nâng chiều cao tối đa lên 40 tầng đối với khu chung cư cũ Thành Công khi cải tạo, xây dựng lại."
+            },
+            {
+                "model": "qwen/qwen-2.5-72b-instruct",
+                "vote": "SUPPORTED",
+                "quote": "Hà Nội dự kiến quy gom 68 tòa nhà hiện tại thành 24 tòa cao tầng, trong đó có tòa nhà cao nhất 50 tầng sau cải tạo. Khu chung cư Thành Công hiện có 68 tòa nhà cao từ 2-5 tầng, được xây dựng từ năm 1979-1982, với tổng số dân khoảng 13.400. UBND TP Hà Nội vừa thống nhất cho quận Ba Đình nghiên cứu phương án nâng chiều cao tối đa lên 40 tầng đối với khu chung cư cũ Thành Công khi cải tạo, xây dựng lại."
+            },
+            {
+                "model": "mistralai/mistral-small-24b-instruct-2501",
+                "vote": "NEI",
+                "quote": "Không có thông tin cụ thể về việc quy gom 68 tòa nhà thành 24 tòa cao tầng, trong đó có tòa nhà cao nhất 50 tầng sau cải tạo."
+            }
+        ]
+    },
+    {
+        "claim": "Sau khi cải cách tiền lương vào cuối năm 2024, mức lương giáo viên dao động từ 13 triệu đến 15 triệu đồng tùy theo cấp học và hạng giáo viên.",
+        "seed_context": "Tại phiên họp Thường vụ Quốc hội sáng 7/2, Chủ nhiệm Ủy ban Văn hóa Giáo dục Nguyễn Đắc Vinh cho biết quyết định được đưa ra do chưa đạt được đồng thuận. Một số đại biểu đề nghị đánh giá tác động trong mối tương quan chung với đội ngũ cán bộ, công chức, viên chức của hệ thống chính trị. Mặc dù vậy, lương của nhà giáo vẫn được duy trì ở mức cao nhất trong hệ thống thang bậc lương hành chính sự nghiệp. Chính sách cải thiện tiền lương cho công chức, viên chức sẽ được nghiên cứu trong quá trình xây dựng chính sách lương theo vị trí việc làm. Theo Cục Nhà giáo và Cán bộ quản lý giáo dục, lương khởi điểm của nhà giáo trẻ hiện chỉ ở mức thấp (hệ số 2,34, khoảng 6,8 triệu đồng). Tình trạng nhiều giáo viên trẻ bỏ việc (61% ở độ tuổi dưới 35) cho thấy cần thiết phải cải cách lương để giữ chân lực lượng lao động trong ngành giáo dục. Tại kỳ họp Quốc hội cuối năm 2024, một số đại biểu cho rằng việc tăng bậc cho nhà giáo mới vào nghề là không công bằng so với các ngành khác, như y tế. Sau khi cải cách tiền lương, mức lương giáo viên hiện dao động từ 3,8 triệu đến 12,2 triệu đồng tùy theo cấp học và hạng giáo viên.",
+        "final_label": "REFUTED",
+        "status": "LOW_CONFIDENCE",
+        "qc_tag": "TYPE_C",
+        "consensus_score": "1/3",
+        "evidence": [
+            {
+                "text": "Cả nước hiện có hơn 1,05 triệu giáo viên mầm non và phổ thông hưởng lương từ ngân sách Nhà nước. Mức lương dao động từ 4,9 đến 15,87 triệu đồng một tháng, tùy bậc học. Sau khi cộng các khoản phụ cấp, tổng thu nhập khoảng 6,6 đến 30 triệu đồng một tháng.",
+                "source": "dantri"
+            },
+            {
+                "text": "Thanh Hùng Bảng lương của giáo viên hiện nay được tính theo mức lương cơ sở 2,34 triệu đồng/tháng. Cụ thể, lương giáo viên được tính theo công thức: Tiền lương = Hệ số lương x Lương cơ sở. Theo Nghị định 73/2024/NĐ-CP của Chính phủ có hiệu lực từ ngày 1/7/2024, mức lương cơ sở là 2,34 triệu đồng/tháng. Tuy nhiên, do hệ số lương, hạng giáo viên ở từng bậc học khác nhau nên tiền lương cũng khác nhau tùy từng trường hợp. Như vậy, nếu chỉ tính lương cơ bản, hiện nay, ở cấp mầm non , giáo viên mầm non hạng III được áp dụng hệ số lương từ 2,1 đến 4,89; giáo viên hạng II hệ số lương từ 2,34 đến 4,98; giáo viên hạng I hệ số lương từ 4 đến 6,38. Như vậy, một giáo viên mầm non hạng III, bậc 1 với hệ số lương 2,1 sẽ có lương cơ bản thấp nhất ở cấp mầm non là 4,914 triệu đồng/tháng. Đây cũng là mức lương thấp nhất đối với một giáo viên trong hệ thống giáo dục công lập. Giáo viên mầm non hạng II, hệ số lương từ 2,34 đến 4,98 sẽ có lương cơ bản cao nhất là 11,653 triệu đồng/tháng. Giáo viên mầm non hạng I, hệ số lương từ 4 đến 6,38, sẽ có lương cơ bản cao nhất là 14,929 triệu đồng/tháng - đây là mức lương cao nhất đối với giáo viên khối mầm non.",
+                "source": "vietnamnet"
+            },
+            {
+                "text": "Theo số liệu báo cáo của các địa phương, số giáo viên tuyển dụng trong năm học 2023 - 2024 là 19. 474 người. Trong đó, giáo viên mầm non 5. 592 người, tiểu học 7. 737 người, THCS 4. 609 người, THPT 1. 536 người. Nếu được thực hiện chính sách xếp tăng 1 bậc lương trong hệ thống thang bậc lương hành chính sự nghiệp, thì ngân sách nhà nước cần bổ sung để chi lương cho nhà giáo khoảng 22 tỉ đồng/tháng, hằng năm ngân sách cần bổ sung 264 tỉ đồng. Thời điểm đó, ông Vũ Minh Đức, Cục trưởng Cục Nhà giáo và cán bộ quản lý giáo dục (Bộ GD-ĐT), cho rằng: \"Dự thảo đưa vào nội dung đề xuất nâng 1 bậc lương đối với giáo viên mới tuyển dụng vào ngành vì theo khảo sát của chúng tôi, trong số giáo viên bỏ nghề, có tới 61% ở tuổi dưới 35 và một trong những lý do dẫn tới tình trạng này là thu nhập thấp, không đủ trang trải cho nhu cầu sinh hoạt. Trong khi người trẻ có nhiều thứ phải lo như nuôi bản thân, lo cho con cái, nhu cầu học tập nâng cao trình độ... \". Cũng theo ông Đức, lương giáo viên có thâm niên dưới 5 năm hiện nay rất thấp.",
+                "source": "vietnam"
+            }
+        ],
+        "voter_details": [
+            {
+                "model": "openai/gpt-4o-mini",
+                "vote": "REFUTED",
+                "quote": "Mức lương dao động từ 4,9 đến 15,87 triệu đồng một tháng, tùy bậc học."
+            },
+            {
+                "model": "qwen/qwen-2.5-72b-instruct",
+                "vote": "NEI",
+                "quote": "Các bằng chứng cung cấp thông tin về mức lương giáo viên hiện tại và các đề xuất cải cách, nhưng không có thông tin cụ thể về mức lương sau cải cách vào cuối năm 2024."
+            },
+            {
+                "model": "mistralai/mistral-small-24b-instruct-2501",
+                "vote": "SUPPORTED",
+                "quote": "Sau khi cải cách tiền lương vào cuối năm 2024, mức lương giáo viên dao động từ 13 triệu đến 15 triệu đồng tùy theo cấp học và hạng giáo viên."
+            }
+        ]
+    },
+    {
+        "claim": "Tài khoản Telegram Sonyashnik, do các binh sĩ không quân Ukraine vận hành, thừa nhận máy bay F-16 đã bị tên lửa Nga khóa mục tiêu và phi công không tránh né được quả đạn.",
+        "seed_context": "Sonyashnik, tài khoản Telegram do các binh sĩ không quân Ukraine vận hành, thừa nhận máy bay F-16 đã bị tên lửa Nga khóa mục tiêu nhưng phi công tránh né được quả đạn.",
+        "final_label": "REFUTED",
+        "status": "LOW_CONFIDENCE",
+        "qc_tag": "TYPE_C",
+        "consensus_score": "1/3",
+        "evidence": [
+            {
+                "text": "Gần đây, Bỉ thông báo sẽ không thể chuyển F-16 cho Ukraine trong năm nay, do nước này bị chậm nhận tiêm kích F-35 thay thế. Ban đầu, Bỉ chỉ giới hạn vào việc tham gia đào tạo và hỗ trợ hậu cần cho F-16, nhưng sau đó đã quyết định chuyển giao 30 chiếc F-16 cho Ukraine. Bỉ có kế hoạch hoàn tất chuyển giao F-16 cho Ukraine vào năm 2028 và gắn điều này với chương trình thay thế các chiến đấu cơ cũ bằng F-35. Song hiện tại, Bỉ sẽ hoãn chuyển F-16 cho Ukraine thêm ít nhất một năm nữa. Trong khi đó, Na Uy cũng đã hứa cung cấp từ 6 – 22 chiếc F-16 cho Ukraine. Kể từ khi xung đột với Nga bùng nổ vào tháng 2/2022, Kiev đã đề nghị các nước hỗ trợ F-16. Được biết, những chiếc tiêm kích đầu tiên loại này đã đến Ukraine vào tháng 8/2024. Trong năm 2024, Ukraine tiếp nhận 18 chiếc F-16. F-16 được sử dụng cả trong hoạt động tấn công và phòng thủ. Chiến đấu cơ này đã được Ukraine dùng để đánh chặn tên lửa và máy bay không người lái (UAV) của Nga. Chúng cũng có thể được triển khai để phóng tên lửa và ném bom vào các vị trí của đối phương dọc theo tiền tuyến.",
+                "source": "vietnamnet"
+            },
+            {
+                "text": "Không quân Ukraine ngày 7. 6 tuyên bố đã bắn hạ một chiến đấu cơ Su-35 tại vùng Kursk của Nga. Nhưng đây chưa phải thông tin đặc biệt nhất. Theo báo của Đức, đây được xem là lần đầu tiên một của Ukraine bắn cháy máy bay Nga. Hơn nữa, theo , được có thể là chiến tích đầu tiên đến từ sự phối hợp giữa F-16 với máy bay trinh sát tầm xa Saab 340 do Thụy Điển cung cấp. Không quân Ukraine không cung cấp thêm chi tiết trong thông báo ngày 7. 6. Nga cũng chưa có bình luận gì về thông tin này. Tuy nhiên, nếu thông tin từ báo được xác nhận, vụ này đánh dấu một cấp độ mới trong năng lực của không quân Ukraine. Theo báo , vào ngày 7. 6, máy bay của không quân Ukraine đã công kích các vị trí của Nga ở (đông bắc Ukraine) và ở vùng Kursk gần đó của Nga. Tờ nói Nga đã điều một chiến đấu cơ thế hệ 4 Su-35 đến để bắn hạ các máy bay phản lực của Ukraine, nhưng phi công Nga đã “bay vào bẫy phục kích”. Ukraine đã triển khai một máy bay trinh sát-cảnh báo sớm Saab 340 do Thụy Điển sản xuất để kín đáo theo dõi máy bay Nga từ khoảng cách hàng trăm km.",
+                "source": "thanhnien"
+            },
+            {
+                "text": "Truyền thông Nga đưa tin một chiếc tiêm kích F-16 do NATO cung cấp cho Ukraine đã bị bắn hạ trong lúc cố gắng phóng tên lửa vào vùng Zaporizhzhia. Đài RT (Nga) đã dẫn lại thông tin nói trên từ tiền tuyến, do ông Vladimir Rogov, đồng chủ tịch Hội đồng điều phối sáp nhập các vùng mới của Nga, báo cáo trong ngày 26-12. \"Chiếc máy bay F-16 đã vào vị trí chuẩn bị tấn công tên lửa vào vùng này thì máy bay bị bắn hạ\" - ông Rogov viết trên Telegram về vụ lực lượng phòng không Nga bắn hạ tiêm kích F-16 ở vùng Zaporizhzhia, đông nam Ukraine. Tiêm kích F-16 - do Tập đoàn Lockheed Martin chế tạo - là một trong những khí tài nổi bật nhất mà phương Tây cam kết cung cấp cho Ukraine. Máy bay F-16 nằm trong danh sách mong muốn từ lâu của Ukraine vì sức mạnh hủy diệt. Máy bay này được trang bị pháo 20mm và có thể mang bom, tên lửa và rocket. Hiện Ukraine chưa lên tiếng về thông tin nói trên của Nga. Zaporizhzhia là một trong những vùng của Ukraine mà Nga đã thông báo sáp nhập bất chấp sự phản đối của Kiev. Một số thành viên Tổ chức Hiệp ước Bắc Đại Tây Dương (NATO) đã chuyển số lượng nhỏ tiêm kích F-16 do Mỹ sản xuất cho Ukraine hồi tháng 7.",
+                "source": "tuoitre"
+            }
+        ],
+        "voter_details": [
+            {
+                "model": "openai/gpt-4o-mini",
+                "vote": "REFUTED",
+                "quote": "Truyền thông Nga đưa tin một chiếc tiêm kích F-16 do NATO cung cấp cho Ukraine đã bị bắn hạ trong lúc cố gắng phóng tên lửa vào vùng Zaporizhzhia."
+            },
+            {
+                "model": "qwen/qwen-2.5-72b-instruct",
+                "vote": "NEI",
+                "quote": "Ukraine chưa lên tiếng về thông tin nói trên của Nga."
+            },
+            {
+                "model": "mistralai/mistral-small-24b-instruct-2501",
+                "vote": "SUPPORTED",
+                "quote": "Truyền thông Nga đưa tin một chiếc tiêm kích F-16 do NATO cung cấp cho Ukraine đã bị bắn hạ trong lúc cố gắng phóng tên lửa vào vùng Zaporizhzhia."
+            }
+        ]
+    },
+    {
+        "claim": "Tại Đài Loan, nhóm dân số trẻ được gọi là \"nô lệ nhà ở\" vì phải lao động cật lực hàng chục năm và chi tiêu dè sẻn để sở hữu nhà.",
+        "seed_context": "Ở Đài Loan có nhóm dân số trẻ được gọi là \"nô lệ nhà ở\" vì sẽ phải lao động cật lực hàng chục năm và chi tiêu dè sẻn mới có thể sở hữu một căn nhà theo nhu cầu. Ngoài ra, quy định liên quan tới diện tích ở tối thiểu cho hộ gia đình nếu sinh thêm con sẽ phát sinh khoản phải mua nhà rộng hơn mà giá chênh lệch quá lớn khiến nhiều gia đình không thể chi trả. Bình đẳng giới trên thị trường lao động đã cải thiện nên quyền năng và vai trò trong kinh tế của phụ nữ trong gia đình cũng lớn hơn. Điều này dẫn tới quyết định sinh sản phụ thuộc vào phụ nữ chứ không phải hoàn toàn do nam giới hay gia đình như trước. Phụ nữ phải cân đối sự nghiệp, công việc, học hành với việc gia đình, trong đó có nuôi, dạy con cái nên họ gặp nhiều áp lực. Chưa kể vẫn tồn tại sự khác biệt giới với số giờ làm việc nhà hàng tháng và chăm sóc không được trả công của phụ nữ cao hơn rất nhiều so với nam giới. Những điều này khiến phụ nữ thấy mất nhiều cơ hội trong công việc. \"Nâng thời gian thai sản là hợp lý nhưng chưa đủ, cần chính sách tổng thể trong tất cả lĩnh vực để thay đổi mức sinh, bởi yếu tố tác động là điều kiện kinh tế, xã hội, văn hóa truyền thống\", GS Long nói.",
+        "final_label": "REFUTED",
+        "status": "LOW_CONFIDENCE",
+        "qc_tag": "TYPE_C",
+        "consensus_score": "1/3",
+        "evidence": [
+            {
+                "text": "Tiếp tục chương trình kỳ họp thứ 9, Quốc hội khóa XV, sáng 24. 5, các đại biểu thảo luận tại hội trường về Dự thảo Nghị quyết của Quốc hội về thí điểm một số cơ chế, chính sách đặc thù phát triển nhà ở xã hội được\nTrước khi phát biểu, đóng góp ý kiến cho dự thảo, Đại biểu Quốc hội Nguyễn Hoàng Bảo Trân (Đoàn Bình Dương) đã xin Quốc hội 2 phút để truyền tải những lời gửi gắm của người lao động tới hội trường Diên Hồng. Theo bà, hàng triệu người lao động thu nhập thấp là những người đang ngày đêm làm việc trong các khu công nghiệp, khu chế xuất lớn của cả nước. Họ với suy nghĩ rất đơn giản là sống, làm việc, có gia đình và có một mái nhà nhỏ để an cư, yên tâm làm việc, nuôi dạy con cái và phụng dưỡng cha mẹ. Thế nhưng thực tế, với mức thu nhập trên dưới 10 triệu đồng mỗi tháng, người lao động phải lo toan, vật lộn với đủ mọi khó khăn từ tiền ăn, tiền học cho con, tiền thuê nhà và các chi phí sinh hoạt… Vì vậy, được tiếp cận một căn nhà hay nhà ở xã hội, là một điều ngoài tầm với.",
+                "source": "laodong"
+            },
+            {
+                "text": "Đừng để những khu nhà ở xã hội bị bỏ hoang, xuống cấp với sự tiếc rẻ và khát khao của biết bao người lao động, đừng để giấc mơ có nhà của người lao động mãi mãi chỉ là giấc mơ xa vời\". Nỗ lực nhưng giá nhà ở xã hội hiện nay còn cao so với thu nhập của người lao động Đại biểu Đinh Ngọc Minh (Cà Mau) đánh giá cao việc cắt giảm nhiều thủ tục hành chính cơ bản trong dự thảo nghị quyết. Ông cho rằng việc này không ảnh hưởng đến quản lý nhà nước, mà sẽ góp phần giảm chi phí cho chủ đầu tư. Nhà ở xã hội có 2 loại là cho thuê và ở lâu dài, song theo đại biểu Minh, xu thế của xã hội phát triển là cho thuê phổ biến hơn. Ví dụ, họ có nhà chỗ khác nhưng muốn thuê nhà ở xã hội gần nơi làm việc để giảm thời gian đi làm và chi phí lao động. Với nguồn cung nhà ở xã hội hạn chế như hiện nay, đại biểu đề xuất người có đất đang được quy hoạch là đất xây dựng kinh doanh được đầu tư nhà ở xã hội cho thuê. \"Như vậy sẽ bổ sung nhanh được nguồn này và đáp ứng nhu cầu nhà ở xã hội còn thiếu\", theo quan điểm của đại biểu.",
+                "source": "tuoitre"
+            },
+            {
+                "text": "Tổng liên đoàn Lao động Việt Nam khảo sát 3. 000 lao động tại 10 tỉnh thành, cho kết quả 73% lao động còn độc thân đắn đo lập gia đình, sinh con vì tiền lương, thu nhập khó trang trải cuộc sống. Khảo sát mới nhất của Tổng liên đoàn Lao động Việt Nam thực hiện trong tháng 3 và tháng 4-2025 với gần 3. 000 người tại 10 tỉnh thành cho thấy nhiều căn cứ để sớm điều chỉnh lương tối thiểu vùng . lương tối thiểu vùng Nhiều người sống kham khổ vì lương thấp Kết quả gần 55% lao động chia sẻ tiền lương, thu nhập vừa đủ chi tiêu cơ bản của gia đình, hơn 26% khác phải tằn tiện, chi tiêu kham khổ, trong khi 8% không đủ sống, phải tìm việc làm thêm. Thu nhập chưa đáp ứng được chi tiêu khiến họ phải \"thắt lưng buộc bụng\", vay mượn chi trả cho các nhu cầu phát sinh đột xuất. Thu nhập Khảo sát cho hay 12,5% lao động thường xuyên phải vay mượn tiền ổn định cuộc sống, trong khi gần 30% khác là thỉnh thoảng (3-4 tháng/lần). Về lập gia đình, gần 73% lao động độc thân cho biết tiền lương là nguyên nhân chính ảnh hưởng đến quyết định lập gia đình.",
+                "source": "tuoitre"
+            }
+        ],
+        "voter_details": [
+            {
+                "model": "openai/gpt-4o-mini",
+                "vote": "SUPPORT",
+                "quote": "73% lao động còn độc thân đắn đo lập gia đình, sinh con vì tiền lương, thu nhập khó trang trải cuộc sống."
+            },
+            {
+                "model": "qwen/qwen-2.5-72b-instruct",
+                "vote": "SUPPORTED",
+                "quote": "Theo bà, hàng triệu người lao động thu nhập thấp là những người đang ngày đêm làm việc trong các khu công nghiệp, khu chế xuất lớn của cả nước. Họ với suy nghĩ rất đơn giản là sống, làm việc, có gia đình và có một mái nhà nhỏ để an cư, yên tâm làm việc, nuôi dạy con cái và phụng dưỡng cha mẹ. Thế nhưng thực tế, với mức thu nhập trên dưới 10 triệu đồng mỗi tháng, người lao động phải lo toan, vật lộn với đủ mọi khó khăn từ tiền ăn, tiền học cho con, tiền thuê nhà và các chi phí sinh hoạt… Vì vậy, được tiếp cận một căn nhà hay nhà ở xã hội, là một điều ngoài tầm với."
+            },
+            {
+                "model": "mistralai/mistral-small-24b-instruct-2501",
+                "vote": "NEI",
+                "quote": "Các bằng chứng không liên quan đến tình trạng của dân số trẻ tại Đài Loan, không cung cấp thông tin về việc họ phải lao động cật lực hàng chục năm và chi tiêu dè sẻn để sở hữu nhà."
+            }
+        ]
+    },
+    {
+        "claim": "Chính phủ đã ban hành quy định về việc tăng mức trợ cấp hưu trí xã hội cho người từ đủ 75 tuổi lên 700.000 đồng mỗi tháng trên toàn quốc.",
+        "seed_context": "Quy định hiện hành người từ đủ 75 tuổi không lương hưu, không trợ cấp BHXH thì được trợ cấp hưu trí xã hội mức 500.000 đồng mỗi tháng, song Chính phủ cho phép địa phương cân đối ngân sách để hỗ trợ thêm. Tại Hà Nội, từ 1/1/2026, người đủ 75 tuổi sẽ nhận trợ cấp 650.000 đồng mỗi tháng, cao hơn so với mức chung cả nước theo Nghị quyết HĐND TP Hà Nội hồi cuối tháng 11. Năm 2024, tuổi thọ bình quân của cả nước là 74,7, trong đó nam giới 72,3, nữ giới 77,3, theo Tổng cục Thống kê. Lương hưu bình quân người Việt đạt gần 7 triệu đồng mỗi tháng, tính cả lực lượng vũ trang; nếu tách riêng dân sự thì tiền hưởng thấp hơn, đạt khoảng 6,2 triệu đồng, tăng chủ yếu do Nhà nước điều chỉnh. Cả nước có gần 3,4 triệu người hưởng các chế độ hưu trí và trợ cấp BHXH hàng tháng. Tỷ lệ hưởng lương hưu của người Việt thuộc nhóm cao nhất Đông Nam Á, tối đa 75% mức bình quân tiền lương tháng đóng BHXH. Song mức hưởng lương hưu của người Việt thuộc nhóm trung bình do tiền đóng bảo hiểm chưa cao, chủ yếu tăng do điều chỉnh lương cơ sở và lương tối thiểu.",
+        "final_label": "REFUTED",
+        "status": "LOW_CONFIDENCE",
+        "qc_tag": "TYPE_C",
+        "consensus_score": "1/3",
+        "evidence": [
+            {
+                "text": "Hiện nay, chính sách hỗ trợ người cao tuổi được thực hiện theo Nghị định số 20/2021/NĐ-CP; sửa đổi, bổ sung bởi Nghị định số 76/2024/NĐ-CP. Từ ngày 1. 7, Luật Bảo hiểm xã hội năm 2024 có hiệu lực, bổ sung thêm trợ cấp hưu trí xã hội dành cho người cao tuổi. Chính phủ đã có dự thảo Nghị định quy định chi tiết và hướng dẫn thi hành một số điều của Luật Bảo hiểm xã hội năm 2024 về trợ cấp hưu trí xã hội. Theo dự thảo, có 2 nhóm người cao tuổi được hưởngtrợ cấp hưu trí xã hội. Thứ nhất là nhóm từ đủ 75 tuổi trở lên; không hưởng lương hưu hoặc trợ cấp bảo hiểm xã hội hằng tháng. Thứ hai là nhóm từ đủ 70 tuổi đến dưới 75 tuổi thuộc hộ nghèo, hộ cận nghèo; không hưởng lương hưu hoặc trợ cấp bảo hiểm xã hội hằng tháng. Như vậy, từ ngày 1.",
+                "source": "laodong"
+            },
+            {
+                "text": "Từ ngày 1-7, người từ 75 tuổi không có lương hưu sẽ được hưởng trợ cấp hưu trí xã hội, hạ xuống 5 tuổi so với hiện hành. Gửi Tuổi Trẻ Online , bạn đọc Trần Văn Hạnh cho biết có cụ bà 79 tuổi, không có lương hưu và các trợ cấp xã hội khác ở Hải Phòng nhưng hiện vẫn chưa được lĩnh trợ cấp hưu trí xã hội, việc này có đúng luật hay không? trợ cấp Các trường hợp được trợ cấp cho người già từ ngày 1-7 Bạn đọc tên Tám (quận 11, TP.HCM) tâm tư tiền người già mỗi tháng không nhiều nên các cụ đều mong tăng mức này. Ngoài ra, nhiều người không đi làm, không có con cháu, mong hưởng trợ cấp từ nhà nước. Trong khi đó, độc giả Chu Hương viết: \"Má tôi lĩnh tiền bảo trợ cho người già (84 tuổi) hằng tháng được 480. 000 đồng. Tôi hy vọng nhà nước sẽ tăng hỗ trợ cho những người lớn tuổi\". Theo Bảo hiểm xã hội khu vực I, Luật Bảo hiểm xã hội 2024 (hiệu lực từ ngày 1-7) quy định trợ cấp hưu trí xã hội là loại hình bảo hiểm xã hội từ ngân sách nhà nước. Bảo hiểm xã hội Cụ thể, công dân Việt Nam đủ 75 tuổi trở lên (giảm 5 tuổi so với hiện nay), không hưởng lương hưu hoặc trợ cấp bảo hiểm xã hội hằng tháng sẽ được hưởng trợ cấp hưu trí xã hội.",
+                "source": "tuoitre"
+            },
+            {
+                "text": "lương hưu Người đủ 70 tuổi đến dưới 75 tuổi thuộc hộ nghèo, hộ cận nghèo và đáp ứng các điều kiện theo quy định cũng được hưởng trợ cấp hưu trí xã hội. Mức thấp nhất bằng mức trợ cấp hưu trí xã hội hằng tháng, tức 500. 000 đồng/tháng. Quyền lợi bổ sung là bảo hiểm y tế miễn phí và hỗ trợ mai táng phí. bảo hiểm y tế Định kỳ 3 năm, Chính phủ sẽ rà soát, xem xét điều chỉnh mức trợ cấp. Các địa phương sẽ quyết định hỗ trợ thêm cho người hưởng tùy điều kiện kinh tế - xã hội. Hàng triệu người không có lương hưu, trợ cấp Theo báo cáo của Bộ Nội vụ (trước là Bộ Lao động - Thương binh và Xã hội), kinh phí trợ cấp xã hội cho hơn 3,8 triệu người (khoảng 3,8% dân số) khoảng 32. 000 tỉ đồng/năm. Đến cuối năm 2022, có khoảng 14,4 triệu người sau độ tuổi nghỉ hưu (55 tuổi trở lên đối với nữ, và 60 tuổi trở lên đối với nam). nghỉ hưu Nhưng thống kê của Bảo hiểm xã hội Việt Nam cho thấy hết tháng 3-2025, cả nước chỉ có hơn 3,3 triệu người đang hưởng lương hưu, trợ cấp bảo hiểm xã hội hằng tháng, trong đó khoảng 2,7 triệu người hưởng lương hưu.",
+                "source": "tuoitre"
+            }
+        ],
+        "voter_details": [
+            {
+                "model": "openai/gpt-4o-mini",
+                "vote": "NEI",
+                "quote": "Chính phủ đã có dự thảo Nghị định quy định chi tiết và hướng dẫn thi hành một số điều của Luật Bảo hiểm xã hội năm 2024 về trợ cấp hưu trí xã hội."
+            },
+            {
+                "model": "qwen/qwen-2.5-72b-instruct",
+                "vote": "SUPPORTED",
+                "quote": "Theo dự thảo, có 2 nhóm người cao tuổi được hưởng trợ cấp hưu trí xã hội. Thứ nhất là nhóm từ đủ 75 tuổi trở lên; không hưởng lương hưu hoặc trợ cấp bảo hiểm xã hội hằng tháng. Thứ hai là nhóm từ đủ 70 tuổi đến dưới 75 tuổi thuộc hộ nghèo, hộ cận nghèo; không hưởng lương hưu hoặc trợ cấp bảo hiểm xã hội hằng tháng. ... Mức thấp nhất bằng mức trợ cấp hưu trí xã hội hằng tháng, tức 500.000 đồng/tháng."
+            },
+            {
+                "model": "mistralai/mistral-small-24b-instruct-2501",
+                "vote": "REFUTED",
+                "quote": "Mức thấp nhất bằng mức trợ cấp hưu trí xã hội hằng tháng, tức 500.000 đồng/tháng."
+            }
+        ]
+    },
+    {
+        "claim": "Từ năm 2025, ngành y tế sẽ tổ chức khám sức khỏe miễn phí cho học sinh, sinh viên, người lao động, khám bệnh nghề nghiệp và khám bệnh theo bảo hiểm y tế.",
+        "seed_context": "Ngân sách chi trả một số bệnh mạn tính Ngân sách nhà nước được ưu tiên, tăng chi hằng năm cho chăm sóc sức khỏe nhân dân, trong đó có khám sức khỏe định kỳ miễn phí. Từ 2026, ngành y tế tổ chức khám sức khỏe miễn phí cho học sinh, sinh viên, người lao động, khám bệnh nghề nghiệp, khám bệnh theo bảo hiểm y tế; hỗ trợ chi phí vận chuyển cấp cứu ngoại viện cho một số nhóm chính sách xã hội. Chính sách miễn viện phí sẽ được thực hiện từng bước, trước hết cho nhóm chính sách xã hội, người yếu thế, thu nhập thấp và diện cần ưu tiên trong phạm vi bảo hiểm y tế. Từ 2026, tỷ lệ, mức thanh toán cho phòng bệnh, chẩn đoán, điều trị sớm một số bệnh sẽ từng bước tăng lên. Ngân sách nhà nước và quỹ bảo hiểm y tế sẽ chi trả cho một số dịch vụ phòng bệnh, quản lý bệnh mạn tính, khám sức khỏe định kỳ, sàng lọc theo yêu cầu. Quỹ bảo hiểm y tế được nâng cao hiệu quả quản lý, sử dụng bền vững, tăng chi cho khám chữa bệnh. Các gói bảo hiểm y tế được đa dạng hóa. Y tế tư nhân được đẩy mạnh phát triển, Nhà nước khuyến khích xây dựng bệnh viện tư quy mô lớn, kỹ thuật chuyên sâu ngang tầm các nước phát triển.",
+        "final_label": "REFUTED",
+        "status": "LOW_CONFIDENCE",
+        "qc_tag": "TYPE_C",
+        "consensus_score": "1/3",
+        "evidence": [
+            {
+                "text": "Trừ số lao động đang làm việc ở các cơ quan nhà nước và doanh nghiệp phải mua bảo hiểm y tế bắt buộc, số còn lại phần lớn là cán bộ hưu trí, người cao tuổi, đồng bào dân tộc thiểu số, các đối tượng xã hội được ngân sách nhà nước hỗ trợ và một phần rất nhỏ người tham gia bảo hiểm y tế tự nguyện. Nhiều người trong số họ khi chữa bệnh phải thực hiện đồng chi trả. ngân sách nhà nước Vì vậy muốn người dân được miễn viện phí cơ bản, cần tiếp tục nâng tỉ lệ bao phủ bảo hiểm y tế lên 100% dân số. Nghị quyết nêu rõ đến năm 2026 tỉ lệ bao phủ BHYT đạt trên 95% dân số, đến năm 2030 đạt bao phủ bảo hiểm y tế toàn dân; phát triển các loại hình bảo hiểm sức khỏe. Đồng thời từ năm 2026 từng bước thực hiện tăng tỉ lệ, mức thanh toán, chi cho phòng bệnh, chẩn đoán, điều trị sớm một số bệnh và đối tượng ưu tiên theo lộ trình từ Quỹ bảo hiểm y tế để giảm gánh nặng tài chính cho người bệnh, phù hợp với việc tăng mức đóng bảo hiểm y tế theo quy định của pháp luật từ năm 2027. Ngân sách nhà nước và Quỹ bảo hiểm y tế chi trả cho một số dịch vụ phòng bệnh, quản lý bệnh mạn tính, khám sức khỏe định kỳ và khám sàng lọc theo yêu cầu chuyên môn tại cấp khám chữa bệnh ban đầu, cơ bản theo lộ trình phù hợp.",
+                "source": "tuoitre"
+            },
+            {
+                "text": "Nghị quyết 72 của Bộ Chính trị cũng nêu rõ, triển khai khám sức định kỳ hoặc khám sàng lọc miễn phí cho người dân ít nhất mỗi năm 1 lần theo nhóm đối tượng và lộ trình ưu tiên. Từ năm 2026, tổ chức phối hợp giữa các hoạt động khám sức định kỳ, khám sàng lọc miễn phí, kiểm tra sức của học sinh, sinh viên, khám bệnh nghề nghiệp, khám sức cho người lao động theo quy định và khám bệnh, chữa bệnh BHYT để khám bệnh miễn phí và hoàn thành việc tạo lập sổ sức điện tử cho toàn bộ người dân. Có chính sách hỗ trợ phù hợp đối với chi phí vận chuyển cấp cứu ngoại viện cho một số đối tượng chính sách xã hội. Từng bước thực hiện chính sách miễn viện phí, trước hết là đối với đối tượng chính sách xã hội, người yếu thế, người có thu nhập thấp và một số đối tượng cần ưu tiên khác trong phạm vi quyền lợi theo lộ trình. Cũng từ năm 2026, từng bước thực hiện tăng , mức thanh toán, chi cho phòng bệnh, chẩn đoán, điều trị sớm một số bệnh và đối tượng ưu tiên theo lộ trình từ quỹ BHYT để giảm gánh nặng tài chính cho người bệnh, phù hợp với việc tăng mức đóng BHYT theo quy định của pháp luật từ năm 2027.",
+                "source": "thanhnien"
+            },
+            {
+                "text": "Bên cạnh đó, ngân sách nhà nước sẽ tăng hỗ trợ mua thẻ bảo hiểm y tế để phấn đấu 100% dân số có bảo hiểm y tế; mở rộng phạm vi quyền lợi bảo hiểm y tế và từng bước chi trả cho dịch vụ dự phòng, khám sàng lọc, chẩn đoán sớm và điều trị bệnh ở giai đoạn sớm.\n\nTừng bước giảm tỷ lệ chi trả của người dân trong tổng chi tiêu cho sử dụng dịch vụ y tế xuống dưới 20%, tỷ lệ chi trả chi phí khám bệnh, chữa bệnh bảo hiểm y tế xuống dưới 10%.\n\nTầm nhìn đến năm 2045, ông Thuấn cho biết, hệ thống y tế sẽ đáp ứng đầy đủ, kịp thời yêu cầu về chăm sóc, bảo vệ và nâng cao sức khỏe của người dân, giảm gánh nặng chi phí y tế; thực hiện chủ trương người dân không phải chi trả thêm chi phí khi khám bệnh, chữa bệnh bảo hiểm y tế góp phần đưa nước ta thuộc nhóm quốc gia hàng đầu thế giới về bảo đảm an sinh xã hội trong y tế.",
+                "source": "dantri"
+            }
+        ],
+        "voter_details": [
+            {
+                "model": "openai/gpt-4o-mini",
+                "vote": "NEI",
+                "quote": "Nghị quyết 72 của Bộ Chính trị cũng nêu rõ, triển khai khám sức định kỳ hoặc khám sàng lọc miễn phí cho người dân ít nhất mỗi năm 1 lần theo nhóm đối tượng và lộ trình ưu tiên."
+            },
+            {
+                "model": "qwen/qwen-2.5-72b-instruct",
+                "vote": "SUPPORTED",
+                "quote": "Từ năm 2026, tổ chức phối hợp giữa các hoạt động khám sức định kỳ, khám sàng lọc miễn phí, kiểm tra sức của học sinh, sinh viên, khám bệnh nghề nghiệp, khám sức cho người lao động theo quy định và khám bệnh, chữa bệnh BHYT để khám bệnh miễn phí và hoàn thành việc tạo lập sổ sức điện tử cho toàn bộ người dân."
+            },
+            {
+                "model": "mistralai/mistral-small-24b-instruct-2501",
+                "vote": "REFUTED",
+                "quote": "từ năm 2026, tổ chức phối hợp giữa các hoạt động khám sức định kỳ, khám sàng lọc miễn phí, kiểm tra sức của học sinh, sinh viên, khám bệnh nghề nghiệp, khám sức cho người lao động theo quy định và khám bệnh, chữa bệnh BHYT để khám bệnh miễn phí"
+            }
+        ]
+    },
+    {
+        "claim": "Đại biểu Tao Văn Giót, Phó bí thư Tỉnh đoàn Lai Châu, đề nghị nâng mức phạt tù từ 10 năm đến chung thân đối với hành vi sản xuất hàng giả là thực phẩm, thuốc chữa bệnh.",
+        "seed_context": "Thảo luận tổ về sửa đổi một số điều Bộ luật Hình sự, đại biểu Tao Văn Giót, Phó bí thư Tỉnh đoàn Lai Châu, đồng tình với cơ quan soạn thảo khi tăng mạnh mức phạt tiền và phạt tù với các hành vi sản xuất hàng giả là thực phẩm, thuốc chữa bệnh. Tuy nhiên, ông cho rằng mức phạt 200 triệu đồng đến 2 tỷ đồng tùy thuộc vào hành vi như dự thảo là chưa đủ sức răn đe và chưa tương xứng với mức độ nguy hiểm của loại tội phạm này. Hầu hết vụ sản xuất, buôn bán thực phẩm giả, thuốc giả đều là phạm tội có tổ chức, có kế hoạch với phạm vi ảnh hưởng trên diện rộng. \"Đây là loại tội phạm biết hậu quả nhưng vẫn cố ý làm sai, trong khi ảnh hưởng trực tiếp đến sức khỏe, mạng sống người dân. Sản xuất hàng giả không khác gì cố ý giết người\", đại biểu Giót nhấn mạnh. Ông đánh giá mức phạt 200 triệu đồng đến 2 tỷ và mức án tù 1-5 năm không thể ngăn chặn triệt để loại tội phạm này, nhiều người sẽ bất chấp phạm tội do mức lợi nhuận quá lớn và khó bị phát hiện. Vì vậy ông đề nghị nâng mức phạt cho các hành vi này lên 10 năm tù đến chung thân.",
+        "final_label": "REFUTED",
+        "status": "LOW_CONFIDENCE",
+        "qc_tag": "TYPE_C",
+        "consensus_score": "1/3",
+        "evidence": [
+            {
+                "text": "Đại biểu Phạm Khánh Phong Lan đề xuất nâng khung hình phạt cao nhất lên tử hình với hành vi sản xuất sữa giả, thực phẩm chức năng giả, thay vì chỉ chung thân như hiện nay. Sáng 27. 5, tiếp tục chương trình kỳ họp thứ 9 khóa XV, các đại biểu thảo luận tại hội trường về dự án bộ luật Hình sự sửa đổi. Dự thảo đề xuất bỏ hình phạt , thay thế bằng hình phạt chung thân không xét giảm án, đối với 8 tội danh. Những tội này gồm: tham ô tài sản (điều 353); nhận hối lộ (điều 354); vận chuyển trái phép chất (điều 250); hoạt động nhằm lật đổ chính quyền nhân dân (điều 109); gián điệp (điều 110); phá hoại cơ sở vật chất - kỹ thuật của nước Cộng hòa xã hội chủ nghĩa Việt Nam (điều 114); sản xuất, buôn bán hàng giả là thuốc chữa bệnh, thuốc phòng bệnh (điều 194); phá hoại hòa bình, gây chiến tranh xâm lược (điều 421). Cho ý kiến thảo luận, đại biểu Phạm Khánh Phong Lan (đoàn TP.HCM) ủng hộ việc bỏ hình phạt tử hình đối với 4 tội danh; với 4 tội danh còn lại (tham ô, nhận hối lộ, sản xuất thuốc giả và vận chuyển trái phép chất ma túy) thì bà rất băn khoăn.",
+                "source": "thanhnien"
+            },
+            {
+                "text": "Hành vi sản xuất, buôn bán thuốc giả đang trở thành vấn nạn nhức nhối, đe dọa trực tiếp đến sức khỏe và tính mạng người dân. Tại phiên thảo luận về dự án Luật Hình sự sửa đổi chiều 20/5, nhiều đại biểu Quốc hội đã bày tỏ sự bức xúc trước thực trạng này và đề xuất những giải pháp mạnh mẽ, trong đó có việc giữ lại hình phạt tử hình đối với tội danh này. Đại biểu Đỗ Đức Hồng Hà (Đoàn thành phố Hà Nội) nhấn mạnh sự cần thiết phải tăng cường đấu tranh với các loại tội phạm nguy hiểm, trong đó có tội phạm về an toàn thực phẩm và hàng giả. Ông cho rằng, việc sửa đổi Luật Hình sự cần tập trung vào 7 nhóm tội phạm nguy hiểm, bao gồm kinh tế, tham nhũng, buôn lậu, gian lận thương mại (an toàn thực phẩm, hàng giả), sử dụng công nghệ cao, môi trường và ma túy. \"Quan điểm của Đảng ta trong lần sửa đổi này tập trung vào 7 nhóm tội phạm nguy hiểm trên. Vì thế, Cơ quan soạn thảo cần sửa đổi các quy định để có sự phân hóa mạnh hơn, nghiêm khắc hơn với các nhóm tội phạm này,\" đại biểu Hà nêu rõ. Đồng tình với quan điểm này, nhiều đại biểu khác cũng cho rằng việc tăng mức tiền phạt gấp đôi đối với tất cả các nhóm tội phạm là chưa hợp lý, không thể hiện được sự phân hóa cần thiết giữa các loại tội phạm.",
+                "source": "vtv"
+            },
+            {
+                "text": "Ông Hòa phân tích: \"Vừa rồi có một số vụ án đề nghị tử hình như SCB, khi đưa án tử hình thì mang tiền ra để chuộc tội nên tử hình để phòng ngừa răn đe. Chủ trương của Đảng và Nhà nước phải trừng trị thích đáng, phòng ngừa răn đe cần thiết. Ta không tử hình, nhưng nếu khắc phục hậu quả tốt sẽ giảm án, như bà Trương Mỹ Lan thất thoát ngân sách là cả triệu tỉ đồng, con số không hình dung được, nếu khắc phục được nửa số tiền đã xây dựng được tuyến đường sắt cao tốc Bắc - Nam được 50% rồi\". Theo ông Hòa: \"Duy trì hình phạt tử hình để phòng ngừa, răn đe, trừng trị thích đáng đối tượng phạm tội. Tất nhiên, khi ăn năn hối cải, tích cực khắc phục hậu quả thì có thể giảm xuống chung thân, 30 năm, 20 năm…\". Không thể xuê xoa với tội phạm sản xuất, buôn bán thuốc giả, sữa giả Đại biểu Phạm Khánh Phong Lan (TP.HCM) chia sẻ bà ủng hộ việc bỏ hình phạt tử hình đối với 4/8 tội danh được đề xuất; riêng 4 tội danh tham ô, nhận hối lộ, sản xuất thuốc giả và vận chuyển trái phép chất ma túy bà rất băn khoăn. Theo bà Lan, tình hình tội phạm trong những lĩnh vực trên gây hậu quả hết sức nghiêm trọng, ngày càng phức tạp hơn.",
+                "source": "tuoitre"
+            }
+        ],
+        "voter_details": [
+            {
+                "model": "openai/gpt-4o-mini",
+                "vote": "REFUTED",
+                "quote": "Đại biểu Phạm Khánh Phong Lan đề xuất nâng khung hình phạt cao nhất lên tử hình với hành vi sản xuất sữa giả, thực phẩm chức năng giả, thay vì chỉ chung thân như hiện nay."
+            },
+            {
+                "model": "mistralai/mistral-small-24b-instruct-2501",
+                "vote": "SUPPORTED",
+                "quote": "Đại biểu Phạm Khánh Phong Lan đề xuất nâng khung hình phạt cao nhất lên tử hình với hành vi sản xuất sữa giả, thực phẩm chức năng giả, thay vì chỉ chung thân như hiện nay."
+            }
+        ]
+    },
+    {
+        "claim": "Chiếc MiG-31 của Nga rơi xuống khu dân cư ở tỉnh Lipetsk vào ngày 9/10, khiến nhiều người thương vong.",
+        "seed_context": "Tiêm kích hạng nặng MiG-31 Nga rơi khi về hạ cánh, dường như do không thả được càng đáp và buộc tổ lái phóng ghế thoát hiểm. \"Một máy bay MiG-31 bị rơi trong quá trình trở về hạ cánh sau khi hoàn thành chuyến bay huấn luyện theo kế hoạch ở tỉnh Lipetsk. Tổ lái đã phóng ghế thoát hiểm an toàn, không gặp nguy hiểm tính mạng\", Bộ Quốc phòng Nga cho biết hôm 9/10, thêm rằng phi cơ không mang vũ khí và rơi xuống khu vực không có người ở. Quân đội Nga không nêu cụ thể nguyên nhân dẫn đến sự cố, song truyền thông nước này cho biết càng đáp của máy bay đã gặp trục trặc và không thể thả bình thường. \"Kíp lái lập tức chuyển hướng để tránh xa khu dân cư và chỉ phóng ghế thoát hiểm vào phút chót. Họ bị thương nhẹ do rời máy bay muộn và đã được đưa tới bệnh viện. Chiếc MiG-31 rơi xuống rừng và bốc cháy, ngọn lửa được dập tắt ngay sau đó\", tờ Lenta cho hay. Theo giới chuyên gia, nếu tất cả càng không thả, tổ lái vẫn có thể hạ cánh bằng bụng ở sân bay. Tuy nhiên, trong trường hợp một càng chính không thả, hai càng còn lại không thể thu vào máy bay thì các phi công phải nhảy dù để bảo đảm an toàn.",
+        "final_label": "REFUTED",
+        "status": "LOW_CONFIDENCE",
+        "qc_tag": "TYPE_C",
+        "consensus_score": "1/3",
+        "evidence": [
+            {
+                "text": "Một tiêm kích Su-34 của Nga (Ảnh: SOPA).\n\nHãng thông tấn nhà nước Nga RIA Novosti ngày 1/7 dẫn nguồn Bộ Quốc phòng Nga cho biết, một máy bay tiêm kích Su-34 của Không quân Nga đã gặp nạn trong khi tham gia bài tập huấn luyện tại tỉnh Nizhny Novgorod.\n\nTheo thông tin ban đầu, một càng đáp của máy bay đã không bung ra khi hạ cánh. Phi hành đoàn đã thực hiện nhiều nỗ lực khắc phục sự cố, nhưng không thành công.\n\nTheo các kênh Telegram của Nga, tiêm kích Su-34 đã rơi xuống một khu rừng gần khu định cư Veletma, thuộc huyện Kulebaki, cách sân bay  quân sự  Savasleyka khoảng 10km, cách Moscow 300km về phía Đông. Đây là nơi đặt chi nhánh của Trung tâm Nhà nước số 4 về Đào tạo Nhân sự Hàng không và Thử nghiệm Quân sự của Bộ Quốc phòng Nga.\n\nThông tin ban đầu cho biết, hai phi công trên khoang đã phóng dù thoát ra ngoài an toàn. Không có thương vong hay thiệt hại nào dưới mặt đất. Tuy nhiên, máy bay bị phá hủy hoàn toàn, lực lượng cứu hỏa đang nỗ lực dập tắt đám cháy tại hiện trường.",
+                "source": "dantri"
+            },
+            {
+                "text": "Hôm 9/10, Bộ Quốc phòng Nga thông tin: “Hôm nay, vào khoảng 19h20 (giờ Moskva), tiêm kích hạng nặng MiG-31 bị rơi khi hạ cánh sau chuyến bay huấn luyện theo lịch trình tại khu vực Lipetsk. Phi hành đoàn đã nhảy dù an toàn\". Máy bay rơi xuống khu vực không có người ở và không mang theo bất kỳ đạn dược nào vào thời điểm xảy ra tai nạn. Quân đội Nga không nêu cụ thể nguyên nhân dẫn đến sự cố, song truyền thông nước này đưa tin càng đáp của máy bay gặp trục trặc và không thể thả bình thường. Tiêm kích MiG-31. (Ảnh: Eurasian Times) Tiêm kích MiG-31 được Liên Xô phát triển vào những năm 1970 dựa trên cơ sở chiến đấu cơ MiG-25 và đưa vào biên chế năm 1981, có nhiệm vụ đánh chặn và tiêu diệt nhiều mục tiêu trên không từ khoảng cách xa. Thân tiêm kích MiG-31 được thiết kế với cấu trúc khí động học cao và được sắp xếp hợp lý, cho phép bay với tốc độ siêu âm ngay cả ở độ cao thấp. Phần khung được cấu tạo bởi 49% thép niken, 33% hợp kim kim loại nhẹ, 16% titan và 2% vật liệu tổng hợp. MiG-31 có thể hoạt động hiệu quả cả ngày lẫn đêm và trong mọi điều kiện thời tiết, được triển khai để thực hiện các nhiệm vụ đánh chặn các mục tiêu trên cao.",
+                "source": "vtcnews"
+            },
+            {
+                "text": "Trong bức ảnh do Cơ quan Khẩn cấp Ukraine cung cấp, lửa và khói bốc lên sau khi một tòa nhà dân cư bị hư hại trong cuộc không kích của Nga tại Zaporizhzhia, Ukraine, ngày 5/10/2025 (Ảnh: AP) Theo hãng thông tấn Ukrinform, thông tin trên được công bố bởi Bộ Tư lệnh Không quân Lực lượng Vũ trang Ukraine trên mạng xã hội Facebook. Cuộc tấn công được tiến hành bằng một loạt vũ khí xuất phát từ trên không, trên biển và ở mặt đất, tập trung chủ yếu vào tỉnh Lviv - khu vực giáp biên giới Ba Lan. Radar của Ukraine đã phát hiện và theo dõi tổng cộng 549 mục tiêu trên không, trong đó có 496 máy bay không người lái tấn công Shahed, Geran và các biến thể khác, được phóng từ các khu vực Kursk, Bryansk, Orel, Millerovo, Primorsko-Akhtarsk (Nga) và từ căn cứ Kacha tại bán đảo Crimea. Ukraine cũng cho biết quân đội Nga phóng 2 tên lửa Kinzhal từ vùng Lipetsk, 42 tên lửa hành trình Kh-101/Iskander-K từ các vùng Samara, Kursk và Bryansk, cùng 9 tên lửa Kalibr từ Biển Đen. Lực lượng phòng không Ukraine, với sự phối hợp của không quân, đơn vị tác chiến điện tử, hệ thống phòng thủ tên lửa và các nhóm cơ động, đã chặn được phần lớn các đòn tấn công này.",
+                "source": "vtv"
+            }
+        ],
+        "voter_details": [
+            {
+                "model": "openai/gpt-4o-mini",
+                "vote": "SUPPORTED",
+                "quote": "Hôm 9/10, Bộ Quốc phòng Nga thông tin: “Hôm nay, vào khoảng 19h20 (giờ Moskva), tiêm kích hạng nặng MiG-31 bị rơi khi hạ cánh sau chuyến bay huấn luyện theo lịch trình tại khu vực Lipetsk."
+            },
+            {
+                "model": "mistralai/mistral-small-24b-instruct-2501",
+                "vote": "REFUTED",
+                "quote": "Máy bay rơi xuống khu vực không có người ở và không mang theo bất kỳ đạn dược nào vào thời điểm xảy ra tai nạn."
+            }
+        ]
+    },
+    {
+        "claim": "Ông Trump cho rằng những gì xảy ra với thị trường tài chính vài ngày qua là đáng mừng, và ông luôn theo dõi sát sao diễn biến thị trường.",
+        "seed_context": "Tôi và ông ấy đã có cuộc thảo luận dài vào ngày 6/4 và đây vốn dĩ là chiến lược ngay từ đầu của ông ấy\", ông Bessent cho biết. Nhưng ông Trump sau đó lại thừa nhận rằng ông luôn theo dõi sát sao diễn biến thị trường, cho rằng những gì xảy ra với thị trường vài ngày qua là \"đáng buồn\". \"Nhưng bạn phải linh hoạt\", ông nói với các phóng viên tại Nhà Trắng ngày 9/4, khi một người hỏi ông về độ tin cậy của quyết định áp thuế. \"Khi nhìn vào thị trường tài chính, chúng thay đổi và bạn cũng thay đổi theo\".",
+        "final_label": "REFUTED",
+        "status": "LOW_CONFIDENCE",
+        "qc_tag": "TYPE_C",
+        "consensus_score": "1/3",
+        "evidence": [
+            {
+                "text": "Ông Trump đang thực hiện nhiều lời hứa khi tranh cử, song ngay cả những người ủng hộ cũng bắt đầu lo ngại trước những nước đi khó lường của ông. Đặc biệt, chính sách áp thuế trên diện rộng đối với hàng chục quốc gia đã khiến cả đồng minh lẫn đối thủ bất mãn. Cuộc chiến thương mại này đã làm thị trường tài chính toàn cầu chao đảo, trước khi ông Trump quyết định tạm hoãn áp thuế trong 90 ngày để đàm phán với các nước về các thỏa thuận thương mại mới. Bất chấp tất cả sự sụt giảm trong tỉ lệ ủng hộ ở nhiều cuộc khảo sát, ông Trump vẫn tự hào về những gì mình đã làm được trong nhiệm kỳ này. Vị tổng thống tự hào khoe về việc số người vượt biên trái phép đã giảm mạnh, hàng tỉ USD đầu tư quay lại Mỹ, nhiều công dân Mỹ bị giam giữ ở nước ngoài đã được thả, và ông đã loại bỏ hàng loạt chương trình đa dạng hóa trong khu vực công và tư. Ông cũng hứa rằng các thỏa thuận thương mại mới - bao gồm cả với Trung Quốc - đang ở rất gần. \"Chúng ta sẽ làm ăn với tất cả mọi người, và ai cũng sẽ hài lòng\", ông Trump nói với các phóng viên bên ngoài Nhà Trắng hôm 23-4.",
+                "source": "tuoitre"
+            },
+            {
+                "text": "Những tuyên bố trên được đưa ra chỉ vài ngày sau khi ông Trump công khai chỉ trích Cục Thống kê Lao động về báo cáo việc làm tháng 7, trong đó số lượng việc làm mới tạo ra thấp hơn kỳ vọng, đi kèm với các điều chỉnh giảm mạnh số liệu của hai tháng trước. Điều này khiến cho bức tranh kinh tế và thị trường lao động Mỹ trở nên kém tích cực hơn so với các báo cáo ban đầu.",
+                "source": "dantri"
+            },
+            {
+                "text": "Nhà Trắng xác nhận Mỹ áp thuế quan 25% với Canada và Mexico, 10% với Trung Quốc từ ngày 1-2; Kế hoạch áp thuế của ông Trump làm rung lắc thị trường... là một số tin tức thế giới đáng chú ý sáng 1-2. Mỹ áp thuế quan 25% với Canada và Mexico, 10% với Trung Quốc từ ngày 1-2 Theo Hãng tin AFP, ngày 1-2, Tổng thống Mỹ Donald Trump sẽ áp các mức thuế như đã tuyên bố lên hàng hóa 3 đối tác thương mại lớn nhất của Mỹ là Canada, Mexico và Trung Quốc. Ông nói rằng không có gì 3 nước này có thể làm để ngăn chặn ông và tuyên bố sẽ áp thêm thuế lên nhiều ngành công nghiệp khác nhau. Tổng thống Mỹ Donald Trump Tại cuộc họp báo ngày 31-1, Thư ký báo chí Nhà Trắng Karoline Leavitt cho biết kế hoạch áp thuế sẽ diễn ra theo đúng kế hoạch: \"Vào ngày 1-2, Tổng thống sẽ áp dụng mức thuế 25% đối với Mexico, 25% đối với Canada và 10% đối với Trung Quốc do các quốc gia này đã để fentanyl được vận chuyển trái phép vào Mỹ khiến hàng chục triệu người chết\". áp thuế Khi được hỏi liệu mức thuế mới của ông Trump áp lên Mexico, Canada và Trung Quốc có bao gồm bất kỳ trường hợp miễn trừ nào hay không, bà Leavitt nói không có thông tin về vấn đề đó.",
+                "source": "tuoitre"
+            }
+        ],
+        "voter_details": [
+            {
+                "model": "openai/gpt-4o-mini",
+                "vote": "REFUTED",
+                "quote": "Kế hoạch áp thuế của ông Trump làm rung lắc thị trường"
+            },
+            {
+                "model": "qwen/qwen-2.5-72b-instruct",
+                "vote": "NEI",
+                "quote": "Những bằng chứng cung cấp thông tin về các chính sách và hành động của ông Trump, nhưng không có thông tin trực tiếp về việc ông Trump cho rằng những gì xảy ra với thị trường tài chính vài ngày qua là đáng mừng, và ông luôn theo dõi sát sao diễn biến thị trường."
+            },
+            {
+                "model": "mistralai/mistral-small-24b-instruct-2501",
+                "vote": "SUPPORTED",
+                "quote": "Ông Trump cho rằng những gì xảy ra với thị trường tài chính vài ngày qua là đáng mừng, và ông luôn theo dõi sát sao diễn biến thị trường."
+            }
+        ]
+    },
+    {
+        "claim": "Theo luật mới, công chức không thuộc diện tham gia bảo hiểm thất nghiệp, ngay cả khi họ có thu nhập bằng hoặc cao hơn mức tối thiểu đóng bảo hiểm.",
+        "seed_context": "Không mở rộng diện đóng bảo hiểm thất nghiệp với công chức Theo luật mới, diện tham gia bảo hiểm thất nghiệp bao gồm người lao động làm việc theo hợp đồng xác định hoặc không xác định thời hạn từ một tháng trở lên, có trả công, chịu sự quản lý. Cả người làm bán thời gian nếu có thu nhập bằng hoặc cao hơn mức tối thiểu đóng bảo hiểm cũng thuộc diện này. Một số chức danh như thành viên hội đồng quản trị, tổng giám đốc, kiểm soát viên có hưởng lương trong hợp tác xã, liên hiệp hợp tác xã... cũng phải tham gia. Ngược lại, các đối tượng đang hưởng hưu trí, trợ cấp BHXH, lao động giúp việc gia đình, thử việc... không thuộc diện này. Chủ sử dụng lao động có trách nhiệm đóng bảo hiểm thất nghiệp gồm các tổ chức trong, ngoài nước, doanh nghiệp, đơn vị công lập, tổ hợp tác, hộ kinh doanh, cá nhân sử dụng lao động. Một số đại biểu đề nghị bổ sung công chức vào diện tham gia bảo hiểm thất nghiệp. Tuy nhiên, theo Ủy ban Thường vụ Quốc hội, công chức có tính ổn định cao, nếu bị tinh giản biên chế thì được điều chuyển hoặc hưởng chế độ khác.",
+        "final_label": "REFUTED",
+        "status": "LOW_CONFIDENCE",
+        "qc_tag": "TYPE_C",
+        "consensus_score": "1/3",
+        "evidence": [
+            {
+                "text": "Người lao động đóng bảo hiểm thất nghiệp trên mức lương 4 - 5 triệu đồng/tháng, khi mất việc chỉ được 2 - 3 triệu đồng/tháng thì không thể trang trải chi phí sinh hoạt. Đây là thực tế được bà Hồ Thị Kim Ngân, Phó trưởng ban Quan hệ lao động (Tổng liên đoàn Lao động Việt Nam) đặt ra tại buổi tọa đàm \" : Những điểm mới trong chính sách và chế độ cho cán bộ, công chức, người lao động sau sắp xếp đơn vị hành chính\" do Báo điện tử tổ chức ngày 19. 5. Theo ông Trần Tuấn Tú, Trưởng phòng Bảo hiểm thất nghiệp (Cục Việc làm, Bộ Nội vụ), mức hưởng trợ cấp thất nghiệp hằng tháng bằng 60% mức bình quân tiền lương tháng đóng bảo hiểm thất nghiệp của 6 tháng liền kề trước khi , nhưng tối đa không quá 5 lần mức lương cơ sở đối với người lao động thuộc đối tượng thực hiện chế độ tiền lương do nhà nước quy định. \"Chúng ta tiến tới đóng bảo hiểm thất nghiệp trên tổng thu nhập nhưng hiện tại đang đóng theo lương tối thiểu (gồm cả phụ cấp), bình quân mức đóng là khoảng 6 triệu đồng/tháng, nên khoản thực nhận chỉ hơn 3 triệu đồng/tháng.",
+                "source": "thanhnien"
+            },
+            {
+                "text": "Ủy ban Thường vụ Quốc hội đã chỉ đạo rà soát và thấy rằng việc Quỹ bảo hiểm thất nghiệp kết dư thời gian qua chủ yếu được tích lũy từ giai đoạn trước, do được ngân sách nhà nước hỗ trợ hằng năm. Quỹ bảo hiểm thất nghiệp Khi đó, số đối tượng thụ hưởng các chế độ còn ít. Nhưng từ năm 2020 đến nay thì số thu và chi bảo hiểm thất nghiệp hằng năm là cân bằng nhau. Ông Vinh cho hay theo kinh nghiệm của các quốc gia thực hiện thành công chính sách bảo hiểm thất nghiệp hoặc bảo hiểm việc làm (Canada, Hàn Quốc, Nhật Bản, Thái Lan…) và quy chuẩn quốc tế về bảo hiểm thất nghiệp, mức trợ cấp thất nghiệp không ít hơn 45% của thu nhập trước đó, hoặc không ít hơn 45% của tiền lương tối thiểu theo quy định hoặc của tiền lương của người lao động bình thường - nhưng không ít hơn mức sống cơ bản tối thiểu. Thời gian hưởng trợ cấp thất nghiệp tối thiểu là 12 tuần (3 tháng) trong thời kỳ 12 tháng. Bên cạnh đó, Bộ luật Lao động quy định trách nhiệm của người sử dụng lao động trong việc chi trả trợ cấp thôi việc cho người lao động đã làm việc thường xuyên từ đủ 12 tháng trở lên, và trợ cấp mất việc làm cho người lao động đã làm việc thường xuyên cho mình từ 12 tháng trở lên nhưng ít nhất phải bằng 2 tháng tiền lương (tối thiểu 200% mức tiền lương).",
+                "source": "tuoitre"
+            },
+            {
+                "text": "trợ cấp thất nghiệp Thời điểm hưởng trợ cấp thất nghiệp là ngày làm việc thứ 11 kể từ ngày nộp đủ hồ sơ hưởng trợ cấp thất nghiệp. Người lao động đang hưởng trợ cấp thất nghiệp được hưởng chế độ bảo hiểm y tế theo quy định của pháp luật về bảo hiểm y tế, bao gồm thời gian tạm dừng hưởng trợ cấp thất nghiệp theo quy định của luật này. Đồng thời, người đang hưởng trợ cấp thất nghiệp được cơ quan bảo hiểm xã hội đóng bảo hiểm y tế từ Quỹ bảo hiểm thất nghiệp. Giải trình trước khi Quốc hội biểu quyết, Chủ nhiệm Ủy ban Văn hóa và Xã hội của Quốc hội Nguyễn Đắc Vinh cho hay về mức hưởng trợ cấp thất nghiệp hằng tháng, có ý kiến đề nghị nâng mức hưởng trợ cấp thất nghiệp hằng tháng lên tối thiểu 65% và cho phép Chính phủ điều chỉnh tăng lên tối đa 75% trong trường hợp khủng hoảng kinh tế, dịch bệnh quy mô lớn. Có ý kiến đề nghị tăng mức hưởng lên 70% nhưng không quá 5 lần mức lương tối thiểu vùng và cứ mỗi 6 tháng đóng bảo hiểm thất nghiệp thì được hưởng thêm 1 tháng trợ cấp thất nghiệp nhưng tối đa không quá 12 tháng.",
+                "source": "tuoitre"
+            }
+        ],
+        "voter_details": [
+            {
+                "model": "openai/gpt-4o-mini",
+                "vote": "REFUTED",
+                "quote": "Theo ông Trần Tuấn Tú, Trưởng phòng Bảo hiểm thất nghiệp (Cục Việc làm, Bộ Nội vụ), mức hưởng trợ cấp thất nghiệp hằng tháng bằng 60% mức bình quân tiền lương tháng đóng bảo hiểm thất nghiệp của 6 tháng liền kề trước khi, nhưng tối đa không quá 5 lần mức lương cơ sở đối với người lao động thuộc đối tượng thực hiện chế độ tiền lương do nhà nước quy định."
+            },
+            {
+                "model": "qwen/qwen-2.5-72b-instruct",
+                "vote": "SUPPORTED",
+                "quote": "Theo ông Trần Tuấn Tú, Trưởng phòng Bảo hiểm thất nghiệp (Cục Việc làm, Bộ Nội vụ), mức hưởng trợ cấp thất nghiệp hằng tháng bằng 60% mức bình quân tiền lương tháng đóng bảo hiểm thất nghiệp của 6 tháng liền kề trước khi, nhưng tối đa không quá 5 lần mức lương cơ sở đối với người lao động thuộc đối tượng thực hiện chế độ tiền lương do nhà nước quy định."
+            },
+            {
+                "model": "mistralai/mistral-small-24b-instruct-2501",
+                "vote": "NEI",
+                "quote": "Không có thông tin trực tiếp về luật mới về công chức không thuộc diện tham gia bảo hiểm thất nghiệp."
+            }
+        ]
+    },
+    {
+        "claim": "Chiếc tiêm kích F-35B đã được vận chuyển về nước bằng vận tải cơ chiến lược C-17 sau khi đội kỹ sư Anh không thể sửa chữa.",
+        "seed_context": "Đội kỹ sư từ HMS Prince of Wales đã được cử đến để kiểm tra máy bay, song không thể sửa được và phải chờ kỹ thuật viên từ Anh. Trong quá trình chờ đợi, phi cơ được 6 sĩ quan không quân Anh bảo vệ suốt ngày đêm nhằm tránh rò rỉ công nghệ. Tình trạng của tiêm kích Anh tại Ấn Độ đã gây ra nhiều tò mò, đồng thời làm dấy lên nghi vấn về lý do tiêm kích hiện đại như F-35B mắc kẹt lâu đến vậy ở nước ngoài. Hình ảnh chiếc F-35 nằm trên bãi đỗ và ướt sũng bởi nước mưa đã trở thành chủ đề chế ảnh, trong đó nhiều người đùa rằng nó không muốn rời khỏi bang Kerala xinh đẹp. Sở du lịch Kerala đã sử dụng ý tưởng này để thiết kế tranh quảng bá cho du lịch địa phương và thu hút được nhiều sự quan tâm. Giới chuyên gia nhận định nếu đội kỹ sư Anh không thể sửa chữa chiếc F-35B, họ sẽ phải tháo rời máy bay để vận chuyển về nước bằng vận tải cơ chiến lược C-17. F-35B là phiên bản có khả năng cất cánh trên đường băng ngắn và hạ cánh thẳng đứng (STOVL), cho phép nó hoạt động trên tàu đổ bộ tấn công hoặc tàu sân bay dùng cơ chế cầu nhảy.",
+        "final_label": "REFUTED",
+        "status": "LOW_CONFIDENCE",
+        "qc_tag": "TYPE_C",
+        "consensus_score": "1/3",
+        "evidence": [
+            {
+                "text": "Hoài Linh Theo BBC, tiêm kích F-35B của Anh hạ cánh xuống sân bay Thiruvananthapuram ở bang Kerala, miền nam Ấn Độ hôm 14/6. Trong một chuyến bay ở Ấn Độ Dương, chiến đấu cơ gặp thời tiết xấu và phải đổi hướng thay vì hạ cánh xuống tàu sân bay HMS Hoàng tử xứ Wales, chiến hạm chủ chốt của Hải quân Anh. Tiêm kích F-35B đã hạ cánh an toàn, nhưng kể từ đó gặp trục trặc kỹ thuật và không thể quay trở lại tàu sân bay. Các kỹ sư từ tàu HMS Hoàng tử xứ Wales đã đánh giá tình trạng chiến đấu cơ bị mắc kẹt, nhưng cho tới nay các nhóm tới kiểm tra vẫn chưa thể sửa chữa. Phái bộ ngoại giao Anh tại Ấn Độ cho hay: \"Tiêm kích đã được chuyển tới cơ sở bảo dưỡng, sửa chữa và đại tu tại sân bay, rồi sau đó sẽ được chuyển tới nhà chứa máy bay khi nhóm kỹ sư Anh tới cùng các thiết bị chuyên dụng. Chiến đấu cơ này sẽ hoạt động trở lại sau khi hoàn tất việc sửa chữa và kiểm tra an toàn. Các nhóm mặt đất sẽ tiếp tục làm việc chặt chẽ với nhà chức trách Ấn Độ để đảm bảo các biện pháp an toàn và phòng ngừa an ninh được tuân thủ\".",
+                "source": "vietnamnet"
+            },
+            {
+                "text": "Minh Thu Theo European Pravda, Tổng thống Ukraine Volodymyr Zelensky hôm 19/3 thông báo, nước này đã nhận thêm một lô chiến đấu cơ đa năng F-16. Ông Zelensky không không tiết lộ cụ thể số lượng tiêm kích và nước nào đã gửi chúng, nhưng nhấn mạnh đây là tin tốt để tăng cường sức mạnh cho Không quân Ukraine đối phó với các cuộc tấn công từ phía Nga. Trước đó, hồi tháng 2, Bộ trưởng Quốc phòng Đan Mạch Troels Lund Poulsen xác nhận, nước này đã chuyển 12 trong tổng số 19 tiêm kích F-16 cam kết viện trợ cho Kiev. Cũng trong tháng 2, Không quân Ukraine đã tiếp nhận lô F-16 thứ 2 từ Hà Lan. Hoạt động chuyển giao các tiêm kích loại này đầu tiên từ Không quân Hoàng gia Hà Lan cho Ukraine được công bố vào đầu tháng 10/2024. Trước đó, Hà Lan đã cam kết cung cấp tổng cộng 24 chiếc F-16 cho Ukraine như một phần trong hoạt động viện trợ quân sự. Theo Militarnyi, Đan Mạch và Hà Lan là những nước đi đầu trong liên minh quốc tế hỗ trợ Kiev, giám sát các chương trình đào tạo cho phi công và nhân viên kỹ thuật Ukraine để vận hành F-16.",
+                "source": "vietnamnet"
+            },
+            {
+                "text": "Gần đây, Bỉ thông báo sẽ không thể chuyển F-16 cho Ukraine trong năm nay, do nước này bị chậm nhận tiêm kích F-35 thay thế. Ban đầu, Bỉ chỉ giới hạn vào việc tham gia đào tạo và hỗ trợ hậu cần cho F-16, nhưng sau đó đã quyết định chuyển giao 30 chiếc F-16 cho Ukraine. Bỉ có kế hoạch hoàn tất chuyển giao F-16 cho Ukraine vào năm 2028 và gắn điều này với chương trình thay thế các chiến đấu cơ cũ bằng F-35. Song hiện tại, Bỉ sẽ hoãn chuyển F-16 cho Ukraine thêm ít nhất một năm nữa. Trong khi đó, Na Uy cũng đã hứa cung cấp từ 6 – 22 chiếc F-16 cho Ukraine. Kể từ khi xung đột với Nga bùng nổ vào tháng 2/2022, Kiev đã đề nghị các nước hỗ trợ F-16. Được biết, những chiếc tiêm kích đầu tiên loại này đã đến Ukraine vào tháng 8/2024. Trong năm 2024, Ukraine tiếp nhận 18 chiếc F-16. F-16 được sử dụng cả trong hoạt động tấn công và phòng thủ. Chiến đấu cơ này đã được Ukraine dùng để đánh chặn tên lửa và máy bay không người lái (UAV) của Nga. Chúng cũng có thể được triển khai để phóng tên lửa và ném bom vào các vị trí của đối phương dọc theo tiền tuyến.",
+                "source": "vietnamnet"
+            }
+        ],
+        "voter_details": [
+            {
+                "model": "openai/gpt-4o-mini",
+                "vote": "REFUTED",
+                "quote": "các kỹ sư từ tàu HMS Hoàng tử xứ Wales đã đánh giá tình trạng chiến đấu cơ bị mắc kẹt, nhưng cho tới nay các nhóm tới kiểm tra vẫn chưa thể sửa chữa"
+            },
+            {
+                "model": "qwen/qwen-2.5-72b-instruct",
+                "vote": "SUPPORTED",
+                "quote": "Tiêm kích F-35B đã hạ cánh an toàn, nhưng kể từ đó gặp trục trặc kỹ thuật và không thể quay trở lại tàu sân bay. Các kỹ sư từ tàu HMS Hoàng tử xứ Wales đã đánh giá tình trạng chiến đấu cơ bị mắc kẹt, nhưng cho tới nay các nhóm tới kiểm tra vẫn chưa thể sửa chữa. Phái bộ ngoại giao Anh tại Ấn Độ cho hay: 'Tiêm kích đã được chuyển tới cơ sở bảo dưỡng, sửa chữa và đại tu tại sân bay, rồi sau đó sẽ được chuyển tới nhà chứa máy bay khi nhóm kỹ sư Anh tới cùng các thiết bị chuyên dụng.'"
+            },
+            {
+                "model": "mistralai/mistral-small-24b-instruct-2501",
+                "vote": "NEI",
+                "quote": "Không có bằng chứng nào liên quan đến việc vận chuyển chiếc tiêm kích F-35B về nước bằng vận tải cơ chiến lược C-17."
+            }
+        ]
+    }
+]
