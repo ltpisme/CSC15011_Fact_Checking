@@ -18,6 +18,8 @@ import numpy as np
 import requests
 from dotenv import load_dotenv
 
+USE_AUDIT_RETRIEVAL = false
+
 from configs import (
     API_URL,
     CLAIM_GEN_SYSTEM_PROMPT,

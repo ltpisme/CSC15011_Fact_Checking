@@ -26,9 +26,6 @@ CLAIM_PATH = BASE_DIR / os.getenv("CLAIM_CONTEXT_PATH", "label_data/main/data/co
 
 
 
-
-
-
 LIST_OF_MODELS = {
     "generator": "google/gemini-2.5-flash-lite",
     "voters": [

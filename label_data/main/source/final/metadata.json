@@ -1,0 +1,39 @@
+{
+  "test_size": 0.2,
+  "val_size": 0.1,
+  "random_state": 42,
+  "splits": {
+    "train_high_only": 3194,
+    "train_high_aug": 3994,
+    "train_high_medium": 5955,
+    "validation": 355,
+    "test": 888
+  },
+  "label_distribution": {
+    "train_high_only": {
+      "NEI": 1296,
+      "SUPPORTED": 1267,
+      "REFUTED": 631
+    },
+    "train_high_aug": {
+      "REFUTED": 1431,
+      "NEI": 1296,
+      "SUPPORTED": 1267
+    },
+    "train_high_medium": {
+      "NEI": 2302,
+      "SUPPORTED": 2177,
+      "REFUTED": 1476
+    },
+    "validation": {
+      "NEI": 144,
+      "SUPPORTED": 141,
+      "REFUTED": 70
+    },
+    "test": {
+      "NEI": 360,
+      "SUPPORTED": 353,
+      "REFUTED": 175
+    }
+  }
+}
